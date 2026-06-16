@@ -1,0 +1,21 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Polling Place of the Damned",
+  "type": "Acorn Land",
+  "types": ["Land"],
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["R"],
+  "text": "When Polling Place of the Damned enters the battlefield, hold an election: each player votes for \"chaos\" or \"snacks.\" You may vote as many times as you like, because nobody checks IDs here.\nIf chaos wins, roll a six-sided die; on a 5 or 6, create a 1/1 red Goblin creature token.\nIf snacks win, you may eat a snack. There is no further effect, but morale improves.\n{T}: Add {R}.",
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "Turnout was high. Integrity was not.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A602",
+  "extras": {
+    "election": "chaos vs snacks",
+    "dice": "d6"
+  }
+}

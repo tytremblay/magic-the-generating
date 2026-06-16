@@ -1,0 +1,24 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Mayor McChaos Municipal Snack Bar",
+  "subtitle": "Now Serving: Whatever",
+  "type": "Legendary Acorn Land",
+  "types": ["Land"],
+  "supertypes": ["Legendary"],
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["R"],
+  "text": "When the Snack Bar enters the battlefield, roll a six-sided die.\n1-2: It enters tapped (the fryer is preheating).\n3-4: Nothing happens, but you smell fries.\n5-6: Create a 1/1 red Goblin creature token; it is the new line cook.\n{T}: Add {R}.\n{T}: Add {R}. Activate this ability only while you are holding or eating a snack.",
+  "rarity": "rare",
+  "chaos": 2,
+  "flavorText": "Gnasher cut the ribbon with his teeth. Twice. For the photos.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A604",
+  "extras": {
+    "dice": "d6",
+    "fourthWall": "holding or eating a snack",
+    "token": "Goblin"
+  }
+}

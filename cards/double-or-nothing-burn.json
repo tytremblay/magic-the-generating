@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Double or Nothing",
+  "manaCost": "{R}",
+  "manaValue": 1,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Double or Nothing deals 3 damage to any target. Then flip a coin. If you win the flip, you may repeat this process.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "flavorText": "The house always wins. Tonight, the mayor is the house.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 1,
+  "number": "A110",
+  "extras": { "coinFlip": true }
+}

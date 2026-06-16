@@ -1,0 +1,24 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Coin-Flip Cabinet",
+  "manaCost": "{2}{R}{R}",
+  "manaValue": 4,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Legendary Acorn Artifact — Bureaucracy",
+  "types": ["Artifact"],
+  "supertypes": ["Legendary"],
+  "subtypes": ["Bureaucracy"],
+  "text": "Every decision you would make this game, you instead flip a coin to make. Every one. Yes, including that one.\n{R}, {T}: Flip three coins. For each heads, create a 1/1 red Goblin creature token. For each tails, the Cabinet apologizes and creates nothing. The Cabinet is very sorry.\nIf you ever make a decision without flipping, the Cabinet resigns in disgrace (sacrifice it).",
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "Five ministers. One coin. No accountability.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A304",
+  "extras": {
+    "physicalAction": "flip coins",
+    "theme": "coins / goblins / election"
+  }
+}

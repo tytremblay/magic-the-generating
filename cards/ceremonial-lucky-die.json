@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Ceremonial Lucky Die",
+  "manaCost": "{2}",
+  "manaValue": 2,
+  "colors": [],
+  "colorIdentity": ["R"],
+  "type": "Artifact",
+  "types": ["Artifact"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "{1}, {T}: Roll a six-sided die. If the result is 4 or higher, Ceremonial Lucky Die deals 2 damage to any target. Otherwise, it deals 2 damage to you.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "flavorText": "Blessed by the mayor, cursed by physics.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 1,
+  "number": "A114",
+  "extras": { "dice": "d6" }
+}

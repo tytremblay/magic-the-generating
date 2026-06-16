@@ -1,0 +1,26 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Snack Break Saboteur",
+  "manaCost": "{1}{R}",
+  "manaValue": 2,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Creature — Goblin Rogue",
+  "types": ["Creature"],
+  "subtypes": ["Goblin", "Rogue"],
+  "text": "When Snack Break Saboteur enters the battlefield, the most recently snacking player must put the snack down until your next turn. They may protest. It changes nothing.\nWhenever a player reaches for a snack, you may roll a six-sided die. On a 5 or 6, that snack is now your snack. Take it. (You may not actually eat it without their consent. We are not monsters.)",
+  "power": "2",
+  "toughness": "1",
+  "rarity": "common",
+  "chaos": 3,
+  "flavorText": "The chips were a casualty of governance.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A302",
+  "extras": {
+    "physicalAction": "put your snack down",
+    "fourthWall": "most recently snacking player",
+    "dice": "d6"
+  }
+}

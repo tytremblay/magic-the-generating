@@ -1,0 +1,19 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Concession Speech",
+  "manaCost": "{R}",
+  "manaValue": 1,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Instant",
+  "types": ["Instant"],
+  "text": "As an additional cost to cast this spell, sacrifice a creature or a Voter.\nDraw two cards, then create two Snack tokens. (A Snack is a red artifact with \"Sacrifice this artifact: You gain 1 life.\")",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 2,
+  "flavorText": "\"I want to thank my supporters, both of them, and the snack table.\"",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A210"
+}

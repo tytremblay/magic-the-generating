@@ -6,6 +6,9 @@ const cardsView = document.getElementById("cards-view");
 const decksView = document.getElementById("decks-view");
 const tabCards = document.getElementById("tab-cards");
 const tabDecks = document.getElementById("tab-decks");
+const acornToggle = document.getElementById("acorn-toggle");
+const groupBy = document.getElementById("group-by");
+const cardFilters = document.getElementById("card-filters");
 
 let cards = [];
 let decks = [];
@@ -16,6 +19,42 @@ const ROLE_ORDER = [
   "Commander", "Threat", "Payoff", "Interaction", "Board Wipe",
   "Draw", "Ramp", "Tutor", "Protection", "Synergy", "Utility", "Land",
 ];
+
+// Cluster ordering + labels for "group by" in the Cards view.
+const TYPE_ORDER = ["Creature", "Planeswalker", "Instant", "Sorcery", "Artifact", "Enchantment", "Battle", "Land", "Other"];
+const COLOR_ORDER = ["White", "Blue", "Black", "Red", "Green", "Multicolor", "Colorless", "Land"];
+const COLOR_NAME = { W: "White", U: "Blue", B: "Black", R: "Red", G: "Green" };
+
+function primaryType(card) {
+  const types = card.types || [];
+  for (const t of TYPE_ORDER) if (types.includes(t)) return t;
+  return types[0] || "Other";
+}
+
+function colorBucket(card) {
+  const colors = (card.colors || []).filter((c) => COLOR_NAME[c]);
+  if ((card.types || []).includes("Land")) return "Land";
+  if (colors.length === 0) return "Colorless";
+  if (colors.length >= 2) return "Multicolor";
+  return COLOR_NAME[colors[0]];
+}
+
+// Shrink a text box's font size until its content fits with no scrollbar — for
+// print-faithful cards (makeplayingcards.com), where scrolling isn't an option.
+function fitText(box) {
+  const MAX = 13, MIN = 6;
+  box.style.fontSize = MAX + "px";
+  if (box.clientHeight === 0) return; // not laid out / hidden; refit when shown
+  let size = MAX;
+  while (size > MIN && box.scrollHeight > box.clientHeight) {
+    size -= 0.5;
+    box.style.fontSize = size + "px";
+  }
+}
+
+function fitContainer(container) {
+  requestAnimationFrame(() => container.querySelectorAll(".text-box").forEach(fitText));
+}
 
 function frameClass(card) {
   const types = card.types || [];
@@ -155,14 +194,45 @@ function renderCard(card) {
 }
 
 // ---- Cards view ----
+function gridOf(list) {
+  const grid = document.createElement("div");
+  grid.className = "gallery";
+  for (const card of list) grid.appendChild(renderCard(card));
+  return grid;
+}
+
+// Group a list into ordered [key, cards] clusters by "type" or "color".
+function clusterCards(list, axis) {
+  const keyFn = axis === "type" ? primaryType : colorBucket;
+  const order = axis === "type" ? TYPE_ORDER : COLOR_ORDER;
+  const groups = new Map();
+  for (const card of list) {
+    const k = keyFn(card);
+    if (!groups.has(k)) groups.set(k, []);
+    groups.get(k).push(card);
+  }
+  return [...groups.keys()]
+    .sort((a, b) => (order.indexOf(a) + 1 || 99) - (order.indexOf(b) + 1 || 99))
+    .map((k) => [k, groups.get(k)]);
+}
+
 function renderCards(list) {
   cardsView.innerHTML = "";
+  const axis = groupBy.value;
   if (!list.length) {
     cardsView.innerHTML = '<p class="empty">No cards match.</p>';
+  } else if (axis === "none") {
+    cardsView.appendChild(gridOf(list));
   } else {
-    for (const card of list) cardsView.appendChild(renderCard(card));
+    for (const [key, group] of clusterCards(list, axis)) {
+      const head = document.createElement("h2");
+      head.className = "cluster-head";
+      head.textContent = `${key} (${group.length})`;
+      cardsView.append(head, gridOf(group));
+    }
   }
   count.textContent = `${list.length} card${list.length === 1 ? "" : "s"}`;
+  fitContainer(cardsView);
 }
 
 // ---- Decks view ----
@@ -194,8 +264,9 @@ function slotTile(entry) {
 }
 
 function renderDeck(deck) {
+  const isAcorn = deck.border === "acorn";
   const panel = document.createElement("section");
-  panel.className = "deck";
+  panel.className = "deck" + (isAcorn ? " deck-acorn" : "");
 
   // Header: name + bracket + color pips
   const head = document.createElement("div");
@@ -229,22 +300,34 @@ function renderDeck(deck) {
 
   panel.append(head, theme, meta);
 
-  // Cards grouped by role
+  // Group cards: by role for normal decks, by chaos level for acorn decks.
+  const keyOf = isAcorn
+    ? (entry) =>
+        entry.role === "Commander"
+          ? "Commander"
+          : entry.role === "Land" || (entry.card?.types || []).includes("Land")
+            ? "Lands"
+            : `Chaos ${entry.card?.chaos ?? "?"}`
+    : (entry) => entry.role || "Utility";
+  const order = isAcorn
+    ? ["Commander", "Chaos 1", "Chaos 2", "Chaos 3", "Chaos 4", "Chaos 5", "Lands"]
+    : ROLE_ORDER;
+
   const groups = new Map();
   for (const entry of deck.cards || []) {
-    const role = entry.role || "Utility";
-    if (!groups.has(role)) groups.set(role, []);
-    groups.get(role).push(entry);
+    const k = keyOf(entry);
+    if (!groups.has(k)) groups.set(k, []);
+    groups.get(k).push(entry);
   }
-  const orderedRoles = [...groups.keys()].sort(
-    (a, b) => (ROLE_ORDER.indexOf(a) + 1 || 99) - (ROLE_ORDER.indexOf(b) + 1 || 99)
+  const orderedKeys = [...groups.keys()].sort(
+    (a, b) => (order.indexOf(a) + 1 || 99) - (order.indexOf(b) + 1 || 99)
   );
 
-  for (const role of orderedRoles) {
-    const entries = groups.get(role);
+  for (const key of orderedKeys) {
+    const entries = groups.get(key);
     const sub = document.createElement("h3");
     sub.className = "deck-role";
-    sub.textContent = `${role} (${entries.reduce((n, e) => n + (e.count || 1), 0)})`;
+    sub.textContent = `${key} (${entries.reduce((n, e) => n + (e.count || 1), 0)})`;
     const grid = document.createElement("div");
     grid.className = "gallery deck-grid";
     for (const entry of entries) {
@@ -271,19 +354,22 @@ function renderDecks(list) {
     for (const deck of list) decksView.appendChild(renderDeck(deck));
   }
   count.textContent = `${list.length} deck${list.length === 1 ? "" : "s"}`;
+  fitContainer(decksView);
 }
 
 // ---- Filtering + view switching ----
 function applyFilter() {
   const q = search.value.trim().toLowerCase();
   if (view === "cards") {
-    const list = !q
-      ? cards
-      : cards.filter((c) =>
-          [c.name, c.type, c.text, c.flavorText]
-            .filter(Boolean)
-            .some((s) => s.toLowerCase().includes(q))
-        );
+    let list = cards;
+    if (!acornToggle.checked) list = list.filter((c) => c.border !== "acorn");
+    if (q) {
+      list = list.filter((c) =>
+        [c.name, c.type, c.text, c.flavorText]
+          .filter(Boolean)
+          .some((s) => s.toLowerCase().includes(q))
+      );
+    }
     renderCards(list);
   } else {
     const list = !q
@@ -302,6 +388,7 @@ function switchView(next) {
   const onCards = next === "cards";
   cardsView.hidden = !onCards;
   decksView.hidden = onCards;
+  cardFilters.hidden = !onCards;
   tabCards.classList.toggle("active", onCards);
   tabDecks.classList.toggle("active", !onCards);
   search.placeholder = onCards ? "Filter by name, type, text…" : "Filter decks by name, theme…";
@@ -309,8 +396,17 @@ function switchView(next) {
 }
 
 search.addEventListener("input", applyFilter);
+acornToggle.addEventListener("change", applyFilter);
+groupBy.addEventListener("change", applyFilter);
 tabCards.addEventListener("click", () => switchView("cards"));
 tabDecks.addEventListener("click", () => switchView("decks"));
+
+// Card width can change when the grid reflows; refit the visible view's text.
+let resizeTimer;
+window.addEventListener("resize", () => {
+  clearTimeout(resizeTimer);
+  resizeTimer = setTimeout(() => fitContainer(view === "cards" ? cardsView : decksView), 150);
+});
 
 Promise.all([
   fetch("cards.json").then((r) => r.json()),
@@ -320,7 +416,7 @@ Promise.all([
     cards = cardData;
     decks = deckData || [];
     tabDecks.textContent = `Decks${decks.length ? ` (${decks.length})` : ""}`;
-    renderCards(cards);
+    applyFilter();
   })
   .catch((err) => {
     cardsView.innerHTML = `<p class="empty">Could not load cards.json — run <code>pnpm dev</code>.<br>${err}</p>`;

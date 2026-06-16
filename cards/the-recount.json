@@ -1,0 +1,24 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Recount",
+  "manaCost": "{1}{R}",
+  "manaValue": 2,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Instant — Election",
+  "types": ["Instant"],
+  "subtypes": ["Election"],
+  "text": "Each player counts the permanents they control out loud, at the same time, as fast as they can. Whoever finishes first and is not wrong gains control of the most recently cast spell.\nIf two players tie, they must instead settle it with one round of rock-paper-scissors. No best of three. Democracy is fast and cruel.",
+  "rarity": "uncommon",
+  "chaos": 3,
+  "flavorText": "\"I demand a recount!\" — every goblin, eventually",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A301",
+  "extras": {
+    "physicalAction": "count out loud / rock-paper-scissors",
+    "fourthWall": "first player to finish",
+    "theme": "election"
+  }
+}

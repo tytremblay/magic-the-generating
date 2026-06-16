@@ -1,0 +1,19 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Get Out the Vote",
+  "manaCost": "{3}{R}",
+  "manaValue": 4,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Sorcery",
+  "types": ["Sorcery"],
+  "text": "Create four 1/1 red Voter creature tokens.\nMandate — If you control a Mayor, instead roll a six-sided die and create that many 1/1 red Voter creature tokens. (Turnout was higher than expected.)",
+  "keywords": ["Mandate"],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "Free hot dogs at the polling place. Strictly nonpartisan hot dogs.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A206"
+}

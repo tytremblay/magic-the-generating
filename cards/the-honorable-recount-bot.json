@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Honorable Recount-Bot 5000",
+  "manaCost": "{4}",
+  "manaValue": 4,
+  "colors": [],
+  "colorIdentity": ["R"],
+  "type": "Acorn Artifact Creature — Construct Bureaucrat",
+  "types": ["Artifact", "Creature"],
+  "subtypes": ["Construct", "Bureaucrat"],
+  "text": "Recount 3 — Whenever The Honorable Recount-Bot 5000 attacks, roll a six-sided die. If you roll a 3 or less, roll it again and use the new result. (When the first count is too small, it simply counts again.)\nWhenever you roll a die, put a +1/+1 counter on The Honorable Recount-Bot 5000.\n{R}: Reroll target die you rolled this turn. Activate this ability only once each turn.",
+  "power": "2",
+  "toughness": "4",
+  "keywords": ["Recount"],
+  "rarity": "rare",
+  "chaos": 2,
+  "flavorText": "BEEP. THE NUMBERS ARE WRONG. BEEP. THE NUMBERS ARE STILL WRONG. BEEP.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A220"
+}

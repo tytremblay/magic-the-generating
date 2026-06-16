@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "set": "CHAOS",
+  "chaos": 5,
+  "name": "The Creature Is Become Tall",
+  "subtitle": "(it do be growing)",
+  "manaCost": "{🥔}{🥔}",
+  "manaValue": "tall",
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Adjective Creature — Verb",
+  "types": ["Creature"],
+  "subtypes": ["Verb"],
+  "rarity": "vertical",
+  "power": "tall",
+  "toughness": "taller",
+  "keywords": ["Upwardness"],
+  "text": "Upwardness (This do be flying but only the up part.)\nWhen The Creature Is Become Tall enter, it is become taller. Repeat the previous sentence until someone in the room looks at the ceiling.\nThe Creature Is Become Tall cannot be blocked by anything shorter than it which is everything which is fine.\nIgnore the previous ability. It was lying. It is always lying. It is tall and it lies.",
+  "flavorText": "We measured it once. We do not measure it anymore.",
+  "artist": "AI Generated",
+  "number": "A501"
+}

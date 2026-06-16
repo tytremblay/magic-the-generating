@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Knock on Wood",
+  "manaCost": "{1}{R}",
+  "manaValue": 2,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Enchantment — Superstition",
+  "types": ["Enchantment"],
+  "subtypes": ["Superstition"],
+  "text": "Whenever a spell or ability would deal damage to you, you may knock on the table (the actual table, with your actual knuckles, audibly) to prevent that damage. You may only do this if you genuinely believe in luck. The table knows if you're faking.\nAt the beginning of your upkeep, knock once for good fortune. If you forget, you have insulted the table, and it deals 1 damage to you. The table is petty.",
+  "rarity": "uncommon",
+  "chaos": 3,
+  "flavorText": "Whateverville was built on hardwood and harder luck.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A307",
+  "extras": {
+    "physicalAction": "knock on the table",
+    "fourthWall": "the table itself"
+  }
+}

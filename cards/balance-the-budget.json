@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Balance the Budget",
+  "manaCost": "{2}{R}",
+  "manaValue": 3,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Sorcery",
+  "types": ["Sorcery"],
+  "text": "Balance this card on your head. While it is balanced there, you control all combat.\nIf it falls before your turn ends, Balance the Budget deals damage to you equal to the number of times it touched the table on the way down (minimum 1). Round up. Gravity is a tax.\nIf it never falls, congratulations, draw a card and also you are now the Mayor's favorite accountant.",
+  "rarity": "uncommon",
+  "chaos": 3,
+  "flavorText": "Fiscal responsibility, but make it a circus act.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A303",
+  "extras": {
+    "physicalAction": "balance the card on your head",
+    "theme": "election"
+  }
+}

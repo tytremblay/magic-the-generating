@@ -1,0 +1,19 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Voter Turnout Totem",
+  "manaCost": "{3}",
+  "manaValue": 3,
+  "colors": [],
+  "colorIdentity": ["R"],
+  "type": "Acorn Artifact",
+  "types": ["Artifact"],
+  "text": "Voters you control get +0/+1.\n{2}{R}, {T}: Create two 1/1 red Voter creature tokens.\nWhenever five or more Voters attack, you may roll a six-sided die. On a 4 or higher, draw a card.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "Rub it for good turnout. Or for splinters. Usually splinters.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A215"
+}

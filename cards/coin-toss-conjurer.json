@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Coin Toss Conjurer",
+  "manaCost": "{1}{R}",
+  "manaValue": 2,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Creature — Goblin Wizard",
+  "types": ["Creature"],
+  "subtypes": ["Goblin", "Wizard"],
+  "text": "{R}, {T}: Flip a coin. If you win the flip, Coin Toss Conjurer deals 2 damage to any target. If you lose the flip, it deals 2 damage to you and you say \"worth it\" out loud.",
+  "power": "1",
+  "toughness": "2",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 2,
+  "flavorText": "Fifty-fifty odds, one hundred percent commitment.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A207"
+}

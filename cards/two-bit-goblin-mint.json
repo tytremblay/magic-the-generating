@@ -1,0 +1,21 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Two-Bit Goblin Mint",
+  "type": "Acorn Land",
+  "types": ["Land"],
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["R"],
+  "text": "When Two-Bit Goblin Mint enters the battlefield, the goblins strike a fresh coin. Flip it. If you win the flip, you get a Treasure token. If you lose the flip, a goblin pockets it and you get nothing but a knowing wink.\n{T}: Add {R}.\n{T}, flip a coin: If you win the flip, add {R}{R} instead. If you lose, the coin rolls under the fridge.",
+  "rarity": "rare",
+  "chaos": 2,
+  "flavorText": "Quality control at the mint is one goblin who is asleep.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A603",
+  "extras": {
+    "fourthWall": "coin flip",
+    "token": "Treasure"
+  }
+}

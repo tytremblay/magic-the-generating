@@ -8,6 +8,12 @@
   "required": ["name", "format", "theme", "colorIdentity", "cards"],
   "properties": {
     "$schema": { "type": "string" },
+    "border": {
+      "type": "string",
+      "enum": ["black", "acorn"],
+      "default": "black",
+      "description": "'black' (default) for rules-legal decks. 'acorn' for an Un-set chaos deck: color-identity legality and the singleton rule are not enforced, and bracket is not required. See UNHINGED_GUIDE.md."
+    },
     "name": {
       "type": "string",
       "minLength": 1,
@@ -109,7 +115,14 @@
   "allOf": [
     {
       "if": { "properties": { "format": { "const": "commander" } }, "required": ["format"] },
-      "then": { "required": ["commander", "bracket"] }
+      "then": { "required": ["commander"] }
+    },
+    {
+      "if": {
+        "properties": { "format": { "const": "commander" }, "border": { "not": { "const": "acorn" } } },
+        "required": ["format"]
+      },
+      "then": { "required": ["bracket"] }
     }
   ]
 }

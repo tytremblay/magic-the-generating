@@ -1,0 +1,29 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "O'Clock, the Temporal Goblin",
+  "subtitle": "Knows What Time It Is (Literally)",
+  "manaCost": "{3}{R}",
+  "manaValue": 4,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Legendary Creature — Goblin Timekeeper",
+  "types": ["Creature"],
+  "supertypes": ["Legendary"],
+  "subtypes": ["Goblin", "Timekeeper"],
+  "text": "O'Clock's power is equal to the current minute (check a clock; if it's :00, his power is 60 and he is very smug).\nWhenever O'Clock attacks, deal damage equal to the current hour on a 12-hour clock. Twice as much on the half hour, because of the chime.\nIf it is currently a Tuesday, O'Clock has haste, double strike, and an attitude.",
+  "power": "current minute",
+  "toughness": "12",
+  "keywords": [],
+  "rarity": "acorn",
+  "flavorText": "\"It's goblin o'clock somewhere.\"",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A405",
+  "chaos": 4,
+  "extras": {
+    "fourthWall": "the current time and day of week",
+    "timingGag": "only on Tuesdays; on the half hour",
+    "impossibleMath": "power derived from the clock"
+  }
+}

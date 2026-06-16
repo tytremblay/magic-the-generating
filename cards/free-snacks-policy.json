@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Free Snacks Policy",
+  "manaCost": "{2}{R}",
+  "manaValue": 3,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Whenever one or more Goblins you control deal combat damage to a player, that player loses 1 additional life.\nAt the beginning of your end step, if you control four or more Goblins, draw a card.",
+  "keywords": [],
+  "rarity": "rare",
+  "flavorText": "Vote-winning platform: a chip in every pot, a fire in every hall.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 1,
+  "number": "A115"
+}

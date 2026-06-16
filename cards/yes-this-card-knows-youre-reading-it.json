@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "set": "CHAOS",
+  "chaos": 5,
+  "name": "Yes, This Card Knows You're Reading It",
+  "manaCost": "Pay attention. That's the cost.",
+  "manaValue": "rude",
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Legendary Artifact Creature — Witness",
+  "types": ["Artifact", "Creature"],
+  "supertypes": ["Legendary"],
+  "subtypes": ["Witness"],
+  "rarity": "uncomfortable",
+  "power": "you",
+  "toughness": "right now",
+  "keywords": ["Eye Contact"],
+  "text": "Eye Contact (You, holding this card, cannot stop. You already tried. The card saw.)\nThis card is legal in every format in which it is not banned (none).\nWhenever you look away, Yes, This Card Knows You're Reading It draws a card to keep itself company. It misses you when you blink.\nCast your feelings. Then untap a negative number of regrets.\nIt was here before this game. It will be here after. Hello again.",
+  "flavorText": "You put it down. It is still reading you.",
+  "artist": "AI Generated",
+  "number": "A504"
+}

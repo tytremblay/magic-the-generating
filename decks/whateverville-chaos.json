@@ -1,0 +1,238 @@
+{
+  "$schema": "../deck.schema.json",
+  "border": "acorn",
+  "name": "Mayor Gnasher’s Chaos Caucus",
+  "format": "commander",
+  "theme": "Govern the table by pure chance — roll dice, flip coins, rally goblin voters, and let Mayor Gnasher McChaos turn every turn into an election-night riot.",
+  "description": "An acorn (Un-set) Commander deck. Chaos is deliberately skewed LOW so it stays fun: most cards are chaos 1–2 and roughly on-theme (goblins, dice, coins, elections), thinning out through chaos 3–4, with just a handful of chaos-5 fever-dream wildcards that ignore the theme entirely. Color-identity and singleton rules are waived for acorn decks.",
+  "colorIdentity": [
+    "R"
+  ],
+  "commander": [
+    "Gnasher McChaos, Mayor of Whateverville"
+  ],
+  "cards": [
+    {
+      "name": "Gnasher McChaos, Mayor of Whateverville",
+      "role": "Commander"
+    },
+    {
+      "name": "Ballot Box Bomber"
+    },
+    {
+      "name": "Campaign Volunteer"
+    },
+    {
+      "name": "Ceremonial Lucky Die"
+    },
+    {
+      "name": "Double or Nothing"
+    },
+    {
+      "name": "Free Snacks Policy"
+    },
+    {
+      "name": "Goblin Recount"
+    },
+    {
+      "name": "Heads I Win"
+    },
+    {
+      "name": "Incumbent Pyromancer"
+    },
+    {
+      "name": "Lawn Sign Brigade"
+    },
+    {
+      "name": "Mayoral Motorcade"
+    },
+    {
+      "name": "Precinct Firebrand"
+    },
+    {
+      "name": "Roll the Bones"
+    },
+    {
+      "name": "Snack Cart Goblin"
+    },
+    {
+      "name": "Stump Speech"
+    },
+    {
+      "name": "Town Crier Goblin"
+    },
+    {
+      "name": "Attack Ad Blitz"
+    },
+    {
+      "name": "Ballot Box Goblin"
+    },
+    {
+      "name": "Campaign Rally"
+    },
+    {
+      "name": "Coin Toss Conjurer"
+    },
+    {
+      "name": "Concession Speech"
+    },
+    {
+      "name": "Dice Goblin of Whateverville"
+    },
+    {
+      "name": "Filibuster Firebrand"
+    },
+    {
+      "name": "Get Out the Vote"
+    },
+    {
+      "name": "Goblin Poll Worker"
+    },
+    {
+      "name": "Incumbent Advantage"
+    },
+    {
+      "name": "Loaded Dice of Office"
+    },
+    {
+      "name": "Recount Clerk"
+    },
+    {
+      "name": "Snack Cart Pyromancer"
+    },
+    {
+      "name": "Sweeping Mandate"
+    },
+    {
+      "name": "Swing Precinct Shaman"
+    },
+    {
+      "name": "The Honorable Recount-Bot 5000"
+    },
+    {
+      "name": "The Mayor's Snack Budget"
+    },
+    {
+      "name": "Town Hall Tantrum"
+    },
+    {
+      "name": "Voter Turnout Totem"
+    },
+    {
+      "name": "Yard Sign Zealot"
+    },
+    {
+      "name": "Balance the Budget"
+    },
+    {
+      "name": "Exit Poll of Doom"
+    },
+    {
+      "name": "Fist-Bump Fanatic"
+    },
+    {
+      "name": "Hold Your Breath for Democracy"
+    },
+    {
+      "name": "Knock on Wood"
+    },
+    {
+      "name": "Landslide Victory"
+    },
+    {
+      "name": "Shout a Campaign Slogan"
+    },
+    {
+      "name": "Snack Break Saboteur"
+    },
+    {
+      "name": "The Buck Stops Nowhere"
+    },
+    {
+      "name": "The Coin-Flip Cabinet"
+    },
+    {
+      "name": "The Honorable Die of the Realm"
+    },
+    {
+      "name": "The Recount"
+    },
+    {
+      "name": "This Card Is Also the Art"
+    },
+    {
+      "name": "Two Out of Three (Best Of)"
+    },
+    {
+      "name": "Divide the Goblin by Zero"
+    },
+    {
+      "name": "Goblin on Low Battery"
+    },
+    {
+      "name": "Half a Coin Flip"
+    },
+    {
+      "name": "O'Clock, the Temporal Goblin"
+    },
+    {
+      "name": "Recount the Recount"
+    },
+    {
+      "name": "Room-Temperature Dragon"
+    },
+    {
+      "name": "Snack Seniority Clause"
+    },
+    {
+      "name": "The Loudest Incumbent"
+    },
+    {
+      "name": "The Minus-Three Elemental"
+    },
+    {
+      "name": ",,, ?"
+    },
+    {
+      "name": "Exile Target Tuesday"
+    },
+    {
+      "name": "The Creature Is Become Tall"
+    },
+    {
+      "name": "Yes, This Card Knows You're Reading It"
+    },
+    {
+      "name": "Gerrymandered Gully",
+      "role": "Land"
+    },
+    {
+      "name": "Mayor McChaos Municipal Snack Bar",
+      "role": "Land"
+    },
+    {
+      "name": "Polling Place of the Damned",
+      "role": "Land"
+    },
+    {
+      "name": "Precinct of Perpetual Recess",
+      "role": "Land"
+    },
+    {
+      "name": "Recount Ridge",
+      "role": "Land"
+    },
+    {
+      "name": "Two-Bit Goblin Mint",
+      "role": "Land"
+    },
+    {
+      "name": "Mountain",
+      "role": "Land",
+      "count": 31
+    }
+  ],
+  "plan": {
+    "size": 100
+  }
+}

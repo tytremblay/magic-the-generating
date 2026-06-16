@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Goblin Poll Worker",
+  "manaCost": "{R}",
+  "manaValue": 1,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Creature — Goblin Bureaucrat",
+  "types": ["Creature"],
+  "subtypes": ["Goblin", "Bureaucrat"],
+  "text": "{T}: Add {R}.\n{T}, Sacrifice Goblin Poll Worker: Create a 1/1 red Voter creature token. Their shift is over.",
+  "power": "1",
+  "toughness": "1",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 2,
+  "flavorText": "\"Next!\" he shouted, to a line that was entirely on fire.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A213"
+}

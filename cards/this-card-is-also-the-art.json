@@ -1,0 +1,26 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "This Card Is Also the Art",
+  "manaCost": "{1}{R}",
+  "manaValue": 2,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Creature — Goblin Illustrator",
+  "types": ["Creature"],
+  "subtypes": ["Goblin", "Illustrator"],
+  "text": "When This Card Is Also the Art enters the battlefield, look at its own art and describe out loud what you think is happening in it. Be confident.\nIts power is equal to the number of distinct objects you named. Its toughness is equal to the number of those objects that are actually there. The artist (AI Generated) is the final judge and is not available for comment.",
+  "power": "*",
+  "toughness": "*",
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "It is a goblin. Probably. There's a lot going on.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A311",
+  "extras": {
+    "physicalAction": "describe the card's own art aloud",
+    "fourthWall": "the card's art and artist",
+    "theme": "goblins"
+  }
+}

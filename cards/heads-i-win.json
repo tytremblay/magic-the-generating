@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Heads I Win",
+  "manaCost": "{R}",
+  "manaValue": 1,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Flip a coin. If you win the flip, Heads I Win deals 4 damage to any target. If you lose the flip, it deals 2 damage to any target instead.",
+  "keywords": [],
+  "rarity": "common",
+  "flavorText": "Tails you also lose, just a little less.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 1,
+  "number": "A105",
+  "extras": { "coinFlip": true }
+}

@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Roll the Bones",
+  "manaCost": "{1}{R}",
+  "manaValue": 2,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Roll a six-sided die. Roll the Bones deals damage to any target equal to the result.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "flavorText": "The mayor calls it \"fiscal policy.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 1,
+  "number": "A104",
+  "extras": { "dice": "d6" }
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Gerrymandered Gully",
+  "type": "Acorn Land",
+  "types": ["Land"],
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["R"],
+  "text": "When Gerrymandered Gully enters the battlefield, redraw the district lines: roll a six-sided die. On odd, this land is a Mountain. On even, this land is still definitely a Mountain, you just moved the border a little.\n{T}: Add {R}.\n{1}, {T}: The loudest player at the table loses 1 life from sheer political frustration. You decide who is loudest.",
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "The map used to be a square. Now it is shaped like a goblin holding a sandwich.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A605",
+  "extras": {
+    "dice": "d6",
+    "fourthWall": "loudest player"
+  }
+}

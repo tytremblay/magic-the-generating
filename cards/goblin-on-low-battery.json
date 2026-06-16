@@ -1,0 +1,26 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Goblin on Low Battery",
+  "manaCost": "{1}{R}",
+  "manaValue": 2,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Creature — Goblin Battery",
+  "types": ["Creature"],
+  "subtypes": ["Goblin", "Battery"],
+  "text": "Goblin on Low Battery's power is equal to your phone's current battery percentage divided by 20, rounded down. (Check now. Yes, now.)\nIf your phone is below 20%, it enters the battlefield tapped, exhausted, and a little resentful.\nWhenever you charge your phone, put a +1/+0 counter on Goblin on Low Battery until it reaches 100%, at which point it overheats and you sacrifice it.",
+  "power": "battery%÷20",
+  "toughness": "3",
+  "keywords": [],
+  "rarity": "acorn",
+  "flavorText": "He runs on spite and 14% remaining.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A402",
+  "chaos": 4,
+  "extras": {
+    "fourthWall": "your phone's battery percentage",
+    "impossibleMath": "power derived from real-world device state"
+  }
+}

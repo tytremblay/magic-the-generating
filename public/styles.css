@@ -1,4 +1,8 @@
 :root {
+  /* Cards keep the real MTG proportion (63mm x 88mm = aspect-ratio 63/88) so
+     they're faithful for printing via makeplayingcards.com. Only the on-screen
+     width changes; the ratio must not. Text never scrolls — app.js shrinks the
+     font to fit (see fitText). */
   --card-w: 320px;
   --card-r: 4.75% / 3.5%;
   --ink: #14110c;
@@ -52,12 +56,47 @@ body {
 .tab:hover { border-color: #565b66; }
 .tab.active { background: #3a4ed8; border-color: #3a4ed8; color: #fff; }
 
+/* Card filter controls */
+.filters { display: flex; align-items: center; gap: 12px; }
+.filters[hidden] { display: none; }
+.filters .chk {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  color: #c7ccd5;
+  cursor: pointer;
+  user-select: none;
+}
+.filters .chk input { accent-color: #3a4ed8; cursor: pointer; }
+.filters .select {
+  padding: 7px 10px;
+  border-radius: 8px;
+  border: 1px solid #3a3d46;
+  background: #1b1d22;
+  color: #e8e8ea;
+  font-size: 13px;
+  cursor: pointer;
+}
+
 .gallery {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(var(--card-w), 1fr));
   gap: 28px;
   padding: 28px;
   justify-items: center;
+}
+
+/* Cards view container (holds either one gallery or clustered sections) */
+.cards-view[hidden] { display: none; }
+.cluster-head {
+  margin: 8px 0 -8px;
+  padding: 18px 28px 8px;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0.4px;
+  color: #aeb4be;
+  border-bottom: 1px solid #34373f;
 }
 
 /* ---- Card frame ---- */
@@ -187,7 +226,8 @@ body {
   padding: 7px 9px;
   font-size: 12.5px;
   line-height: 1.32;
-  overflow: auto;
+  /* No scrollbars: app.js shrinks the font so text fits (print-faithful). */
+  overflow: hidden;
 }
 .text-box p { margin: 0 0 0.5em; }
 .text-box p:last-child { margin-bottom: 0; }
@@ -222,6 +262,7 @@ body {
 
 /* ---- Decks view ---- */
 .decks { padding: 28px; display: flex; flex-direction: column; gap: 40px; }
+.decks[hidden] { display: none; }
 
 .deck {
   background: #24262d;
@@ -229,6 +270,17 @@ body {
   border-radius: 12px;
   padding: 22px 24px 26px;
 }
+/* Acorn (Un-set) decks: rainbow-foil accent on the panel + name */
+.deck-acorn {
+  border-image: linear-gradient(135deg, #f6d365, #fda085, #f9a8d4, #a78bfa, #67e8f9, #86efac, #fde047) 1;
+}
+.deck-acorn .deck-name {
+  background: linear-gradient(135deg, #fbbf24, #fb7185, #c084fc, #38bdf8, #4ade80);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
 .deck-head { display: flex; align-items: center; flex-wrap: wrap; gap: 12px; }
 .deck-name { margin: 0; font-size: 22px; font-weight: 700; }
 .deck-pips { display: inline-flex; gap: 3px; align-items: center; }

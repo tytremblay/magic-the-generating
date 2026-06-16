@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Snack Cart Pyromancer",
+  "manaCost": "{2}{R}",
+  "manaValue": 3,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Creature — Goblin Wizard",
+  "types": ["Creature"],
+  "subtypes": ["Goblin", "Wizard"],
+  "text": "When Snack Cart Pyromancer enters the battlefield, create two Snack tokens. (A Snack is an artifact with \"Sacrifice this artifact: You gain 1 life and feel a little better. Then draw a card if you control a Goblin.\")\n{R}, Sacrifice a Snack: Snack Cart Pyromancer deals 2 damage to any target.",
+  "power": "2",
+  "toughness": "3",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "Hot pretzels, cold sodas, and exactly one fireball per customer.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A202"
+}

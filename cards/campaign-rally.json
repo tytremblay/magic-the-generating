@@ -1,0 +1,19 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Campaign Rally",
+  "manaCost": "{2}{R}",
+  "manaValue": 3,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Sorcery",
+  "types": ["Sorcery"],
+  "text": "Create two 1/1 red Voter creature tokens, then create a Snack token to hand out at the rally. (A Snack is a red artifact with \"Sacrifice this artifact: You gain 1 life.\")\nVoters you control gain haste until end of turn. The crowd is energized.",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 2,
+  "flavorText": "Doors at six, chanting at seven, small controllable fire at eight.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A219"
+}

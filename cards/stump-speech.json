@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Stump Speech",
+  "manaCost": "{3}{R}",
+  "manaValue": 4,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Create three 1/1 red Goblin creature tokens. They gain haste until end of turn.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "flavorText": "\"My fellow goblins, I promise nothing and I'll deliver it loudly!\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 1,
+  "number": "A109"
+}

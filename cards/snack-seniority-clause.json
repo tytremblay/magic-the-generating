@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Snack Seniority Clause",
+  "subtitle": "Municipal Ordinance 7½",
+  "manaCost": "{2}{R}",
+  "manaValue": 3,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Enchantment — Whateverville Bylaw",
+  "types": ["Enchantment"],
+  "subtypes": ["Bylaw"],
+  "text": "At the beginning of each upkeep, the player who ate most recently is the Mayor's Favorite until someone else eats.\nThe Mayor's Favorite may roll a d6 each turn; on a 4 or higher, create that many ½/½ red Crumb creature tokens, rounded toward the snack.\nThe player who ate least recently can't untap unless they take a bite of something right now.",
+  "keywords": [],
+  "rarity": "acorn",
+  "flavorText": "Governance is just snacks with extra steps.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A404",
+  "chaos": 4,
+  "extras": {
+    "fourthWall": "who ate most/least recently",
+    "dice": "d6",
+    "impossibleMath": "½/½ Crumb tokens rounded toward the snack",
+    "physicalAction": "take a bite of something"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Loaded Dice of Office",
+  "manaCost": "{2}",
+  "manaValue": 2,
+  "colors": [],
+  "colorIdentity": ["R"],
+  "type": "Acorn Artifact — Equipment",
+  "types": ["Artifact"],
+  "subtypes": ["Equipment"],
+  "text": "Equipped creature gets +1/+0.\nWhenever you roll one or more dice, you may reroll any one of those dice once. You must keep the second result, no matter how loudly equipped creature protests.\nEquip {1}{R}",
+  "keywords": ["Equip"],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "Technically they're weighted toward 'good governance.'",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A208"
+}

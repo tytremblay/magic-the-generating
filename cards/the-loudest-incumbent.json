@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Loudest Incumbent",
+  "manaCost": "{2}{R}{R}",
+  "manaValue": 4,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Creature — Goblin Politician",
+  "types": ["Creature"],
+  "subtypes": ["Goblin", "Politician"],
+  "text": "The Loudest Incumbent is controlled by the loudest player at the table, reassessed continuously and obnoxiously.\nIts power equals the number of words the controller has said since their last turn, divided by ten, rounded up to the nearest applause.\nIf the table falls completely silent for the length of one held breath, sacrifice The Loudest Incumbent. He cannot survive the quiet.",
+  "power": "words÷10",
+  "toughness": "loud",
+  "keywords": [],
+  "rarity": "acorn",
+  "flavorText": "He has never finished a sentence and never lost an election.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A407",
+  "chaos": 4,
+  "extras": {
+    "fourthWall": "loudest player; word count; table silence",
+    "physicalAction": "hold your breath / go silent",
+    "impossibleMath": "power from word count rounded to nearest applause; toughness 'loud'"
+  }
+}

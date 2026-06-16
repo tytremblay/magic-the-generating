@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Dice Goblin of Whateverville",
+  "manaCost": "{3}{R}",
+  "manaValue": 4,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Creature — Goblin Gambler",
+  "types": ["Creature"],
+  "subtypes": ["Goblin", "Gambler"],
+  "text": "Whenever Dice Goblin of Whateverville attacks, roll a six-sided die.\n1 or 2 — it gets +1/+0 until end of turn.\n3 or 4 — create a 1/1 red Voter creature token.\n5 — create a Snack token.\n6 — do all of the above and shout \"house wins!\"",
+  "power": "3",
+  "toughness": "3",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "He brought his own dice. He always brings his own dice.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A218"
+}

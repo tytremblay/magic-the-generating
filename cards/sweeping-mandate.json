@@ -1,0 +1,19 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Sweeping Mandate",
+  "manaCost": "{3}{R}{R}",
+  "manaValue": 5,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Sorcery",
+  "types": ["Sorcery"],
+  "text": "Creatures you control get +2/+0 and gain haste until end of turn.\nMandate — If you control five or more Voters, they also gain trample and you may roll a six-sided die. On a 6, take an extra turn after this one. (It really was a landslide.)",
+  "keywords": ["Mandate"],
+  "rarity": "rare",
+  "chaos": 2,
+  "flavorText": "The people have spoken. Mostly they said \"snacks,\" but a mandate is a mandate.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A214"
+}

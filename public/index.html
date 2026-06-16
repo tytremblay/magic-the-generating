@@ -13,10 +13,18 @@
         <button id="tab-cards" class="tab active" type="button">Cards</button>
         <button id="tab-decks" class="tab" type="button">Decks</button>
       </nav>
+      <div id="card-filters" class="filters">
+        <label class="chk"><input type="checkbox" id="acorn-toggle" checked /> Acorn</label>
+        <select id="group-by" class="select" title="Cluster cards">
+          <option value="none">No grouping</option>
+          <option value="type">By type</option>
+          <option value="color">By color</option>
+        </select>
+      </div>
       <input id="search" type="search" placeholder="Filter by name, type, text…" autocomplete="off" />
       <span id="count" class="count"></span>
     </header>
-    <main id="cards-view" class="gallery" aria-live="polite"></main>
+    <main id="cards-view" class="cards-view" aria-live="polite"></main>
     <main id="decks-view" class="decks" aria-live="polite" hidden></main>
     <script type="module" src="app.js"></script>
   </body>

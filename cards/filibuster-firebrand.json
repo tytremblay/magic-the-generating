@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Filibuster Firebrand",
+  "manaCost": "{2}{R}{R}",
+  "manaValue": 4,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Creature — Goblin Orator",
+  "types": ["Creature"],
+  "subtypes": ["Goblin", "Orator"],
+  "text": "Filibuster (As long as you keep talking out loud about anything at all, this creature has indestructible. If you stop, the effect ends.)\nWhenever Filibuster Firebrand attacks, it deals 1 damage to each opponent for each word in this card's name. (That's two.)",
+  "power": "3",
+  "toughness": "2",
+  "keywords": ["Filibuster"],
+  "rarity": "rare",
+  "chaos": 2,
+  "flavorText": "He has been recognized by the chair and refuses to be un-recognized.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A205"
+}

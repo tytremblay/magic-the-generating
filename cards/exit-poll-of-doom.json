@@ -1,0 +1,24 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Exit Poll of Doom",
+  "manaCost": "{2}{R}",
+  "manaValue": 3,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Sorcery — Election",
+  "types": ["Sorcery"],
+  "subtypes": ["Election"],
+  "text": "Ask each opponent, one at a time, to silently predict the result of a six-sided die before you roll it. Go around the table.\nThen roll the die. Each opponent who guessed wrong loses life equal to how wrong they were (off by 3? lose 3). Each opponent who guessed right looks smug; that's punishment enough, they lose nothing.\nThe pollster (you) does not guess. The pollster never guesses. The pollster knows.",
+  "rarity": "uncommon",
+  "chaos": 3,
+  "flavorText": "Margin of error: catastrophic.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A310",
+  "extras": {
+    "physicalAction": "have opponents guess a die roll",
+    "dice": "d6",
+    "theme": "election"
+  }
+}

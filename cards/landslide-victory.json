@@ -1,0 +1,24 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Landslide Victory",
+  "manaCost": "{3}{R}{R}",
+  "manaValue": 5,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Sorcery — Election",
+  "types": ["Sorcery"],
+  "subtypes": ["Election"],
+  "text": "Hold a snap election. Every player at the table simultaneously slaps the table once for each Goblin you control. Whoever's hand lands last is the loser of the election (this is not how elections work, the Mayor doesn't care).\nLandslide Victory deals damage equal to the number of Goblins you control, divided as you choose among the loser and their permanents. Then create a Goblin token for the spectacle of it all.",
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "He won by a margin no one was allowed to verify.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A314",
+  "extras": {
+    "physicalAction": "everyone slaps the table",
+    "fourthWall": "whoever's hand lands last",
+    "theme": "election / goblins"
+  }
+}

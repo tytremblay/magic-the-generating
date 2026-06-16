@@ -1,0 +1,19 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Attack Ad Blitz",
+  "manaCost": "{1}{R}",
+  "manaValue": 2,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Instant",
+  "types": ["Instant"],
+  "text": "Attack Ad Blitz deals 3 damage to target creature or planeswalker.\nIf that permanent is an opponent's commander, also create a 1/1 red Voter creature token, because the negative ads tested really well.",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 2,
+  "flavorText": "\"My opponent once returned a library book late. Can we really trust them?\"",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A216"
+}

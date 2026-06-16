@@ -1,0 +1,19 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Mayor's Snack Budget",
+  "manaCost": "{2}{R}",
+  "manaValue": 3,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Enchantment",
+  "types": ["Enchantment"],
+  "text": "At the beginning of your end step, create a Snack token. (A Snack is a red artifact with \"Sacrifice this artifact: You gain 1 life.\")\nWhenever you sacrifice a Snack, Gnasher, er, your commander, gets +1/+1 until end of turn and a creature you control gains haste.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "Line item one: snacks. Line item two: more snacks. There is no line item three.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A212"
+}

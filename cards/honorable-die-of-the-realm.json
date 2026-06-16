@@ -1,0 +1,25 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Honorable Die of the Realm",
+  "subtitle": "Roll With Dignity",
+  "manaCost": "{3}{R}",
+  "manaValue": 4,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Legendary Acorn Artifact Equipment",
+  "types": ["Artifact"],
+  "supertypes": ["Legendary"],
+  "subtypes": ["Equipment"],
+  "text": "Whenever equipped creature attacks, roll the largest die you physically own. It deals that much damage instead of its power. A d20 is encouraged. A d100 is showing off. A single d2 is cowardice and the Mayor will remember it.\nYou may reroll once per turn, but only if you stand up, hold the die aloft, and declare \"FOR THE REALM\" with conviction the table believes.\nEquip {2}",
+  "rarity": "mythic",
+  "chaos": 3,
+  "flavorText": "Bring your own dignity. The die is provided.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A305",
+  "extras": {
+    "physicalAction": "stand up, hold die aloft, shout FOR THE REALM",
+    "dice": "the largest die you own"
+  }
+}

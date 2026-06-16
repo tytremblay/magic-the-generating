@@ -1,0 +1,24 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Divide the Goblin by Zero",
+  "manaCost": "{1}{R}",
+  "manaValue": 2,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Instant — Forbidden Arithmetic",
+  "types": ["Instant"],
+  "subtypes": ["Forbidden Arithmetic"],
+  "text": "Choose target Goblin you control. Divide its power and toughness by zero.\nThe result is undefined, so the Goblin is now everywhere and nowhere, has every power and no power, and is both blocking and unblocked. Opponents must deal with it. They cannot. That's the point.\nAt end of turn, the universe quietly corrects the error and you sacrifice the Goblin with an apology to mathematics.",
+  "keywords": [],
+  "rarity": "acorn",
+  "flavorText": "Whateverville's accountant has not been seen since.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A408",
+  "chaos": 4,
+  "extras": {
+    "impossibleMath": "divide by zero, undefined result, both blocking and unblocked",
+    "surreal": "everywhere and nowhere"
+  }
+}

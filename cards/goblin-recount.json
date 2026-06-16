@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Goblin Recount",
+  "manaCost": "{1}{R}",
+  "manaValue": 2,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Roll a six-sided die. Create a number of 1/1 red Goblin creature tokens equal to half the result, rounded up.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "flavorText": "They counted the ballots three times and got three different goblins.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 1,
+  "number": "A112",
+  "extras": { "dice": "d6" }
+}

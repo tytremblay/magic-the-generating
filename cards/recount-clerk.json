@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Recount Clerk",
+  "manaCost": "{1}{R}",
+  "manaValue": 2,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Creature — Goblin Bureaucrat",
+  "types": ["Creature"],
+  "subtypes": ["Goblin", "Bureaucrat"],
+  "text": "Recount 2 — Whenever Recount Clerk attacks, roll a six-sided die. If you roll a 2 or less, roll it again and use the new result. (When the first count is too small, you simply count again.)\nWhenever you roll a die, create a 1/1 red Voter creature token.",
+  "power": "2",
+  "toughness": "2",
+  "keywords": ["Recount"],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "\"The numbers don't lie. They just need a few more chances.\"",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A204"
+}

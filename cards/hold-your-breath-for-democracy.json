@@ -1,0 +1,24 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Hold Your Breath for Democracy",
+  "manaCost": "{R}",
+  "manaValue": 1,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Enchantment — Aura Filibuster",
+  "types": ["Enchantment"],
+  "subtypes": ["Aura", "Filibuster"],
+  "text": "Enchant creature you control.\nWhen Hold Your Breath for Democracy enters the battlefield, hold your breath. Enchanted creature has indestructible and can't be blocked for as long as you keep holding it.\nThe moment you breathe, speak, or laugh, the effect ends and you take 2 damage from the lightheadedness of power. Do not actually pass out for Whateverville. It isn't worth it. (It might be worth it.)",
+  "rarity": "uncommon",
+  "chaos": 3,
+  "flavorText": "The longest filibuster in city history lasted forty seconds.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A313",
+  "extras": {
+    "physicalAction": "hold your breath",
+    "timing": "for as long as you hold your breath",
+    "theme": "election"
+  }
+}

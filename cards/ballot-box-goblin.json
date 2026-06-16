@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Ballot Box Goblin",
+  "manaCost": "{1}{R}",
+  "manaValue": 2,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Creature — Goblin Bureaucrat",
+  "types": ["Creature"],
+  "subtypes": ["Goblin", "Bureaucrat"],
+  "text": "When Ballot Box Goblin enters the battlefield, create a 1/1 red Voter creature token.\nMandate — At the beginning of combat on your turn, if you control three or more Voters, Ballot Box Goblin gets +2/+0 until end of turn. (Voters love a candidate who shows up.)",
+  "power": "2",
+  "toughness": "1",
+  "keywords": ["Mandate"],
+  "rarity": "common",
+  "chaos": 2,
+  "flavorText": "He counts every vote twice and most of them three times.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A201"
+}

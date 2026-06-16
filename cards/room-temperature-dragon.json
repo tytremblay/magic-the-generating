@@ -1,0 +1,28 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Room-Temperature Dragon",
+  "subtitle": "Surprisingly Lukewarm",
+  "manaCost": "{4}{R}{R}",
+  "manaValue": 6,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Creature — Dragon Thermometer",
+  "types": ["Creature"],
+  "subtypes": ["Dragon", "Thermometer"],
+  "text": "Flying.\nRoom-Temperature Dragon's toughness equals the room's current temperature in degrees Celsius, rounded to whatever feels right.\nWhenever it attacks, it deals fire damage equal to how many degrees above 20°C the room is. If the room is below 20°C, it deals cold damage and shivers instead, taking that much damage itself.\nIf anyone opens a window, this loses half a counter of dignity.",
+  "power": "3",
+  "toughness": "room °C",
+  "keywords": ["Flying"],
+  "rarity": "acorn",
+  "flavorText": "It hoards thermostats, not gold.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A409",
+  "chaos": 4,
+  "extras": {
+    "fourthWall": "room temperature; opening a window",
+    "impossibleMath": "toughness from degrees, half a counter of dignity",
+    "physicalAction": "open a window"
+  }
+}

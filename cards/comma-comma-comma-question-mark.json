@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "set": "CHAOS",
+  "chaos": 5,
+  "name": ",,, ?",
+  "subtitle": "(pronounced however you breathe)",
+  "manaCost": "{R}{,}{,}",
+  "manaValue": "π",
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Enchantment — Punctuation Deity",
+  "types": ["Enchantment"],
+  "subtypes": ["Punctuation", "Deity"],
+  "rarity": "?",
+  "loyalty": "¿",
+  "text": ",,, ? counts the number of commas in its own rules text, then forgets the number, then panics, then counts again. This happens an infinite number of times, quickly.\nWhenever you read this card aloud, you must perform the punctuation. Other players judge you. You feel this judging.\nThe value is left as an exercise for the reader.\n,,, ? do be hungry. It has always do be hungry.",
+  "flavorText": "It is not a sentence. It never wanted to be a sentence.",
+  "power": "÷0",
+  "toughness": "÷0",
+  "artist": "AI Generated",
+  "number": "A503"
+}

@@ -1,0 +1,25 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Buck Stops Nowhere",
+  "manaCost": "{2}{R}",
+  "manaValue": 3,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Legendary Acorn Artifact — Hot Potato",
+  "types": ["Artifact"],
+  "supertypes": ["Legendary"],
+  "subtypes": ["Hot", "Potato"],
+  "text": "The Buck Stops Nowhere can't sit still. Physically slide or hand this card to the player on your left at the beginning of each upkeep. Whoever is holding it controls it.\nWhoever holds The Buck Stops Nowhere takes 1 damage during their upkeep and may flip a coin: if heads, immediately pass the buck to anyone they like and skip the damage. The buck must always be passed counterclockwise unless somebody panics.",
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "Accountability is a beautiful thing to keep moving.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A315",
+  "extras": {
+    "physicalAction": "physically pass the card around the table",
+    "fourthWall": "whoever is holding the card controls it",
+    "theme": "coins / election"
+  }
+}

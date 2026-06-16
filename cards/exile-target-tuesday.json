@@ -1,0 +1,20 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "set": "CHAOS",
+  "chaos": 5,
+  "name": "Exile Target Tuesday",
+  "manaCost": "{∞}{R}, then a Wednesday",
+  "manaValue": "yes",
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Instant — Calendar Removal",
+  "types": ["Instant"],
+  "subtypes": ["Calendar"],
+  "rarity": "weekly",
+  "text": "Exile target Tuesday. It does not come back. None of them do.\nIf it is currently not Tuesday, Exile Target Tuesday resolves anyway out of spite.\nScry your soul, then draw a conclusion. (You may not like it.)\nThe days that remain reshuffle themselves. The week is now six days long and everyone agrees not to talk about it.",
+  "flavorText": "Monday looked for its friend and found only a Thursday-shaped hole.",
+  "power": "n/a but ominous",
+  "artist": "AI Generated",
+  "number": "A502"
+}

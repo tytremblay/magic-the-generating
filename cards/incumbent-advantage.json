@@ -1,0 +1,19 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Incumbent Advantage",
+  "manaCost": "{2}{R}",
+  "manaValue": 3,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Enchantment",
+  "types": ["Enchantment"],
+  "text": "Whenever a Voter you control dies, roll a six-sided die. On a 5 or 6, create a 1/1 red Voter creature token, because somebody always re-registers.\nMandate — As long as you control four or more Voters, Voters you control can't be blocked by creatures with greater power. (You're the incumbent. Nobody bigger gets in your way.)",
+  "keywords": ["Mandate"],
+  "rarity": "rare",
+  "chaos": 2,
+  "flavorText": "The fine print was written by the Mayor, for the Mayor, about the Mayor.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A217"
+}

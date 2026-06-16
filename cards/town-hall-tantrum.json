@@ -1,0 +1,19 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Town Hall Tantrum",
+  "manaCost": "{2}{R}",
+  "manaValue": 3,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Instant",
+  "types": ["Instant"],
+  "text": "Roll a six-sided die. Town Hall Tantrum deals damage equal to the result to any target.\nIf you control a Goblin, add 1 to that result. If you rolled a 6, also create a 1/1 red Voter creature token, because the people are fired up.",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 2,
+  "flavorText": "The meeting was adjourned on account of fire.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A209"
+}

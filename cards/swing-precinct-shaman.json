@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Swing Precinct Shaman",
+  "manaCost": "{2}{R}",
+  "manaValue": 3,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Creature — Goblin Shaman",
+  "types": ["Creature"],
+  "subtypes": ["Goblin", "Shaman"],
+  "text": "At the beginning of your upkeep, flip a coin. If you win the flip, put a +1/+1 counter on Swing Precinct Shaman. If you lose the flip, remove one. It can never decide.\n{R}: Reroll your most recent coin flip. Activate only once each turn.",
+  "power": "2",
+  "toughness": "2",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "Undecided until the very moment it stops mattering.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A211"
+}

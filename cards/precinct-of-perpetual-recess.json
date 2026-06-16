@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Precinct of Perpetual Recess",
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["R"],
+  "type": "Acorn Land — Whateverville",
+  "types": ["Land"],
+  "subtypes": ["Whateverville"],
+  "text": "Precinct of Perpetual Recess enters the battlefield tapped, then untaps the moment somebody at the table makes a joke. (House rules: groaners count.)\n{T}: Add {R}.\n{T}: Add {R}{R}, but only until your next snack. After your next snack, the energy is gone and so is your appetite for governance.",
+  "rarity": "uncommon",
+  "chaos": 3,
+  "flavorText": "City hall is closed. It has been closed for eleven years. Nobody minds.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A309",
+  "extras": {
+    "fourthWall": "until somebody makes a joke",
+    "timing": "until your next snack",
+    "theme": "election / snacks"
+  }
+}

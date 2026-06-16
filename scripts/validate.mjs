@@ -68,13 +68,15 @@ for (const file of deckFiles) {
   }
 
   const deckId = deck.colorIdentity || [];
+  // Acorn (Un-set) decks ignore color-identity legality and the singleton rule.
+  const isAcorn = deck.border === "acorn";
 
   // Commander must exist as a generated card and be a subset of the deck identity.
   for (const name of deck.commander || []) {
     const cmd = cards.get(name);
     if (!cmd) {
       errors.push(`commander "${name}" has no matching card in cards/`);
-    } else if (!within(cmd.colorIdentity, deckId)) {
+    } else if (!isAcorn && !within(cmd.colorIdentity, deckId)) {
       errors.push(`commander "${name}" identity [${cmd.colorIdentity}] exceeds deck identity [${deckId}]`);
     }
   }
@@ -87,10 +89,10 @@ for (const file of deckFiles) {
       console.warn(`    ⚠ ${file}: "${entry.name}" not generated yet (slot only)`);
       continue;
     }
-    if (!within(card.colorIdentity, deckId)) {
+    if (!isAcorn && !within(card.colorIdentity, deckId)) {
       errors.push(`"${entry.name}" identity [${card.colorIdentity}] is outside deck identity [${deckId}]`);
     }
-    if (deck.format === "commander" && count > 1 && !(card.supertypes || []).includes("Basic")) {
+    if (!isAcorn && deck.format === "commander" && count > 1 && !(card.supertypes || []).includes("Basic")) {
       errors.push(`"${entry.name}" appears ${count}× but singleton allows 1 (non-basic)`);
     }
   }

@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Gnasher McChaos, Mayor of Whateverville",
+  "manaCost": "{3}{R}{R}",
+  "manaValue": 5,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Legendary Acorn Creature — Goblin Mayor",
+  "types": ["Creature"],
+  "supertypes": ["Legendary"],
+  "subtypes": ["Goblin", "Mayor"],
+  "text": "When Gnasher McChaos enters the battlefield, each player rolls a six-sided die. The lowest roller is your Campaign Volunteer until your next turn and really ought to top off your drink.\nWhenever you roll one or more dice, Gnasher McChaos gets +1/+0 until end of turn, then flip a coin. If you win the flip, roll one of those dice again.\n{1}{R}, Roll a six-sided die: 1 — sacrifice Gnasher, it's been a long term. 2, 3, 4, or 5 — Gnasher McChaos deals that much damage to any target. 6 — take an extra turn after this one and say \"re-elected!\" out loud.",
+  "power": "4",
+  "toughness": "4",
+  "keywords": [],
+  "rarity": "mythic",
+  "chaos": 3,
+  "flavorText": "He ran unopposed. Mostly because nobody else filed the paperwork in time.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "🎲100"
+}

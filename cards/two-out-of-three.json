@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Two Out of Three (Best Of)",
+  "manaCost": "{X}{R}",
+  "manaValue": "X+1",
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Instant",
+  "types": ["Instant"],
+  "text": "Challenge target opponent to rock-paper-scissors, best of three. The winner is determined the way it always is, by yelling and pointing.\nIf you win, Two Out of Three deals X damage to that opponent and you draw a card.\nIf you lose, it deals X damage to you, but you may demand best of five. They are not required to agree. They will agree, out of pity.",
+  "rarity": "common",
+  "chaos": 3,
+  "flavorText": "Whateverville settles all disputes this way. The courthouse is just a folding table.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A312",
+  "extras": {
+    "physicalAction": "rock-paper-scissors, best of three",
+    "fourthWall": "target opponent"
+  }
+}

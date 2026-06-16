@@ -1,0 +1,26 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Recount the Recount",
+  "subtitle": "Certified by the Whateverville Board of Maybe",
+  "manaCost": "{½}{R}",
+  "manaValue": "1½",
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Instant — Election Audit",
+  "types": ["Instant"],
+  "subtypes": ["Election Audit"],
+  "text": "Each player votes for a target creature. The loudest player's vote counts twice; the quietest player's vote counts as half a vote.\nRecount the Recount deals 2.5 damage, rounded emotionally, to the creature with the most votes. If two creatures tie, deal the damage to both as a single creature, simultaneously.\nThen recount. There is no end to this step, but please stop after a while.",
+  "keywords": [],
+  "rarity": "acorn",
+  "flavorText": "\"Mayor Gnasher won by a margin of one and a half goblins.\"",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A401",
+  "chaos": 4,
+  "extras": {
+    "halfMana": true,
+    "fourthWall": "loudest and quietest players",
+    "impossibleMath": "2.5 damage rounded emotionally; half-votes; runaway recount loop"
+  }
+}

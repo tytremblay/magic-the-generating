@@ -1,0 +1,21 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Recount Ridge",
+  "type": "Acorn Land",
+  "types": ["Land"],
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["R"],
+  "text": "Recount Ridge enters the battlefield tapped, because there was a recount.\nWhen Recount Ridge enters the battlefield, flip a coin. If you win the flip, demand another recount and flip again. (Yes, you may keep going. No, the other players will not be happy.)\n{T}: Add {R}.",
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "Officials have certified the results four times. The results keep un-certifying themselves.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A601",
+  "extras": {
+    "fourthWall": "coin flip",
+    "entersTapped": "recount"
+  }
+}

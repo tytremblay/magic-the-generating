@@ -1,0 +1,24 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Shout a Campaign Slogan",
+  "manaCost": "{R}",
+  "manaValue": 1,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Instant — Election",
+  "types": ["Instant"],
+  "subtypes": ["Election"],
+  "text": "As you cast this, invent a campaign slogan on the spot and shout it at the table. It must rhyme. It must mention either snacks, fire, or yourself.\nIf the table cheers (any cheer counts, you are easily pleased), Shout a Campaign Slogan deals 3 damage to any target and you create a 1/1 red Goblin creature token named Volunteer.\nIf nobody cheers, the silence is its own punishment. Draw a card to cope.",
+  "rarity": "common",
+  "chaos": 3,
+  "flavorText": "\"A chicken in every pot, a goblin in every spot!\"",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A306",
+  "extras": {
+    "physicalAction": "shout a rhyming campaign slogan",
+    "fourthWall": "if the table cheers",
+    "theme": "election / goblins"
+  }
+}

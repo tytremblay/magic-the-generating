@@ -1,0 +1,25 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Minus-Three Elemental",
+  "manaCost": "{R}",
+  "manaValue": 1,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Creature — Elemental Deficit",
+  "types": ["Creature"],
+  "subtypes": ["Elemental", "Deficit"],
+  "text": "The Minus-Three Elemental enters the battlefield with -3/-3, which is fine, this is fine.\nWhenever The Minus-Three Elemental attacks, it deals negative damage to the defending player, so they gain 3 life and feel bad about it.\nGain -1 life whenever this dies. (Yes, that means you gain a life. No, don't think about it.)",
+  "power": "-3",
+  "toughness": "-3",
+  "keywords": [],
+  "rarity": "acorn",
+  "flavorText": "It owes the battlefield three creatures and is not paying them back.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A403",
+  "chaos": 4,
+  "extras": {
+    "impossibleMath": "negative power/toughness, negative damage, gain -1 life"
+  }
+}

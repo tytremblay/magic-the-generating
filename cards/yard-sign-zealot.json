@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Yard Sign Zealot",
+  "manaCost": "{2}{R}",
+  "manaValue": 3,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Creature — Goblin Soldier",
+  "types": ["Creature"],
+  "subtypes": ["Goblin", "Soldier"],
+  "text": "Haste\nWhen Yard Sign Zealot enters the battlefield, create three Lawn Sign tokens. (A Lawn Sign is a red artifact with \"Attacking Goblins you control get +1/+0 for each Lawn Sign you control.\")\nWhenever Yard Sign Zealot attacks, you may sacrifice a Lawn Sign. If you do, draw a card.",
+  "power": "1",
+  "toughness": "1",
+  "keywords": ["Haste"],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "He doesn't change minds, but he sure does change yards.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A203"
+}

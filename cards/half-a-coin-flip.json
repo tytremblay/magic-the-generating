@@ -1,0 +1,24 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Half a Coin Flip",
+  "manaCost": "{½}{R}",
+  "manaValue": "1½",
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Sorcery — Indecision",
+  "types": ["Sorcery"],
+  "subtypes": ["Indecision"],
+  "text": "Flip a coin, but stop it on its edge before it lands. While it balances:\n• You win half the flip. Deal 1½ damage to any target.\n• You also lose half the flip. The same target deals 1½ damage back to you, simultaneously, as both players.\nWhen the coin finally falls (it won't), resolve the other half. Leave the value as an exercise for the reader.",
+  "keywords": [],
+  "rarity": "acorn",
+  "flavorText": "Schrödinger's goblin: simultaneously winning and losing the election.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A406",
+  "chaos": 4,
+  "extras": {
+    "halfMana": true,
+    "impossibleMath": "half a coin flip, 1½ damage, as both players simultaneously, value left to the reader"
+  }
+}

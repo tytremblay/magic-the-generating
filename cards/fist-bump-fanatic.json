@@ -1,0 +1,26 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Fist-Bump Fanatic",
+  "manaCost": "{R}{R}",
+  "manaValue": 2,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Creature — Goblin Cheerleader",
+  "types": ["Creature"],
+  "subtypes": ["Goblin", "Cheerleader"],
+  "text": "Whenever Fist-Bump Fanatic attacks, fist-bump the player to your left. If they fist-bump back, Fist-Bump Fanatic gets +2/+0 until end of turn from sheer camaraderie.\nIf they leave you hanging, Fist-Bump Fanatic gets -1/-0 and is, frankly, devastated. Look at it. Look what they did to it.\nFinish the fist-bump with an explosion sound for an extra +1/+0. Yes, the sound is required.",
+  "power": "1",
+  "toughness": "2",
+  "rarity": "common",
+  "chaos": 3,
+  "flavorText": "Pound it. POUND IT. ...okay, never mind.",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "A308",
+  "extras": {
+    "physicalAction": "fist-bump with explosion sound",
+    "fourthWall": "player to your left",
+    "theme": "goblins"
+  }
+}
