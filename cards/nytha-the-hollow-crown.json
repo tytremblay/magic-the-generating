@@ -1,0 +1,20 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Nytha, the Hollow Crown",
+  "manaCost": "{2}{B}{B}",
+  "manaValue": 4,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Legendary Planeswalker — Nytha",
+  "types": ["Planeswalker"],
+  "supertypes": ["Legendary"],
+  "subtypes": ["Nytha"],
+  "text": "+1: Each opponent discards a card and loses 1 life.\n−2: Return target creature card from your graveyard to the battlefield. It gains \"When this creature dies, exile it.\"\n−7: You get an emblem with \"Creatures you control get +2/+2 and have menace.\"",
+  "loyalty": "4",
+  "rarity": "mythic",
+  "flavorText": "Her court is full. None of them breathe.",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "098",
+  "uuid": "ff70438b-cf2c-47f5-bf9c-a8ac6a994be4"
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Skyreach Bastion",
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["W", "U"],
+  "type": "Land",
+  "types": ["Land"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Skyreach Bastion enters the battlefield tapped.\n{T}: Add {W} or {U}.",
+  "keywords": [],
+  "rarity": "common",
+  "flavorText": "From its parapets, the storm looks small.",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "248",
+  "uuid": "4795b8a3-6bc9-4884-b5ba-c005cf03fe52"
+}

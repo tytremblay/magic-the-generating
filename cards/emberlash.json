@@ -1,0 +1,20 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Emberlash",
+  "manaCost": "{R}",
+  "manaValue": 1,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Emberlash deals 2 damage to any target. If that damage would be dealt to a creature, Emberlash deals 3 damage to it instead.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "flavorText": "A short word, sharply spoken.",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "131",
+  "uuid": "2a5045fe-3218-4867-8810-3197c02e499f"
+}

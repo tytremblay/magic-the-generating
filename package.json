@@ -1,0 +1,15 @@
+{
+  "name": "magic-the-generating",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AI-generated Magic: The Gathering cards in a standardized JSON format.",
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "build": "node scripts/build-manifest.mjs",
+    "dev": "node scripts/build-manifest.mjs && node scripts/serve.mjs"
+  },
+  "devDependencies": {
+    "ajv": "^8.17.1"
+  }
+}

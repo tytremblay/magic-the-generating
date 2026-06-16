@@ -1,0 +1,20 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Sentinel Lattice",
+  "manaCost": "{3}",
+  "manaValue": 3,
+  "colors": [],
+  "colorIdentity": [],
+  "type": "Artifact",
+  "types": ["Artifact"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "{T}: Add one mana of any color.\n{4}, {T}: Draw a card.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "flavorText": "It hums in every tongue and answers to none.",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "211",
+  "uuid": "da0b32aa-9a5a-4eb0-8305-173fd3365a28"
+}

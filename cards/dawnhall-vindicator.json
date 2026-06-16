@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Dawnhall Vindicator",
+  "manaCost": "{2}{W}",
+  "manaValue": 3,
+  "colors": ["W"],
+  "colorIdentity": ["W"],
+  "type": "Creature — Human Soldier",
+  "types": ["Creature"],
+  "supertypes": [],
+  "subtypes": ["Human", "Soldier"],
+  "text": "Vigilance\nWhenever Dawnhall Vindicator attacks, you gain 1 life.",
+  "power": "2",
+  "toughness": "3",
+  "keywords": ["Vigilance"],
+  "rarity": "common",
+  "flavorText": "Every dawn, she counts the living.",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "012",
+  "uuid": "3dd6bcb0-264e-42f3-916a-bb7f710bfcdb"
+}

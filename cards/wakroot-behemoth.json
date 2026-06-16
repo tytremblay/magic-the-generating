@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Wakroot Behemoth",
+  "manaCost": "{4}{G}{G}",
+  "manaValue": 6,
+  "colors": ["G"],
+  "colorIdentity": ["G"],
+  "type": "Creature — Beast",
+  "types": ["Creature"],
+  "supertypes": [],
+  "subtypes": ["Beast"],
+  "text": "Trample\nWhen Wakroot Behemoth enters the battlefield, you may destroy target artifact or enchantment.",
+  "power": "6",
+  "toughness": "6",
+  "keywords": ["Trample"],
+  "rarity": "rare",
+  "flavorText": "The forest does not forgive the axe.",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "176",
+  "uuid": "bcc10718-3ff1-4a1f-a636-466dd937e13c"
+}

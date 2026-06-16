@@ -1,0 +1,125 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://magic-the-generating/card.schema.json",
+  "title": "Generated MTG Card",
+  "description": "Standardized format for AI-generated Magic: The Gathering cards. See CARD_GENERATION_GUIDE.md.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["name", "manaValue", "colors", "colorIdentity", "type", "types", "rarity"],
+  "properties": {
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Card name. Use ' // ' to delimit faces on split/MDFC/transform cards."
+    },
+    "manaCost": {
+      "type": "string",
+      "pattern": "^(\\{[0-9WUBRGCXSP/]+\\})+$",
+      "description": "Mana cost in curly-brace symbols, e.g. {2}{U}{U}. Omit for lands."
+    },
+    "manaValue": {
+      "type": "number",
+      "minimum": 0,
+      "description": "Total mana value (X counts as 0)."
+    },
+    "colors": {
+      "type": "array",
+      "items": { "type": "string", "enum": ["W", "U", "B", "R", "G"] },
+      "uniqueItems": true,
+      "description": "Colors from the mana cost / color indicator. Empty for colorless."
+    },
+    "colorIdentity": {
+      "type": "array",
+      "items": { "type": "string", "enum": ["W", "U", "B", "R", "G"] },
+      "uniqueItems": true,
+      "description": "All colors in cost, indicator, and rules-text symbols."
+    },
+    "type": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Full type line, e.g. 'Legendary Creature — Dragon Wizard'."
+    },
+    "types": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["Artifact", "Battle", "Creature", "Enchantment", "Instant", "Land", "Planeswalker", "Sorcery", "Kindred", "Tribal"]
+      },
+      "minItems": 1,
+      "uniqueItems": true,
+      "description": "Card types only."
+    },
+    "supertypes": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["Basic", "Legendary", "Snow", "World", "Ongoing", "Elite", "Host"]
+      },
+      "uniqueItems": true
+    },
+    "subtypes": {
+      "type": "array",
+      "items": { "type": "string" },
+      "uniqueItems": true,
+      "description": "e.g. ['Dragon','Wizard'], ['Equipment'], ['Aura']."
+    },
+    "text": {
+      "type": "string",
+      "description": "Rules text. Use \\n between ability paragraphs."
+    },
+    "power": {
+      "type": "string",
+      "description": "Creature/Vehicle power. String to allow * and X."
+    },
+    "toughness": {
+      "type": "string",
+      "description": "Creature/Vehicle toughness. String to allow * and X."
+    },
+    "loyalty": {
+      "type": "string",
+      "description": "Starting loyalty for planeswalkers."
+    },
+    "defense": {
+      "type": "string",
+      "description": "Defense value for Battle cards."
+    },
+    "keywords": {
+      "type": "array",
+      "items": { "type": "string" },
+      "uniqueItems": true,
+      "description": "Keyword abilities present (capitalized)."
+    },
+    "rarity": {
+      "type": "string",
+      "enum": ["common", "uncommon", "rare", "mythic"]
+    },
+    "flavorText": { "type": "string" },
+    "artist": { "type": "string" },
+    "set": {
+      "type": "string",
+      "description": "Uppercase set code."
+    },
+    "number": {
+      "type": "string",
+      "description": "Collector number within the set."
+    },
+    "uuid": {
+      "type": "string",
+      "description": "v4/v5 UUID for dedup."
+    }
+  },
+  "allOf": [
+    {
+      "if": { "properties": { "types": { "contains": { "const": "Creature" } } } },
+      "then": { "required": ["power", "toughness"] }
+    },
+    {
+      "if": { "properties": { "types": { "contains": { "const": "Planeswalker" } } } },
+      "then": { "required": ["loyalty"] }
+    },
+    {
+      "if": { "properties": { "types": { "contains": { "const": "Battle" } } } },
+      "then": { "required": ["defense"] }
+    }
+  ]
+}
