@@ -1,0 +1,16 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Mountain",
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["R"],
+  "type": "Basic Land — Mountain",
+  "types": ["Land"],
+  "supertypes": ["Basic"],
+  "subtypes": ["Mountain"],
+  "text": "({T}: Add {R}.)",
+  "rarity": "common",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "201"
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Island",
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["U"],
+  "type": "Basic Land — Island",
+  "types": ["Land"],
+  "supertypes": ["Basic"],
+  "subtypes": ["Island"],
+  "text": "({T}: Add {U}.)",
+  "rarity": "common",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "200"
+}

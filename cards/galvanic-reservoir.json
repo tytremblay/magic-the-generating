@@ -1,0 +1,18 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Galvanic Reservoir",
+  "manaCost": "{3}",
+  "manaValue": 3,
+  "colors": [],
+  "colorIdentity": [],
+  "type": "Artifact",
+  "types": ["Artifact"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "{T}: Add {C}{C}.",
+  "rarity": "common",
+  "flavorText": "Stored lightning, bottled for a rainy day.",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "224"
+}

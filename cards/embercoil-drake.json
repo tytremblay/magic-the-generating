@@ -15,6 +15,7 @@
   "keywords": ["Flying"],
   "rarity": "uncommon",
   "flavorText": "Its wingbeats sound like cracking embers.",
+  "art": "art/embercoil-drake.jpg",
   "artist": "AI Generated",
   "set": "GEN",
   "number": "112"

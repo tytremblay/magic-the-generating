@@ -1,0 +1,17 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Thunderhead Atoll",
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["U", "R"],
+  "type": "Land",
+  "types": ["Land"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Thunderhead Atoll enters the battlefield tapped.\n{T}: Add {U} or {R}.",
+  "rarity": "common",
+  "flavorText": "Storms gather over the ring of stone, then break inward.",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "209"
+}

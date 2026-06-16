@@ -1,0 +1,17 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Hauntide Drift",
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["U", "R"],
+  "type": "Land",
+  "types": ["Land"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "{T}: Add {U} or {R}.\n{3}{U}{R}: Hauntide Drift becomes a 3/3 blue and red Elemental creature with haste until end of turn. It's still a land.",
+  "rarity": "rare",
+  "flavorText": "The shoreline rose up, and it was angry.",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "213"
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Galecrest Sentinel",
+  "manaCost": "{2}{U}",
+  "manaValue": 3,
+  "colors": ["U"],
+  "colorIdentity": ["U"],
+  "type": "Creature — Bird Soldier",
+  "types": ["Creature"],
+  "supertypes": [],
+  "subtypes": ["Bird", "Soldier"],
+  "text": "Flash\nFlying\nProwess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",
+  "power": "2",
+  "toughness": "3",
+  "keywords": ["Flash", "Flying", "Prowess"],
+  "rarity": "uncommon",
+  "flavorText": "It guards the high winds where only spells and storms dare fly.",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "298"
+}

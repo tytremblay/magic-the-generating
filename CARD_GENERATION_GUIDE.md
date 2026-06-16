@@ -4,6 +4,10 @@ A reference for agents generating fictional Magic: The Gathering cards in this r
 
 Sources: [MTGJSON Card data model](https://mtgjson.com/data-models/card/card-set/) (format), and the [MTGCardSmith Proper Wording Guide](https://forums.mtgcardsmith.com/index.php?p=/discussion/5659/proper-wording-guide) (templating).
 
+> **Assembling decks?** Cards can be collected into **decks** — themed, color-identity-bound collections built under Commander/EDH rules. See [`DECK_BUILDING_GUIDE.md`](./DECK_BUILDING_GUIDE.md) for the deck format and assembly guidance.
+>
+> **Want to go feral?** This guide enforces the rules. To generate unhinged, rules-defying **acorn / Un-set** cards (half-mana, fourth-wall jokes, infinite power, pure nonsense), set `"border": "acorn"` and follow [`UNHINGED_GUIDE.md`](./UNHINGED_GUIDE.md) — those cards use a permissive schema and a holographic frame in the viewer.
+
 ---
 
 ## 1. Standardized JSON format
@@ -29,10 +33,15 @@ This starts a static viewer at `http://localhost:5173` (override with `PORT=…`
 
 Mana, tap, and other `{…}` symbols (in both `manaCost` and `text`) render as real SVG symbols from [`public/symbols/`](./public/symbols/), downloaded from Scryfall — so write costs and abilities using standard tokens like `{2}`, `{W}`, `{T}`, `{W/U}`, `{X}`. Any token without a matching SVG falls back to its literal `{token}` text. See [`public/symbols/README.md`](./public/symbols/README.md) to add more.
 
+### Generating card art
+
+Card illustrations are AI-generated and stored in `public/art/`, referenced by each card's `art` field. Use the repo-local **`generate-card-art`** skill (`.claude/skills/generate-card-art/`) to generate art for one card, several, or every card missing it — it builds a prompt from the card's type/colors/flavor, generates the image, sets the `art` field, and rebuilds the manifest. Cards without art simply show a placeholder in the viewer.
+
 ### Field reference
 
 | Field | Type | Required | Description |
 |---|---|---|---|
+| `border` | string | ⬦ | `"black"` (default, omit) for rules-legal cards, or `"acorn"` to make an Un-set card validated by the permissive schema. See [`UNHINGED_GUIDE.md`](./UNHINGED_GUIDE.md). |
 | `name` | string | ✅ | Card name. Use `" // "` to delimit faces on split/MDFC/transform cards. |
 | `manaCost` | string | ⬦ | Mana cost in curly-brace symbols, e.g. `"{2}{U}{U}"`. Omit for lands. Symbol order: `{X}` then generic, then `WUBRG`. |
 | `manaValue` | number | ✅ | Total converted mana value (the old "CMC"). `{X}` counts as 0. |
@@ -50,6 +59,7 @@ Mana, tap, and other `{…}` symbols (in both `manaCost` and `text`) render as r
 | `keywords` | string[] | ⬦ | Keyword abilities present, e.g. `["Flying","Trample"]`. Capitalized here even though lowercase in text. |
 | `rarity` | string | ✅ | One of `"common"`, `"uncommon"`, `"rare"`, `"mythic"`. |
 | `flavorText` | string | ⬦ | Italicized flavor text (no rules meaning). |
+| `art` | string | ⬦ | Path to the card's illustration relative to `public/`, e.g. `"art/embercoil-drake.jpg"`. The viewer shows a placeholder when absent. Generate with the `generate-card-art` skill. |
 | `artist` | string | ⬦ | Credited (fictional) illustrator. |
 | `set` | string | ⬦ | Set code this card belongs to (uppercase), generator-specific. |
 | `number` | string | ⬦ | Collector number within the set. |

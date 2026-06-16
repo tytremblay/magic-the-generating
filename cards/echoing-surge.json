@@ -1,0 +1,20 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Echoing Surge",
+  "manaCost": "{1}{U}",
+  "manaValue": 2,
+  "colors": ["U"],
+  "colorIdentity": ["U"],
+  "type": "Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "The first instant or sorcery spell you cast each turn costs {1} less to cast.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "flavorText": "The tide remembers the shape of yesterday's wave.",
+  "art": "art/echoing-surge.png",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "323"
+}

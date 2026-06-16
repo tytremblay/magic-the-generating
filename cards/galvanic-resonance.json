@@ -1,0 +1,19 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Galvanic Resonance",
+  "manaCost": "{3}{U}{R}",
+  "manaValue": 5,
+  "colors": ["U", "R"],
+  "colorIdentity": ["U", "R"],
+  "type": "Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Whenever you cast your second spell each turn, draw a card, then discard a card.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "flavorText": "Two charges meet, and the air sings between them.",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "326"
+}

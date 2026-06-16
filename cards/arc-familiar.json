@@ -1,0 +1,21 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Arc Familiar",
+  "manaCost": "{1}{U}",
+  "manaValue": 2,
+  "colors": ["U"],
+  "colorIdentity": ["U", "R"],
+  "type": "Artifact Creature — Construct",
+  "types": ["Artifact", "Creature"],
+  "supertypes": [],
+  "subtypes": ["Construct"],
+  "text": "{T}: Add {U} or {R}.",
+  "power": "0",
+  "toughness": "2",
+  "rarity": "uncommon",
+  "flavorText": "A loyal coil of wire and sparks, ever eager to assist.",
+  "art": "art/arc-familiar.png",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "229"
+}

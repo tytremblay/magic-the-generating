@@ -15,6 +15,7 @@
   "keywords": ["Trample"],
   "rarity": "rare",
   "flavorText": "The forest does not forgive the axe.",
+  "art": "art/wakroot-behemoth.jpg",
   "artist": "AI Generated",
   "set": "GEN",
   "number": "176",

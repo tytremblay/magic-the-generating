@@ -1,0 +1,18 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Surge Capacitor",
+  "manaCost": "{4}",
+  "manaValue": 4,
+  "colors": [],
+  "colorIdentity": ["U", "R"],
+  "type": "Artifact",
+  "types": ["Artifact"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "{T}: Add three mana in any combination of {U} and/or {R}.",
+  "rarity": "uncommon",
+  "flavorText": "Charged to bursting, it waits for the perfect spell.",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "228"
+}

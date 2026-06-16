@@ -1,0 +1,59 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://magic-the-generating/card.acorn.schema.json",
+  "title": "Acorn (Un-set) MTG Card",
+  "description": "Permissive schema for unhinged, rules-defying acorn-border cards. Almost anything goes — the only hard requirements are a name and border: \"acorn\". See UNHINGED_GUIDE.md.",
+  "type": "object",
+  "additionalProperties": true,
+  "required": ["name", "border"],
+  "properties": {
+    "$schema": { "type": "string" },
+    "border": {
+      "const": "acorn",
+      "description": "Marks this as an un-card. Routes the card to this permissive schema instead of card.schema.json."
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Card name. May be absurdly long, a full sentence, or punctuation soup."
+    },
+    "subtitle": { "type": "string", "description": "Optional second line under the name (titles, honorifics, disclaimers)." },
+    "manaCost": {
+      "type": "string",
+      "description": "Any string. {½}, {∞}, {🍕}, {Q}, or a prose cost like 'High-five a friend' are all fine."
+    },
+    "manaValue": {
+      "type": ["number", "string"],
+      "description": "Number, or a joke string like \"yes\" / \"∞\" / \"a lot\"."
+    },
+    "colors": { "type": "array", "description": "Free-form; not validated against WUBRG." },
+    "colorIdentity": { "type": "array" },
+    "type": { "type": "string", "description": "Free-form type line. Pile on as many words as you like." },
+    "types": { "type": "array" },
+    "supertypes": { "type": "array" },
+    "subtypes": { "type": "array" },
+    "text": { "type": "string", "description": "Rules text. Break every templating convention you want." },
+    "power": { "type": ["string", "number"], "description": "Anything: \"∞\", \"🥖\", \"-3\", \"π\", \"frog\"." },
+    "toughness": { "type": ["string", "number"] },
+    "loyalty": { "type": ["string", "number"] },
+    "defense": { "type": ["string", "number"] },
+    "keywords": { "type": "array", "description": "Real or invented keywords." },
+    "rarity": { "type": "string", "description": "Any string, including \"acorn\" or made-up rarities." },
+    "flavorText": { "type": "string" },
+    "art": { "type": "string" },
+    "artist": { "type": "string" },
+    "set": { "type": "string" },
+    "number": { "type": "string" },
+    "uuid": { "type": "string" },
+    "chaos": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5,
+      "description": "Chaos dial 1 (slightly silly) to 5 (total nonsense). See UNHINGED_GUIDE.md."
+    },
+    "extras": {
+      "type": "object",
+      "description": "Bag for novel mechanics: physical actions, dice rolls, fourth-wall hooks, stickers, contraptions, etc. Any shape."
+    }
+  }
+}

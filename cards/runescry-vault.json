@@ -1,0 +1,17 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Runescry Vault",
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": [],
+  "type": "Land",
+  "types": ["Land"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "{T}: Add {C}.\n{1}, {T}: Scry 1.",
+  "rarity": "uncommon",
+  "flavorText": "Every glyph on the wall is a question already answered.",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "210"
+}

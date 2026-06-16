@@ -1,0 +1,20 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Sparkscribe Adept",
+  "manaCost": "{1}{U}",
+  "manaValue": 2,
+  "colors": ["U"],
+  "colorIdentity": ["U"],
+  "type": "Creature — Goblin Wizard",
+  "types": ["Creature"],
+  "supertypes": [],
+  "subtypes": ["Goblin", "Wizard"],
+  "text": "Whenever you cast your second spell each turn, draw a card.",
+  "power": "1",
+  "toughness": "2",
+  "rarity": "uncommon",
+  "flavorText": "She scribbles faster than the spark can fade.",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "247"
+}

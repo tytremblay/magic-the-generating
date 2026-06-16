@@ -1,0 +1,18 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Mindlash Pulse",
+  "manaCost": "{1}{U}{R}",
+  "manaValue": 3,
+  "colors": ["U", "R"],
+  "colorIdentity": ["U", "R"],
+  "type": "Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Choose one —\n• Counter target spell unless its controller pays {2}.\n• Mindlash Pulse deals 3 damage to any target.",
+  "rarity": "uncommon",
+  "flavorText": "Stop a thought, or end one. The mage rarely decides until the last instant.",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "267"
+}

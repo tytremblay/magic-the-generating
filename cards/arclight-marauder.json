@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Arclight Marauder",
+  "manaCost": "{3}{R}",
+  "manaValue": 4,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Creature — Goblin Warrior",
+  "types": ["Creature"],
+  "supertypes": [],
+  "subtypes": ["Goblin", "Warrior"],
+  "text": "Menace, haste",
+  "power": "4",
+  "toughness": "2",
+  "keywords": ["Menace", "Haste"],
+  "rarity": "common",
+  "flavorText": "He charges the front lines the instant the lightning hits.",
+  "art": "art/arclight-marauder.png",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "301"
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Voltaic Phoenix",
+  "manaCost": "{2}{R}{R}",
+  "manaValue": 4,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Creature — Phoenix",
+  "types": ["Creature"],
+  "supertypes": [],
+  "subtypes": ["Phoenix"],
+  "text": "Flying, haste\nWhenever you cast your second spell each turn, you may return Voltaic Phoenix from your graveyard to the battlefield.",
+  "power": "3",
+  "toughness": "3",
+  "keywords": ["Flying", "Haste"],
+  "rarity": "rare",
+  "flavorText": "It dies in a crack of thunder and is reborn in the next.",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "293"
+}

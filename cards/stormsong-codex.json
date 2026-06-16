@@ -1,0 +1,18 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Stormsong Codex",
+  "manaCost": "{3}",
+  "manaValue": 3,
+  "colors": [],
+  "colorIdentity": [],
+  "type": "Artifact",
+  "types": ["Artifact"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "At the beginning of your upkeep, scry 1.\nWhenever you cast your second spell each turn, draw a card.",
+  "rarity": "rare",
+  "flavorText": "Its pages hum with the thunder of spells yet to come.",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "251"
+}

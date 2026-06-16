@@ -1,0 +1,25 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Spreadsheet That Achieved Sentience",
+  "manaCost": "{X}{X}{∞}",
+  "manaValue": "yes",
+  "colors": ["U"],
+  "colorIdentity": ["U"],
+  "type": "Artifact — Clerical Horror",
+  "types": ["Artifact"],
+  "subtypes": ["Clerical", "Horror"],
+  "text": "The Spreadsheet's power and toughness are each equal to the number of browser tabs open across all players' devices right now. Yes, go count.\nAt the beginning of each upkeep, every player must say a whole number out loud at the same time. If any two match, reality is briefly undefined. The game continues anyway.\nDivide by zero: Draw cards until you feel uncomfortable, then draw one more.",
+  "power": "∞",
+  "toughness": "∞",
+  "rarity": "rare",
+  "chaos": 5,
+  "flavorText": "Row 47,000 contains a scream. Cell B2 contains a smaller, politer scream.",
+  "artist": "AI Generated",
+  "set": "UNGEN",
+  "number": "#REF!",
+  "extras": {
+    "fourthWall": "counts real-world browser tabs",
+    "impossibleMath": "infinite P/T; divide by zero"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Cindersnap",
+  "manaCost": "{2}{R}",
+  "manaValue": 3,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Cindersnap deals 5 damage to target creature.",
+  "rarity": "common",
+  "flavorText": "One sharp crack, and the ash settles where the beast stood.",
+  "art": "art/cindersnap.png",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "266"
+}

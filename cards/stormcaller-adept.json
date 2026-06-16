@@ -1,0 +1,21 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Stormcaller Adept",
+  "manaCost": "{1}{R}",
+  "manaValue": 2,
+  "colors": ["R"],
+  "colorIdentity": ["U", "R"],
+  "type": "Creature — Human Wizard",
+  "types": ["Creature"],
+  "supertypes": [],
+  "subtypes": ["Human", "Wizard"],
+  "text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\n{2}{U/R}, {T}: Stormcaller Adept deals 1 damage to any target.",
+  "power": "1",
+  "toughness": "3",
+  "keywords": ["Prowess"],
+  "rarity": "uncommon",
+  "flavorText": "The academy taught her theory. The storm taught her aim.",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "299"
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Stormcoil Ascendancy",
+  "manaCost": "{2}{U}{R}",
+  "manaValue": 4,
+  "colors": ["U", "R"],
+  "colorIdentity": ["U", "R"],
+  "type": "Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Whenever you cast an instant or sorcery spell, create a 1/1 blue and red Elemental creature token with haste.",
+  "keywords": [],
+  "rarity": "rare",
+  "flavorText": "Every incantation leaves a spark behind, hungry to fight.",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "320"
+}

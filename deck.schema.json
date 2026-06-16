@@ -1,0 +1,115 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://magic-the-generating/deck.schema.json",
+  "title": "Generated MTG Deck",
+  "description": "A collection of cards united by a loose theme and a color identity. Defaults to Commander/EDH construction. See DECK_BUILDING_GUIDE.md.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["name", "format", "theme", "colorIdentity", "cards"],
+  "properties": {
+    "$schema": { "type": "string" },
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Deck name."
+    },
+    "format": {
+      "type": "string",
+      "enum": ["commander", "freeform"],
+      "default": "commander",
+      "description": "Construction ruleset. 'commander' = 100-card singleton led by a legendary creature. 'freeform' = no size or singleton constraints."
+    },
+    "theme": {
+      "type": "string",
+      "minLength": 1,
+      "description": "The loose theme / game plan, in a sentence."
+    },
+    "description": {
+      "type": "string",
+      "description": "Longer flavor or strategy notes."
+    },
+    "colorIdentity": {
+      "type": "array",
+      "items": { "type": "string", "enum": ["W", "U", "B", "R", "G"] },
+      "uniqueItems": true,
+      "description": "The deck's color identity. Every card's colorIdentity must be a subset of this. Empty for a colorless deck."
+    },
+    "commander": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "uniqueItems": true,
+      "minItems": 1,
+      "maxItems": 2,
+      "description": "Card name(s) of the commander(s). One, or two for partner/background. Required for format 'commander'. The deck's colorIdentity must equal the union of the commanders' color identities."
+    },
+    "bracket": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5,
+      "description": "Commander power bracket: 1 Exhibition, 2 Core, 3 Upgraded, 4 Optimized, 5 cEDH."
+    },
+    "cards": {
+      "type": "array",
+      "description": "The cards assigned to this deck so far. Each entry references a card by name (matched against cards/*.json). A deck may be a work in progress — list only the cards that exist; use 'plan' to document the intended full build.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["name"],
+        "properties": {
+          "name": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Card name; matched against cards/*.json by exact name."
+          },
+          "count": {
+            "type": "integer",
+            "minimum": 1,
+            "default": 1,
+            "description": "Number of copies. Must be 1 in singleton formats except basic lands."
+          },
+          "role": {
+            "type": "string",
+            "enum": [
+              "Commander",
+              "Land",
+              "Ramp",
+              "Draw",
+              "Interaction",
+              "Board Wipe",
+              "Threat",
+              "Payoff",
+              "Synergy",
+              "Protection",
+              "Tutor",
+              "Utility"
+            ],
+            "description": "The functional role this card fills in the deck."
+          },
+          "note": {
+            "type": "string",
+            "description": "Optional reason this card is in the deck."
+          }
+        }
+      }
+    },
+    "plan": {
+      "type": "object",
+      "description": "Target composition to fill the deck to size. Documents intent; not enforced by the schema. Keys other than 'size' are category names mapped to a target card count.",
+      "properties": {
+        "size": {
+          "type": "integer",
+          "minimum": 1,
+          "default": 100,
+          "description": "Total card count the finished deck should reach (100 for Commander, including the commander)."
+        }
+      },
+      "additionalProperties": { "type": "integer", "minimum": 0 }
+    }
+  },
+  "allOf": [
+    {
+      "if": { "properties": { "format": { "const": "commander" } }, "required": ["format"] },
+      "then": { "required": ["commander", "bracket"] }
+    }
+  ]
+}

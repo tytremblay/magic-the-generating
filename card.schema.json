@@ -7,6 +7,12 @@
   "additionalProperties": false,
   "required": ["name", "manaValue", "colors", "colorIdentity", "type", "types", "rarity"],
   "properties": {
+    "border": {
+      "type": "string",
+      "enum": ["black", "acorn"],
+      "default": "black",
+      "description": "Card border. Omit or 'black' for rules-legal cards. 'acorn' routes the card to the permissive card.acorn.schema.json instead — see UNHINGED_GUIDE.md."
+    },
     "name": {
       "type": "string",
       "minLength": 1,
@@ -94,6 +100,10 @@
       "enum": ["common", "uncommon", "rare", "mythic"]
     },
     "flavorText": { "type": "string" },
+    "art": {
+      "type": "string",
+      "description": "Path to the card art relative to the viewer root (public/), e.g. 'art/embercoil-drake.jpg'. Optional; the viewer shows a placeholder when absent."
+    },
     "artist": { "type": "string" },
     "set": {
       "type": "string",

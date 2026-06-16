@@ -1,0 +1,18 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Riftpage Recall",
+  "manaCost": "{1}{U}",
+  "manaValue": 2,
+  "colors": ["U"],
+  "colorIdentity": ["U"],
+  "type": "Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Return target instant or sorcery card from your graveyard to your hand.\nScry 1.",
+  "rarity": "common",
+  "flavorText": "Torn from the rift, the page remembers what was cast.",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "250"
+}

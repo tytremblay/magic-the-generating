@@ -1,0 +1,19 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Cinder Divination",
+  "manaCost": "{2}{R}",
+  "manaValue": 3,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Draw three cards, then discard a card.",
+  "rarity": "uncommon",
+  "flavorText": "Every answer the embers offer costs a little ash.",
+  "art": "art/cinder-divination.png",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "241"
+}

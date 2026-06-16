@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Sir Reginald Flufflebottom III, Esq., Destroyer of Brunch",
+  "manaCost": "{2}{🥐}{R}",
+  "manaValue": 4,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Legendary Acorn Creature — Aristocat Disaster",
+  "types": ["Creature"],
+  "supertypes": ["Legendary"],
+  "subtypes": ["Aristocat", "Disaster"],
+  "text": "When Sir Reginald enters the battlefield, roll a six-sided die. On a 4 or higher, gently knock the nearest object off a table.\nWhenever Sir Reginald attacks, the loudest player at the table loses 1 life. You decide who is loudest. You are extremely biased.\nHigh-five a friend: Sir Reginald gains flying until you two stop being friends.",
+  "power": "3",
+  "toughness": "🐟",
+  "keywords": ["Flying"],
+  "rarity": "mythic",
+  "chaos": 4,
+  "flavorText": "He has never paid for brunch. He never will.",
+  "artist": "AI Generated",
+  "set": "UNGEN",
+  "number": "🥐001",
+  "extras": {
+    "physicalAction": "high-five",
+    "dice": "d6"
+  }
+}

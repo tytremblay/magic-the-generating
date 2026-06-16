@@ -1,0 +1,21 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Why Is the Frog Like That",
+  "manaCost": "{2}{U}",
+  "manaValue": 3,
+  "colors": ["U"],
+  "colorIdentity": ["U"],
+  "type": "Enchantment Creature — Vibe",
+  "types": ["Enchantment", "Creature"],
+  "subtypes": ["Vibe"],
+  "text": "Frog do be flying. (It cannot be blocked by creatures that are also, on some level, confused.)\nWhenever you cast your feelings, scry your soul, then draw a conclusion.\nThis card is legal in every format in which it is not banned, which is, regrettably, none of them.",
+  "power": "*",
+  "toughness": "frog",
+  "rarity": "uncommon",
+  "chaos": 5,
+  "flavorText": "the frog knows. the frog has always known. ask it nothing.",
+  "artist": "AI Generated",
+  "set": "UNGEN",
+  "number": "ribbit"
+}

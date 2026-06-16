@@ -1,0 +1,17 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Sparkwake Channel",
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["U", "R"],
+  "type": "Land",
+  "types": ["Land"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "{T}: Add {C}.\n{T}: Add {U} or {R}. Sparkwake Channel deals 1 damage to you.",
+  "rarity": "rare",
+  "flavorText": "Every current leaves a scar in its wake.",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "206"
+}

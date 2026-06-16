@@ -3,5 +3,9 @@ node_modules/
 .DS_Store
 *.log
 
+# local agent config (skills are committed; local settings are not)
+.claude/settings.local.json
+
 # build output
 public/cards.json
+public/decks.json

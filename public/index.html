@@ -4,15 +4,20 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Magic the Generating — Card Viewer</title>
-    <link rel="stylesheet" href="/styles.css" />
+    <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
     <header class="topbar">
       <h1>Magic the Generating</h1>
+      <nav class="tabs">
+        <button id="tab-cards" class="tab active" type="button">Cards</button>
+        <button id="tab-decks" class="tab" type="button">Decks</button>
+      </nav>
       <input id="search" type="search" placeholder="Filter by name, type, text…" autocomplete="off" />
       <span id="count" class="count"></span>
     </header>
-    <main id="gallery" class="gallery" aria-live="polite"></main>
-    <script type="module" src="/app.js"></script>
+    <main id="cards-view" class="gallery" aria-live="polite"></main>
+    <main id="decks-view" class="decks" aria-live="polite" hidden></main>
+    <script type="module" src="app.js"></script>
   </body>
 </html>

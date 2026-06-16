@@ -1,0 +1,20 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Tidehunter Leviathan",
+  "manaCost": "{5}{U}{U}",
+  "manaValue": 7,
+  "colors": ["U"],
+  "colorIdentity": ["U"],
+  "type": "Creature — Leviathan",
+  "types": ["Creature"],
+  "supertypes": [],
+  "subtypes": ["Leviathan"],
+  "text": "This spell costs {1} less to cast for each instant and sorcery card in your graveyard.\nTidehunter Leviathan can't be blocked by more than one creature.",
+  "power": "6",
+  "toughness": "6",
+  "rarity": "rare",
+  "flavorText": "It feeds on the echoes of every spell ever cast above the waves.",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "292"
+}

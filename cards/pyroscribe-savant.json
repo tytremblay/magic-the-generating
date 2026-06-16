@@ -1,0 +1,21 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Pyroscribe Savant",
+  "manaCost": "{2}{R}",
+  "manaValue": 3,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Creature — Goblin Shaman",
+  "types": ["Creature"],
+  "supertypes": [],
+  "subtypes": ["Goblin", "Shaman"],
+  "text": "Whenever you cast an instant or sorcery spell, Pyroscribe Savant deals 1 damage to each opponent.",
+  "power": "2",
+  "toughness": "2",
+  "keywords": [],
+  "rarity": "uncommon",
+  "flavorText": "He scribbles spells in soot, then reads them aloud just to watch them burn.",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "322"
+}

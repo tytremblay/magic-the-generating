@@ -1,0 +1,19 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Maelstrom Crescendo",
+  "manaCost": "{4}{U}{R}",
+  "manaValue": 6,
+  "colors": ["U", "R"],
+  "colorIdentity": ["U", "R"],
+  "type": "Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Draw a card for each instant and sorcery card in your graveyard.",
+  "keywords": [],
+  "rarity": "mythic",
+  "flavorText": "Every spell you ever cast comes roaring back at once.",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "331"
+}

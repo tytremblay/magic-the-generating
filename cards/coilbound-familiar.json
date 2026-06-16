@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Coilbound Familiar",
+  "manaCost": "{2}{U}",
+  "manaValue": 3,
+  "colors": ["U"],
+  "colorIdentity": ["U"],
+  "type": "Creature — Otter Wizard",
+  "types": ["Creature"],
+  "supertypes": [],
+  "subtypes": ["Otter", "Wizard"],
+  "text": "Whenever you cast your second spell each turn, scry 2.",
+  "power": "2",
+  "toughness": "2",
+  "keywords": [],
+  "rarity": "common",
+  "flavorText": "It chirps once for danger, twice for a good idea.",
+  "art": "art/coilbound-familiar.png",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "329"
+}

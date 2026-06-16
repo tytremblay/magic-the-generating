@@ -1,0 +1,19 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Spellsurge Totem",
+  "manaCost": "{3}",
+  "manaValue": 3,
+  "colors": [],
+  "colorIdentity": [],
+  "type": "Artifact",
+  "types": ["Artifact"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Instant and sorcery spells you cast cost {1} less to cast.",
+  "keywords": [],
+  "rarity": "rare",
+  "flavorText": "Carved from a lightning-struck spire, it hums with borrowed momentum.",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "330"
+}

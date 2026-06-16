@@ -1,0 +1,18 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Kindled Offering",
+  "manaCost": "{1}{R}",
+  "manaValue": 2,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Add {R}{R}{R}.",
+  "rarity": "common",
+  "flavorText": "Feed the flame and it answers threefold.",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "223"
+}

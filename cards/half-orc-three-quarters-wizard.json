@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "½-Orc, ¾-Wizard, ⅞-Confident",
+  "manaCost": "{½}{U}{R}",
+  "manaValue": 2.5,
+  "colors": ["U", "R"],
+  "colorIdentity": ["U", "R"],
+  "type": "Acorn Creature — Fraction Folk Statistician",
+  "types": ["Creature"],
+  "subtypes": ["Fraction", "Folk", "Statistician"],
+  "text": "Prowess, but only on Tuesdays. (If it is not Tuesday, you must lie convincingly about what day it is.)\nWhen ½-Orc enters the battlefield, open any Sticker Sheet and put one sticker on a permanent. That permanent's name becomes the sticker.\n{½}, Balance this card on your head: Copy target instant or sorcery spell. If the card falls before the spell resolves, copy it a second time, purely out of spite.",
+  "power": "1½",
+  "toughness": "2",
+  "keywords": ["Prowess"],
+  "rarity": "rare",
+  "chaos": 4,
+  "flavorText": "Statistically speaking, mostly present.",
+  "artist": "AI Generated",
+  "set": "UNGEN",
+  "number": "½",
+  "extras": {
+    "halfMana": true,
+    "stickers": true,
+    "physicalAction": "balance card on head"
+  }
+}

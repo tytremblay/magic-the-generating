@@ -37,6 +37,21 @@ body {
 }
 .count { color: #9aa0ab; font-size: 13px; }
 
+/* View tabs */
+.tabs { display: flex; gap: 4px; }
+.tab {
+  padding: 7px 14px;
+  border-radius: 8px;
+  border: 1px solid #3a3d46;
+  background: #1b1d22;
+  color: #c7ccd5;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.tab:hover { border-color: #565b66; }
+.tab.active { background: #3a4ed8; border-color: #3a4ed8; color: #fff; }
+
 .gallery {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(var(--card-w), 1fr));
@@ -79,6 +94,55 @@ body {
 .frame-artifact { --frame: linear-gradient(160deg, #cdd4da, #9aa3ac); }
 .frame-colorless { --frame: linear-gradient(160deg, #d4d2cf, #aba8a3); }
 .frame-land { --frame: linear-gradient(160deg, #d8c4a6, #b69a73); }
+.frame-acorn {
+  --frame: linear-gradient(135deg, #f6d365, #fda085, #f9a8d4, #a78bfa, #67e8f9, #86efac, #fde047);
+  --ink: #14110c;
+}
+
+/* ---- Acorn (un-set) holographic treatment ---- */
+.card.acorn { box-shadow: 0 6px 26px rgba(120, 80, 200, 0.5); }
+.card.acorn .card-inner { position: relative; overflow: hidden; }
+.card.acorn .card-inner::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: linear-gradient(115deg, transparent 32%, rgba(255, 255, 255, 0.6) 48%, transparent 64%);
+  background-size: 250% 250%;
+  mix-blend-mode: screen;
+  animation: foil 5.5s linear infinite;
+}
+@keyframes foil {
+  0% { background-position: 130% 0; }
+  100% { background-position: -50% 0; }
+}
+.acorn-stamp {
+  position: absolute;
+  left: 10px;
+  bottom: 8px;
+  z-index: 2;
+  width: 42px;
+  height: 42px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: sans-serif;
+  font-weight: 800;
+  font-size: 9px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #5b21b6;
+  border: 2px solid #5b21b6;
+  border-radius: 50%;
+  transform: rotate(-18deg);
+  background: rgba(255, 255, 255, 0.4);
+  opacity: 0.75;
+}
+
+/* Long un-card names shrink to fit the title bar */
+.card-name.small { font-size: 12.5px; }
+.card-name.tiny { font-size: 10.5px; line-height: 1.08; }
+.card-subtitle { font-weight: 400; font-style: italic; font-size: 10px; opacity: 0.8; }
 
 .bar {
   background: rgba(248, 246, 240, 0.86);
@@ -108,6 +172,11 @@ body {
   font-family: sans-serif;
   font-size: 11px;
   letter-spacing: 0.5px;
+}
+.art.has-art {
+  background: #000;
+  background-size: cover;
+  background-position: center;
 }
 
 .text-box {
@@ -150,3 +219,73 @@ body {
 }
 
 .empty { padding: 60px; text-align: center; color: #9aa0ab; }
+
+/* ---- Decks view ---- */
+.decks { padding: 28px; display: flex; flex-direction: column; gap: 40px; }
+
+.deck {
+  background: #24262d;
+  border: 1px solid #34373f;
+  border-radius: 12px;
+  padding: 22px 24px 26px;
+}
+.deck-head { display: flex; align-items: center; flex-wrap: wrap; gap: 12px; }
+.deck-name { margin: 0; font-size: 22px; font-weight: 700; }
+.deck-pips { display: inline-flex; gap: 3px; align-items: center; }
+.deck-pips .pip {
+  width: 20px; height: 20px; border-radius: 50%;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.35), inset 0 -1px 0 rgba(0, 0, 0, 0.25);
+}
+.deck-bracket {
+  margin-left: auto;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+  color: #c7ccd5;
+  background: #1b1d22;
+  border: 1px solid #3a3d46;
+  border-radius: 999px;
+  padding: 5px 12px;
+}
+.deck-theme { margin: 12px 0 4px; color: #d6dae1; font-size: 15px; line-height: 1.45; max-width: 80ch; }
+.deck-meta { margin: 0 0 8px; color: #9aa0ab; font-size: 13px; }
+
+.deck-role {
+  margin: 22px 0 12px;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: #aeb4be;
+  border-bottom: 1px solid #34373f;
+  padding-bottom: 6px;
+}
+.deck-grid { padding: 0; gap: 22px; justify-items: start; }
+
+/* "Not generated yet" placeholder tile, sized like a card */
+.card.slot {
+  background: #16171c;
+  border: 1px dashed #444853;
+  box-shadow: none;
+  align-items: center;
+  justify-content: center;
+}
+.slot-inner { text-align: center; padding: 16px; }
+.slot-name { font-family: "Times New Roman", Georgia, serif; font-size: 17px; color: #d6dae1; }
+.slot-tag { margin-top: 8px; font-size: 11px; letter-spacing: 0.5px; text-transform: uppercase; color: #6e747f; }
+
+/* Copies badge for basic lands / multiples */
+.card { position: relative; }
+.count-badge {
+  position: absolute;
+  top: 6px;
+  left: 6px;
+  background: rgba(20, 17, 12, 0.85);
+  color: #fff;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  border-radius: 999px;
+  padding: 2px 8px;
+}
