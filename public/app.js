@@ -13,6 +13,7 @@ const cardFilters = document.getElementById("card-filters");
 let cards = [];
 let decks = [];
 let view = "cards";
+let selectedDeckName = null;
 
 const BRACKETS = { 1: "Exhibition", 2: "Core", 3: "Upgraded", 4: "Optimized", 5: "cEDH" };
 const ROLE_ORDER = [
@@ -346,15 +347,79 @@ function renderDeck(deck) {
   return panel;
 }
 
+// A compact entry in the left-hand deck list.
+function deckListItem(deck) {
+  const item = document.createElement("button");
+  item.type = "button";
+  item.className = "deck-list-item";
+  item.dataset.name = deck.name;
+
+  const nm = document.createElement("span");
+  nm.className = "dli-name";
+  nm.textContent = deck.name;
+
+  const meta = document.createElement("span");
+  meta.className = "dli-meta";
+  const pips = document.createElement("span");
+  pips.className = "dli-pips";
+  const id = deck.colorIdentity || [];
+  for (const c of id.length ? id : ["C"]) pips.appendChild(pip(c));
+  const size = deck.plan?.size ?? (deck.format === "commander" ? 100 : null);
+  const tally = document.createElement("span");
+  tally.textContent = size ? `${deck._listed}/${size}` : `${deck._listed}`;
+  meta.append(pips, tally);
+  if (deck.border === "acorn") {
+    const t = document.createElement("span");
+    t.className = "dli-tag acorn";
+    t.textContent = "ACORN";
+    meta.appendChild(t);
+  } else if (deck.bracket) {
+    const t = document.createElement("span");
+    t.className = "dli-tag";
+    t.textContent = `B${deck.bracket}`;
+    meta.appendChild(t);
+  }
+
+  item.append(nm, meta);
+  return item;
+}
+
+// Show one deck in the detail pane and mark its list entry active.
+function selectDeck(deck, listEl, detail) {
+  selectedDeckName = deck.name;
+  for (const el of listEl.querySelectorAll(".deck-list-item")) {
+    el.classList.toggle("active", el.dataset.name === deck.name);
+  }
+  detail.innerHTML = "";
+  detail.appendChild(renderDeck(deck));
+  fitContainer(detail);
+}
+
 function renderDecks(list) {
   decksView.innerHTML = "";
+  count.textContent = `${list.length} deck${list.length === 1 ? "" : "s"}`;
   if (!list.length) {
     decksView.innerHTML = '<p class="empty">No decks match. Add one in <code>decks/</code>.</p>';
-  } else {
-    for (const deck of list) decksView.appendChild(renderDeck(deck));
+    return;
   }
-  count.textContent = `${list.length} deck${list.length === 1 ? "" : "s"}`;
-  fitContainer(decksView);
+  if (!list.some((d) => d.name === selectedDeckName)) selectedDeckName = list[0].name;
+
+  const layout = document.createElement("div");
+  layout.className = "deck-layout";
+  const listEl = document.createElement("aside");
+  listEl.className = "deck-list";
+  const detail = document.createElement("div");
+  detail.className = "deck-detail";
+
+  for (const deck of list) {
+    const item = deckListItem(deck);
+    item.addEventListener("click", () => selectDeck(deck, listEl, detail));
+    listEl.appendChild(item);
+  }
+  layout.append(listEl, detail);
+  decksView.appendChild(layout);
+
+  selectDeck(list.find((d) => d.name === selectedDeckName), listEl, detail);
 }
 
 // ---- Filtering + view switching ----

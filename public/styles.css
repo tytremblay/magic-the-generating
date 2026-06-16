@@ -260,9 +260,76 @@ body {
 
 .empty { padding: 60px; text-align: center; color: #9aa0ab; }
 
-/* ---- Decks view ---- */
-.decks { padding: 28px; display: flex; flex-direction: column; gap: 40px; }
+/* ---- Decks view (master list + detail) ---- */
+.decks { padding: 0; }
 .decks[hidden] { display: none; }
+
+.deck-layout { display: flex; align-items: flex-start; }
+
+.deck-list {
+  flex: 0 0 280px;
+  position: sticky;
+  top: 63px; /* clears the sticky topbar */
+  max-height: calc(100vh - 63px);
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 16px;
+  border-right: 1px solid #34373f;
+  background: #1f2127;
+}
+.deck-list-item {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  text-align: left;
+  padding: 10px 12px;
+  border-radius: 10px;
+  border: 1px solid #34373f;
+  background: #24262d;
+  color: #e8e8ea;
+  cursor: pointer;
+  font: inherit;
+}
+.deck-list-item:hover { border-color: #565b66; }
+.deck-list-item.active { border-color: #3a4ed8; background: #2b2f4a; }
+.dli-name { font-weight: 700; font-size: 14px; line-height: 1.2; }
+.dli-meta { display: flex; align-items: center; gap: 8px; font-size: 12px; color: #9aa0ab; }
+.dli-pips { display: inline-flex; gap: 2px; align-items: center; }
+.dli-pips .pip { width: 14px; height: 14px; border-radius: 50%; box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.35); }
+.dli-tag {
+  margin-left: auto;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  padding: 2px 7px;
+  border-radius: 999px;
+  background: #1b1d22;
+  border: 1px solid #3a3d46;
+  color: #c7ccd5;
+}
+.dli-tag.acorn {
+  border: 0;
+  color: #1b1d22;
+  background: linear-gradient(135deg, #fbbf24, #fb7185, #c084fc, #38bdf8, #4ade80);
+}
+.deck-detail { flex: 1; min-width: 0; padding: 24px; }
+
+@media (max-width: 720px) {
+  .deck-layout { flex-direction: column; }
+  .deck-list {
+    flex: none;
+    width: 100%;
+    position: static;
+    max-height: 40vh;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-right: 0;
+    border-bottom: 1px solid #34373f;
+  }
+  .deck-list-item { flex: 1 1 auto; }
+}
 
 .deck {
   background: #24262d;
