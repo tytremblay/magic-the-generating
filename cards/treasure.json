@@ -1,0 +1,19 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Treasure",
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": [],
+  "type": "Token Artifact — Treasure",
+  "types": ["Artifact"],
+  "supertypes": [],
+  "subtypes": ["Treasure"],
+  "text": "{T}, Sacrifice this artifact: Add one mana of any color.",
+  "rarity": "token",
+  "flavorText": "In Whateverville the treasure is mostly loose change, raffle tickets, and somebody's gold tooth.",
+  "art": "art/treasure.png",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "T2"
+}

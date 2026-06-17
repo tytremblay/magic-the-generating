@@ -1,0 +1,19 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Favor",
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": [],
+  "type": "Token Artifact — Favor",
+  "types": ["Artifact"],
+  "supertypes": [],
+  "subtypes": ["Favor"],
+  "text": "Sacrifice this artifact: Choose a player who owes you a Favor. That player loses 1 life or sacrifices a permanent. You decide which, capisce.",
+  "rarity": "token",
+  "flavorText": "Nothing in this town is free. Everything is just... owed.",
+  "art": "art/favor.png",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "T1"
+}

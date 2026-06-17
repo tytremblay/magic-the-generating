@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Voter",
+  "subtitle": "riled up",
+  "manaValue": 0,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Token Creature — Voter",
+  "types": ["Creature"],
+  "supertypes": [],
+  "subtypes": ["Voter"],
+  "text": "",
+  "power": "1",
+  "toughness": "1",
+  "rarity": "token",
+  "flavorText": "Mad about the water, mad about the mayor, mad about the parking. Voting twice if nobody's looking.",
+  "art": "art/voter-red.png",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "T5"
+}

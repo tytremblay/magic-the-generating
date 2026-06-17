@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Print — single card front</title>
+    <link rel="stylesheet" href="styles.css" />
+    <style>
+      /* Print canvas = makeplayingcards.com poker bleed (822×1122), with the
+         750×1050 cut area centred. The viewport is rendered at a high device
+         scale factor by the exporter for crisp text. The card is built at its
+         native design width (so its fixed-px text fits exactly as in the
+         viewer) and uniformly scaled to fill the cut box. */
+      html, body { margin: 0; padding: 0; }
+      body {
+        width: 822px;
+        height: 1122px;
+        overflow: hidden;
+        background: #0c0b08; /* matches the card's black border → seamless bleed */
+      }
+      .bleed {
+        width: 822px;
+        height: 1122px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #0c0b08;
+      }
+      .cut { width: 750px; height: 1050px; position: relative; overflow: hidden; }
+      .cut .card {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 320px; /* native design width; scaled up by print.js */
+        border-radius: 0; /* square — MPC rounds corners when cutting */
+        box-shadow: none;
+        transform-origin: top left;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="bleed"><div class="cut"></div></div>
+    <script type="module" src="print.js"></script>
+  </body>
+</html>

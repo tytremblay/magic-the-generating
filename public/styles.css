@@ -175,6 +175,7 @@ body {
 .set-symbol.r-uncommon path { fill: #8b95a0; }
 .set-symbol.r-rare path     { fill: #c7a020; }
 .set-symbol.r-mythic path   { fill: #d0531f; }
+.set-symbol.r-token path    { fill: #4a5568; }
 .set-symbol.r-special path  { fill: #8a6cc0; }
 
 /* Art placeholder (image ignored for now) */

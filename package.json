@@ -9,9 +9,11 @@
     "build": "node scripts/build-manifest.mjs",
     "dev": "node scripts/build-manifest.mjs && node scripts/serve.mjs",
     "art": "node scripts/gen-art.mjs",
-    "art:all": "node scripts/gen-art-all.mjs"
+    "art:all": "node scripts/gen-art-all.mjs",
+    "export": "node scripts/build-manifest.mjs && node scripts/export-mpc.mjs"
   },
   "devDependencies": {
-    "ajv": "^8.17.1"
+    "ajv": "^8.17.1",
+    "puppeteer-core": "^25.1.0"
   }
 }

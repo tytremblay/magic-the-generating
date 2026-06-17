@@ -12,3 +12,6 @@ node_modules/
 # build output
 public/cards.json
 public/decks.json
+
+# MPC print export (large, regenerable via `pnpm export`)
+public/print/

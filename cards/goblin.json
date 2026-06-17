@@ -1,0 +1,21 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Goblin",
+  "manaValue": 0,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Token Creature — Goblin",
+  "types": ["Creature"],
+  "supertypes": [],
+  "subtypes": ["Goblin"],
+  "text": "",
+  "power": "1",
+  "toughness": "1",
+  "rarity": "token",
+  "flavorText": "Hand it a clipboard. Regret it immediately.",
+  "art": "art/goblin.png",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "T6"
+}

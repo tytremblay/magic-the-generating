@@ -1,0 +1,19 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Snack",
+  "manaValue": 0,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Token Artifact — Snack",
+  "types": ["Artifact"],
+  "supertypes": [],
+  "subtypes": ["Snack"],
+  "text": "Sacrifice this artifact: You gain 1 life.",
+  "rarity": "token",
+  "flavorText": "Whoever controls the snack controls the room.",
+  "art": "art/snack.png",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "T3"
+}

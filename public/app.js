@@ -1,10 +1,13 @@
 // Fetches public/cards.json + public/decks.json and renders cards onto a fake
 // MTG front frame, and decks as themed collections of those cards.
+import { renderCard, fitText, fitContainer } from "./card.js";
+
 const search = document.getElementById("search");
 const count = document.getElementById("count");
 const cardsView = document.getElementById("cards-view");
 const decksView = document.getElementById("decks-view");
 const tabCards = document.getElementById("tab-cards");
+const tabTokens = document.getElementById("tab-tokens");
 const tabDecks = document.getElementById("tab-decks");
 const acornToggle = document.getElementById("acorn-toggle");
 const groupBy = document.getElementById("group-by");
@@ -26,6 +29,10 @@ const TYPE_ORDER = ["Creature", "Planeswalker", "Instant", "Sorcery", "Artifact"
 const COLOR_ORDER = ["White", "Blue", "Black", "Red", "Green", "Multicolor", "Colorless", "Land"];
 const COLOR_NAME = { W: "White", U: "Blue", B: "Black", R: "Red", G: "Green" };
 
+// Tokens are their own slice of the set (see the Tokens tab). Kept out of the
+// main Cards list so the two don't duplicate each other.
+const isToken = (card) => card.rarity === "token";
+
 function primaryType(card) {
   const types = card.types || [];
   for (const t of TYPE_ORDER) if (types.includes(t)) return t;
@@ -38,200 +45,6 @@ function colorBucket(card) {
   if (colors.length === 0) return "Colorless";
   if (colors.length >= 2) return "Multicolor";
   return COLOR_NAME[colors[0]];
-}
-
-// Shrink a text box's font size until its content fits with no scrollbar — for
-// print-faithful cards (makeplayingcards.com), where scrolling isn't an option.
-function fitText(box) {
-  const MAX = 13, MIN = 6;
-  box.style.fontSize = MAX + "px";
-  if (box.clientHeight === 0) return; // not laid out / hidden; refit when shown
-  let size = MAX;
-  while (size > MIN && box.scrollHeight > box.clientHeight) {
-    size -= 0.5;
-    box.style.fontSize = size + "px";
-  }
-}
-
-function fitContainer(container) {
-  requestAnimationFrame(() => container.querySelectorAll(".text-box").forEach(fitText));
-}
-
-// Frame tint is driven purely by color identity so every card — un-set/"acorn"
-// included — reads as one cohesive Whateverville set rather than two products.
-function frameClass(card) {
-  const types = card.types || [];
-  const colors = card.colors || [];
-  if (types.includes("Land")) return "frame-land";
-  if (colors.length === 0) {
-    return types.includes("Artifact") ? "frame-artifact" : "frame-colorless";
-  }
-  if (colors.length >= 2) return "frame-multi";
-  return "frame-" + colors[0];
-}
-
-// The Whateverville set emblem: a little town-hall silhouette, the same on every
-// card and tinted by rarity (the strongest "same set" signal there is).
-const RARITY_CLASS = {
-  common: "r-common",
-  uncommon: "r-uncommon",
-  rare: "r-rare",
-  mythic: "r-mythic",
-  "mythic rare": "r-mythic",
-};
-function setSymbol(rarity) {
-  const NS = "http://www.w3.org/2000/svg";
-  const svg = document.createElementNS(NS, "svg");
-  svg.setAttribute("viewBox", "0 0 24 24");
-  svg.setAttribute("class", "set-symbol " + (RARITY_CLASS[rarity] || "r-special"));
-  const p = document.createElementNS(NS, "path");
-  // Pediment, architrave, four columns, base — reads instantly as "city hall".
-  p.setAttribute(
-    "d",
-    "M12 2 L23 9 H1 Z M3 10 H21 V12 H3 Z M4.5 12 H6.5 V18.5 H4.5 Z " +
-      "M9 12 H11 V18.5 H9 Z M13 12 H15 V18.5 H13 Z M17.5 12 H19.5 V18.5 H17.5 Z " +
-      "M2 18.5 H22 V21.5 H2 Z"
-  );
-  svg.appendChild(p);
-  return svg;
-}
-
-// Token like "W", "2", "T", "W/U", "W/P" -> SVG filename "W", "2", "T", "WU", "WP".
-function symbolFile(token) {
-  return token.replace(/\//g, "").toUpperCase();
-}
-
-// An <img> of the real Scryfall symbol, falling back to literal "{token}" on 404.
-function symbolImg(token) {
-  const img = document.createElement("img");
-  img.className = "ms";
-  img.src = `symbols/${symbolFile(token)}.svg`;
-  img.alt = `{${token}}`;
-  img.title = `{${token}}`;
-  img.addEventListener("error", () => {
-    const t = document.createTextNode(`{${token}}`);
-    img.replaceWith(t);
-  });
-  return img;
-}
-
-function manaCostEl(cost) {
-  const wrap = document.createElement("span");
-  wrap.className = "mana-cost";
-  if (!cost) return wrap;
-  for (const m of cost.matchAll(/\{([^}]+)\}/g)) wrap.appendChild(symbolImg(m[1]));
-  return wrap;
-}
-
-// Append a rules-text string to `parent`, replacing every {…} token with a symbol image.
-function appendTextWithSymbols(parent, text) {
-  let last = 0;
-  for (const m of text.matchAll(/\{([^}]+)\}/g)) {
-    if (m.index > last) parent.appendChild(document.createTextNode(text.slice(last, m.index)));
-    parent.appendChild(symbolImg(m[1]));
-    last = m.index + m[0].length;
-  }
-  if (last < text.length) parent.appendChild(document.createTextNode(text.slice(last)));
-}
-
-function renderCard(card, { zoomable = true } = {}) {
-  const el = document.createElement("article");
-  el.className = "card";
-
-  const inner = document.createElement("div");
-  inner.className = "card-inner " + frameClass(card);
-
-  // Title bar: name + mana cost. Long un-card names shrink to fit.
-  const title = document.createElement("div");
-  title.className = "bar";
-  const name = document.createElement("span");
-  const len = (card.name || "").length;
-  name.className = "card-name" + (len > 34 ? " tiny" : len > 22 ? " small" : "");
-  name.textContent = card.name || "(unnamed)";
-  if (card.subtitle) {
-    const sub = document.createElement("span");
-    sub.className = "card-subtitle";
-    sub.textContent = card.subtitle;
-    name.append(document.createElement("br"), sub);
-  }
-  title.append(name, manaCostEl(card.manaCost));
-
-  // Art: real illustration if present, else a hatched placeholder
-  const art = document.createElement("div");
-  art.className = "art";
-  if (card.art) {
-    art.classList.add("has-art");
-    art.style.backgroundImage = `url("${card.art}")`;
-  } else {
-    art.textContent = "ART";
-  }
-
-  // Type line: type text on the left, the Whateverville set emblem on the right.
-  const typeLine = document.createElement("div");
-  typeLine.className = "bar type-line";
-  const typeText = document.createElement("span");
-  typeText.className = "type-text";
-  typeText.textContent = card.type || "";
-  typeLine.append(typeText, setSymbol(card.rarity));
-
-  // Text box: rules text (one <p> per line) + flavor
-  const textBox = document.createElement("div");
-  textBox.className = "text-box";
-  if (card.text) {
-    for (const line of card.text.split("\n")) {
-      const p = document.createElement("p");
-      appendTextWithSymbols(p, line);
-      textBox.appendChild(p);
-    }
-  }
-  if (card.flavorText) {
-    const fl = document.createElement("p");
-    fl.className = "flavor";
-    fl.textContent = card.flavorText;
-    textBox.appendChild(fl);
-  }
-
-  inner.append(title, art, typeLine, textBox);
-
-  // Bottom-right badge: P/T, loyalty, or defense
-  if (card.power != null && card.toughness != null) {
-    const pt = document.createElement("div");
-    pt.className = "pt";
-    pt.textContent = `${card.power}/${card.toughness}`;
-    inner.appendChild(pt);
-  } else if (card.loyalty != null) {
-    const l = document.createElement("div");
-    l.className = "loyalty";
-    l.textContent = card.loyalty;
-    inner.appendChild(l);
-  } else if (card.defense != null) {
-    const d = document.createElement("div");
-    d.className = "loyalty";
-    d.textContent = card.defense;
-    inner.appendChild(d);
-  }
-
-  // Collector line: the same municipal-document footer on every card.
-  const RARITY_CODE = { common: "C", uncommon: "U", rare: "R", mythic: "M", "mythic rare": "M" };
-  const collector = document.createElement("div");
-  collector.className = "collector";
-  const left = document.createElement("span");
-  left.textContent = [card.number, RARITY_CODE[card.rarity] || "•", "WHATEVERVILLE"]
-    .filter(Boolean)
-    .join(" · ");
-  const right = document.createElement("span");
-  right.textContent = card.artist || "";
-  collector.append(left, right);
-  inner.appendChild(collector);
-
-  el.appendChild(inner);
-
-  // Click a card to read it big in a centered overlay.
-  if (zoomable) {
-    el.classList.add("clickable");
-    el.addEventListener("click", () => openCardOverlay(card));
-  }
-  return el;
 }
 
 // ---- Card zoom overlay ----
@@ -267,7 +80,7 @@ function openCardOverlay(card) {
   ov.innerHTML = "";
   const stage = document.createElement("div");
   stage.className = "card-zoom";
-  const cardEl = renderCard(card, { zoomable: false });
+  const cardEl = renderCard(card);
   stage.appendChild(cardEl);
   ov.appendChild(stage);
   ov.hidden = false;
@@ -288,7 +101,7 @@ function openCardOverlay(card) {
 function gridOf(list) {
   const grid = document.createElement("div");
   grid.className = "gallery";
-  for (const card of list) grid.appendChild(renderCard(card));
+  for (const card of list) grid.appendChild(renderCard(card, { onZoom: openCardOverlay }));
   return grid;
 }
 
@@ -322,7 +135,8 @@ function renderCards(list) {
       cardsView.append(head, gridOf(group));
     }
   }
-  count.textContent = `${list.length} card${list.length === 1 ? "" : "s"}`;
+  const noun = view === "tokens" ? "token" : "card";
+  count.textContent = `${list.length} ${noun}${list.length === 1 ? "" : "s"}`;
   fitContainer(cardsView);
 }
 
@@ -430,7 +244,7 @@ function renderDeck(deck) {
     const grid = document.createElement("div");
     grid.className = "gallery deck-grid";
     for (const entry of entries) {
-      const tile = entry.card ? renderCard(entry.card) : slotTile(entry);
+      const tile = entry.card ? renderCard(entry.card, { onZoom: openCardOverlay }) : slotTile(entry);
       if ((entry.count || 1) > 1) {
         const badge = document.createElement("span");
         badge.className = "count-badge";
@@ -521,18 +335,19 @@ function renderDecks(list) {
 }
 
 // ---- Filtering + view switching ----
+function matchesQuery(c, q) {
+  return [c.name, c.type, c.text, c.flavorText]
+    .filter(Boolean)
+    .some((s) => s.toLowerCase().includes(q));
+}
+
 function applyFilter() {
   const q = search.value.trim().toLowerCase();
-  if (view === "cards") {
-    let list = cards;
-    if (!acornToggle.checked) list = list.filter((c) => c.border !== "acorn");
-    if (q) {
-      list = list.filter((c) =>
-        [c.name, c.type, c.text, c.flavorText]
-          .filter(Boolean)
-          .some((s) => s.toLowerCase().includes(q))
-      );
-    }
+  if (view === "cards" || view === "tokens") {
+    // Tokens tab shows only tokens; Cards tab shows everything else.
+    let list = cards.filter((c) => (view === "tokens" ? isToken(c) : !isToken(c)));
+    if (view === "cards" && !acornToggle.checked) list = list.filter((c) => c.border !== "acorn");
+    if (q) list = list.filter((c) => matchesQuery(c, q));
     renderCards(list);
   } else {
     const list = !q
@@ -548,13 +363,21 @@ function applyFilter() {
 
 function switchView(next) {
   view = next;
-  const onCards = next === "cards";
-  cardsView.hidden = !onCards;
-  decksView.hidden = onCards;
-  cardFilters.hidden = !onCards;
-  tabCards.classList.toggle("active", onCards);
-  tabDecks.classList.toggle("active", !onCards);
-  search.placeholder = onCards ? "Filter by name, type, text…" : "Filter decks by name, theme…";
+  const onDecks = next === "decks";
+  // Cards and Tokens both render into the cards gallery; Decks has its own pane.
+  cardsView.hidden = onDecks;
+  decksView.hidden = !onDecks;
+  cardFilters.hidden = onDecks;
+  // The Acorn filter only makes sense for the main Cards list.
+  acornToggle.closest(".chk").hidden = next !== "cards";
+  tabCards.classList.toggle("active", next === "cards");
+  tabTokens.classList.toggle("active", next === "tokens");
+  tabDecks.classList.toggle("active", onDecks);
+  search.placeholder = onDecks
+    ? "Filter decks by name, theme…"
+    : next === "tokens"
+      ? "Filter tokens by name, type…"
+      : "Filter by name, type, text…";
   applyFilter();
 }
 
@@ -562,6 +385,7 @@ search.addEventListener("input", applyFilter);
 acornToggle.addEventListener("change", applyFilter);
 groupBy.addEventListener("change", applyFilter);
 tabCards.addEventListener("click", () => switchView("cards"));
+tabTokens.addEventListener("click", () => switchView("tokens"));
 tabDecks.addEventListener("click", () => switchView("decks"));
 
 // Card width can change when the grid reflows; refit the visible view's text.
@@ -578,6 +402,8 @@ Promise.all([
   .then(([cardData, deckData]) => {
     cards = cardData;
     decks = deckData || [];
+    const tokenCount = cards.filter(isToken).length;
+    tabTokens.textContent = `Tokens${tokenCount ? ` (${tokenCount})` : ""}`;
     tabDecks.textContent = `Decks${decks.length ? ` (${decks.length})` : ""}`;
     applyFilter();
   })
