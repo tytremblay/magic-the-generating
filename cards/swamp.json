@@ -1,0 +1,16 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Swamp",
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["B"],
+  "type": "Basic Land — Swamp",
+  "types": ["Land"],
+  "supertypes": ["Basic"],
+  "subtypes": ["Swamp"],
+  "text": "({T}: Add {B}.)",
+  "rarity": "common",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "203"
+}

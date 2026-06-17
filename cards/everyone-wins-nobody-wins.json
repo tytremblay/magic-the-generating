@@ -1,0 +1,29 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Everyone Wins, Therefore Nobody Wins, Therefore the Frog",
+  "manaCost": "{∞}",
+  "manaValue": "∞",
+  "colors": [],
+  "colorIdentity": [],
+  "type": "Acorn Enchantment — Paradox Mandate",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": ["Paradox", "Mandate"],
+  "text": "Declare every player the winner of the recall, simultaneously, as all players, out loud, at once.\nBecause everyone won, the office is now empty, so everyone must be recalled, so everyone loses, so the office needs filling, so hold the election again, so everyone wins. Repeat this step. There is no end to this step. The frog knows there is no end to this step.\nThe first player to laugh becomes mayor and immediately resigns.",
+  "power": "",
+  "toughness": "",
+  "keywords": [],
+  "rarity": "consensus",
+  "flavorText": "It was the most successful recall in history. It recalled the concept of winning.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 5,
+  "number": "D503",
+  "extras": {
+    "runawayLoop": "win->recall->lose->elect->win, no end",
+    "fourthWall": "first to laugh becomes mayor",
+    "infinity": "{∞}"
+  }
+}

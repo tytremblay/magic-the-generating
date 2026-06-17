@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Settle the Tab in Blood",
+  "manaCost": "{2}{B}{R}",
+  "manaValue": 4,
+  "colors": ["B", "R"],
+  "colorIdentity": ["B", "R"],
+  "type": "Acorn Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "The carnival's accounts come due all at once. Each player's life total is divided in half (round however the player to your left feels like). Then each player who has ever, in this game, refused to share a snack with you loses an ADDITIONAL 3 life. You decide who that is. There is no appeal. The carnival keeps no records but never forgets.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 4,
+  "flavorText": "The ledger is written in a substance that is technically ink and emotionally something worse.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C406",
+  "extras": {
+    "halfMana": "halve every life total",
+    "tableState": "grudge-tracking the snack",
+    "impossibleMath": "round by vibes"
+  }
+}

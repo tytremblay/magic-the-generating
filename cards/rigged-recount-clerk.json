@@ -1,0 +1,28 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Rigged Recount Clerk",
+  "manaCost": "{1}{B}",
+  "manaValue": 2,
+  "colors": ["B"],
+  "colorIdentity": ["B", "R"],
+  "type": "Creature — Human Carny",
+  "types": ["Creature"],
+  "supertypes": [],
+  "subtypes": ["Human", "Carny"],
+  "text": "Whenever a player calls for a recount, or whenever a player rolls a die you don't like, you may pay {1} to make them reroll it. (The carnival and the Mayor's office use the same fixers.)\nWhenever you reroll a die this way, you create a Treasure token.",
+  "power": "2",
+  "toughness": "2",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "She counted the ballots, the dice, and the snacks. All three came up short, somehow in her favor.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C211",
+  "extras": {
+    "dice": "force rerolls",
+    "interaction": "hooks the Mayor's recount vocabulary"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Casserole That Achieved Quorum",
+  "manaCost": "{🍲}{🍲}",
+  "manaValue": "potluck",
+  "colors": [],
+  "colorIdentity": [],
+  "type": "Legendary Acorn Artifact Creature — Food Deity Bureaucrat",
+  "types": ["Artifact", "Creature"],
+  "supertypes": ["Legendary"],
+  "subtypes": ["Food", "Deity", "Bureaucrat"],
+  "text": "it has been on the warming tray so long it gained sentience and then gained standing and then gained the floor.\nThe Casserole That Achieved Quorum has power and toughness each equal to the number of dishes, real and imagined, present and remembered, at every potluck that has ever been. (this number is warm.)\n{T}, take a bite: it forgives you. it also recalls the frontrunner, because it remembers everything, especially who didn't bring a dish.",
+  "power": "🍲",
+  "toughness": "yes",
+  "keywords": [],
+  "rarity": "casserole",
+  "flavorText": "layer one: noodles. layer two: cheese. layer seven: the minutes of every meeting. layer ∞: us.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 5,
+  "number": "D504",
+  "extras": {
+    "surreal": "sentient quorum casserole",
+    "frontrunnerPunish": "recalls the frontrunner on bite",
+    "snackMana": "{🍲}"
+  }
+}

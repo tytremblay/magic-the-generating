@@ -1,0 +1,24 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Last-Chance Midway",
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["B", "R"],
+  "type": "Land",
+  "types": ["Land"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "{T}: Add {B} or {R}.\n{T}: Add one mana of any color, but only if a die was rolled or a coin flipped at the table this turn. The lights only come on for paying customers.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 2,
+  "flavorText": "The midway never closes. It just runs out of suckers and moves to the next town.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C601",
+  "extras": {
+    "dice": "any-color mana keyed to a roll or flip happening"
+  }
+}

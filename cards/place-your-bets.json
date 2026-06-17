@@ -1,0 +1,25 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Place Your Bets",
+  "manaCost": "{1}{R}",
+  "manaValue": 2,
+  "colors": ["R"],
+  "colorIdentity": ["B", "R"],
+  "type": "Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Each player secretly bets 'heads' or 'odd' by hiding a token in a fist. Then flip a coin and roll a six-sided die. Each player who guessed both correctly draws a card. Each player who guessed neither loses 2 life. You, the house, draw a card no matter what.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "\"Bets down! No more bets! ...okay one more bet. No more bets!\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C213",
+  "extras": {
+    "dice": "table-wide coin and die wager"
+  }
+}

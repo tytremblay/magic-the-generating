@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Skimming the Till",
+  "manaCost": "{1}{B}",
+  "manaValue": 2,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Each opponent loses 1 life and you gain 1 life for each opponent. Then create a Treasure token. The books will balance. The books always balance, eventually, with help.",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 1,
+  "flavorText": "A little off the top of every transaction. Nobody misses what they never counted.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H107",
+  "extras": { "token": "Treasure" }
+}

@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Suggestion Box",
+  "manaCost": "{1}{W}",
+  "manaValue": 2,
+  "colors": ["W"],
+  "colorIdentity": ["W"],
+  "type": "Artifact",
+  "types": ["Artifact"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "{2}, {T}: Each opponent may make a suggestion. Ignore it. You gain 2 life. (Your input is valued. It is not, however, read.)",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 2,
+  "flavorText": "Twelve years of suggestions. The lid has never once been lifted.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B211"
+}

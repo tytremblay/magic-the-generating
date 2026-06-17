@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Redirect the Menace",
+  "manaCost": "{1}{R}",
+  "manaValue": 2,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Change the target of target spell or ability with a single target to another target. If the creature being redirected has a sludge counter on it, you also put a sludge counter on it. You can't kill it; you can only point it.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "You can't stop the thing in the reservoir. You can only suggest a direction.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G209"
+}

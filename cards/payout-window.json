@@ -1,0 +1,25 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Payout Window",
+  "manaCost": "{3}{B}{R}",
+  "manaValue": 5,
+  "colors": ["B", "R"],
+  "colorIdentity": ["B", "R"],
+  "type": "Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "At the beginning of your end step, count the dice rolled and coins flipped at the table this turn (by anyone). Choose one based on that total:\n• 0 — the window is closed. The clerk shrugs.\n• 1 to 3 — you create that many Treasure tokens.\n• 4 or more — each opponent loses 3 life, you gain 3 life, and you create three Treasure tokens. The carnival had a good night.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 2,
+  "flavorText": "The line at the payout window is always shorter than the line at the betting window. Always.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C217",
+  "extras": {
+    "dice": "scales off the whole table's rolls and flips"
+  }
+}

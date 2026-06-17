@@ -1,0 +1,20 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Recall Headquarters",
+  "type": "Land",
+  "types": ["Land"],
+  "supertypes": [],
+  "subtypes": [],
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["G", "W"],
+  "text": "{T}: Add {C}.\n{T}: Add {G} or {W}. Activate only if a Voter, recall, or signature is mentioned on a permanent you control.\n{3}, {T}: You gain 1 life for each Voter you control. (The HQ tallies the whole movement and feels great about it.)",
+  "rarity": "rare",
+  "chaos": 2,
+  "flavorText": "A rented storefront with a hand-lettered sign, forty folding chairs, and a coffee maker that has seen things.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "D603"
+}

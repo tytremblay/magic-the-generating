@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Please Take a Number",
+  "manaCost": "{U}",
+  "manaValue": 1,
+  "colors": ["U"],
+  "colorIdentity": ["U"],
+  "type": "Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Each opponent skips the draw step of their next turn unless they pay {2}. (Service is by appointment only.)",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 1,
+  "flavorText": "The little paper tickets go up to 9,999. Nobody has ever seen 9,999 called.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B115"
+}

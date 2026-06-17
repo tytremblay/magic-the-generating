@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "set": "CHAOS",
+  "chaos": 5,
+  "name": "Pursuant to Subsection (c) of Subsection (c) of Subsection (c)",
+  "manaCost": "{🖋}{🖋}{🖋}",
+  "manaValue": "see Appendix",
+  "colors": [],
+  "colorIdentity": [],
+  "type": "Enchantment — Recursive Ordinance",
+  "types": ["Enchantment"],
+  "subtypes": ["Ordinance"],
+  "rarity": "whereas",
+  "text": "Whereas, pursuant to this ordinance, the reader shall refer to subsection (c). Subsection (c) reads: \"refer to subsection (c).\" Repeat this step. There is no end to this step.\nNotwithstanding the foregoing, and the foregoing's foregoing, all things at the table are hereby deemed compliant, noncompliant, and exempt, simultaneously, as both players, at once.\nThe regulation regulates itself into being. It is become law. The law do be looping.",
+  "flavorText": "Footnote 1: see Footnote 1.",
+  "power": "heretofore",
+  "toughness": "aforementioned",
+  "artist": "AI Generated",
+  "number": "B503",
+  "extras": { "nonsense": true, "runawayLoop": "subsection refers to itself", "brokenGrammar": "it is become law" }
+}

@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Annex (See Other Building)",
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["W", "U"],
+  "type": "Land",
+  "types": ["Land"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "The Annex enters the battlefield tapped unless you control two or more other lands. (It's across the street. Bring an umbrella.)\n{T}: Add {W} or {U}.\nWhenever an opponent flips a coin, you may scry 1. The Annex saw it. The Annex sees everything from over there.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "\"That's handled at the Annex.\" \"Where's the Annex?\" \"See the main building.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B605",
+  "extras": { "parasitic": "scry off opponents' coin flips" }
+}

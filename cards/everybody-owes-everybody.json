@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Everybody Owes Everybody",
+  "manaCost": "{2}{B}",
+  "manaValue": 3,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "At the beginning of your upkeep, target opponent gains 1 life and you create a Favor token. The ledger only ever grows.\nWhenever you sacrifice a Favor token, you gain 1 life. The house keeps a cut of every collection.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "In Whateverville, debt is the only currency that never inflates and never forgives.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H214",
+  "extras": { "token": "Favor (IOU)" }
+}

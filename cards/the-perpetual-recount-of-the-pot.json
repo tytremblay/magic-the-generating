@@ -1,0 +1,26 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Perpetual Recount of the Pot",
+  "manaCost": "{1}{B}{R}",
+  "manaValue": 3,
+  "colors": ["B", "R"],
+  "colorIdentity": ["B", "R"],
+  "type": "Acorn Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Demand a recount of the winnings. Recount the Treasures you control. Now recount them. The count is different this time; it always is. Set the number of Treasures you control to the highest number you counted, up to a maximum of (you and the Mayor will argue about the maximum). If the Mayor's deck is at the table, you both recount simultaneously and whoever gives up first concedes the snack.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 4,
+  "flavorText": "\"Best of three recounts.\" \"Best of five.\" \"Best of all recounts that will ever be.\" \"Deal.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C407",
+  "extras": {
+    "interaction": "explicit recount duel with the Mayor's deck",
+    "impossibleMath": "the count changes every time"
+  }
+}

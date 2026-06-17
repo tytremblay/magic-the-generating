@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Thing Votes for Itself",
+  "manaCost": "{2}{R}{G}",
+  "manaValue": 4,
+  "colors": ["R", "G"],
+  "colorIdentity": ["R", "G"],
+  "type": "Acorn Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Whenever any player votes, Big Murph or a creature you control of your choice also casts a vote, and its vote counts as a number of votes equal to its sludge counters. It usually wins. It votes for whatever option feeds it most.\nIf the thing's votes alone decide any vote at the table, put three sludge counters on it and announce the results as both the candidate and the returning officer, simultaneously.",
+  "keywords": [],
+  "rarity": "mythic",
+  "chaos": 4,
+  "flavorText": "Write-in candidate, every election, every office, every year. Ballot smelled of algae.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G409",
+  "extras": { "votes": "the monster votes", "impossibleMath": "simultaneous roles" }
+}

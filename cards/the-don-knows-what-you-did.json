@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Don Knows What You Did",
+  "manaCost": "{2}{B}",
+  "manaValue": 3,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "The player to your left must confess, out loud, the worst Magic play they've made this game. The whole table votes on whether it was really that bad. If the table votes yes, that player owes you a Favor (create a Favor token) and loses 2 life out of shame.\nIf nobody confesses within ten seconds — count it on your fingers, slowly, menacingly — every opponent owes you a Favor instead. The silence said enough.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 4,
+  "flavorText": "He keeps a file on everyone. The file is mostly just \"yes.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H403",
+  "extras": { "token": "Favor (IOU)", "fourthWall": "confess out loud", "interaction": "votes" }
+}

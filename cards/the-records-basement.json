@@ -1,0 +1,21 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Records Basement",
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["U"],
+  "type": "Land",
+  "types": ["Land"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "The Records Basement enters the battlefield tapped. (The elevator is, and always has been, out of order.)\n{T}: Add {U}.\n{2}{U}, {T}, Sacrifice The Records Basement: Draw two cards. You finally found the file. It was right where the system said it wasn't.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 1,
+  "flavorText": "Sub-sub-basement 3. Past the boiler. Mind the things that file themselves down there.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B602"
+}

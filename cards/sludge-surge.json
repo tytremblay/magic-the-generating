@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Sludge Surge",
+  "manaCost": "{1}{R}{G}",
+  "manaValue": 3,
+  "colors": ["R", "G"],
+  "colorIdentity": ["R", "G"],
+  "type": "Acorn Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Until end of turn, whenever a creature you control with a sludge counter on it deals combat damage to a player, it deals that much damage to each other opponent too. The flood does not pick favorites. (It picks you. You're fine.)",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "Once it tops the spillway, there is no aiming it. There is only the after.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G310",
+  "extras": { "communalKaiju": "damage splashes all opponents" }
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "set": "CHAOS",
+  "chaos": 5,
+  "name": "Divide the Monster by Its Eyes",
+  "manaCost": "{∞}÷{3}",
+  "manaValue": "∞÷3",
+  "colors": [],
+  "colorIdentity": [],
+  "type": "Acorn Instant — Arithmetic Atrocity",
+  "types": ["Instant"],
+  "subtypes": ["Atrocity"],
+  "rarity": "irrational",
+  "text": "Take the largest creature at the table and divide its power by the number of eyes it has. The catfish has three eyes. Everything has three eyes now, you just checked, blink twice if you understand. The quotient is left as an exercise for the reader.\nWhatever remains deals the remainder damage to the remainder of the table. There is no remainder. There is only more eyes.",
+  "flavorText": "Carry the one. The one carries you.",
+  "power": "remainder",
+  "artist": "AI Generated",
+  "number": "G502"
+}

@@ -1,0 +1,310 @@
+{
+  "$schema": "../deck.schema.json",
+  "border": "acorn",
+  "name": "Roll Up, Roll the Bones",
+  "format": "commander",
+  "theme": "Run a traveling gambling carnival that skims a Treasure off every die, coin, and wager at the table — then cashes the whole pot in for life loss, card draw, and demonic IOUs while the marks are still cheering.",
+  "description": "Step right up. The Last-Chance Carnival rolled into Whateverville on election night and never left, and Lady Luckless will swear the games aren't rigged — right before reminding you that the house always wins, because she IS the house. This is a Rakdos (BR) gambling engine that feeds on the same dice the Mayor throws and the same coins the table flips: whenever ANY player rolls or flips, the house takes its cut — a Treasure, a Jackpot counter, a payout — and the whole pod becomes a casino floor. Wagers, ante piles, double-or-nothing flips, demonic IOUs, and the snack held as collateral all cash out into life loss and card draw while the marks are still cheering. An acorn (Un-set) Commander deck with chaos kept deliberately LOW so the spectacle is the payout, not the rules text — almost-real Magic thinning to a few chaos-5 fever-dreams that abandon the theme entirely. Color-identity and singleton rules are waived for acorn decks.",
+  "colorIdentity": [
+    "B",
+    "R"
+  ],
+  "commander": [
+    "Lady Luckless, Ringmaster of the Last-Chance Carnival"
+  ],
+  "cards": [
+    {
+      "name": "Lady Luckless, Ringmaster of the Last-Chance Carnival",
+      "role": "Commander"
+    },
+    {
+      "name": "Carnival Barker Imp",
+      "role": "Synergy"
+    },
+    {
+      "name": "Two-Bit Croupier",
+      "role": "Ramp"
+    },
+    {
+      "name": "Snack Stand Shakedown",
+      "role": "Interaction"
+    },
+    {
+      "name": "Rigged Ring Toss",
+      "role": "Interaction"
+    },
+    {
+      "name": "Fortune Teller of Whateverville",
+      "role": "Draw"
+    },
+    {
+      "name": "Strongman of the Sideshow",
+      "role": "Threat"
+    },
+    {
+      "name": "Cotton Candy Devil",
+      "role": "Synergy"
+    },
+    {
+      "name": "Penny Arcade Token",
+      "role": "Ramp"
+    },
+    {
+      "name": "Pick a Card, Any Card",
+      "role": "Draw"
+    },
+    {
+      "name": "Midway Pickpocket",
+      "role": "Synergy"
+    },
+    {
+      "name": "Lucky Rabbit's Foot (Unlucky for the Rabbit)",
+      "role": "Protection"
+    },
+    {
+      "name": "Free Game with Purchase",
+      "role": "Draw"
+    },
+    {
+      "name": "Dunk Tank Devil",
+      "role": "Synergy"
+    },
+    {
+      "name": "House Rules",
+      "role": "Utility"
+    },
+    {
+      "name": "Cheap Prize Goblin",
+      "role": "Ramp"
+    },
+    {
+      "name": "Double-or-Nothing Devil",
+      "role": "Threat"
+    },
+    {
+      "name": "Spin the Wheel of Misfortune",
+      "role": "Interaction"
+    },
+    {
+      "name": "The House Cut",
+      "role": "Payoff"
+    },
+    {
+      "name": "Demonic I.O.U.",
+      "role": "Tutor"
+    },
+    {
+      "name": "Ferris Wheel of the Damned",
+      "role": "Payoff"
+    },
+    {
+      "name": "Three-Card Monte Dealer",
+      "role": "Draw"
+    },
+    {
+      "name": "Snack as Collateral",
+      "role": "Interaction"
+    },
+    {
+      "name": "Loaded Dice of the Carnival",
+      "role": "Synergy"
+    },
+    {
+      "name": "The Bearded Lady, Soothsayer",
+      "role": "Draw"
+    },
+    {
+      "name": "Winner Takes the Snack",
+      "role": "Payoff"
+    },
+    {
+      "name": "Rigged Recount Clerk",
+      "role": "Utility"
+    },
+    {
+      "name": "Clown Car of Imps",
+      "role": "Threat"
+    },
+    {
+      "name": "Place Your Bets",
+      "role": "Draw"
+    },
+    {
+      "name": "Contortionist of the Coffers",
+      "role": "Draw"
+    },
+    {
+      "name": "The Pot Grows",
+      "role": "Draw"
+    },
+    {
+      "name": "Midway Arsonist",
+      "role": "Synergy"
+    },
+    {
+      "name": "Payout Window",
+      "role": "Payoff"
+    },
+    {
+      "name": "Sword Swallower of the Pit",
+      "role": "Interaction"
+    },
+    {
+      "name": "The Mayor's Comp Ticket",
+      "role": "Ramp"
+    },
+    {
+      "name": "Tilt-a-Whirl Tactician",
+      "role": "Payoff"
+    },
+    {
+      "name": "The Great Zalmoxis, Mind-Reader (Allegedly)",
+      "role": "Draw"
+    },
+    {
+      "name": "All In",
+      "role": "Payoff"
+    },
+    {
+      "name": "The Snake-Oil Salesman",
+      "role": "Threat"
+    },
+    {
+      "name": "Guess Your Weight in Souls",
+      "role": "Interaction"
+    },
+    {
+      "name": "High Roller of the Inferno",
+      "role": "Threat"
+    },
+    {
+      "name": "The Shell Game",
+      "role": "Interaction"
+    },
+    {
+      "name": "Calliope of Doom",
+      "role": "Utility"
+    },
+    {
+      "name": "The Tattooed Man of Statistics",
+      "role": "Draw"
+    },
+    {
+      "name": "Knife-Thrower of the Rakdos Revue",
+      "role": "Interaction"
+    },
+    {
+      "name": "Cash Out the Carnival",
+      "role": "Payoff"
+    },
+    {
+      "name": "The Rigged Claw Machine",
+      "role": "Utility"
+    },
+    {
+      "name": "Fire-Eater of the Finale",
+      "role": "Threat"
+    },
+    {
+      "name": "The Coin-Flip Cabinet of Curiosities",
+      "role": "Synergy"
+    },
+    {
+      "name": "The Tilted Table",
+      "role": "Payoff"
+    },
+    {
+      "name": "The Living Marquee",
+      "role": "Draw"
+    },
+    {
+      "name": "The Half-Cent Ante",
+      "role": "Synergy"
+    },
+    {
+      "name": "The Pit Boss Who Sees All Tables at Once",
+      "role": "Draw"
+    },
+    {
+      "name": "Double Down or Double Over",
+      "role": "Payoff"
+    },
+    {
+      "name": "The Jackpot That Never Quite Pays",
+      "role": "Payoff"
+    },
+    {
+      "name": "The Mirror Maze of Debts",
+      "role": "Interaction"
+    },
+    {
+      "name": "Settle the Tab in Blood",
+      "role": "Board Wipe"
+    },
+    {
+      "name": "The Perpetual Recount of the Pot",
+      "role": "Utility"
+    },
+    {
+      "name": "Lady Luckless's Personal Roulette Wheel",
+      "role": "Payoff"
+    },
+    {
+      "name": "The Tent Folds In on Itself",
+      "role": "Board Wipe"
+    },
+    {
+      "name": "the wheel keeps spinning and you are on it now",
+      "role": "Synergy"
+    },
+    {
+      "name": "Snake Eyes, the Actual Snake With Dice for Eyes",
+      "role": "Threat"
+    },
+    {
+      "name": "The House Always Wins (It Is a Law of Physics Now)",
+      "role": "Payoff"
+    },
+    {
+      "name": "Divide the Pot Among Zero Winners",
+      "role": "Utility"
+    },
+    {
+      "name": "The Last-Chance Midway",
+      "role": "Land"
+    },
+    {
+      "name": "Rakdos Revue Tent",
+      "role": "Land"
+    },
+    {
+      "name": "The Counting Room",
+      "role": "Land"
+    },
+    {
+      "name": "The House of Mirrors",
+      "role": "Land"
+    },
+    {
+      "name": "The Rolling Bones Alley",
+      "role": "Land"
+    },
+    {
+      "name": "The Vault Under the Big Top",
+      "role": "Land"
+    },
+    {
+      "name": "Swamp",
+      "role": "Land",
+      "count": 15
+    },
+    {
+      "name": "Mountain",
+      "role": "Land",
+      "count": 15
+    }
+  ],
+  "plan": {
+    "size": 100
+  }
+}

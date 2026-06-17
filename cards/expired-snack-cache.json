@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Expired Snack Cache",
+  "manaCost": "{1}{R}",
+  "manaValue": 2,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Artifact",
+  "types": ["Artifact"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "When Expired Snack Cache enters the battlefield, it becomes a snack on the table.\n{1}, Sacrifice Expired Snack Cache: Add {R}{G}. The fumes are flammable and faintly green.",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 1,
+  "flavorText": "Best by a date that is now a rumor.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G113"
+}

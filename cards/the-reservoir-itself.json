@@ -1,0 +1,19 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Reservoir Itself",
+  "type": "Acorn Land",
+  "types": ["Land"],
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["R", "G"],
+  "text": "The Reservoir Itself enters the battlefield tapped.\n{T}: Add {R} or {G}.\nFeed (Whenever a player rolls one or more dice, flips one or more coins, or votes, put a sludge counter on target creature you control.)\n{4}, {T}, Remove five sludge counters from among creatures you control: Surface the thing — target creature you control can't be blocked this turn.",
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "Surface area: forty acres. Depth: nobody's been brave enough to finish measuring.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G601",
+  "extras": { "newMechanic": "Feed on a land" }
+}

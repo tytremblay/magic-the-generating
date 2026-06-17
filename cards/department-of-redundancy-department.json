@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Department of Redundancy Department",
+  "manaCost": "{2}{U}",
+  "manaValue": 3,
+  "colors": ["U"],
+  "colorIdentity": ["U"],
+  "type": "Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "If a triggered ability of a permanent you control would trigger, it triggers an additional time. (Everything must be done twice, and then re-done.)",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 2,
+  "flavorText": "Form 12. Also Form 12-A, which is identical to Form 12 but stapled differently.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B202"
+}

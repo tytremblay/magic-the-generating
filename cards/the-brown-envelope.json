@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Brown Envelope",
+  "manaCost": "{B}",
+  "manaValue": 1,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Artifact",
+  "types": ["Artifact"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "When The Brown Envelope enters the battlefield, target opponent draws a card and you create a Favor token. Don't ask what's inside.\n{2}, {T}, Sacrifice The Brown Envelope: Draw a card. Some envelopes you open. This one you burn.",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 1,
+  "flavorText": "Slid under the door. Unsigned. Understood.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H104",
+  "extras": { "token": "Favor (IOU)" }
+}

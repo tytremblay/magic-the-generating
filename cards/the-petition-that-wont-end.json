@@ -1,0 +1,28 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Petition That Won't End",
+  "manaCost": "{3}{G}{W}",
+  "manaValue": 5,
+  "colors": ["G", "W"],
+  "colorIdentity": ["G", "W"],
+  "type": "Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "When The Petition That Won't End enters the battlefield, every player must physically sign something — a napkin, the table, the air with a finger. The last player to finish signing creates no tokens this turn.\nAt the beginning of your upkeep, create a 1/1 green and white Voter creature token for each different player who has signed.",
+  "power": "",
+  "toughness": "",
+  "keywords": [],
+  "rarity": "rare",
+  "flavorText": "Page 1,202. The recall has been going on so long the mayor it's recalling has retired, returned, and been recalled again.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 3,
+  "number": "D301",
+  "extras": {
+    "physicalAction": "everyone signs something",
+    "fourthWall": "last to finish penalized"
+  }
+}

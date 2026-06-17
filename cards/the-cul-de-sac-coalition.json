@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Cul-de-Sac Coalition",
+  "type": "Land",
+  "types": ["Land"],
+  "supertypes": [],
+  "subtypes": [],
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["G", "W"],
+  "text": "{T}: Add {G} or {W}.\n{1}{G}{W}, {T}: Roll a six-sided die. Create that many 1/1 green and white Voter creature tokens, then this land doesn't untap during your next untap step. (Every house on the loop turned out. Even the one with the scary lawn gnomes.)",
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "Eleven houses, one shared driveway grudge, and a unanimous opinion about the mayor.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "D606",
+  "extras": {
+    "dice": "d6 for tokens"
+  }
+}

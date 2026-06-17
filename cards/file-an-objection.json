@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "File an Objection",
+  "manaCost": "{1}{U}",
+  "manaValue": 2,
+  "colors": ["U"],
+  "colorIdentity": ["U"],
+  "type": "Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Counter target spell unless its controller pays {3}. (\"Objection!\" \"On what grounds?\" \"Procedural.\")",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 2,
+  "flavorText": "Sustained. Overruled. Filed. Lost. Refiled. Sustained again, just to be safe.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B206"
+}

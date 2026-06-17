@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Clocktower at the End of Main Street",
+  "type": "Legendary Acorn Land",
+  "types": ["Land"],
+  "supertypes": ["Legendary"],
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["W", "B"],
+  "text": "{T}: Add {W} or {B}.\nWhenever any player rolls one or more dice or flips one or more coins, you may pay {1}. If you do, put a doom counter on the Doomsday Clock. The tower keeps time for the whole town, whether the town likes it or not.\n{4}, {T}: Look at the Doomsday Clock; you draw cards equal to the number of doom counters on it divided by four, rounded down.",
+  "power": "",
+  "toughness": "",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "It used to ring on the hour. Now it only rings once, at the very end, and it has been clearing its throat for years.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "F605",
+  "extras": { "interaction": "feeds the clock from the whole table's gambling", "payoff": "high Doomsday Clock" }
+}

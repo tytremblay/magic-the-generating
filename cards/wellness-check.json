@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Compliance Wellness Check",
+  "manaCost": "{2}{W}",
+  "manaValue": 3,
+  "colors": ["W"],
+  "colorIdentity": ["W"],
+  "type": "Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Choose one —\n• You gain 4 life and put a +1/+1 counter on target creature you control. (Found in compliance.)\n• Destroy target creature with power 4 or greater. (Found dangerously out of compliance.)",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 3,
+  "flavorText": "The clipboard decides who is well and who is a workplace hazard.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B315"
+}

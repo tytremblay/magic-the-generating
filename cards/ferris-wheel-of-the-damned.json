@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Ferris Wheel of the Damned",
+  "manaCost": "{3}{R}",
+  "manaValue": 4,
+  "colors": ["R"],
+  "colorIdentity": ["B", "R"],
+  "type": "Artifact",
+  "types": ["Artifact"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "At the beginning of your upkeep, the wheel turns: roll a six-sided die. Ferris Wheel of the Damned deals damage equal to the result to the player to your left, then they get a Treasure token for riding. The ride does not stop. The ride has never stopped.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "Built in 1903. Inspected never. Riders report a faint screaming that may or may not be the bearings.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C205"
+}

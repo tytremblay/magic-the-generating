@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "City Hall Rotunda",
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["W", "U"],
+  "type": "Land",
+  "types": ["Land"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "{T}: Add {W} or {U}.\n{1}, {T}: Whenever an opponent rolled a die or flipped a coin this turn, draw a card. (The dome echoes with the sound of other people's gambling.)",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 2,
+  "flavorText": "Every footstep echoes for nine seconds. Every decision echoes for nine years.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B601",
+  "extras": { "parasitic": "draw off opponents' rolls/flips" }
+}

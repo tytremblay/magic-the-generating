@@ -1,0 +1,21 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Repent-or-Park-Here Lot",
+  "type": "Acorn Land",
+  "types": ["Land"],
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["W", "B"],
+  "text": "Repent-or-Park-Here Lot enters the battlefield tapped unless you control a Cleric, Prophet, or Doomsayer.\n{T}: Add {W} or {B}.\n{T}, Pay 2 life: Add {W}{B}. Validate your parking; validate your soul; one of these is optional.",
+  "power": "",
+  "toughness": "",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 1,
+  "flavorText": "Two-hour limit. After that, eternity.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "F604"
+}

@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Cash Out the Carnival",
+  "manaCost": "{3}{B}{B}",
+  "manaValue": 5,
+  "colors": ["B"],
+  "colorIdentity": ["B", "R"],
+  "type": "Acorn Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "The carnival packs up overnight. Sacrifice any number of Treasures and tokens. You draw that many cards, then each opponent loses life equal to the number of Treasures sacrificed this way. The midway is gone by morning and so is everyone's pocket money.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "By dawn there's only flattened grass, a single lost shoe, and the faint smell of fried dough and larceny.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C310"
+}

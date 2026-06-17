@@ -1,0 +1,28 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Lady Luckless, Ringmaster of the Last-Chance Carnival",
+  "manaCost": "{2}{B}{R}",
+  "manaValue": 4,
+  "colors": ["B", "R"],
+  "colorIdentity": ["B", "R"],
+  "type": "Legendary Acorn Creature — Devil Ringmaster",
+  "types": ["Creature"],
+  "supertypes": ["Legendary"],
+  "subtypes": ["Devil", "Ringmaster"],
+  "text": "When Lady Luckless enters the battlefield, the carnival opens: each player rolls a six-sided die. You create a Treasure token for each player who rolled, then the lowest roller hands you the table snack. The house keeps the snack.\nAnte the Pot — Whenever a player rolls one or more dice or flips one or more coins, you may pay {1}. If you do, that player draws a card and you put a Jackpot counter on Lady Luckless. The house always gets a cut.\n{2}{B}{R}, Remove three Jackpot counters: Spin the wheel — each opponent loses 3 life and you gain that much life. The highest roller this turn keeps their dignity. Everyone else owes you.",
+  "power": "3",
+  "toughness": "4",
+  "keywords": [],
+  "rarity": "mythic",
+  "chaos": 3,
+  "flavorText": "\"Step right up. The first game is free. None of the others are.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "🎰100",
+  "extras": {
+    "dice": "table-wide payout whenever anyone rolls or flips",
+    "tableState": "the table snack as currency"
+  }
+}

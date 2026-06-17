@@ -1,0 +1,310 @@
+{
+  "$schema": "../deck.schema.json",
+  "border": "acorn",
+  "name": "The Doomsday Caucus",
+  "format": "commander",
+  "theme": "Run a single-issue apocalypse campaign: make Prophecies on the table's coins and dice, and feed the shared Doomsday Clock until midnight strikes and Brother Eschaton drains the whole pod.",
+  "description": "The end is nigh, and Brother Eschaton is running on it. He has a sandwich board, a tax-exempt status, and a single campaign promise: the world is ending — and he can prove it on a clock you all share. This Orzhov (WB) deck stacks two new layers onto Whateverville's dice and coins. Prophecy: call a coin flip or die result out loud as a card resolves — be right and reap the rewards, be wrong and hasten the apocalypse. The Doomsday Clock: a shared, table-wide doom counter, hosted on Eschaton, that ticks UP every time anyone gambles or a prophecy fails — and at the stroke of midnight (twelve counters) the whole pod pays, while the good Brother profits most. An acorn (Un-set) Commander deck with chaos kept deliberately LOW — almost-functional end-times Orzhov thinning to four colorless chaos-5 fever-dreams. Color-identity and singleton rules are waived for acorn decks.",
+  "colorIdentity": [
+    "W",
+    "B"
+  ],
+  "commander": [
+    "Brother Eschaton, Candidate for the End of Days"
+  ],
+  "cards": [
+    {
+      "name": "Brother Eschaton, Candidate for the End of Days",
+      "role": "Commander"
+    },
+    {
+      "name": "Sandwich Board Doomsayer",
+      "role": "Synergy"
+    },
+    {
+      "name": "Tithe Collector Acolyte",
+      "role": "Interaction"
+    },
+    {
+      "name": "Nervous Precinct Convert",
+      "role": "Synergy"
+    },
+    {
+      "name": "Indulgence Vendor",
+      "role": "Utility"
+    },
+    {
+      "name": "The End Is Nigh",
+      "role": "Interaction"
+    },
+    {
+      "name": "Doorstep Evangelist",
+      "role": "Synergy"
+    },
+    {
+      "name": "Last Rites Clerk",
+      "role": "Draw"
+    },
+    {
+      "name": "Omen Reader",
+      "role": "Draw"
+    },
+    {
+      "name": "Tax-Exempt Status",
+      "role": "Ramp"
+    },
+    {
+      "name": "Smite the Doubtful",
+      "role": "Interaction"
+    },
+    {
+      "name": "Collection Plate",
+      "role": "Ramp"
+    },
+    {
+      "name": "Zealous Poll Watcher",
+      "role": "Synergy"
+    },
+    {
+      "name": "Reckoning Day Acolyte",
+      "role": "Interaction"
+    },
+    {
+      "name": "Pamphlet of the Inevitable",
+      "role": "Draw"
+    },
+    {
+      "name": "Door-Knocking Cultist",
+      "role": "Threat"
+    },
+    {
+      "name": "The Official Doomsday Clock",
+      "role": "Payoff"
+    },
+    {
+      "name": "Prophet of the Final Recount",
+      "role": "Synergy"
+    },
+    {
+      "name": "Rapture Rehearsal",
+      "role": "Protection"
+    },
+    {
+      "name": "Single-Issue Zealot",
+      "role": "Threat"
+    },
+    {
+      "name": "Midnight Mandate",
+      "role": "Interaction"
+    },
+    {
+      "name": "Sign of the Times",
+      "role": "Synergy"
+    },
+    {
+      "name": "Call It in the Air",
+      "role": "Draw"
+    },
+    {
+      "name": "The Mayor Was Warned",
+      "role": "Interaction"
+    },
+    {
+      "name": "Doomsday Canvasser",
+      "role": "Threat"
+    },
+    {
+      "name": "Tally of the Damned",
+      "role": "Payoff"
+    },
+    {
+      "name": "The Great Tribulation Bake Sale",
+      "role": "Utility"
+    },
+    {
+      "name": "Visions of the End",
+      "role": "Draw"
+    },
+    {
+      "name": "Incumbent of the Abyss",
+      "role": "Interaction"
+    },
+    {
+      "name": "Wheel of Judgment",
+      "role": "Interaction"
+    },
+    {
+      "name": "False Prophet of Whateverville",
+      "role": "Synergy"
+    },
+    {
+      "name": "Door-to-Door Reckoning",
+      "role": "Board Wipe"
+    },
+    {
+      "name": "Blessed Are the Gamblers",
+      "role": "Synergy"
+    },
+    {
+      "name": "Cleric of Diminishing Returns",
+      "role": "Draw"
+    },
+    {
+      "name": "The Collection Basket of Souls",
+      "role": "Utility"
+    },
+    {
+      "name": "Winding the Clock Forward",
+      "role": "Payoff"
+    },
+    {
+      "name": "High Prophet of the Doomsday Caucus",
+      "role": "Payoff"
+    },
+    {
+      "name": "The Rapture Index",
+      "role": "Synergy"
+    },
+    {
+      "name": "Strike of Midnight",
+      "role": "Board Wipe"
+    },
+    {
+      "name": "Seven Seals of the Snack Cart",
+      "role": "Payoff"
+    },
+    {
+      "name": "Call the Coin of Fate",
+      "role": "Interaction"
+    },
+    {
+      "name": "The Numbered Days",
+      "role": "Utility"
+    },
+    {
+      "name": "Doomsday Debate Moderator",
+      "role": "Synergy"
+    },
+    {
+      "name": "Four Horsemen of the Precinct",
+      "role": "Threat"
+    },
+    {
+      "name": "Exit Poll of the Apocalypse",
+      "role": "Interaction"
+    },
+    {
+      "name": "Sister of Perpetual Anxiety",
+      "role": "Draw"
+    },
+    {
+      "name": "The Final Recount",
+      "role": "Interaction"
+    },
+    {
+      "name": "The Tax Collector of Armageddon",
+      "role": "Threat"
+    },
+    {
+      "name": "Balance the Cosmic Budget",
+      "role": "Board Wipe"
+    },
+    {
+      "name": "The Believers' Balcony",
+      "role": "Payoff"
+    },
+    {
+      "name": "Predict the Unpredictable",
+      "role": "Synergy"
+    },
+    {
+      "name": "The Doomsday Clock Reads 3 A.M.",
+      "role": "Payoff"
+    },
+    {
+      "name": "Half Past the Apocalypse",
+      "role": "Synergy"
+    },
+    {
+      "name": "The Rapture Takes the Loudest First",
+      "role": "Board Wipe"
+    },
+    {
+      "name": "Predict Everything, Forever",
+      "role": "Payoff"
+    },
+    {
+      "name": "The Collection Plate Passes Itself Around the Table",
+      "role": "Draw"
+    },
+    {
+      "name": "Until Your Next Snack, the World Holds",
+      "role": "Protection"
+    },
+    {
+      "name": "The Number of the Beast, Rounded Emotionally",
+      "role": "Threat"
+    },
+    {
+      "name": "Schrödinger's Prophecy",
+      "role": "Synergy"
+    },
+    {
+      "name": "Term Limits Do Not Apply to the Void",
+      "role": "Interaction"
+    },
+    {
+      "name": "it is already too late",
+      "role": "Payoff"
+    },
+    {
+      "name": "The Prophecy Do Be Coming True",
+      "role": "Threat"
+    },
+    {
+      "name": "Divide the Clock by Faith",
+      "role": "Utility"
+    },
+    {
+      "name": "Exile Target Eternity",
+      "role": "Board Wipe"
+    },
+    {
+      "name": "The Doomsday Pulpit",
+      "role": "Land"
+    },
+    {
+      "name": "End-Times Meetinghouse",
+      "role": "Land"
+    },
+    {
+      "name": "The Grave Precinct",
+      "role": "Land"
+    },
+    {
+      "name": "Repent-or-Park-Here Lot",
+      "role": "Land"
+    },
+    {
+      "name": "Clocktower at the End of Main Street",
+      "role": "Land"
+    },
+    {
+      "name": "Tithe Barn of the Faithful",
+      "role": "Land"
+    },
+    {
+      "name": "Plains",
+      "role": "Land",
+      "count": 15
+    },
+    {
+      "name": "Swamp",
+      "role": "Land",
+      "count": 15
+    }
+  ],
+  "plan": {
+    "size": 100
+  }
+}

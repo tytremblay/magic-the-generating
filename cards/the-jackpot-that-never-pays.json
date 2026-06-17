@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Jackpot That Never Quite Pays",
+  "manaCost": "{4}{B}{R}",
+  "manaValue": 6,
+  "colors": ["B", "R"],
+  "colorIdentity": ["B", "R"],
+  "type": "Acorn Artifact — Wager",
+  "types": ["Artifact"],
+  "supertypes": [],
+  "subtypes": ["Wager"],
+  "text": "Whenever any player rolls a die or flips a coin, put a Cherry counter on The Jackpot That Never Quite Pays.\n{T}: Pull the lever. If there are exactly 7, or 77, or 777 Cherry counters on it (you have to catch it at the exact moment), you HIT THE JACKPOT: win the game. If you pull and it's any other number — and it is always, always any other number — you lose ½ of your life, rounded up, rounded down, and emotionally.",
+  "keywords": [],
+  "rarity": "mythic",
+  "chaos": 4,
+  "flavorText": "It pays out 99.97% of the time, the sign claims, in letters too small to read and a font that does not exist.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C404",
+  "extras": {
+    "halfMana": "lose half your life",
+    "dice": "counter accrues off all rolls/flips; exact-number win con",
+    "impossibleMath": "rounded up, down, and emotionally"
+  }
+}

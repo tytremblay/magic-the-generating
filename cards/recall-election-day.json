@@ -1,0 +1,28 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Recall Election Day",
+  "manaCost": "{4}{G}{W}",
+  "manaValue": 6,
+  "colors": ["G", "W"],
+  "colorIdentity": ["G", "W"],
+  "type": "Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Hold the recall election. The table votes. Each player casts one vote per creature they control, plus one vote per Voter (so Voters vote twice).\nThe player with the most votes is declared the loser of the election (yes, the loser — it's a recall) and sacrifices half the permanents they control, rounded up. In case of a tie, you cast the deciding ballot.",
+  "power": "",
+  "toughness": "",
+  "keywords": [],
+  "rarity": "rare",
+  "flavorText": "Polls open at dawn. Polls close whenever Petunia says they close.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 3,
+  "number": "D302",
+  "extras": {
+    "voting": "Voters vote twice",
+    "frontrunnerPunish": "most votes loses half their board"
+  }
+}

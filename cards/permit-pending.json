@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Permit Pending Review",
+  "manaCost": "{W}",
+  "manaValue": 1,
+  "colors": ["W"],
+  "colorIdentity": ["W"],
+  "type": "Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Tap target creature. Its application to do whatever it was about to do is now under review.",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 1,
+  "flavorText": "\"We'll get back to you.\" They will not get back to you.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B109"
+}

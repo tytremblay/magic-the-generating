@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Overgrown Treatment Tank",
+  "manaCost": "{2}{G}",
+  "manaValue": 3,
+  "colors": ["G"],
+  "colorIdentity": ["G"],
+  "type": "Acorn Artifact",
+  "types": ["Artifact"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "At the beginning of your upkeep, put a sludge counter on target creature you control.\n{3}, {T}, Remove four sludge counters from among creatures you control: Create a 4/4 green Sludge Ooze creature token with trample.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "The valves rusted shut decades ago. Something inside kept the lights on anyway.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G218"
+}

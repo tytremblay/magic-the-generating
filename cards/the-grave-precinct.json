@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Grave Precinct",
+  "type": "Acorn Land",
+  "types": ["Land"],
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["B"],
+  "text": "{T}: Add {B}.\n{1}, {T}, Pay 1 life: Put a doom counter on the Doomsday Clock. Then, if it is midnight (twelve or more doom counters), you draw a card.\nWhenever a creature dies, you may pay {1}. If you do, you gain 1 life. The precinct never sleeps, on account of the residents.",
+  "power": "",
+  "toughness": "",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "Highest voter turnout in the county. Lowest pulse.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "F603",
+  "extras": { "interaction": "death precinct, votes from the grave" }
+}

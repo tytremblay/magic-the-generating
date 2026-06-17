@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Swing the Vote",
+  "manaCost": "{G}{W}",
+  "manaValue": 2,
+  "colors": ["G", "W"],
+  "colorIdentity": ["G", "W"],
+  "type": "Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Cast this spell only when the table is voting or a player is choosing among options for a spell or ability they control.\nChange one vote or chosen option to the option you prefer. (You worked the room. Hands were shaken. It's done.)",
+  "power": "",
+  "toughness": "",
+  "keywords": [],
+  "rarity": "uncommon",
+  "flavorText": "Whether the rival's coin is heads or tails, Petunia would just like to register a friendly correction.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 2,
+  "number": "D215",
+  "extras": {
+    "voting": "change a vote or chosen option"
+  }
+}

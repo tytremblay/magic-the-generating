@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Server Room (Climate Controlled)",
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["U"],
+  "type": "Land",
+  "types": ["Land"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "{T}: Add {U}.\n{3}{U}, {T}: Audit the most recent die roll or coin flip made by any player this turn. Reroll or reflip it; you choose which result is committed to the database. (The system never forgets. The system is also down.)",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "Kept at a brisk 60 degrees for the servers. The staff were issued a memo about sweaters.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B606",
+  "extras": { "parasitic": "audits any player's most recent roll/flip" }
+}

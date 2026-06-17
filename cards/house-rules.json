@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "House Rules",
+  "manaCost": "{R}",
+  "manaValue": 1,
+  "colors": ["R"],
+  "colorIdentity": ["B", "R"],
+  "type": "Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "The next time a player would roll a die or flip a coin this turn, that player rolls or flips twice and you choose which result they keep.\nDraw a card. The house wrote the rules. The house can read them however it likes.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 1,
+  "flavorText": "Posted in faded ink above the wheel: 'All decisions of the management are final and also correct.'",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C114"
+}

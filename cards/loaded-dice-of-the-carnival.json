@@ -1,0 +1,25 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Loaded Dice of the Carnival",
+  "manaCost": "{2}",
+  "manaValue": 2,
+  "colors": [],
+  "colorIdentity": ["B", "R"],
+  "type": "Artifact",
+  "types": ["Artifact"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Whenever you roll one or more dice, you may add 1 to or subtract 1 from one of the results. (The dice are weighted. Don't ask toward what.)\n{1}, {T}: Roll a six-sided die.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "They roll a six about as often as the Mayor wins a fair election: always.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C208",
+  "extras": {
+    "dice": "fudge any of your die results"
+  }
+}

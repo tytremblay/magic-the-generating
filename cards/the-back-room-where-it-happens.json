@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Back Room Where It Happens",
+  "manaCost": "{2}{B}",
+  "manaValue": 3,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "At the beginning of your upkeep, convene a meeting in the back room. Each opponent must either give you a snack, a Treasure, or do you a Favor (you create a Favor token). They choose, then you draw a card.\nNo minutes are kept. No minutes have ever been kept. The room does not officially exist.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "The deals are struck here, behind the unmarked door, beneath the flickering bulb, over the table that wobbles.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H305",
+  "extras": { "token": "Favor (IOU)", "tableState": "snacks" }
+}

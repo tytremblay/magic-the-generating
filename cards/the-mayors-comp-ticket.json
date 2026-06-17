@@ -1,0 +1,25 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Mayor's Comp Ticket",
+  "manaCost": "{B}{R}",
+  "manaValue": 2,
+  "colors": ["B", "R"],
+  "colorIdentity": ["B", "R"],
+  "type": "Artifact",
+  "types": ["Artifact"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "When The Mayor's Comp Ticket enters the battlefield, if an opponent controls a Goblin or an incumbent, draw a card. (Politicians always cash in their free passes.)\n{2}, {T}, Sacrifice The Mayor's Comp Ticket: Add {B}{B} or {R}{R}. The house comps the Mayor's bets, then quietly bills the city.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "'GOOD FOR ONE FREE SPIN — COMPLIMENTS OF CITY HALL — DO NOT RESELL (resold seven times).'",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C219",
+  "extras": {
+    "interaction": "rewards opponents running Goblins / incumbents (the Mayor)"
+  }
+}

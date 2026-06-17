@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Audit from Hell",
+  "manaCost": "{2}{U}{U}",
+  "manaValue": 4,
+  "colors": ["U"],
+  "colorIdentity": ["U"],
+  "type": "Sorcery — Procedure",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": ["Procedure"],
+  "text": "Target opponent reveals their hand and their library's top five cards. For each die roll or coin flip they've made this game (count them honestly — the auditor will know), that player discards a card. Then they reorganize their remaining cards by mana value, ascending, while you watch.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "\"This receipt is from a roll you made on turn two. Explain it.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B304",
+  "extras": { "parasitic": "scales off opponents' lifetime dice/coins", "physicalAction": "honor system counting" }
+}

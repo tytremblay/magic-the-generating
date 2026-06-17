@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Recreational Gambling Tax",
+  "manaCost": "{1}{W}{U}",
+  "manaValue": 3,
+  "colors": ["W", "U"],
+  "colorIdentity": ["W", "U"],
+  "type": "Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Whenever an opponent rolls one or more dice or flips one or more coins, that player loses 1 life and you gain 1 life. (The house — and the tax office — always wins.)",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 2,
+  "flavorText": "Down the hall, the Mayor's caucus is rolling dice all day. Prim simply opened a tab.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B205",
+  "extras": { "parasitic": "drains life when opponents roll/flip", "interaction": "taxes the rival deck's chaos" }
+}

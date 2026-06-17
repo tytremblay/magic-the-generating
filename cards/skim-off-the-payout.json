@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Skim Off the Payout",
+  "manaCost": "{B}",
+  "manaValue": 1,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Whenever an opponent wins a coin flip, wins a die roll, or would create one or more Treasure tokens, you create a Treasure token too. The carnival pays out; the syndicate takes its cut on the way to the window.\nWhenever you create a Treasure this way, you may create a Favor token instead. House money is the best money.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "Every jackpot in Whateverville rings two bells: one for the winner, one in the back room.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H309",
+  "extras": { "token": "Favor (IOU), Treasure", "interaction": "coin flips, dice, carnival payouts" }
+}

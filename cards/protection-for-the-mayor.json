@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Protection for the Mayor",
+  "manaCost": "{2}{B}",
+  "manaValue": 3,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "When Protection for the Mayor enters the battlefield, you become the monarch and you create a Favor token. The Mayor is under our protection now. Lovely Mayor. Be a shame, etc.\nWhenever you become the monarch or are the monarch at the beginning of your upkeep, target opponent gains 1 life and you create a Favor token. The retainer is collected up front.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "The Mayor's bodyguards work for the Don. So does the Mayor. So, increasingly, does the town.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H313",
+  "extras": { "token": "Favor (IOU)", "interaction": "the Mayor, monarch" }
+}

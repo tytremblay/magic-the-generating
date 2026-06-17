@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Recount of the Recount",
+  "manaCost": "{1}{U}",
+  "manaValue": 2,
+  "colors": ["U"],
+  "colorIdentity": ["U"],
+  "type": "Instant — Procedure",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": ["Procedure"],
+  "text": "Choose target die roll or coin flip that happened this turn. Recount it. Then, because the recount is suspicious, recount the recount. The final result is whichever outcome you, personally, prefer.\nDraw a card. (For your records.)",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "The Mayor demanded a recount. Prim demanded a recount of his recount. They are now on recount nine.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B201",
+  "extras": { "interaction": "hijacks the rival deck's recounts", "parasitic": "controls dice/coins" }
+}

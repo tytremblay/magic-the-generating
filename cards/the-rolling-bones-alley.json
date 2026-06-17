@@ -1,0 +1,24 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Rolling Bones Alley",
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["B", "R"],
+  "type": "Land",
+  "types": ["Land"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "The Rolling Bones Alley enters the battlefield tapped.\nWhen The Rolling Bones Alley enters the battlefield, roll a six-sided die. On a 6, create a Treasure token. On a 1, it deals 1 damage to you as a die clatters off the wall and hits you.\n{T}: Add {B} or {R}.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "Down the alley behind the funnel-cake stand, the dice never stop clicking against the brick.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C605",
+  "extras": {
+    "dice": "ETB roll for upside or a nick"
+  }
+}

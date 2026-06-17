@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Quarantine the District",
+  "manaCost": "{3}{R}",
+  "manaValue": 4,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Destroy all creatures without a sludge counter on them. Then each opponent rolls a six-sided die; on a 1, they also can't cast spells until their next turn — that district stays sealed. The hazmat tape goes around the whole neighborhood. Your things are already inside it.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "\"Shelter in place\" turned out to mean \"shelter in the place the thing already is.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G312",
+  "extras": { "dice": "d6", "boardWipe": "spares sludge creatures" }
+}

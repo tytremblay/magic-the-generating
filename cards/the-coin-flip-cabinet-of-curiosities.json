@@ -1,0 +1,25 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Coin-Flip Cabinet of Curiosities",
+  "manaCost": "{2}{B}{R}",
+  "manaValue": 4,
+  "colors": ["B", "R"],
+  "colorIdentity": ["B", "R"],
+  "type": "Acorn Artifact",
+  "types": ["Artifact"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Whenever a player flips one or more coins, exile the top card of your library face down and put a Curio counter on The Coin-Flip Cabinet of Curiosities.\n{1}, {T}: Flip a coin. If you win, put a card you own exiled with the Cabinet into your hand. If you lose, the drawer sticks; try again next time.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "Behind glass: a two-headed coin, a die that only rolls 7, and the soul of a former cashier.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C313",
+  "extras": {
+    "dice": "feeds off the whole table's coin flips"
+  }
+}

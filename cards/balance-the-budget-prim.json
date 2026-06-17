@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Balance the Budget to the Half-Cent",
+  "manaCost": "{2}{W}{U}",
+  "manaValue": 4,
+  "colors": ["W", "U"],
+  "colorIdentity": ["W", "U"],
+  "type": "Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Each player's life total is averaged with every other player's, then everyone is set to that average. If the average is not a whole number, leave the ½ unaccounted for and note it as a \"rounding discrepancy\" to be resolved never.\nThen, the player with the most cards in hand must surrender exactly half of them, rounded toward the auditor.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 4,
+  "flavorText": "The books balanced perfectly. The half-cent that didn't has been missing for forty years.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B404",
+  "extras": { "impossibleMath": "fractional life left unaccounted", "tableState": "average all life totals" }
+}

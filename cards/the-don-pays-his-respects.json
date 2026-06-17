@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Don Pays His Respects",
+  "manaCost": "{4}{B}",
+  "manaValue": 5,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Each opponent sacrifices half their creatures, rounded up out of respect, down out of mercy — you decide, per opponent, which way you're feeling. Hold a moment of silence at the table; anyone who speaks during it owes you a Favor (create a Favor token).\nReturn all creatures that died this way to the battlefield under your control. They work for the family now. They always did, really.",
+  "keywords": [],
+  "rarity": "mythic",
+  "chaos": 4,
+  "flavorText": "He attends every funeral in Whateverville. Often, he scheduled it.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H407",
+  "extras": { "token": "Favor (IOU)", "fourthWall": "moment of silence", "impossibleMath": "round emotionally" }
+}

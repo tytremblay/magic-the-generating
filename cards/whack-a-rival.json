@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Whack-a-Rival",
+  "manaCost": "{1}{B}{B}",
+  "manaValue": 3,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Destroy target creature. Its controller may prevent this by sacrificing two Treasures or doing you two Favors (you create two Favor tokens). They never have the cash on them. They never do.\nThis is not personal. It is, however, extremely efficient.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 3,
+  "flavorText": "The Don sent flowers to the funeral. The card read: \"Nothing personal. — The Don.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H314",
+  "extras": { "token": "Favor (IOU), Treasure" }
+}

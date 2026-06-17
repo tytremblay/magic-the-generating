@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Declared Conflict of Interest",
+  "manaCost": "{W}{U}",
+  "manaValue": 2,
+  "colors": ["W", "U"],
+  "colorIdentity": ["W", "U"],
+  "type": "Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Target creature can't block this turn and must recuse itself from combat. If it was attacking, it stops attacking and files a disclosure instead.",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 2,
+  "flavorText": "\"I cannot, in good conscience, fight my own cousin,\" said the goblin to its identical cousin.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B218"
+}

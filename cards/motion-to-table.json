@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Motion to Table",
+  "manaCost": "{U}",
+  "manaValue": 1,
+  "colors": ["U"],
+  "colorIdentity": ["U"],
+  "type": "Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Counter target activated or triggered ability. The matter is tabled and will be revisited at a later session. (It will not.)",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 1,
+  "flavorText": "\"I move that we move that we discuss whether to move.\" Carried, 1-0.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B111"
+}

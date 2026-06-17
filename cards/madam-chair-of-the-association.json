@@ -1,0 +1,28 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Madam Chair of the Neighborhood Association",
+  "manaCost": "{3}{G}{W}",
+  "manaValue": 5,
+  "colors": ["G", "W"],
+  "colorIdentity": ["G", "W"],
+  "type": "Legendary Creature — Human Bureaucrat Organizer",
+  "types": ["Creature"],
+  "supertypes": ["Legendary"],
+  "subtypes": ["Human", "Bureaucrat", "Organizer"],
+  "text": "Other creatures you control get +1/+1.\nWhenever the table votes, you may call the meeting to order: tap any number of untapped Voters you control. For each one tapped this way, you draw a card or create a 1/1 green and white Voter creature token (chosen as each taps).\n{4}{G}{W}: Tabling motion — until your next turn, the player who controls the most permanents can't cast spells unless they pay {2} more, citing Robert's Rules of Order.",
+  "power": "3",
+  "toughness": "4",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "She has the gavel. She has the agenda. She has, somewhere, the minutes from 1997 and she WILL reference them.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "D308",
+  "extras": {
+    "voting": "tap Voters for value",
+    "frontrunnerPunish": "taxes the leader's spells"
+  }
+}

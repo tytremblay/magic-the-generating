@@ -1,0 +1,25 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Mirror Maze of Debts",
+  "manaCost": "{2}{B}{B}",
+  "manaValue": 4,
+  "colors": ["B"],
+  "colorIdentity": ["B", "R"],
+  "type": "Acorn Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Each opponent is lost in the mirror maze. At the beginning of each opponent's upkeep, they roll a six-sided die to find the exit. On a 6 they escape and untap as normal. On anything else they're still in there: they skip their draw step and you draw a card, reflected back at you from a dozen wrong turns.\nThere is no exit on the half-step. There is half an exit, but it's a reflection.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 4,
+  "flavorText": "Every reflection owes you money. Even the ones that aren't yours. Especially those.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C405",
+  "extras": {
+    "dice": "opponents roll to escape each upkeep"
+  }
+}

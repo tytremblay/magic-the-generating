@@ -1,0 +1,28 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Term Limit",
+  "manaCost": "{3}{W}",
+  "manaValue": 4,
+  "colors": ["W"],
+  "colorIdentity": ["G", "W"],
+  "type": "Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Each creature an opponent controls that has been on the battlefield longest under that player's control is term-limited and is exiled. (For each player, pick the creature they've controlled the longest; if they can't remember, the table votes, and the table never remembers fondly.)\nFor each creature exiled this way, you create a 1/1 green and white Voter creature token.",
+  "power": "",
+  "toughness": "",
+  "keywords": [],
+  "rarity": "rare",
+  "flavorText": "\"You've held that office — sorry, that battlefield position — long enough.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 4,
+  "number": "D405",
+  "extras": {
+    "fourthWall": "table votes / memory of play order",
+    "frontrunnerPunish": "exiles entrenched creatures"
+  }
+}

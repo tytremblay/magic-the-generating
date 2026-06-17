@@ -1,0 +1,21 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "End-Times Meetinghouse",
+  "type": "Acorn Land",
+  "types": ["Land"],
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["W", "B"],
+  "text": "End-Times Meetinghouse enters the battlefield tapped.\nWhen End-Times Meetinghouse enters the battlefield, you gain 2 life.\n{T}: Add {W} or {B}.",
+  "power": "",
+  "toughness": "",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 1,
+  "flavorText": "Potluck on Wednesdays. The world ends on a rolling basis. BYO casserole and contrition.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "F602"
+}

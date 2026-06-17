@@ -1,0 +1,28 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Perpetual Recall",
+  "manaCost": "{4}{G}{W}",
+  "manaValue": 6,
+  "colors": ["G", "W"],
+  "colorIdentity": ["G", "W"],
+  "type": "Enchantment — Saga of Sorts",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": ["Saga"],
+  "text": "When this enters and whenever you create a Voter, recall the frontrunner: the player with the most permanents sacrifices a permanent.\nThen, recall the recall: do it again, but only if you're not now the frontrunner. Then recall that recall. Repeat this step. There is, in principle, no end to this step, but the table will make you stop. They always make you stop.",
+  "power": "",
+  "toughness": "",
+  "keywords": [],
+  "rarity": "mythic",
+  "flavorText": "Recall the mayor. Recall the replacement. Recall the replacement's replacement. The position is now purely theoretical.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 4,
+  "number": "D401",
+  "extras": {
+    "runawayLoop": "recall the recall, no end to this step",
+    "frontrunnerPunish": "loops on the leader"
+  }
+}

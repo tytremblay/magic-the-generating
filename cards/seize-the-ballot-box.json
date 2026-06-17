@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Seize the Ballot Box as Evidence",
+  "manaCost": "{2}{W}{U}",
+  "manaValue": 4,
+  "colors": ["W", "U"],
+  "colorIdentity": ["W", "U"],
+  "type": "Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Gain control of target artifact, or of target creature with a die, coin, ballot, or snack in its name or type, until end of turn. It's being held as evidence. Untap it. It gains haste. After all, evidence must be thoroughly examined.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 3,
+  "flavorText": "The Mayor's loaded dice are now Exhibit A. And Prim intends to roll them.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B310",
+  "extras": { "interaction": "steals the rival deck's dice/ballot artifacts" }
+}

@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Water-Cooler Intelligence",
+  "manaCost": "{1}{U}",
+  "manaValue": 2,
+  "colors": ["U"],
+  "colorIdentity": ["U"],
+  "type": "Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "At the beginning of your end step, if anyone at the table rolled a die or flipped a coin this turn, scry 1. If two or more such things happened, scry 2 instead. (Gossip travels fast through the break room.)",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 2,
+  "flavorText": "\"Did you hear? Cubicle 6 rolled a natural one. Pass it on.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B220",
+  "extras": { "parasitic": "scries off table-wide dice/coins" }
+}

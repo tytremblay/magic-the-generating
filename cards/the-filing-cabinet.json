@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Infinite Filing Cabinet",
+  "manaCost": "{3}{U}",
+  "manaValue": 4,
+  "colors": ["U"],
+  "colorIdentity": ["U"],
+  "type": "Artifact",
+  "types": ["Artifact"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Whenever an opponent rolls one or more dice or flips one or more coins, file it: put a paper counter on The Infinite Filing Cabinet.\n{2}, {T}, Remove three paper counters: Draw two cards.\n{4}, {T}, Remove seven paper counters: Take an extra turn after this one to \"get caught up on filing.\"",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "Drawer A through Drawer ∞. Drawer ∞ is where they keep the things that never happened.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B309",
+  "extras": { "parasitic": "stockpiles counters from opponents' dice/coins" }
+}

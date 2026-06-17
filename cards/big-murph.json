@@ -1,0 +1,28 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Big Murph, Whatever Crawled Out of the Water Treatment Plant",
+  "manaCost": "{3}{R}{G}",
+  "manaValue": 5,
+  "colors": ["R", "G"],
+  "colorIdentity": ["R", "G"],
+  "type": "Legendary Acorn Creature — Sludge Leviathan Horror",
+  "types": ["Creature"],
+  "supertypes": ["Legendary"],
+  "subtypes": ["Sludge", "Leviathan", "Horror"],
+  "text": "When Big Murph enters the battlefield, the reservoir burps: each player reveals the top card of their library and Big Murph eats every snack on the table. Put a sludge counter on Big Murph for each card revealed this way.\nFeed (Whenever a player rolls one or more dice, flips one or more coins, or votes, put a sludge counter on Big Murph.)\nBig Murph gets +1/+1 for each sludge counter on it. As long as Big Murph has seven or more sludge counters on it, it has trample.\n{2}{R}{G}, Remove half of the sludge counters on Big Murph, rounded down: Big Murph lashes out at the whole town — it deals damage equal to its power to each opponent and you draw a card. Everyone agrees it was the water all along.",
+  "power": "0",
+  "toughness": "0",
+  "keywords": [],
+  "rarity": "mythic",
+  "chaos": 3,
+  "flavorText": "Forty years of runoff, expired snacks, and uncounted ballots. It was bound to learn to swim eventually.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "🦑100",
+  "extras": {
+    "newMechanic": "Feed — the whole table's dice/coins/votes grow Big Murph via sludge counters",
+    "communalKaiju": "scaling boss that menaces every opponent at once"
+  }
+}

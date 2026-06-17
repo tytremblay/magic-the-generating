@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Dice-Roll Surcharge",
+  "manaCost": "{U}",
+  "manaValue": 1,
+  "colors": ["U"],
+  "colorIdentity": ["U"],
+  "type": "Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Whenever an opponent rolls one or more dice, you draw a card. (Recreational randomness is a taxable event.)",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 1,
+  "flavorText": "Schedule D, line 6: \"Income derived from other people's fun.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B104",
+  "extras": { "parasitic": "draw when opponents roll dice" }
+}

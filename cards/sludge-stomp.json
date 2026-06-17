@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Sludge Stomp",
+  "manaCost": "{1}{G}",
+  "manaValue": 2,
+  "colors": ["G"],
+  "colorIdentity": ["G"],
+  "type": "Acorn Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Target creature you control gets +2/+2 until end of turn. If it has a sludge counter on it, it also gains trample until end of turn.",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 1,
+  "flavorText": "There is no graceful way to be stepped on by something that smells like that.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G108"
+}

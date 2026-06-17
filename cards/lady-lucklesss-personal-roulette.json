@@ -1,0 +1,26 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Lady Luckless's Personal Roulette Wheel",
+  "manaCost": "{3}{R}",
+  "manaValue": 4,
+  "colors": ["R"],
+  "colorIdentity": ["B", "R"],
+  "type": "Acorn Artifact",
+  "types": ["Artifact"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "{2}, {T}: Everyone bets. Each opponent secretly picks 'red' or 'black' (left fist / right fist). Then roll two six-sided dice and add them. If the total is even, 'red' wins; if odd, 'black.' Each loser loses 3 life. Each winner gains 1 life. The wheel takes its cut: you create a Treasure for every player who bet, win or lose.\nThe wheel has a secret thirty-seventh slot. It is the snack. The snack always loses.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 4,
+  "flavorText": "Other wheels have a house edge. This one has a house cliff.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C408",
+  "extras": {
+    "dice": "table-wide red/black wager off 2d6",
+    "tableState": "everyone secretly bets with fists"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Incumbent Deterrence Statute",
+  "manaCost": "{2}{U}",
+  "manaValue": 3,
+  "colors": ["U"],
+  "colorIdentity": ["U"],
+  "type": "Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Legendary creatures your opponents control enter the battlefield with a stun counter on them. (Anyone seeking power must first survive orientation.)\nWhenever a legendary creature an opponent controls would deal combat damage to you, prevent 1 of that damage. The paperwork softened the blow.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "Especially you, Mayor. Especially you.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B219",
+  "extras": { "interaction": "slows the rival commander and incumbents" }
+}

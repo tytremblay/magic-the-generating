@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Loudest Volunteer",
+  "manaCost": "{1}{G}{W}",
+  "manaValue": 3,
+  "colors": ["G", "W"],
+  "colorIdentity": ["G", "W"],
+  "type": "Creature — Human Volunteer",
+  "types": ["Creature"],
+  "supertypes": [],
+  "subtypes": ["Human", "Volunteer"],
+  "text": "When The Loudest Volunteer enters the battlefield, the physically loudest player at the table right now must chant a recall slogan of their choice out loud. If they do, create three 1/1 green and white Voter creature tokens. If they refuse, create one, sheepishly.\nThe Loudest Volunteer gets +1/+0 as long as you are the loudest player at the table.",
+  "power": "2",
+  "toughness": "2",
+  "keywords": [],
+  "rarity": "rare",
+  "flavorText": "She doesn't have a megaphone. She IS the megaphone.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 3,
+  "number": "D313",
+  "extras": {
+    "fourthWall": "loudest player chants a slogan"
+  }
+}

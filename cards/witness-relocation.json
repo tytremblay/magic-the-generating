@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Witness Relocation",
+  "manaCost": "{1}{B}",
+  "manaValue": 2,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Exile target creature you control, then return it to the battlefield under its owner's control. It saw something it shouldn't have. Now it lives somewhere nice and remembers nothing.\nDraw a card.",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 1,
+  "flavorText": "\"There was no witness. There was never a witness. What witness?\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H106"
+}

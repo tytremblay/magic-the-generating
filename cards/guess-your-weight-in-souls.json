@@ -1,0 +1,25 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Guess Your Weight in Souls",
+  "manaCost": "{2}{B}",
+  "manaValue": 3,
+  "colors": ["B"],
+  "colorIdentity": ["B", "R"],
+  "type": "Acorn Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "When Guess Your Weight in Souls enters the battlefield, the carny guesses the number of cards in target opponent's hand out loud (you may peek for two seconds, no longer). If the guess is exact, that player discards two cards. If it's off by one, they discard one. If it's way off, the carny is embarrassed and you gain 1 life out of pity.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 3,
+  "flavorText": "Within three pounds or your money back. The money is in souls. There are no refunds on souls.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C304",
+  "extras": {
+    "fourthWall": "guess the hand size out loud after a brief peek"
+  }
+}

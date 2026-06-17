@@ -1,0 +1,25 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Double Down or Double Over",
+  "manaCost": "{X}{B}{R}",
+  "manaValue": 2,
+  "colors": ["B", "R"],
+  "colorIdentity": ["B", "R"],
+  "type": "Acorn Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Look at the top card of your library and bet X life that it costs more than the value of a die you're about to roll. Roll a six-sided die. If the card's mana value is greater than the result, double your X: draw cards equal to X and create X Treasures. If it's not, double your over: lose X life, then lose X life again, then sit down.\nIf X was 0, nothing happens and the table sighs at you.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 4,
+  "flavorText": "There is no middle outcome. There has never been a middle outcome. That's why it's fun.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C403",
+  "extras": {
+    "dice": "bet life on a card vs. a die roll"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Snack That Was a Wire",
+  "manaCost": "{1}{B}",
+  "manaValue": 2,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Artifact — Snack",
+  "types": ["Artifact"],
+  "supertypes": [],
+  "subtypes": ["Snack"],
+  "text": "The Snack That Was a Wire is also the table snack. Give it to the opponent on your right; they may eat it.\nWhile an opponent has eaten The Snack That Was a Wire, you may look at their hand at any time. (They were bugged. The pretzel was listening the whole time.) Whenever you look this way, you may sacrifice a Favor token to make them discard a card you saw.\nThe goblins put a microphone in a soft pretzel. It is, somehow, still crunchy.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 4,
+  "flavorText": "\"Was the pretzel always this salty?\" \"That's not salt. Keep talking.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H404",
+  "extras": { "token": "Favor (IOU)", "tableState": "the table snack as a literal wire" }
+}

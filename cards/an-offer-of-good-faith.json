@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "An Offer of Good Faith",
+  "manaCost": "{B}",
+  "manaValue": 1,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Target opponent gains 4 life and you create two Favor tokens. Such generosity. Remember it.\nDraw a card. (You can afford to be friendly. You've got it in writing.)",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "\"Consider it a gift. We don't give gifts. Consider it anyway.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H211",
+  "extras": { "token": "Favor (IOU)" }
+}

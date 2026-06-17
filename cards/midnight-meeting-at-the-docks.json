@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Midnight Meeting at the Docks",
+  "manaCost": "{2}{B}",
+  "manaValue": 3,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Each player draws a card. For each opponent who drew, you create a Favor token. Everybody came to the meeting. Not everybody is leaving the meeting.\nThen target opponent of your choice loses 2 life. There were words. There is now a body of water nearby.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "The agenda had one item, and that item had two outcomes.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H212",
+  "extras": { "token": "Favor (IOU)" }
+}

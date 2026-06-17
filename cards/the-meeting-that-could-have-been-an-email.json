@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "set": "CHAOS",
+  "chaos": 5,
+  "name": "The Meeting That Could Have Been an Email",
+  "manaCost": "the rest of your afternoon",
+  "manaValue": "∞",
+  "colors": [],
+  "colorIdentity": [],
+  "type": "Eternal Acorn Sorcery — Mandatory Sync",
+  "types": ["Sorcery"],
+  "subtypes": ["Sync"],
+  "rarity": "recurring (declined)",
+  "text": "All players stop. The meeting begins. It does not need to begin but it has begun. Nothing on any battlefield happens while the meeting is happening, and the meeting is happening.\nGo around the table. Each player says one thing that could have been an email. When a player runs out of things, time was supposed to resume, but someone says \"before we wrap, one quick thing,\" and it does not.\nThis sorcery does not leave the stack. It is recurring. It recurs. You will be invited again.",
+  "flavorText": "Subject: Re: quick sync. Duration: the heat death of the universe.",
+  "power": "action items: 0",
+  "toughness": "attendees: everyone",
+  "artist": "AI Generated",
+  "number": "B504",
+  "extras": { "nonsense": true, "timingGag": "for as long as you keep talking", "fourthWall": "table participation", "runawayLoop": "never leaves the stack" }
+}

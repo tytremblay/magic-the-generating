@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Red Tape",
+  "manaCost": "{1}{W}",
+  "manaValue": 2,
+  "colors": ["W"],
+  "colorIdentity": ["W"],
+  "type": "Enchantment — Aura",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": ["Aura"],
+  "text": "Enchant permanent\nEnchanted permanent's activated abilities cost {2} more to activate. (It's wrapped in so much tape, you understand.)",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 1,
+  "flavorText": "Ironically, the color is mandated by an ordinance no one can locate.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B113"
+}

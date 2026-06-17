@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Pay It Forward (Or Else)",
+  "manaCost": "{2}{B}",
+  "manaValue": 3,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Whenever an opponent who owes you a Favor does another player a favor — gives them a card, a Treasure, a snack, life, or a vote — you collect both ends: sacrifice one of your Favor tokens to make that opponent ALSO give you the same thing. The debt rolls downhill and uphill at once. It's a closed economy. The economy is you.\nWhenever this happens, create a Favor token. The chain never ends. The Don designed it that way over a long weekend.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 4,
+  "flavorText": "Generosity is just debt that hasn't been collected yet. — The Don, embroidered on a pillow",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H409",
+  "extras": { "token": "Favor (IOU)", "twist": "favor chain reaction" }
+}

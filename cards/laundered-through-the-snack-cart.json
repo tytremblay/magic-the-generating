@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Laundered Through the Snack Cart",
+  "manaCost": "{1}{B}",
+  "manaValue": 2,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Create two Treasure tokens. They are technically pretzel revenue.\nIf you control a snack or the table snack is in front of you, create a third Treasure and draw a card. The books say it's all hot dog money. The books are lying. The books are also on fire.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "Forty thousand dollars of soft pretzels sold to no one in particular.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H205",
+  "extras": { "token": "Treasure", "tableState": "the table snack" }
+}

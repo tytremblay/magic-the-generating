@@ -1,0 +1,18 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Old Landfill",
+  "type": "Acorn Land",
+  "types": ["Land"],
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["R", "G"],
+  "text": "{T}: Add {C}.\n{T}: Add {R} or {G}. Activate this ability only if a creature you control has a sludge counter on it.\n{1}, {T}, Sacrifice The Old Landfill: It deals 2 damage to any target. Decades of buried whatever, all at once.",
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "Capped, seeded, and turned into a park. The park hums. The geese left.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G604"
+}

@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Two and a Half Readings of the Bill",
+  "manaCost": "{1}{½}{W}{U}",
+  "manaValue": 3,
+  "colors": ["W", "U"],
+  "colorIdentity": ["W", "U"],
+  "type": "Sorcery — Procedure",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": ["Procedure"],
+  "text": "Copy target spell you control twice and a half. You may choose new targets for the copies. The half-copy does half of whatever the spell does, rounded by mutual exhaustion.\nThe bill is then sent back to committee, where it dies, as all bills do.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 4,
+  "flavorText": "First reading: ignored. Second reading: ignored. Half a third reading: someone fell asleep.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B409",
+  "extras": { "halfMana": true, "impossibleMath": "two and a half copies" }
+}

@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Quorum Call",
+  "manaCost": "{2}{W}",
+  "manaValue": 3,
+  "colors": ["W"],
+  "colorIdentity": ["W"],
+  "type": "Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Create two 1/1 white Clerk creature tokens. For each other Bureaucrat, Clerk, Auditor, Notary, or Inspector you control, create an additional 1/1 white Clerk creature token. (A meeting cannot begin without enough warm bodies.)",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "Motion to adjourn passes the moment the last seat is filled.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B217"
+}

@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Protection from Being Protected",
+  "manaCost": "{2}{B}",
+  "manaValue": 3,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Enchantment — Aura",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": ["Aura"],
+  "text": "Enchant permanent\nEnchanted permanent has protection from whoever is currently offering it protection, which is you, which means it has protection from your protection, which means it's no longer protected, which means — look, it just can't be targeted by anyone, including the Don, who finds this very funny.\nWhen this Aura enters, you create a Favor token. The premium was paid. The coverage is paradoxical.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 4,
+  "flavorText": "The fine print refers to itself. The fine print's fine print refers to the fine print. Sign here.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H406",
+  "extras": { "token": "Favor (IOU)", "selfAware": "recursive protection" }
+}

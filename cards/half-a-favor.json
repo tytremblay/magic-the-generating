@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Half a Favor",
+  "manaCost": "{½}{B}",
+  "manaValue": 1,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Target opponent gains 1 life. You create half a Favor token. (Tear a Favor token in half, or if you don't have one, owe yourself half of one. Two halves make a Favor; nobody at the table is allowed to check your math.)\nHalf-favors are the most dangerous kind. You can never be sure if you're square.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 4,
+  "flavorText": "\"You only did me half a favor.\" \"Then you only owe me half a kneecap.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H401",
+  "extras": { "token": "Favor (IOU)", "halfMana": "{½}", "twist": "half-favors" }
+}

@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Election Certification Board",
+  "manaCost": "{2}{W}{U}",
+  "manaValue": 4,
+  "colors": ["W", "U"],
+  "colorIdentity": ["W", "U"],
+  "type": "Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Whenever an opponent votes, holds an election, or casts a spell that mentions voting, that vote does not count until you certify it. You may decline to certify it. (The Board is taking the matter under advisement.)\nWhenever you certify or decline a vote, draw a card.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 2,
+  "flavorText": "The Mayor was elected in a landslide. The Board has been reviewing that landslide since.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B212",
+  "extras": { "interaction": "blocks the rival deck's voting/elections" }
+}

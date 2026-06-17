@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Algae Bloom",
+  "manaCost": "{1}{G}",
+  "manaValue": 2,
+  "colors": ["G"],
+  "colorIdentity": ["G"],
+  "type": "Acorn Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. The pond water is now green and alive and frankly thriving.",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 1,
+  "flavorText": "The health department posted a sign. The algae ate the sign.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G107"
+}

@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Property Value Collapse",
+  "manaCost": "{2}{R}",
+  "manaValue": 3,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Destroy target artifact or land. Its controller may not file a complaint with the Mayor about it. (There is a monster in the reservoir. Nobody's buying.)",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 1,
+  "flavorText": "\"Cozy fixer-upper, lake view, motivated seller, please, please buy it.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G110"
+}

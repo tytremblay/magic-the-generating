@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Sunshine Ordinance",
+  "manaCost": "{2}{W}",
+  "manaValue": 3,
+  "colors": ["W"],
+  "colorIdentity": ["G", "W"],
+  "type": "Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Players play with their hands revealed... no, just kidding, that's too far. Instead:\nWhenever an opponent who controls the most permanents casts a spell, you create a 1/1 green and white Voter creature token. (Every backroom deal recruits another volunteer.)",
+  "power": "",
+  "toughness": "",
+  "keywords": [],
+  "rarity": "uncommon",
+  "flavorText": "Transparency in government, brought to you by the sheer number of people watching the mayor very, very closely.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 2,
+  "number": "D211",
+  "extras": {
+    "frontrunnerPunish": "triggers off the leader casting spells"
+  }
+}

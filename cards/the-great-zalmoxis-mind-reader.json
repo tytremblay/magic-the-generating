@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Great Zalmoxis, Mind-Reader (Allegedly)",
+  "manaCost": "{2}{B}",
+  "manaValue": 3,
+  "colors": ["B"],
+  "colorIdentity": ["B", "R"],
+  "type": "Legendary Acorn Creature — Human Fortune Teller",
+  "types": ["Creature"],
+  "supertypes": ["Legendary"],
+  "subtypes": ["Human", "Fortune Teller"],
+  "text": "When The Great Zalmoxis enters the battlefield, predict out loud a number from 1 to 6. Then any opponent rolls a six-sided die. If you guessed right, draw two cards and bask. If you guessed wrong, claim 'the spirits were loud today' and draw one anyway.\n{T}: Name a card. The player to your right says whether it's in their hand. They may lie. You may not check.",
+  "power": "1",
+  "toughness": "3",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "He's never been wrong, because he's never agreed on what 'right' means.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C301",
+  "extras": {
+    "fourthWall": "predict a number out loud; opponents may bluff"
+  }
+}

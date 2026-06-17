@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Uproot the Incumbent",
+  "manaCost": "{2}{G}",
+  "manaValue": 3,
+  "colors": ["G"],
+  "colorIdentity": ["G", "W"],
+  "type": "Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Destroy target artifact or enchantment an opponent controls. If that player controls more permanents than you, create two 1/1 green and white Voter creature tokens. (Pull up the entrenched stuff. Roots and all.)",
+  "power": "",
+  "toughness": "",
+  "keywords": [],
+  "rarity": "uncommon",
+  "flavorText": "The mayor called it a \"municipal fixture.\" The recall called it \"a thing we can absolutely remove with enough volunteers.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 2,
+  "number": "D219",
+  "extras": {
+    "frontrunnerPunish": "rewards hitting the leader"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Living Marquee",
+  "manaCost": "{3}{R}",
+  "manaValue": 4,
+  "colors": ["R"],
+  "colorIdentity": ["B", "R"],
+  "type": "Acorn Creature — Construct Sign",
+  "types": ["Creature"],
+  "supertypes": [],
+  "subtypes": ["Construct", "Sign"],
+  "text": "Defender\nWhenever a creature you control deals combat damage to a player, the marquee flashes — read this card's name aloud in your best carnival-barker voice. If you do, draw a card. If you mumble it, the bulbs flicker out and you get nothing. The table judges sincerity.",
+  "power": "0",
+  "toughness": "6",
+  "keywords": ["Defender"],
+  "rarity": "uncommon",
+  "chaos": 3,
+  "flavorText": "Half the bulbs are dead. The half that work spell something rude after midnight.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C315",
+  "extras": {
+    "fourthWall": "read the card name aloud as a barker to draw"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "set": "CHAOS",
+  "chaos": 5,
+  "name": "We Have No Record of You",
+  "manaCost": "{W}{U}, and proof you exist",
+  "manaValue": "unverified",
+  "colors": ["W", "U"],
+  "colorIdentity": ["W", "U"],
+  "type": "Instant — Clerical Erasure",
+  "types": ["Instant"],
+  "subtypes": ["Erasure"],
+  "rarity": "unfiled",
+  "text": "Choose target player. According to the records, they were never here. They do not control permanents, because they do not control. They did not take their turns, because there is no file. They are not, technically, playing.\nThe player may dispute this by producing identification the clerk will not accept. The clerk accepts nothing. The clerk is also not real, per its own records.\nAt some point everyone forgets why the chair is empty.",
+  "flavorText": "\"You're not in the system.\" \"I've been coming here for years.\" \"To where? There's no record of a here.\"",
+  "artist": "AI Generated",
+  "number": "B502",
+  "extras": { "nonsense": true, "ominous": true, "fourthWall": "a player stops technically playing" }
+}

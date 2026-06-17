@@ -1,0 +1,21 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The House of Mirrors",
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["B", "R"],
+  "type": "Land",
+  "types": ["Land"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "{T}: Add {B} or {R}.\n{B}{R}, {T}: Flip a coin. If you win the flip, draw a card. If you lose, you walk into your own reflection and lose 1 life. Either way, you swear the floor wasn't there a second ago.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "Forty exits, thirty-nine of them painted on.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C604"
+}

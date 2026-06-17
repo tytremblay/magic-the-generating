@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Sleeps with the Fishes",
+  "manaCost": "{2}{B}",
+  "manaValue": 3,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Destroy target creature. If it dies this way, you create a Treasure token from whatever was in its pockets, and its controller may be invited to do you a favor sometime.\nThey found the boots. Just the boots.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "The Whateverville Reservoir is very deep and asks no questions.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H207",
+  "extras": { "token": "Treasure" }
+}

@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Angry but Polite Mob",
+  "manaCost": "{3}{G}",
+  "manaValue": 4,
+  "colors": ["G"],
+  "colorIdentity": ["G", "W"],
+  "type": "Creature — Human Citizen Mob",
+  "types": ["Creature"],
+  "supertypes": [],
+  "subtypes": ["Human", "Citizen", "Mob"],
+  "text": "Trample\nAngry but Polite Mob's power is equal to the number of Voters you control.\nWhenever Angry but Polite Mob attacks, it must attack the player who controls the most permanents if able. (After saying excuse me.)",
+  "power": "*",
+  "toughness": "5",
+  "keywords": ["Trample"],
+  "rarity": "uncommon",
+  "flavorText": "They brought pitchforks AND a thank-you card. They are furious AND they wiped their feet.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 2,
+  "number": "D207",
+  "extras": {
+    "frontrunnerPunish": "must attack the player with most permanents"
+  }
+}

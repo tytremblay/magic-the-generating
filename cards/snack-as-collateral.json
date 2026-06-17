@@ -1,0 +1,25 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Snack as Collateral",
+  "manaCost": "{B}{R}",
+  "manaValue": 2,
+  "colors": ["B", "R"],
+  "colorIdentity": ["B", "R"],
+  "type": "Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "As an additional cost to cast this spell, the most recently snacking player must declare their snack as collateral.\nDestroy target creature. If the chosen player does not share their snack before your next turn, you draw two cards. (The snack was always the real wager.)",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "\"You're good for it. The chips, I mean. Hand 'em over.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C207",
+  "extras": {
+    "tableState": "the table snack as wager collateral"
+  }
+}

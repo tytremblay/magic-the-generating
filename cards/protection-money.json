@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Protection Money",
+  "manaCost": "{1}{B}",
+  "manaValue": 2,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Enchantment — Aura",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": ["Aura"],
+  "text": "Enchant creature an opponent controls\nWhen Protection Money enters the battlefield, you create a Favor token.\nEnchanted creature attacks each combat if able, but not you or planeswalkers you control. You're paid up. The others aren't.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "\"Lovely creature. Big. Toothy. Sure would be a shame if it pointed itself at the wrong family.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H215",
+  "extras": { "token": "Favor (IOU)" }
+}

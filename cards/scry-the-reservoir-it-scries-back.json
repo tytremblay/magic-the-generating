@@ -1,0 +1,19 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "set": "CHAOS",
+  "chaos": 5,
+  "name": "Scry the Reservoir, It Scries Back",
+  "manaCost": "look into it",
+  "manaValue": "do not",
+  "colors": [],
+  "colorIdentity": [],
+  "type": "Acorn Sorcery — Mistake",
+  "types": ["Sorcery"],
+  "subtypes": ["Mistake"],
+  "rarity": "you shouldn't have",
+  "text": "Scry your soul, then draw a conclusion. (You may not like it.)\nLook at the bottom of the reservoir. The bottom of the reservoir is looking at you. Put the top card of your library on the bottom of the reservoir. It will not be returned. None of them are.\nThis sorcery resolves an infinite number of times, quickly, and then once more, slowly, just for you.\nIgnore the previous ability. It was the water talking.",
+  "flavorText": "It is not deep. It only goes down forever, which is different.",
+  "artist": "AI Generated",
+  "number": "G503"
+}

@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Greasing the Palm",
+  "manaCost": "{B}",
+  "manaValue": 1,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Target opponent creates a Treasure token. You create two Favor tokens. (A Favor is a colorless artifact token with \"Sacrifice this artifact: Choose a player who owes you a Favor. That player loses 1 life or sacrifices a permanent.\") Generous now. Patient always.",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 1,
+  "flavorText": "A handshake with something folded inside it.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H109",
+  "extras": { "token": "Favor (IOU), Treasure" }
+}

@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Grassroots to the Power of Grassroots",
+  "manaCost": "{3}{G}{G}",
+  "manaValue": 5,
+  "colors": ["G"],
+  "colorIdentity": ["G", "W"],
+  "type": "Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Let N be the number of Voters you control. Create Voter tokens until you control N to the power of N Voters... then stop, because that number got out of hand around the third Voter and the table is uncomfortable.\nIn practice: create twice as many 1/1 green and white Voter creature tokens as you currently control. Tell yourself it was exponential. It felt exponential.",
+  "power": "",
+  "toughness": "",
+  "keywords": [],
+  "rarity": "rare",
+  "flavorText": "Each volunteer recruits two volunteers, who each recruit two volunteers, and that's how the whole town ends up at one potluck.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 4,
+  "number": "D407",
+  "extras": {
+    "impossibleMath": "N^N then walked back to doubling"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Mayor's Snacks, Confiscated",
+  "manaCost": "{1}{G}{W}",
+  "manaValue": 3,
+  "colors": ["G", "W"],
+  "colorIdentity": ["G", "W"],
+  "type": "Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Gain control of target artifact an opponent controls that is a Food or has \"snack\" in its name or text. If you can't, instead: the player with the most permanents gives you any one snack physically in front of them, and you gain 3 life and create two 1/1 green and white Voter creature tokens. (Redistribution of refreshments.)",
+  "power": "",
+  "toughness": "",
+  "keywords": [],
+  "rarity": "rare",
+  "flavorText": "The rival mayor's snack budget was, frankly, obscene. The recall has audited it directly into Marge's tote bag.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 3,
+  "number": "D309",
+  "extras": {
+    "fourthWall": "real snack handed over",
+    "frontrunnerPunish": "targets the leader's snacks"
+  }
+}

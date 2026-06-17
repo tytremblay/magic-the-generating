@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Silent Majority",
+  "manaCost": "{4}{G}{W}",
+  "manaValue": 6,
+  "colors": ["G", "W"],
+  "colorIdentity": ["G", "W"],
+  "type": "Creature — Spirit Citizen Legion",
+  "types": ["Creature"],
+  "supertypes": [],
+  "subtypes": ["Spirit", "Citizen", "Legion"],
+  "text": "The Silent Majority's power and toughness are each equal to the number of players, creatures, and snacks at the table that are not currently making any noise. (Quiet things count. The casserole counts. You count, if you stop reading aloud.)\nThe Silent Majority can't be blocked as long as the table is quieter than you'd expect for this many people.",
+  "power": "*",
+  "toughness": "*",
+  "keywords": [],
+  "rarity": "mythic",
+  "flavorText": "They didn't say much. They didn't have to. They brought the votes and a covered dish.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 4,
+  "number": "D408",
+  "extras": {
+    "fourthWall": "counts quiet things at the table"
+  }
+}

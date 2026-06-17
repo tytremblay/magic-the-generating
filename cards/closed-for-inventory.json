@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Closed for Inventory",
+  "manaCost": "{2}{U}",
+  "manaValue": 3,
+  "colors": ["U"],
+  "colorIdentity": ["U"],
+  "type": "Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "During each opponent's turn, the first time they would roll a die or flip a coin, instead a sign goes up reading \"BACK IN 5 MINUTES\" and that roll or flip doesn't happen. (It is never 5 minutes.)\nAt the beginning of your upkeep, you may turn the sign around to read \"OPEN\" to draw a card, then it flips back.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "The clock taped to the door has read 5 minutes from now for as long as anyone can remember.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B307",
+  "extras": { "parasitic": "denies opponents' first roll/flip each turn", "interaction": "shuts down rival chaos" }
+}

@@ -1,0 +1,25 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Calliope of Doom",
+  "manaCost": "{2}{R}",
+  "manaValue": 3,
+  "colors": ["R"],
+  "colorIdentity": ["B", "R"],
+  "type": "Acorn Artifact",
+  "types": ["Artifact"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "At the beginning of your upkeep, hum a tune out loud. For as long as you keep humming (you may stop whenever you like), creatures you control get +1/+0. The moment you stop, the music dies and so does the bonus.\n{2}, {T}: Calliope of Doom deals 2 damage to any target. The pipes shriek a discordant waltz.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 3,
+  "flavorText": "It only knows one song. The song is also one of dread.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C307",
+  "extras": {
+    "physicalAction": "hum a tune; bonus lasts as long as you keep humming"
+  }
+}

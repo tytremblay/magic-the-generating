@@ -107,7 +107,7 @@ function appendTextWithSymbols(parent, text) {
   if (last < text.length) parent.appendChild(document.createTextNode(text.slice(last)));
 }
 
-function renderCard(card) {
+function renderCard(card, { zoomable = true } = {}) {
   const isAcorn = card.border === "acorn";
   const el = document.createElement("article");
   el.className = "card" + (isAcorn ? " acorn" : "");
@@ -191,7 +191,63 @@ function renderCard(card) {
   }
 
   el.appendChild(inner);
+
+  // Click a card to read it big in a centered overlay.
+  if (zoomable) {
+    el.classList.add("clickable");
+    el.addEventListener("click", () => openCardOverlay(card));
+  }
   return el;
+}
+
+// ---- Card zoom overlay ----
+// Re-renders the clicked card and scales it up to fill the viewport so its
+// auto-fit text becomes readable. Click the backdrop (outside the card) or
+// press Escape to close.
+let overlayEl = null;
+
+function ensureOverlay() {
+  if (overlayEl) return overlayEl;
+  overlayEl = document.createElement("div");
+  overlayEl.className = "card-overlay";
+  overlayEl.hidden = true;
+  overlayEl.addEventListener("click", (e) => {
+    if (e.target === overlayEl) closeOverlay(); // only the backdrop closes
+  });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && !overlayEl.hidden) closeOverlay();
+  });
+  document.body.appendChild(overlayEl);
+  return overlayEl;
+}
+
+function closeOverlay() {
+  if (!overlayEl) return;
+  overlayEl.hidden = true;
+  overlayEl.innerHTML = "";
+  document.body.classList.remove("overlay-open");
+}
+
+function openCardOverlay(card) {
+  const ov = ensureOverlay();
+  ov.innerHTML = "";
+  const stage = document.createElement("div");
+  stage.className = "card-zoom";
+  const cardEl = renderCard(card, { zoomable: false });
+  stage.appendChild(cardEl);
+  ov.appendChild(stage);
+  ov.hidden = false;
+  document.body.classList.add("overlay-open");
+
+  // Fit the text at the card's base size, then scale the whole card up to fill
+  // the viewport (transform keeps the fitted layout and stays centred).
+  requestAnimationFrame(() => {
+    cardEl.querySelectorAll(".text-box").forEach(fitText);
+    const baseW = cardEl.offsetWidth || 320;
+    const baseH = cardEl.offsetHeight || (baseW * 88) / 63;
+    const scale = Math.min((window.innerWidth * 0.94) / baseW, (window.innerHeight * 0.94) / baseH);
+    stage.style.transform = `scale(${scale})`;
+  });
 }
 
 // ---- Cards view ----
@@ -300,6 +356,14 @@ function renderDeck(deck) {
   meta.textContent = [cmd && `Commander: ${cmd}`, tally, deck.format].filter(Boolean).join("  ·  ");
 
   panel.append(head, theme, meta);
+
+  // The sell: longer flavor/strategy blurb.
+  if (deck.description) {
+    const desc = document.createElement("p");
+    desc.className = "deck-description";
+    desc.textContent = deck.description;
+    panel.appendChild(desc);
+  }
 
   // Group cards: by role for normal decks, by chaos level for acorn decks.
   const keyOf = isAcorn

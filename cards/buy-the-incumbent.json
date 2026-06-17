@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Buy the Incumbent",
+  "manaCost": "{2}{B}",
+  "manaValue": 3,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Gain control of target creature with the highest power among creatures other players control until end of turn. It gains haste. Whoever's on top, the Don is on top of them.\nThat player creates a Treasure (severance) and you create a Favor token. Term limits are for honest towns.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 2,
+  "flavorText": "Every incumbent in Whateverville has the same campaign slogan: \"Whatever the Don says.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H209",
+  "extras": { "token": "Favor (IOU), Treasure", "interaction": "incumbents" }
+}

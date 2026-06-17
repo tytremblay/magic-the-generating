@@ -1,0 +1,28 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The House Always Wins (It Is a Law of Physics Now)",
+  "manaCost": "{½}{½}",
+  "manaValue": 1,
+  "colors": [],
+  "colorIdentity": ["B", "R"],
+  "type": "Acorn Enchantment — Axiom",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": ["Axiom"],
+  "text": "It is now a law of physics, like gravity, but ruder.\nWhenever any player wins anything — a flip, a roll, a bet, an argument about whether that was a roll — the house wins it instead. You are the house. You were always the house. The other players were never not losing.\nThis card is legal in every format in which it is not banned (none). It cannot be banned, because to ban it you would have to win, and the house always wins.",
+  "power": "the house",
+  "toughness": "always wins",
+  "keywords": [],
+  "rarity": "guaranteed",
+  "chaos": 5,
+  "flavorText": "physicists confirmed it, then the house took their grant money",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C503",
+  "extras": {
+    "selfAware": "cannot be banned because that would require beating the house",
+    "fourthWall": "redefines winning at the table"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "No Such Thing as a Free Snack",
+  "manaCost": "{1}{B}",
+  "manaValue": 2,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Each opponent takes the table snack and is grateful. You create a Favor token for each opponent who took a snack. Enjoy it. We'll talk later.",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 1,
+  "flavorText": "The syndicate caters every event in Whateverville. Free of charge. For now.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H112",
+  "extras": { "token": "Favor (IOU)", "tableState": "the table snack" }
+}

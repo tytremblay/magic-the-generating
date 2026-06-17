@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Free Game with Purchase",
+  "manaCost": "{1}{B}",
+  "manaValue": 2,
+  "colors": ["B"],
+  "colorIdentity": ["B", "R"],
+  "type": "Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "As an additional cost to cast this spell, sacrifice an artifact or creature.\nYou draw two cards. The first one's free. The second one cost you something and you know it.",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 1,
+  "flavorText": "There is no such thing as a free game. There is barely such a thing as a game.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C112"
+}

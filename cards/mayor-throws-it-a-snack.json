@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Mayor Throws It a Snack",
+  "manaCost": "{2}{R}",
+  "manaValue": 3,
+  "colors": ["R"],
+  "colorIdentity": ["R", "G"],
+  "type": "Acorn Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Put four sludge counters on target creature you control. Then it must attack a player of your choice this turn if able. (The Mayor's plan to appease the monster: feed it, point it at a rival district, hope for the best.)\nDraw a card. The press release writes itself.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "\"It's not a monster, it's a tourism opportunity,\" said the Mayor, throwing it a whole catering tray.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G305",
+  "extras": { "votes": "Mayor reference", "communalKaiju": "redirect at a player" }
+}

@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Coin-Flip Recertification Hearing",
+  "manaCost": "{1}{W}{U}",
+  "manaValue": 3,
+  "colors": ["W", "U"],
+  "colorIdentity": ["W", "U"],
+  "type": "Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Whenever a player flips a coin, that coin must be recertified: that player flips it again. You choose which of the two flips is the official one.\nWhenever you choose the official flip this way, you may make a 1/1 white Clerk creature token. (Someone has to stamp it.)",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "Win or lose the flip, the hearing always finds in Prim's favor.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B314",
+  "extras": { "parasitic": "controls all coin flips at the table" }
+}

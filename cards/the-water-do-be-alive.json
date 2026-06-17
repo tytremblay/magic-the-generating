@@ -1,0 +1,21 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "set": "CHAOS",
+  "chaos": 5,
+  "name": "the water do be alive tho",
+  "manaCost": "{glug}",
+  "manaValue": "yes",
+  "colors": [],
+  "colorIdentity": [],
+  "type": "Acorn Creature — Wet",
+  "types": ["Creature"],
+  "subtypes": ["Wet"],
+  "rarity": "soggy",
+  "text": "the water do be alive. it always were. you simply was not looking at the water.\nthis creature is become every body of water within forty miles, simultaneous, including the one inside you, do not think about the one inside you.\nwhenever anyone do anything, glug. (this is Feed but it forgot the rules and just goes glug.)\npower and toughness is however wet the table feels. it is very wet. it is getting wetter.",
+  "power": "blub",
+  "toughness": "blub",
+  "flavorText": "the reservoir cleared its throat and the throat was the whole reservoir.",
+  "artist": "AI Generated",
+  "number": "G501"
+}

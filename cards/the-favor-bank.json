@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Favor Bank",
+  "manaCost": "{2}{B}",
+  "manaValue": 3,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Artifact",
+  "types": ["Artifact"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "{T}: Target opponent gains 2 life and you create a Favor token. Deposits welcome. Withdrawals are someone else's problem.\n{2}, {T}, Sacrifice two Favor tokens: Draw two cards. The Favor Bank is not insured. The Favor Bank does not need to be.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "It pays no interest to depositors. It charges infinite interest to everyone else.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H310",
+  "extras": { "token": "Favor (IOU)" }
+}

@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Internal Audit",
+  "manaCost": "{2}{U}",
+  "manaValue": 3,
+  "colors": ["U"],
+  "colorIdentity": ["U"],
+  "type": "Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Look at target opponent's hand. You may choose a noncreature card from it. That player discards that card. Then they fill out a form explaining why they ever had it.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "Everything was in order. That, in itself, was deeply suspicious.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B207"
+}

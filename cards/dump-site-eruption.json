@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Dump Site Eruption",
+  "manaCost": "{2}{R}",
+  "manaValue": 3,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Dump Site Eruption deals 3 damage to each creature without a sludge counter on it. (Your sludge things wade through fine. Everyone else's melt.)",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "The landfill burped, and the burp was on fire.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G205"
+}

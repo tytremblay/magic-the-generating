@@ -1,0 +1,310 @@
+{
+  "$schema": "../deck.schema.json",
+  "border": "acorn",
+  "name": "Throw the Bums Out",
+  "format": "commander",
+  "theme": "Flood the table with green-and-white Voter tokens, fuel them with snacks and signature drives, then weaponize every group vote and recall into a referendum that strips the frontrunner's board.",
+  "description": "Democracy, but with more shouting. Petunia Pitchfork has a clipboard, a bullhorn, and your signature whether you gave it or not — and she has HAD IT with the incumbent. This is a Selesnya (GW) grassroots recall movement: flood the table with green-and-white Voter tokens, fuel them with casseroles, lawn signs, and signature drives, then turn the Mayor's own elections against him as every group vote becomes a referendum she swings (her Voters tend to vote twice — Petunia checked, it's legal here). Nearly every payoff punishes whoever's out front, stripping the board of whichever player controls the most permanents, power, or votes. An acorn (Un-set) Commander deck with chaos kept deliberately LOW — almost-functional town-hall Magic thinning to a handful of chaos-5 fever-dreams — that tangles straight into the pod's votes, recounts, snacks, incumbents, dice, and coins. Color-identity and singleton rules are waived for acorn decks.",
+  "colorIdentity": [
+    "G",
+    "W"
+  ],
+  "commander": [
+    "Petunia Pitchfork, Recall Organizer"
+  ],
+  "cards": [
+    {
+      "name": "Petunia Pitchfork, Recall Organizer",
+      "role": "Commander"
+    },
+    {
+      "name": "First-Time Volunteer",
+      "role": "Synergy"
+    },
+    {
+      "name": "Clipboard Canvasser",
+      "role": "Synergy"
+    },
+    {
+      "name": "Concerned Neighbor",
+      "role": "Synergy"
+    },
+    {
+      "name": "Lawn Sign Printer",
+      "role": "Payoff"
+    },
+    {
+      "name": "Casserole for the Cause",
+      "role": "Utility"
+    },
+    {
+      "name": "Door-to-Door Druid",
+      "role": "Ramp"
+    },
+    {
+      "name": "The Petition Clipboard",
+      "role": "Synergy"
+    },
+    {
+      "name": "Bake Sale Treasury",
+      "role": "Ramp"
+    },
+    {
+      "name": "Neighborhood Watch Captain",
+      "role": "Payoff"
+    },
+    {
+      "name": "Recall the Mayor",
+      "role": "Interaction"
+    },
+    {
+      "name": "Handful of Flyers",
+      "role": "Draw"
+    },
+    {
+      "name": "Honk If You Agree",
+      "role": "Utility"
+    },
+    {
+      "name": "Sign-Waving Twins",
+      "role": "Synergy"
+    },
+    {
+      "name": "Sensible Shoes",
+      "role": "Utility"
+    },
+    {
+      "name": "Early-Bird Canvasser",
+      "role": "Synergy"
+    },
+    {
+      "name": "Signature Drive",
+      "role": "Threat"
+    },
+    {
+      "name": "Town Hall Meeting",
+      "role": "Interaction"
+    },
+    {
+      "name": "Bullhorn of the People",
+      "role": "Synergy"
+    },
+    {
+      "name": "Precinct Captain",
+      "role": "Payoff"
+    },
+    {
+      "name": "Potluck Rally",
+      "role": "Payoff"
+    },
+    {
+      "name": "Grassroots Fundraiser",
+      "role": "Ramp"
+    },
+    {
+      "name": "Angry but Polite Mob",
+      "role": "Threat"
+    },
+    {
+      "name": "We Demand a Recount",
+      "role": "Interaction"
+    },
+    {
+      "name": "Snack Table Coordinator",
+      "role": "Synergy"
+    },
+    {
+      "name": "Petition Tabling",
+      "role": "Synergy"
+    },
+    {
+      "name": "Sunshine Ordinance",
+      "role": "Synergy"
+    },
+    {
+      "name": "Get Out the Recall Vote",
+      "role": "Threat"
+    },
+    {
+      "name": "Lawn Sign War",
+      "role": "Payoff"
+    },
+    {
+      "name": "Recall Organizer Trainee",
+      "role": "Synergy"
+    },
+    {
+      "name": "Swing the Vote",
+      "role": "Interaction"
+    },
+    {
+      "name": "Phone Bank Phantom",
+      "role": "Synergy"
+    },
+    {
+      "name": "Orderly Protest",
+      "role": "Interaction"
+    },
+    {
+      "name": "Voter Registration Table",
+      "role": "Payoff"
+    },
+    {
+      "name": "Uproot the Incumbent",
+      "role": "Interaction"
+    },
+    {
+      "name": "Block Captain Badger",
+      "role": "Threat"
+    },
+    {
+      "name": "The Petition That Won't End",
+      "role": "Threat"
+    },
+    {
+      "name": "Recall Election Day",
+      "role": "Board Wipe"
+    },
+    {
+      "name": "The Coalition Casserole",
+      "role": "Utility"
+    },
+    {
+      "name": "Door-Knock Marathon",
+      "role": "Threat"
+    },
+    {
+      "name": "The Frontrunner Tax",
+      "role": "Payoff"
+    },
+    {
+      "name": "Landslide of the People",
+      "role": "Payoff"
+    },
+    {
+      "name": "Roll Call of the Block",
+      "role": "Threat"
+    },
+    {
+      "name": "Madam Chair of the Neighborhood Association",
+      "role": "Payoff"
+    },
+    {
+      "name": "The Mayor's Snacks, Confiscated",
+      "role": "Interaction"
+    },
+    {
+      "name": "Petunia's Rolodex",
+      "role": "Tutor"
+    },
+    {
+      "name": "Civic Engagement Engine",
+      "role": "Payoff"
+    },
+    {
+      "name": "The Bandwagon",
+      "role": "Threat"
+    },
+    {
+      "name": "The Loudest Volunteer",
+      "role": "Threat"
+    },
+    {
+      "name": "Strength in Numbers",
+      "role": "Payoff"
+    },
+    {
+      "name": "Undecided-Voter Whisperer",
+      "role": "Synergy"
+    },
+    {
+      "name": "The Perpetual Recall",
+      "role": "Interaction"
+    },
+    {
+      "name": "Half a Signature",
+      "role": "Synergy"
+    },
+    {
+      "name": "Divide the Frontrunner by the People",
+      "role": "Interaction"
+    },
+    {
+      "name": "The Quorum That Isn't",
+      "role": "Utility"
+    },
+    {
+      "name": "Term Limit",
+      "role": "Interaction"
+    },
+    {
+      "name": "The Write-In Candidate",
+      "role": "Threat"
+    },
+    {
+      "name": "Grassroots to the Power of Grassroots",
+      "role": "Threat"
+    },
+    {
+      "name": "The Silent Majority",
+      "role": "Threat"
+    },
+    {
+      "name": "Effective Until Your Next Snack",
+      "role": "Interaction"
+    },
+    {
+      "name": "the vote is become loud",
+      "role": "Threat"
+    },
+    {
+      "name": "Recall Target Tuesday (the rival took our Tuesday and we want it back)",
+      "role": "Interaction"
+    },
+    {
+      "name": "Everyone Wins, Therefore Nobody Wins, Therefore the Frog",
+      "role": "Utility"
+    },
+    {
+      "name": "The Casserole That Achieved Quorum",
+      "role": "Threat"
+    },
+    {
+      "name": "The Old Town Green",
+      "role": "Land"
+    },
+    {
+      "name": "Community Garden Plot",
+      "role": "Land"
+    },
+    {
+      "name": "Recall Headquarters",
+      "role": "Land"
+    },
+    {
+      "name": "The Polling Place That's Actually Fair",
+      "role": "Land"
+    },
+    {
+      "name": "Casserole Warming Station",
+      "role": "Land"
+    },
+    {
+      "name": "The Cul-de-Sac Coalition",
+      "role": "Land"
+    },
+    {
+      "name": "Forest",
+      "role": "Land",
+      "count": 16
+    },
+    {
+      "name": "Plains",
+      "role": "Land",
+      "count": 14
+    }
+  ],
+  "plan": {
+    "size": 100
+  }
+}

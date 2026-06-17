@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Thing Stirs",
+  "manaCost": "{R}{G}",
+  "manaValue": 2,
+  "colors": ["R", "G"],
+  "colorIdentity": ["R", "G"],
+  "type": "Acorn Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Each opponent flips a coin. For each opponent who loses the flip, put two sludge counters on target creature you control. For each opponent who wins, that opponent has nervously fed the thing and you put one sludge counter on it anyway.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "The water moved. Nobody threw anything in. The water moved again.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G212",
+  "extras": { "coins": "table-wide flips feed sludge" }
+}

@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Block Captain Badger",
+  "manaCost": "{2}{G}",
+  "manaValue": 3,
+  "colors": ["G"],
+  "colorIdentity": ["G", "W"],
+  "type": "Creature — Badger Organizer",
+  "types": ["Creature"],
+  "supertypes": [],
+  "subtypes": ["Badger", "Organizer"],
+  "text": "Vigilance\nWhenever another Voter or Citizen enters the battlefield under your control, Block Captain Badger gets +1/+1 until end of turn.\n{1}{G}: Block Captain Badger fights up to one target creature an opponent who controls the most permanents controls.",
+  "power": "3",
+  "toughness": "3",
+  "keywords": ["Vigilance"],
+  "rarity": "uncommon",
+  "flavorText": "Famously territorial. The territory is the entire voting precinct.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 2,
+  "number": "D220",
+  "extras": {
+    "frontrunnerPunish": "fights the leader's creatures"
+  }
+}

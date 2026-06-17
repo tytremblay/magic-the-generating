@@ -1,0 +1,310 @@
+{
+  "$schema": "../deck.schema.json",
+  "border": "acorn",
+  "name": "City Hall Says No",
+  "format": "commander",
+  "theme": "Outlast the table's chaos with red tape — tax, audit, and recount everyone else's dice and coins while filing paperwork that quietly grinds the game to a halt.",
+  "description": "Bureaucratrix Prim was never elected. She was simply always there — third desk from the window, beneath a sign that reads PLEASE TAKE A NUMBER. While the Mayor sets the table on fire, Prim files paperwork against the flames, and somehow the paperwork wins. This is the unelected deep state of Whateverville: an Azorius (WU) stax machine of permits, subpoenas, hold music, and Form 27-B that taxes, audits, and recounts everyone else's chaos until the game quietly grinds to a halt. Prim is gleefully parasitic — she profits whenever ANYONE at the table rolls a die, flips a coin, votes, recounts, or hands out a snack, and her audits let her reroll your luck and keep the result she prefers. An acorn (Un-set) Commander deck with chaos dialed deliberately LOW: most cards read like almost-functional Magic with a DMV-from-hell twist, thinning to a handful of chaos-5 fever-dreams — a form that fills itself out, a meeting that could have been an email. Color-identity and singleton rules are waived for acorn decks.",
+  "colorIdentity": [
+    "W",
+    "U"
+  ],
+  "commander": [
+    "Bureaucratrix Prim, the Permanent Undersecretary"
+  ],
+  "cards": [
+    {
+      "name": "Bureaucratrix Prim, the Permanent Undersecretary",
+      "role": "Commander"
+    },
+    {
+      "name": "Junior Filing Clerk",
+      "role": "Synergy"
+    },
+    {
+      "name": "DMV Line Warden",
+      "role": "Protection"
+    },
+    {
+      "name": "Rubber Stamp of Approval",
+      "role": "Synergy"
+    },
+    {
+      "name": "Dice-Roll Surcharge",
+      "role": "Payoff"
+    },
+    {
+      "name": "Coin-Flip Auditor",
+      "role": "Payoff"
+    },
+    {
+      "name": "In Triplicate",
+      "role": "Draw"
+    },
+    {
+      "name": "Notary of the Public Trust",
+      "role": "Interaction"
+    },
+    {
+      "name": "Indefinite Hold Music",
+      "role": "Interaction"
+    },
+    {
+      "name": "Permit Pending Review",
+      "role": "Interaction"
+    },
+    {
+      "name": "Snack Permit Inspector",
+      "role": "Synergy"
+    },
+    {
+      "name": "Motion to Table",
+      "role": "Interaction"
+    },
+    {
+      "name": "Parking Enforcement Drone",
+      "role": "Interaction"
+    },
+    {
+      "name": "Red Tape",
+      "role": "Interaction"
+    },
+    {
+      "name": "Temp Staffer, Day One",
+      "role": "Synergy"
+    },
+    {
+      "name": "Please Take a Number",
+      "role": "Interaction"
+    },
+    {
+      "name": "Recount of the Recount",
+      "role": "Payoff"
+    },
+    {
+      "name": "Department of Redundancy Department",
+      "role": "Payoff"
+    },
+    {
+      "name": "Subpoena the Mayor",
+      "role": "Interaction"
+    },
+    {
+      "name": "Zoning Board Chairman",
+      "role": "Interaction"
+    },
+    {
+      "name": "The Recreational Gambling Tax",
+      "role": "Payoff"
+    },
+    {
+      "name": "File an Objection",
+      "role": "Interaction"
+    },
+    {
+      "name": "Internal Audit",
+      "role": "Interaction"
+    },
+    {
+      "name": "This Goes on Your Permanent Record",
+      "role": "Payoff"
+    },
+    {
+      "name": "Senior Auditor of Outcomes",
+      "role": "Payoff"
+    },
+    {
+      "name": "Cease and Desist Order",
+      "role": "Interaction"
+    },
+    {
+      "name": "The Suggestion Box",
+      "role": "Utility"
+    },
+    {
+      "name": "Election Certification Board",
+      "role": "Payoff"
+    },
+    {
+      "name": "Standard Processing Fee",
+      "role": "Interaction"
+    },
+    {
+      "name": "Memo from Upstairs",
+      "role": "Draw"
+    },
+    {
+      "name": "The Reluctant Ombudsman",
+      "role": "Interaction"
+    },
+    {
+      "name": "Lost in the System",
+      "role": "Interaction"
+    },
+    {
+      "name": "Quorum Call",
+      "role": "Threat"
+    },
+    {
+      "name": "Declared Conflict of Interest",
+      "role": "Interaction"
+    },
+    {
+      "name": "Incumbent Deterrence Statute",
+      "role": "Interaction"
+    },
+    {
+      "name": "Water-Cooler Intelligence",
+      "role": "Draw"
+    },
+    {
+      "name": "The Permit Office, Window 3",
+      "role": "Payoff"
+    },
+    {
+      "name": "Chief of Stamps and Seals",
+      "role": "Payoff"
+    },
+    {
+      "name": "Mandatory Orientation Seminar",
+      "role": "Board Wipe"
+    },
+    {
+      "name": "The Audit from Hell",
+      "role": "Interaction"
+    },
+    {
+      "name": "Escalate to a Supervisor",
+      "role": "Interaction"
+    },
+    {
+      "name": "The Paperwork Golem",
+      "role": "Threat"
+    },
+    {
+      "name": "Closed for Inventory",
+      "role": "Interaction"
+    },
+    {
+      "name": "Freedom of Information Request",
+      "role": "Draw"
+    },
+    {
+      "name": "The Infinite Filing Cabinet",
+      "role": "Payoff"
+    },
+    {
+      "name": "Seize the Ballot Box as Evidence",
+      "role": "Interaction"
+    },
+    {
+      "name": "Commissioner of Continuity",
+      "role": "Synergy"
+    },
+    {
+      "name": "Pending Further Review",
+      "role": "Interaction"
+    },
+    {
+      "name": "The Corner Office",
+      "role": "Draw"
+    },
+    {
+      "name": "Coin-Flip Recertification Hearing",
+      "role": "Payoff"
+    },
+    {
+      "name": "Compliance Wellness Check",
+      "role": "Interaction"
+    },
+    {
+      "name": "Form ½-B (Partial Filing)",
+      "role": "Interaction"
+    },
+    {
+      "name": "The Quiet Hours Ordinance",
+      "role": "Interaction"
+    },
+    {
+      "name": "Mandatory Public Comment Period",
+      "role": "Payoff"
+    },
+    {
+      "name": "Balance the Budget to the Half-Cent",
+      "role": "Board Wipe"
+    },
+    {
+      "name": "The Permanent Undersecretary Clause",
+      "role": "Protection"
+    },
+    {
+      "name": "Retroactive Rule Change, Effective Last Tuesday",
+      "role": "Interaction"
+    },
+    {
+      "name": "The Ergonomically Approved Chair of Power",
+      "role": "Payoff"
+    },
+    {
+      "name": "The Line That Never Moves",
+      "role": "Interaction"
+    },
+    {
+      "name": "Two and a Half Readings of the Bill",
+      "role": "Utility"
+    },
+    {
+      "name": "The Form That Fills Itself Out, Wrongly",
+      "role": "Utility"
+    },
+    {
+      "name": "We Have No Record of You",
+      "role": "Interaction"
+    },
+    {
+      "name": "Pursuant to Subsection (c) of Subsection (c) of Subsection (c)",
+      "role": "Utility"
+    },
+    {
+      "name": "The Meeting That Could Have Been an Email",
+      "role": "Utility"
+    },
+    {
+      "name": "City Hall Rotunda",
+      "role": "Land"
+    },
+    {
+      "name": "The Records Basement",
+      "role": "Land"
+    },
+    {
+      "name": "The Permit Counter",
+      "role": "Land"
+    },
+    {
+      "name": "Municipal Parking Structure C",
+      "role": "Land"
+    },
+    {
+      "name": "The Annex (See Other Building)",
+      "role": "Land"
+    },
+    {
+      "name": "The Server Room (Climate Controlled)",
+      "role": "Land"
+    },
+    {
+      "name": "Plains",
+      "role": "Land",
+      "count": 15
+    },
+    {
+      "name": "Island",
+      "role": "Land",
+      "count": 15
+    }
+  ],
+  "plan": {
+    "size": 100
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Doomsday Pulpit",
+  "type": "Acorn Land",
+  "types": ["Land"],
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["W", "B"],
+  "text": "{T}: Add {W} or {B}.\n{2}, {T}: Put a doom counter on the Doomsday Clock and you gain 1 life. The sermon is free; the dread is included.",
+  "power": "",
+  "toughness": "",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 2,
+  "flavorText": "Six feet tall, oak, and entirely soundproof from the inside. The preacher cannot hear you leave.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "F601"
+}

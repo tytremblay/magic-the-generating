@@ -1,0 +1,24 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Polling Place That's Actually Fair",
+  "type": "Land",
+  "types": ["Land"],
+  "supertypes": [],
+  "subtypes": [],
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["G", "W"],
+  "text": "{T}: Add {G} or {W}.\nWhenever the table votes, you may untap The Polling Place That's Actually Fair. (Unlike the rival's Polling Place of the Damned, this one has a ramp, clear signage, and a nonpartisan snack.)",
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "No funny business. No haunted booths. Just democracy and a folding table that wobbles in a politically neutral way.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "D604",
+  "extras": {
+    "voting": "untaps when the table votes",
+    "interaction": "answer to rival's Polling Place of the Damned"
+  }
+}

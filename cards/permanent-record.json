@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "This Goes on Your Permanent Record",
+  "manaCost": "{1}{W}",
+  "manaValue": 2,
+  "colors": ["W"],
+  "colorIdentity": ["W"],
+  "type": "Enchantment — Aura",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": ["Aura"],
+  "text": "Enchant creature an opponent controls\nEnchanted creature can't attack or block. Whenever its controller rolls a die or flips a coin, you draw a card. (The file grows.)",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "There is no statute of limitations. There is only the filing cabinet.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B208",
+  "extras": { "parasitic": "draw when enchanted creature's controller rolls/flips" }
+}

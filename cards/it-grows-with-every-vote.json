@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "It Grows With Every Vote",
+  "manaCost": "{2}{R}{G}",
+  "manaValue": 4,
+  "colors": ["R", "G"],
+  "colorIdentity": ["R", "G"],
+  "type": "Acorn Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Whenever a player rolls one or more dice, flips one or more coins, or votes, put a sludge counter on target creature you control. (This is the engine. The whole table is the engine. They just don't know they're pulling the lever.)\nAt the beginning of your end step, if a creature you control has ten or more sludge counters on it, it deals 5 damage to each opponent. The town hears it before it sees it.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "Every coin flipped in Whateverville lands somewhere. Lately it lands in the water.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G302",
+  "extras": { "newMechanic": "Feed payoff", "communalKaiju": "table-wide damage" }
+}

@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Menaced by Its Own Garbage",
+  "manaCost": "{2}{R}{G}",
+  "manaValue": 4,
+  "colors": ["R", "G"],
+  "colorIdentity": ["R", "G"],
+  "type": "Acorn Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "At the beginning of each opponent's upkeep, that player chooses: lose 2 life, or put a sludge counter on a creature you control. Most days they pay the counter to keep their life. That is exactly how it gets so big.\n{2}{R}{G}: Until end of turn, creatures you control with sludge counters can't be blocked by creatures with fewer sludge counters.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "The town made it. The town fed it. The town gets the bill.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G315",
+  "extras": { "communalKaiju": "every opponent feeds it on their upkeep" }
+}

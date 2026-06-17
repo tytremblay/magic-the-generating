@@ -1,0 +1,304 @@
+{
+  "$schema": "../deck.schema.json",
+  "border": "acorn",
+  "name": "Whateverville After Dark",
+  "format": "commander",
+  "theme": "Run the town from the back room: gift opponents life, cards, Treasures, snacks, and votes to rack up Favor (IOU) tokens, then cash those debts in for sacrifices, stolen permanents, and offers nobody can refuse.",
+  "description": "Nice goblin. Shame if something happened to him. Don Guttersnipe doesn't run for office — he runs the office, from a back room nobody can find, and he knows a guy for everything. This mono-black deck is built on a Favor/IOU debt economy: the syndicate does a rival a kindness — a little life, a card, a Treasure, a snack, a vote — and quietly mints a Favor token for the debt. Later those Favors get called in, cashed for forced sacrifices, seized permanents, rigged coin flips and dice and recounts, and offers nobody can refuse. It weaponizes the table's greed and the carnival's payouts right back at everyone, because in this town nothing is ever really free — and the witnesses have a way of relocating. An acorn (Un-set) Commander deck with chaos kept deliberately LOW, thinning to a handful of colorless chaos-5 fever-dreams. Color-identity and singleton rules are waived for acorn decks.",
+  "colorIdentity": [
+    "B"
+  ],
+  "commander": [
+    "Don Guttersnipe, Who Knows a Guy"
+  ],
+  "cards": [
+    {
+      "name": "Don Guttersnipe, Who Knows a Guy",
+      "role": "Commander"
+    },
+    {
+      "name": "Back-Room Bagman",
+      "role": "Synergy"
+    },
+    {
+      "name": "Protection Racket Goon",
+      "role": "Synergy"
+    },
+    {
+      "name": "Loan Shark of the Lagoon",
+      "role": "Threat"
+    },
+    {
+      "name": "The Brown Envelope",
+      "role": "Synergy"
+    },
+    {
+      "name": "Petty Extortionist",
+      "role": "Payoff"
+    },
+    {
+      "name": "Witness Relocation",
+      "role": "Protection"
+    },
+    {
+      "name": "Skimming the Till",
+      "role": "Ramp"
+    },
+    {
+      "name": "Nervous Snitch",
+      "role": "Draw"
+    },
+    {
+      "name": "Greasing the Palm",
+      "role": "Synergy"
+    },
+    {
+      "name": "Leg-Breaker Lou",
+      "role": "Interaction"
+    },
+    {
+      "name": "Dark Money Courier",
+      "role": "Ramp"
+    },
+    {
+      "name": "No Such Thing as a Free Snack",
+      "role": "Synergy"
+    },
+    {
+      "name": "Cigar-Smoke Consigliere",
+      "role": "Draw"
+    },
+    {
+      "name": "Pay Up or Else",
+      "role": "Interaction"
+    },
+    {
+      "name": "Numbers Runner Goblin",
+      "role": "Synergy"
+    },
+    {
+      "name": "Capo of the Coin Flip",
+      "role": "Interaction"
+    },
+    {
+      "name": "Rigged Recount Racket",
+      "role": "Interaction"
+    },
+    {
+      "name": "Bought-and-Paid-For Mayor",
+      "role": "Threat"
+    },
+    {
+      "name": "The Fixer",
+      "role": "Interaction"
+    },
+    {
+      "name": "Laundered Through the Snack Cart",
+      "role": "Ramp"
+    },
+    {
+      "name": "Enforcer on Retainer",
+      "role": "Payoff"
+    },
+    {
+      "name": "Sleeps with the Fishes",
+      "role": "Interaction"
+    },
+    {
+      "name": "Vig Collector",
+      "role": "Payoff"
+    },
+    {
+      "name": "Buy the Incumbent",
+      "role": "Interaction"
+    },
+    {
+      "name": "Racketeer of the Rookery",
+      "role": "Synergy"
+    },
+    {
+      "name": "An Offer of Good Faith",
+      "role": "Synergy"
+    },
+    {
+      "name": "Midnight Meeting at the Docks",
+      "role": "Draw"
+    },
+    {
+      "name": "Bagman with the Good Briefcase",
+      "role": "Ramp"
+    },
+    {
+      "name": "Everybody Owes Everybody",
+      "role": "Synergy"
+    },
+    {
+      "name": "Protection Money",
+      "role": "Interaction"
+    },
+    {
+      "name": "Snack Cart Shakedown",
+      "role": "Synergy"
+    },
+    {
+      "name": "Goblin Bookkeeper",
+      "role": "Synergy"
+    },
+    {
+      "name": "Turf War",
+      "role": "Board Wipe"
+    },
+    {
+      "name": "Wiseguy with a Grudge",
+      "role": "Threat"
+    },
+    {
+      "name": "The Don Says Vote Yes",
+      "role": "Interaction"
+    },
+    {
+      "name": "Make Him an Offer",
+      "role": "Payoff"
+    },
+    {
+      "name": "Calling In All Favors",
+      "role": "Payoff"
+    },
+    {
+      "name": "The Syndicate Accountant",
+      "role": "Synergy"
+    },
+    {
+      "name": "Fix the Dice for a Price",
+      "role": "Interaction"
+    },
+    {
+      "name": "The Back Room Where It Happens",
+      "role": "Synergy"
+    },
+    {
+      "name": "Madam Vendetta, the Grudge-Keeper",
+      "role": "Payoff"
+    },
+    {
+      "name": "Buy the Recount",
+      "role": "Interaction"
+    },
+    {
+      "name": "The Goblin Godfather",
+      "role": "Threat"
+    },
+    {
+      "name": "Skim Off the Payout",
+      "role": "Ramp"
+    },
+    {
+      "name": "The Favor Bank",
+      "role": "Draw"
+    },
+    {
+      "name": "A Goblin You Can Trust",
+      "role": "Synergy"
+    },
+    {
+      "name": "The Whateverville Reservoir Job",
+      "role": "Payoff"
+    },
+    {
+      "name": "Protection for the Mayor",
+      "role": "Synergy"
+    },
+    {
+      "name": "Whack-a-Rival",
+      "role": "Interaction"
+    },
+    {
+      "name": "The Numbers Game",
+      "role": "Synergy"
+    },
+    {
+      "name": "Half a Favor",
+      "role": "Synergy"
+    },
+    {
+      "name": "The Vig Compounds Forever",
+      "role": "Protection"
+    },
+    {
+      "name": "The Don Knows What You Did",
+      "role": "Synergy"
+    },
+    {
+      "name": "The Snack That Was a Wire",
+      "role": "Utility"
+    },
+    {
+      "name": "Everyone at This Table Owes Me",
+      "role": "Payoff"
+    },
+    {
+      "name": "Protection from Being Protected",
+      "role": "Protection"
+    },
+    {
+      "name": "The Don Pays His Respects",
+      "role": "Board Wipe"
+    },
+    {
+      "name": "Loanshark Larry, Last Seen Underwater",
+      "role": "Threat"
+    },
+    {
+      "name": "Pay It Forward (Or Else)",
+      "role": "Payoff"
+    },
+    {
+      "name": "the favor that favors itself",
+      "role": "Utility"
+    },
+    {
+      "name": "Exile Target Witness",
+      "role": "Interaction"
+    },
+    {
+      "name": "the Don is become debt, collector of worlds",
+      "role": "Threat"
+    },
+    {
+      "name": "Divide the Debt by Zero",
+      "role": "Payoff"
+    },
+    {
+      "name": "The Back Room of the Social Club",
+      "role": "Land"
+    },
+    {
+      "name": "Whateverville Waterfront",
+      "role": "Land"
+    },
+    {
+      "name": "The Pawn Shop That's a Front",
+      "role": "Land"
+    },
+    {
+      "name": "The Reservoir at Night",
+      "role": "Land"
+    },
+    {
+      "name": "Underworld Counting House",
+      "role": "Land"
+    },
+    {
+      "name": "Dimly Lit Parking Structure",
+      "role": "Land"
+    },
+    {
+      "name": "Swamp",
+      "role": "Land",
+      "count": 30
+    }
+  ],
+  "plan": {
+    "size": 100
+  }
+}

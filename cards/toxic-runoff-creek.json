@@ -1,0 +1,18 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Toxic Runoff Creek",
+  "type": "Acorn Land",
+  "types": ["Land"],
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["R", "G"],
+  "text": "Toxic Runoff Creek enters the battlefield tapped.\nWhen Toxic Runoff Creek enters the battlefield, it deals 1 damage to you. You drank from the creek. Everyone drank from the creek. The creek was a mistake.\n{T}: Add {R} or {G}.",
+  "rarity": "common",
+  "chaos": 1,
+  "flavorText": "It glows a little at night. The town calls it 'the pretty part of the walk.'",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G603"
+}

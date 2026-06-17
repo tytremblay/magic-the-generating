@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Lucky Rabbit's Foot (Unlucky for the Rabbit)",
+  "manaCost": "{1}",
+  "manaValue": 1,
+  "colors": [],
+  "colorIdentity": ["B", "R"],
+  "type": "Artifact — Equipment",
+  "types": ["Artifact"],
+  "supertypes": [],
+  "subtypes": ["Equipment"],
+  "text": "Whenever equipped creature is dealt damage, roll a six-sided die. On a 6, prevent that damage. The foot's luck eventually runs out, but it's not your foot, so who cares.\nEquip {1}",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 1,
+  "flavorText": "It worked great for everyone except the previous owner.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C111"
+}

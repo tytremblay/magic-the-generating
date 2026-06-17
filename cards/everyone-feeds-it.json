@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Everyone Feeds It Whether They Mean To",
+  "manaCost": "{1}{R}{G}",
+  "manaValue": 3,
+  "colors": ["R", "G"],
+  "colorIdentity": ["R", "G"],
+  "type": "Acorn Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "If a player would roll a die, flip a coin, or vote, instead they do that and you put a sludge counter on a creature you control AND that player puts a sludge counter on a creature you control. (Yes, twice. The town's chaos feeds it coming and going.)\n{R}{G}, Sacrifice Everyone Feeds It Whether They Mean To: Each opponent loses life equal to the most sludge counters on a creature you control.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "The PSA said \"do not feed the reservoir.\" Reading the PSA out loud counted as feeding it.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G307",
+  "extras": { "newMechanic": "Feed doubler", "communalKaiju": true }
+}

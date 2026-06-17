@@ -1,0 +1,21 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Tithe Barn of the Faithful",
+  "type": "Acorn Land",
+  "types": ["Land"],
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["W", "B"],
+  "text": "{T}: Add {C}.\n{T}, Pay 1 life: Add {W} or {B}.\n{3}, {T}, Remove two doom counters from the Doomsday Clock: You gain 5 life. The barn is full; the reckoning is, for now, postponed.",
+  "power": "",
+  "toughness": "",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "Stocked for the end of days. The faithful overestimated how many beans the end of days would require.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "F606"
+}

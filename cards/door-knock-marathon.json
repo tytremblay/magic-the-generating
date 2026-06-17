@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Door-Knock Marathon",
+  "manaCost": "{2}{G}",
+  "manaValue": 3,
+  "colors": ["G"],
+  "colorIdentity": ["G", "W"],
+  "type": "Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Knock on the table a number of times, out loud, as fast as you can while holding your breath. For each knock before you run out of breath (max ten), create a 1/1 green and white Voter creature token.\n(No fair pre-breathing. Petunia is watching. Petunia is always watching.)",
+  "power": "",
+  "toughness": "",
+  "keywords": [],
+  "rarity": "rare",
+  "flavorText": "Block after block, knuckle after knuckle. Democracy is mostly cardio.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 3,
+  "number": "D304",
+  "extras": {
+    "physicalAction": "knock while holding breath"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Abandoned Water Treatment Plant",
+  "type": "Acorn Land",
+  "types": ["Land"],
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["R", "G"],
+  "text": "Abandoned Water Treatment Plant enters the battlefield tapped unless you control a creature with a sludge counter on it.\n{T}: Add {R} or {G}.\n{2}, {T}: Put a sludge counter on target creature you control. The machinery still runs. Nobody's signed off on shutting it down because nobody's gone back inside.",
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "Condemned in '91. The condemnation notice is also condemned now.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G602"
+}

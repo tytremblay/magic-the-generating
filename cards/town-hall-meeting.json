@@ -1,0 +1,28 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Town Hall Meeting",
+  "manaCost": "{2}{W}",
+  "manaValue": 3,
+  "colors": ["W"],
+  "colorIdentity": ["G", "W"],
+  "type": "Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "The table votes recall or status quo. Each player votes once for each Voter they control, plus once for themselves.\nRecall — Each opponent who controls more permanents than you sacrifices a creature.\nStatus quo — You draw a card and create a 1/1 green and white Voter creature token. (Nothing got decided, but you networked.)",
+  "power": "",
+  "toughness": "",
+  "keywords": [],
+  "rarity": "uncommon",
+  "flavorText": "Scheduled for 7. Started at 7:40. Ended never.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 2,
+  "number": "D202",
+  "extras": {
+    "voting": "table vote weighted by Voters",
+    "frontrunnerPunish": "recall sacrifices from richest players"
+  }
+}

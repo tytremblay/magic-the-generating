@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Fix the Dice for a Price",
+  "manaCost": "{1}{B}",
+  "manaValue": 2,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Whenever a player is about to roll one or more dice, you may offer them a deal: they create a Treasure for you and you create a Favor token, OR you sacrifice a Favor token and set the die to any result you like before it's rolled. Loaded dice, every time, for whoever's paid up.\nThe goblins file the corners off in the back room. It is delicate work. They are not delicate goblins.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "\"House dice,\" the goblin says, and they are not your dice anymore.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H304",
+  "extras": { "token": "Favor (IOU), Treasure", "interaction": "rigs dice rolls" }
+}

@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Frontrunner Tax",
+  "manaCost": "{2}{W}",
+  "manaValue": 3,
+  "colors": ["W"],
+  "colorIdentity": ["G", "W"],
+  "type": "Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "At the beginning of each opponent's upkeep, if that player controls the most permanents at the table (you decide ties, charitably, in your own favor), they sacrifice a permanent of their choice and you create a 1/1 green and white Voter creature token.",
+  "power": "",
+  "toughness": "",
+  "keywords": [],
+  "rarity": "rare",
+  "flavorText": "\"It's not that we're against success. It's that we're against YOUR success, specifically, right now, loudly.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 3,
+  "number": "D305",
+  "extras": {
+    "frontrunnerPunish": "taxes the leader every upkeep"
+  }
+}

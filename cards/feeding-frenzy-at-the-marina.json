@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Feeding Frenzy at the Marina",
+  "manaCost": "{3}{R}{G}",
+  "manaValue": 5,
+  "colors": ["R", "G"],
+  "colorIdentity": ["R", "G"],
+  "type": "Acorn Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Each opponent flips a coin. Each creature you control gets +X/+0 until end of turn, where X is the number of coins flipped this way plus the number of dice and coins any player has rolled or flipped this turn. Then all your creatures with a sludge counter gain trample. Chum's in the water and the water answered.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "Boat Days festival, year forty. Attendance: thousands. Survivors: fewer.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G314",
+  "extras": { "coins": "table-wide flips" }
+}

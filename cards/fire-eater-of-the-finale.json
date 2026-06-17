@@ -1,0 +1,28 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Fire-Eater of the Finale",
+  "manaCost": "{2}{R}{R}",
+  "manaValue": 4,
+  "colors": ["R"],
+  "colorIdentity": ["B", "R"],
+  "type": "Acorn Creature — Devil Performer",
+  "types": ["Creature"],
+  "supertypes": [],
+  "subtypes": ["Devil", "Performer"],
+  "text": "Haste\nWhen Fire-Eater of the Finale enters the battlefield, hold your breath. While you are holding your breath (no cheating, the table is watching), this turn you may flip a coin any number of times. For each flip you win, it deals 2 damage to any target. The instant you breathe, the act is over.",
+  "power": "3",
+  "toughness": "3",
+  "keywords": ["Haste"],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "The grand finale lasts exactly as long as one lungful of bad ideas.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C312",
+  "extras": {
+    "physicalAction": "hold your breath while flipping coins",
+    "dice": "repeatable coin flips for damage"
+  }
+}

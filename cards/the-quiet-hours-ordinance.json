@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Quiet Hours Ordinance",
+  "manaCost": "{2}{U}",
+  "manaValue": 3,
+  "colors": ["U"],
+  "colorIdentity": ["U"],
+  "type": "Enchantment — Ordinance",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": ["Ordinance"],
+  "text": "City Hall observes quiet hours. While it is after the loudest player at the table last laughed, opponents can't cast spells with the word \"chaos,\" \"goblin,\" \"snack,\" or any exclamation point in their text.\nWhenever an opponent raises their voice, cheers, or says \"re-elected,\" you draw a card and issue a noise citation (they lose 1 life).",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 4,
+  "flavorText": "A complaint was filed about the noise. The complaint was, regrettably, very loud.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B402",
+  "extras": { "tableState": "loudness, laughter, saying phrases", "interaction": "punishes the rival deck's catchphrases" }
+}

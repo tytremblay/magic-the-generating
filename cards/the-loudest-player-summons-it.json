@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Loudest Player Summons It",
+  "manaCost": "{2}{R}{G}",
+  "manaValue": 4,
+  "colors": ["R", "G"],
+  "colorIdentity": ["R", "G"],
+  "type": "Acorn Enchantment — Curse",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": ["Curse"],
+  "text": "At the beginning of each upkeep, the loudest player since your last turn puts a sludge counter on a creature you control. If the table genuinely cannot agree who was loudest, they argue about it, get louder, and you put two counters instead.\nWhenever a creature you control would deal combat damage, it deals that much to the loudest opponent in addition. Volume is a resource now. It is your resource.",
+  "keywords": [],
+  "rarity": "mythic",
+  "chaos": 4,
+  "flavorText": "It is drawn to noise. The town meeting about the noise was, fatally, very noisy.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G403",
+  "extras": { "fourthWall": "loudest player", "newMechanic": "Feed" }
+}

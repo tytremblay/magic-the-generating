@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Pot Grows",
+  "manaCost": "{2}{B}",
+  "manaValue": 3,
+  "colors": ["B"],
+  "colorIdentity": ["B", "R"],
+  "type": "Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Whenever you create one or more Treasure tokens, put a Pot counter on The Pot Grows.\n{B}, Sacrifice The Pot Grows: You draw a card for each Pot counter on it and lose 1 life for each. Cash out while the cashing's good. (You won't.)",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "The progressive jackpot has rolled over four hundred times. It will roll over forever.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C215"
+}

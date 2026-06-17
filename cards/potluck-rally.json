@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Potluck Rally",
+  "manaCost": "{3}{G}",
+  "manaValue": 4,
+  "colors": ["G"],
+  "colorIdentity": ["G", "W"],
+  "type": "Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Creatures you control get +1/+1 until end of turn for each different snack physically present at the table, to a maximum of +3/+3. (If there are no snacks, that's the saddest rally, and they get +0/+0.)",
+  "power": "",
+  "toughness": "",
+  "keywords": [],
+  "rarity": "uncommon",
+  "flavorText": "Marge brought the casserole. Dale brought chips. Someone brought a single hard-boiled egg and refuses to explain.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 2,
+  "number": "D205",
+  "extras": {
+    "fourthWall": "counts real snacks at the table"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Strength in Numbers",
+  "manaCost": "{2}{G}{W}",
+  "manaValue": 4,
+  "colors": ["G", "W"],
+  "colorIdentity": ["G", "W"],
+  "type": "Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Until end of turn, creatures you control get +X/+X, where X is the number of creatures you control minus the greatest number of creatures any single opponent controls. (If that number is negative, the movement is smaller than the machine, and X is 0. Keep organizing.)",
+  "power": "",
+  "toughness": "",
+  "keywords": [],
+  "rarity": "rare",
+  "flavorText": "One neighbor is a complaint. A hundred neighbors are a recall. A thousand neighbors are a parking problem AND a recall.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 3,
+  "number": "D314",
+  "extras": {
+    "frontrunnerPunish": "scales vs the biggest opponent board"
+  }
+}

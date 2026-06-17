@@ -1,0 +1,21 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Municipal Parking Structure C",
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["W"],
+  "type": "Land",
+  "types": ["Land"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "{T}: Add {W}.\n{T}: Add {C}. Activate only if you control a Bureaucrat, Clerk, Auditor, Notary, or Inspector. (Validated parking.)",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 1,
+  "flavorText": "Level C. Always Level C. No one has ever willingly parked above Level C and returned.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B604"
+}

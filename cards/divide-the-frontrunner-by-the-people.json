@@ -1,0 +1,28 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Divide the Frontrunner by the People",
+  "manaCost": "{2}{G}{W}",
+  "manaValue": 4,
+  "colors": ["G", "W"],
+  "colorIdentity": ["G", "W"],
+  "type": "Instant — Forbidden Civics",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": ["Forbidden Civics"],
+  "text": "Take the greatest power among creatures the frontrunner controls and divide it by the number of Voters you control.\nIf you control zero Voters, the result is undefined and the frontrunner's creature is now both a tyrant and a footnote; it can't attack you, because mathematically it isn't sure it exists.\nOtherwise, that creature gets -X/-X until end of turn, where X is the (rounded, emotionally) result.",
+  "power": "",
+  "toughness": "",
+  "keywords": [],
+  "rarity": "rare",
+  "flavorText": "Power, divided among the people, gets very small per person. That's sort of the whole idea.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 4,
+  "number": "D403",
+  "extras": {
+    "impossibleMath": "divide by Voters, undefined at zero",
+    "frontrunnerPunish": "shrinks the leader's best creature"
+  }
+}

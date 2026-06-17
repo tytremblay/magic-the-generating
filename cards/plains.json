@@ -1,0 +1,16 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Plains",
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["W"],
+  "type": "Basic Land — Plains",
+  "types": ["Land"],
+  "supertypes": ["Basic"],
+  "subtypes": ["Plains"],
+  "text": "({T}: Add {W}.)",
+  "rarity": "common",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "202"
+}

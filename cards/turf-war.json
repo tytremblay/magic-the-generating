@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Turf War",
+  "manaCost": "{2}{B}",
+  "manaValue": 3,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "All creatures get -2/-2 until end of turn. For each creature that dies this turn, you create a Favor token. Somebody's family is going to owe somebody an apology, and apologies aren't free.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 2,
+  "flavorText": "Two crews, one alley, no survivors, and a goblin with a clipboard tallying who owes what.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H218",
+  "extras": { "token": "Favor (IOU)" }
+}

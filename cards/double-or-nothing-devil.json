@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Double-or-Nothing Devil",
+  "manaCost": "{1}{B}{R}",
+  "manaValue": 3,
+  "colors": ["B", "R"],
+  "colorIdentity": ["B", "R"],
+  "type": "Creature — Devil Gambler",
+  "types": ["Creature"],
+  "supertypes": [],
+  "subtypes": ["Devil", "Gambler"],
+  "text": "Whenever Double-or-Nothing Devil attacks, flip a coin. If you win the flip, it gets +2/+2 until end of turn. If you lose the flip, it gets -1/-1 until end of turn and you grumble.\nYou may flip again as many times as you dare. Each flip doubles the bonus or the penalty. Greed is a verb here.",
+  "power": "2",
+  "toughness": "2",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "\"One more flip. I can feel it. This one's mine.\" — last words, several times",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C201",
+  "extras": {
+    "dice": "press-your-luck coin flipping"
+  }
+}

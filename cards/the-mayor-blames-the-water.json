@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Mayor Blames the Water",
+  "manaCost": "{1}{R}",
+  "manaValue": 2,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "The Mayor holds a press conference: each opponent sacrifices a creature unless they roll a five or higher on a six-sided die. Every die rolled this way puts a sludge counter on a creature you control. The Mayor takes no questions.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "\"At no point did this administration dump anything. Next question. No, not you.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G216",
+  "extras": { "dice": "d6", "votes": "Mayor reference" }
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Casserole Warming Station",
+  "type": "Land",
+  "types": ["Land"],
+  "supertypes": [],
+  "subtypes": [],
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["G", "W"],
+  "text": "When Casserole Warming Station enters the battlefield, you gain 2 life.\n{T}: Add {G} or {W}.\n{1}, {T}: The next time you'd create a Voter token this turn, create an additional one. (Warm snacks, warm turnout.)",
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "Six outlets, four warming trays, one extension cord doing the work of a small power plant. The fire marshal voted yes anyway.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "D605"
+}

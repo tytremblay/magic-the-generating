@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Knife-Thrower of the Rakdos Revue",
+  "manaCost": "{1}{R}",
+  "manaValue": 2,
+  "colors": ["R"],
+  "colorIdentity": ["B", "R"],
+  "type": "Acorn Creature — Human Performer",
+  "types": ["Creature"],
+  "supertypes": [],
+  "subtypes": ["Human", "Performer"],
+  "text": "{1}{R}, {T}: Point at a creature, look away, and roll a six-sided die. On a 2 or higher, the knife lands true — it deals 3 damage to that creature. On a 1, the assistant is fine, mostly, and it deals 3 damage to a creature you control instead.",
+  "power": "2",
+  "toughness": "2",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 3,
+  "flavorText": "\"Helga has been my assistant for thirty years and has only nineteen fingers to show for it.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C309",
+  "extras": {
+    "physicalAction": "point and look away before rolling"
+  }
+}

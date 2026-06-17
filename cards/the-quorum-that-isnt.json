@@ -1,0 +1,28 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Quorum That Isn't",
+  "manaCost": "{2}{W}",
+  "manaValue": 3,
+  "colors": ["W"],
+  "colorIdentity": ["G", "W"],
+  "type": "Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "A vote at this table now requires a quorum: it counts only if the number of people physically in the room is greater than the number of empty chairs. Otherwise the motion is tabled until your next snack.\nWhile in effect, whenever a vote is tabled, you create a 1/1 green and white Voter creature token, because procedure produces volunteers the way puddles produce mosquitoes.",
+  "power": "",
+  "toughness": "",
+  "keywords": [],
+  "rarity": "rare",
+  "flavorText": "Robert's Rules, footnote 12, subsection 'gotcha.'",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 4,
+  "number": "D404",
+  "extras": {
+    "fourthWall": "counts people and empty chairs in the room",
+    "timingGag": "tabled until your next snack"
+  }
+}

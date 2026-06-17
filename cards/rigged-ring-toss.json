@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Rigged Ring Toss",
+  "manaCost": "{B}",
+  "manaValue": 1,
+  "colors": ["B"],
+  "colorIdentity": ["B", "R"],
+  "type": "Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Target creature gets -2/-2 until end of turn. Then roll a six-sided die. On a 6, the ring 'mysteriously' bounces off — that creature gets -4/-4 until end of turn instead.",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 1,
+  "flavorText": "The pegs are slightly too big for the rings. On purpose.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C104"
+}

@@ -1,0 +1,25 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "All In",
+  "manaCost": "{2}{B}{R}",
+  "manaValue": 4,
+  "colors": ["B", "R"],
+  "colorIdentity": ["B", "R"],
+  "type": "Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Push your whole stack to the center: sacrifice all Treasures and tokens you control. Then roll a number of six-sided dice equal to the number of permanents you sacrificed this way.\nFor each 4, 5, or 6, draw a card and deal 2 damage to any target. For each 1, 2, or 3, lose 2 life and say 'I had a read.' If you sacrificed nothing, you flinch and the table laughs.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "\"Either I walk out of here rich or I walk out of here. Those are the two outcomes. Mostly the second.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C302",
+  "extras": {
+    "dice": "roll dice equal to your sacrificed stack"
+  }
+}

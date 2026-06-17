@@ -1,0 +1,26 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Winner Takes the Snack",
+  "manaCost": "{1}{R}",
+  "manaValue": 2,
+  "colors": ["R"],
+  "colorIdentity": ["B", "R"],
+  "type": "Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Each player rolls a six-sided die. The highest roller wins the wager: they gain control of the table snack and draw a card. If you are the highest roller (or tied for it), you also create two Treasure tokens. Ties are broken in favor of the house, obviously.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "The pot was always just a bag of chips. Magic is about stakes that matter.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C210",
+  "extras": {
+    "dice": "table-wide roll-off payout",
+    "tableState": "control of the snack"
+  }
+}

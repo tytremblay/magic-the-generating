@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Reservoir Bill Comes Due",
+  "manaCost": "{4}{R}{G}",
+  "manaValue": 6,
+  "colors": ["R", "G"],
+  "colorIdentity": ["R", "G"],
+  "type": "Acorn Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Decades of deferred maintenance arrive at once. Each opponent loses life equal to the number of permanents they control minus the number of sludge counters on creatures you control, minimum zero, calculated as both players simultaneously, which doesn't fully make sense, so just do it as fast as you can before anyone objects.\nThen you draw cards equal to the total life lost this way, until you're uncomfortable, then one more.",
+  "keywords": [],
+  "rarity": "mythic",
+  "chaos": 4,
+  "flavorText": "The invoice was forty years old and written in three eyes' worth of handwriting.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G406",
+  "extras": { "impossibleMath": "simultaneous, uncomfortable draw" }
+}

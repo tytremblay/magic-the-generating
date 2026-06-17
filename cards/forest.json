@@ -1,0 +1,16 @@
+{
+  "$schema": "../card.schema.json",
+  "name": "Forest",
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["G"],
+  "type": "Basic Land — Forest",
+  "types": ["Land"],
+  "supertypes": ["Basic"],
+  "subtypes": ["Forest"],
+  "text": "({T}: Add {G}.)",
+  "rarity": "common",
+  "artist": "AI Generated",
+  "set": "GEN",
+  "number": "204"
+}

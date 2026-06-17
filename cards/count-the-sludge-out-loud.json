@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Count the Sludge Out Loud",
+  "manaCost": "{1}{R}{G}",
+  "manaValue": 3,
+  "colors": ["R", "G"],
+  "colorIdentity": ["R", "G"],
+  "type": "Acorn Instant — Recount",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": ["Recount"],
+  "text": "Count every sludge counter on the battlefield out loud, one at a time, by yourself, while the table waits. Big Murph or target creature you control deals that much damage to each opponent.\nIf you lose count, start over. If an opponent makes you lose count on purpose, that's a vote — Feed triggers, the number goes up, and you start over again. There is no winning move for them.",
+  "keywords": [],
+  "rarity": "mythic",
+  "chaos": 4,
+  "flavorText": "\"...forty-one, forty-two — STOP DOING THAT — one, two, three...\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G404",
+  "extras": { "physicalAction": "count out loud", "fourthWall": "table interference" }
+}

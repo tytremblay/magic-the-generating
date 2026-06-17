@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Line That Never Moves",
+  "manaCost": "{3}{U}{U}",
+  "manaValue": 5,
+  "colors": ["U"],
+  "colorIdentity": ["U"],
+  "type": "Enchantment — Ordinance",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": ["Ordinance"],
+  "text": "Each opponent's spells and abilities go to the back of the line: when an opponent would cast a spell or activate an ability, they instead place it in the queue. At the beginning of that player's next upkeep, the oldest thing in their queue finally resolves — one per turn, no more. The line does not move faster because you sighed.\nThe queue has no maximum length. It has never had an end.",
+  "keywords": [],
+  "rarity": "mythic",
+  "chaos": 4,
+  "flavorText": "You were eleventh in line at 9 a.m. It is now next week. You are eleventh in line.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B408",
+  "extras": { "tableState": "queues opponents' actions", "interaction": "hard-locks the rival deck's tempo" }
+}

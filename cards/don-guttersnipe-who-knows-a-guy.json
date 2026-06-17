@@ -1,0 +1,28 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Don Guttersnipe, Who Knows a Guy",
+  "manaCost": "{2}{B}{B}",
+  "manaValue": 4,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Legendary Acorn Creature — Goblin Crime Boss",
+  "types": ["Creature"],
+  "supertypes": ["Legendary"],
+  "subtypes": ["Goblin", "Boss"],
+  "text": "When Don Guttersnipe enters the battlefield, do a favor for each opponent: each opponent draws a card. For each card drawn this way, you create a Favor token. (A Favor is a colorless artifact token with \"Sacrifice this artifact: Choose a player who owes you a Favor. That player loses 1 life or sacrifices a permanent. You decide which, capisce.\" The player it's spent on is the one the Don did the favor for.)\nThe Family Looks After Its Own — Whenever you give an opponent a card, a Treasure, a snack, life, or a vote, you create a Favor token. Nothing's free in this town.\n{2}{B}, Sacrifice three Favors: Make target opponent an offer they can't refuse. That player sacrifices a creature and a noncreature permanent of your choice, then says \"thank you, Don\" out loud.",
+  "power": "3",
+  "toughness": "4",
+  "keywords": [],
+  "rarity": "mythic",
+  "chaos": 3,
+  "flavorText": "\"You needed a favor. Now you owe one. That's just how friendship works in Whateverville.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "🕵️100",
+  "extras": {
+    "twist": "Favor/IOU debt economy engine",
+    "token": "Favor (IOU)"
+  }
+}

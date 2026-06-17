@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Recall the Mayor",
+  "manaCost": "{1}{W}",
+  "manaValue": 2,
+  "colors": ["W"],
+  "colorIdentity": ["G", "W"],
+  "type": "Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Destroy target creature an opponent controls that is a Mayor, an incumbent, or the creature with the greatest power among creatures that player controls. (If there's a tie for greatest power, the table votes which one. Bias is encouraged.)",
+  "power": "",
+  "toughness": "",
+  "keywords": [],
+  "rarity": "common",
+  "flavorText": "Term limits, but enforced by a clipboard and a very firm handshake.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 1,
+  "number": "D110",
+  "extras": {
+    "frontrunnerPunish": "kills the biggest creature / Mayor / incumbent"
+  }
+}

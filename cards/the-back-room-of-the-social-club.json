@@ -1,0 +1,20 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Back Room of the Social Club",
+  "type": "Acorn Land",
+  "types": ["Land"],
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["B"],
+  "text": "{T}: Add {B}.\n{2}{B}, {T}: Target opponent gains 1 life and you create a Favor token. The deals close here, over weak coffee, under a low ceiling.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "Members only. Membership is granted by the Don and revoked by the reservoir.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H601",
+  "extras": { "token": "Favor (IOU)" }
+}

@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Toxic Tide Rises",
+  "manaCost": "{3}{R}",
+  "manaValue": 4,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Roll a six-sided die. The Toxic Tide Rises deals that much damage, plus 1 for each sludge counter among creatures you control, divided as you choose among any number of target creatures and players. The whole shoreline goes underwater. The whole shoreline was somebody's lawn.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "High tide is now wherever the thing decides it is.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G304",
+  "extras": { "dice": "d6" }
+}

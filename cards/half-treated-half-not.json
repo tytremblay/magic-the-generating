@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Half-Treated, Half Not",
+  "manaCost": "{½}{R}{G}",
+  "manaValue": 3,
+  "colors": ["R", "G"],
+  "colorIdentity": ["R", "G"],
+  "type": "Acorn Sorcery — Wastewater",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": ["Wastewater"],
+  "text": "Put half a sludge counter on each creature you control. (Yes, half. Split the difference and argue about it.) A creature with a fractional sludge counter is treated as having the next whole number up whenever that helps you and the next whole number down whenever it helps an opponent.\nDraw half a card, rounded up to a whole card because you cannot draw half a card, you tried, it didn't work, stop trying.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 4,
+  "flavorText": "The plant runs at 50% capacity, which is to say it runs the water through and shrugs.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G401",
+  "extras": { "halfMana": "{½}", "impossibleMath": "fractional counters" }
+}

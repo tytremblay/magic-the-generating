@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Don Says Vote Yes",
+  "manaCost": "{1}{B}",
+  "manaValue": 2,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Each opponent who owes you a Favor votes however you tell them on the next vote this turn, and you may sacrifice one of those Favors per opponent to make them do it again on the vote after that.\nIf no vote is held this turn, hold one anyway: vote on whether the Don is a generous goblin. The Don wins. The Don always wins.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "Turnout was one hundred percent. Enthusiasm was strongly encouraged.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H220",
+  "extras": { "token": "Favor (IOU)", "interaction": "votes" }
+}

@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "High Roller of the Inferno",
+  "manaCost": "{3}{B}{R}",
+  "manaValue": 5,
+  "colors": ["B", "R"],
+  "colorIdentity": ["B", "R"],
+  "type": "Acorn Creature — Demon Gambler",
+  "types": ["Creature"],
+  "supertypes": [],
+  "subtypes": ["Demon", "Gambler"],
+  "text": "Flying\nWhenever a player rolls one or more dice (yours, theirs, anyone's), High Roller of the Inferno gets +X/+0 until end of turn, where X is the highest single result rolled.\nAt the beginning of your end step, if High Roller's power is 13 or greater, each opponent loses 3 life. The whales always tip in blood.",
+  "power": "4",
+  "toughness": "5",
+  "keywords": ["Flying"],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "He bets in lifespans and tips in decades. The pit boss comps him a throne.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C305",
+  "extras": {
+    "dice": "grows off the highest die rolled by anyone"
+  }
+}

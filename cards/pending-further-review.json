@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Pending Further Review",
+  "manaCost": "{1}{W}{U}",
+  "manaValue": 3,
+  "colors": ["W", "U"],
+  "colorIdentity": ["W", "U"],
+  "type": "Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Exile target spell. At the beginning of its controller's next end step, they may resubmit it: cast it from exile without paying its mana cost if they roll a six-sided die and get a 6. Otherwise, the matter remains pending and the spell is exiled forever, lost to committee.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 3,
+  "flavorText": "Status: pending. It has been pending since before you were born.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B312",
+  "extras": { "dice": "d6 to recover" }
+}

@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Freedom of Information Request",
+  "manaCost": "{2}{U}{U}",
+  "manaValue": 4,
+  "colors": ["U"],
+  "colorIdentity": ["U"],
+  "type": "Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Draw three cards. Then redact one of them: choose a card you drew this way and exile it face down. (The public has a right to know. Most of it.)\nYou may pay {3} to unredact (return the exiled card to your hand) at any time. The request is, regrettably, still being processed.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 3,
+  "flavorText": "Released in full, except for the parts, which were most of it.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B308"
+}

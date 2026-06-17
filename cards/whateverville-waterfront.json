@@ -1,0 +1,19 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Whateverville Waterfront",
+  "type": "Acorn Land",
+  "types": ["Land"],
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["B"],
+  "text": "Whateverville Waterfront enters the battlefield tapped unless you control another Goblin.\n{T}: Add {B}.\n{1}{B}, {T}, Sacrifice Whateverville Waterfront: Each opponent sacrifices a creature. The harbor keeps its secrets and its concrete shoes.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 2,
+  "flavorText": "The Don owns every dock, every crane, and every union that loads every ship. Especially the union.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H602"
+}

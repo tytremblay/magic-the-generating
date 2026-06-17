@@ -1,0 +1,25 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Tilted Table",
+  "manaCost": "{2}{B}{R}",
+  "manaValue": 4,
+  "colors": ["B", "R"],
+  "colorIdentity": ["B", "R"],
+  "type": "Acorn Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "The whole game floor is on a gentle slant toward the house.\nWhenever any player rolls a die and would keep a result of 6, that player must instead reroll it once. (The table is tilted. The dice know which way is down. The house decided which way is down.)\nWhenever a die is rerolled this way, you create a Treasure token.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "Spirit levels placed on the floor have all quietly resigned.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C314",
+  "extras": {
+    "dice": "table-wide reroll tax on sixes"
+  }
+}

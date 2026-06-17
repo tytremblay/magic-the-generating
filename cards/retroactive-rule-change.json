@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Retroactive Rule Change, Effective Last Tuesday",
+  "manaCost": "{2}{U}{U}",
+  "manaValue": 4,
+  "colors": ["U"],
+  "colorIdentity": ["U"],
+  "type": "Instant — Ordinance",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": ["Ordinance"],
+  "text": "Pick any one die roll or coin flip that has happened so far this game — yes, any of them, going back to turn one. It is now retroactively ruled invalid. Undo everything that resulted from it as best the table can remember. Argue. The auditor (you) has final say.\nIf nobody can remember the roll, it never happened, which was the point all along.",
+  "keywords": [],
+  "rarity": "mythic",
+  "chaos": 4,
+  "flavorText": "\"That rule was always in effect. You simply weren't told.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B406",
+  "extras": { "tableState": "rewind game history", "parasitic": "invalidates past rolls/flips" }
+}

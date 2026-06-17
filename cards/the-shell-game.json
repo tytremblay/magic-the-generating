@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Shell Game",
+  "manaCost": "{1}{B}{R}",
+  "manaValue": 3,
+  "colors": ["B", "R"],
+  "colorIdentity": ["B", "R"],
+  "type": "Acorn Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Choose three creatures you don't control. Behind the table, the carny shuffles their fates. Roll a six-sided die: on 1 or 2, gain control of the first until end of turn; on 3 or 4, the second; on 5 or 6, the third. Then it attacks if able. (The pea was under your sleeve the whole time.)",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 3,
+  "flavorText": "Keep your eye on the shells. Don't look at the carny's other hand. Definitely don't.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C306"
+}

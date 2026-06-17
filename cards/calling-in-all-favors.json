@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Calling In All Favors",
+  "manaCost": "{2}{B}{B}",
+  "manaValue": 4,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Sacrifice any number of Favor tokens. For each one, the player it was owed by sacrifices a permanent of your choice. The Don is calling in every marker in town, all at once, today.\nThe phone rang in every back room in Whateverville at the same instant. Every goblin who answered went pale.",
+  "keywords": [],
+  "rarity": "mythic",
+  "chaos": 3,
+  "flavorText": "Payment was due. Payment had always been due. They simply hadn't believed it would come.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H302",
+  "extras": { "token": "Favor (IOU)", "twist": "mass IOU cash-in payoff" }
+}

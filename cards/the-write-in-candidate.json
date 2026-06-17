@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Write-In Candidate",
+  "manaCost": "{X}{G}{W}",
+  "manaValue": 2,
+  "colors": ["G", "W"],
+  "colorIdentity": ["G", "W"],
+  "type": "Creature — Human Citizen",
+  "types": ["Creature"],
+  "supertypes": [],
+  "subtypes": ["Human", "Citizen"],
+  "text": "As you cast this, write a name on a scrap of paper and don't show anyone. The Write-In Candidate enters with X +1/+1 counters and is named whatever you wrote.\nWhenever a player says the written name out loud (you may bait them), reveal the paper. If correct, you gain control of target permanent that player controls. If nobody guesses by your next turn, you draw two cards out of sheer democratic momentum.",
+  "power": "0",
+  "toughness": "0",
+  "keywords": [],
+  "rarity": "rare",
+  "flavorText": "\"Who's running?\" \"Can't tell you.\" \"Why not?\" \"It's a write-in. It's a secret. It's on this napkin.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 4,
+  "number": "D406",
+  "extras": {
+    "fourthWall": "secret name on paper, players say it aloud"
+  }
+}

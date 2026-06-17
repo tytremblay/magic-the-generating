@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Sewer Grate, Pried Open",
+  "manaCost": "{G}",
+  "manaValue": 1,
+  "colors": ["G"],
+  "colorIdentity": ["G"],
+  "type": "Acorn Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Target creature you control fights target creature you don't control. (Something climbs out to help. You don't ask what.)",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 1,
+  "flavorText": "The bolts were rated for a quarter ton. The thing underneath was not.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G114"
+}

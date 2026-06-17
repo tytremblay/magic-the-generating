@@ -1,0 +1,28 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Pit Boss Who Sees All Tables at Once",
+  "manaCost": "{3}{B}{R}",
+  "manaValue": 5,
+  "colors": ["B", "R"],
+  "colorIdentity": ["B", "R"],
+  "type": "Acorn Creature — Demon Bureaucrat",
+  "types": ["Creature"],
+  "supertypes": [],
+  "subtypes": ["Demon", "Bureaucrat"],
+  "text": "The Pit Boss Who Sees All Tables at Once is watching every game in the room, including the ones in other games of Magic happening nearby, including this one, including the one in your head right now.\nWhenever ANY die is rolled or coin flipped anywhere you can see — this table, the next table, a video of dice on someone's phone, a clock that 'rolled over' — you may pay {1} to draw a card. House limit: once per such event, enforced on the honor system, and the house does not believe in honor.",
+  "power": "5",
+  "toughness": "5",
+  "keywords": [],
+  "rarity": "mythic",
+  "chaos": 4,
+  "flavorText": "There are no clocks on the casino floor and yet he always knows what time it is for you, specifically.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C402",
+  "extras": {
+    "fourthWall": "triggers off dice/coins in the whole room, even other games",
+    "tableState": "watches everything"
+  }
+}

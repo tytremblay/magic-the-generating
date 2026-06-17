@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Demonic I.O.U.",
+  "manaCost": "{1}{B}",
+  "manaValue": 2,
+  "colors": ["B"],
+  "colorIdentity": ["B", "R"],
+  "type": "Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Search your library for a card, put it into your hand, then shuffle. You don't pay now. You pay later.\nAt the beginning of your next upkeep, the bill comes due: you lose 3 life and discard a card. The interest is steep. The interest is always steep.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "Signed in blood, witnessed by a clown, notarized by something with too many teeth.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C204"
+}

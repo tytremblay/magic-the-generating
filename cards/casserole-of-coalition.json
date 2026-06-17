@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Coalition Casserole",
+  "manaCost": "{2}{G}{W}",
+  "manaValue": 4,
+  "colors": ["G", "W"],
+  "colorIdentity": ["G", "W"],
+  "type": "Artifact — Food",
+  "types": ["Artifact"],
+  "supertypes": [],
+  "subtypes": ["Food"],
+  "text": "{2}, {T}, Sacrifice The Coalition Casserole: You gain 3 life and draw a card. Then any opponent may say \"that smells amazing\" out loud; the first who does creates a 1/1 green and white Voter creature token under your control, because now they're at your potluck.\n{1}, {T}: Add {G} or {W}. (Casserole runs on potluck logic.)",
+  "power": "",
+  "toughness": "",
+  "keywords": [],
+  "rarity": "rare",
+  "flavorText": "Seven layers. Nobody remembers what's in layer four. Everyone agrees it's load-bearing.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 3,
+  "number": "D303",
+  "extras": {
+    "fourthWall": "opponent says a phrase out loud"
+  }
+}

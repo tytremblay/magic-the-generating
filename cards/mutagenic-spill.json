@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Mutagenic Spill",
+  "manaCost": "{2}{G}{G}",
+  "manaValue": 4,
+  "colors": ["G"],
+  "colorIdentity": ["R", "G"],
+  "type": "Acorn Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Put four sludge counters distributed as you choose among creatures you control. Each creature that received a counter this way becomes a Mutant in addition to its other types and gains trample. Then roll a six-sided die; if you roll a 6, repeat this entire process once. The barrel was clearly labeled DO NOT. Somebody DID.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "Forty-seven barrels went into the reservoir in 1986. Forty-eight came back out.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G313",
+  "extras": { "dice": "d6", "newMechanic": "sludge counters" }
+}

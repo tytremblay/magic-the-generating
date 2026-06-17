@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Feral Runoff",
+  "manaCost": "{R}",
+  "manaValue": 1,
+  "colors": ["R"],
+  "colorIdentity": ["R"],
+  "type": "Acorn Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Feral Runoff deals 2 damage to any target. If a player rolled a die or flipped a coin this turn, it deals 3 damage instead. (The sludge gets bolder when the town gets noisy.)",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 1,
+  "flavorText": "Do not let it reach the storm drain. Do not let it reach anything.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G106"
+}

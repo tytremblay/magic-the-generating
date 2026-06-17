@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Until the Water Recedes",
+  "manaCost": "{1}{R}{G}",
+  "manaValue": 3,
+  "colors": ["R", "G"],
+  "colorIdentity": ["R", "G"],
+  "type": "Acorn Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Creatures you control with a sludge counter have haste and \"can't be blocked by more than one creature\" — but only until your next snack. (The moment anyone at the table eats a snack, the high water recedes and this effect ends. Stall the snacks. Hide the snacks. The flood is on a timer made of pretzels.)\nWhenever this enchantment's effect ends because of a snack, Big Murph or target creature you control gets two sludge counters as a parting gift.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 4,
+  "flavorText": "The flood lasts exactly as long as the town can resist a snack. Historically: not long.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G408",
+  "extras": { "timingGag": "until your next snack", "tableState": "snacks" }
+}

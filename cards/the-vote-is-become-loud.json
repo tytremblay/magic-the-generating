@@ -1,0 +1,28 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "the vote is become loud",
+  "manaCost": "{🗳}{🗳}{🗳}",
+  "manaValue": "quorum",
+  "colors": [],
+  "colorIdentity": [],
+  "type": "Acorn Noise — Referendum Elemental",
+  "types": ["Creature"],
+  "supertypes": [],
+  "subtypes": ["Noise", "Referendum"],
+  "text": "the people do be voting. they vote on what. they vote on yes. the yes wins. it always win.\nwhenever anyone count anything — votes, dice, coins, snacks, the years since the last good mayor — the vote is become loud and it count too, but louder, and wrong, and the count is now this card's idea.\nfrontrunner sit down. frontrunner is recalled into a feeling. the feeling is being recalled.",
+  "power": "majority",
+  "toughness": "the will of the people",
+  "keywords": [],
+  "rarity": "landslide",
+  "flavorText": "democracy, but it learned to hum, and now it will not stop humming.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 5,
+  "number": "D501",
+  "extras": {
+    "brokenGrammar": true,
+    "interaction": "hijacks any counting (votes/dice/coins/snacks)"
+  }
+}

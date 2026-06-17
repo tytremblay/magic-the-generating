@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Vig Compounds Forever",
+  "manaCost": "{3}{B}{B}",
+  "manaValue": 5,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "At the beginning of each player's upkeep, double the number of Favor tokens you control. (Two becomes four, four becomes eight, eight becomes — keep going, it's fine, the table will wait.)\nWhenever you would lose the game, instead sacrifice that many Favor tokens. You cannot, mathematically, run out before they do.",
+  "keywords": [],
+  "rarity": "mythic",
+  "chaos": 4,
+  "flavorText": "Compound interest is the most powerful force in the underworld. The Don read that on a poster and never recovered.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H402",
+  "extras": { "token": "Favor (IOU)", "impossibleMath": "runaway doubling" }
+}

@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Snake-Oil Salesman",
+  "manaCost": "{1}{B}{R}",
+  "manaValue": 3,
+  "colors": ["B", "R"],
+  "colorIdentity": ["B", "R"],
+  "type": "Acorn Creature — Devil Merchant",
+  "types": ["Creature"],
+  "supertypes": [],
+  "subtypes": ["Devil", "Merchant"],
+  "text": "Whenever The Snake-Oil Salesman attacks, you may make an offer to the defending player out loud: name a thing you'll do for them (gain them life, give them a Treasure) if they don't block. If they accept and don't block, do half of it and 'forget' the rest. If they block, the tonic 'cures' them — destroy a Treasure they own.",
+  "power": "3",
+  "toughness": "3",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "\"Cures gout, warts, indecision, AND lycanthropy. Mostly water. Some lycanthropy.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C303",
+  "extras": {
+    "fourthWall": "make a verbal deal with the defending player"
+  }
+}

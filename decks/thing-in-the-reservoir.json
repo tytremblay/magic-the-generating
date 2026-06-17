@@ -1,0 +1,310 @@
+{
+  "$schema": "../deck.schema.json",
+  "border": "acorn",
+  "name": "The Thing in the Reservoir",
+  "format": "commander",
+  "theme": "Steer the town's living pollution: every die, coin, and vote the whole table makes feeds Big Murph sludge counters until the communal kaiju is big enough to wash over every opponent at once.",
+  "description": "It was the water all along. Decades of Whateverville's dumped chaos pooled in the reservoir, grew three eyes and a taste for ballots, and crawled out of the water treatment plant with a name nobody wants to say twice: Big Murph. This Gruul (RG) deck is a SHARED, ESCALATING MENACE built on the Feed mechanic — whenever ANY player anywhere at the table rolls a die, flips a coin, or votes, the monster you steer gains sludge counters and gets bigger. And it doesn't pick favorites: when the beast grows or attacks, it washes over the WHOLE table at once. You profit by steering it, but the threat is communal — the more the pod does its usual dice-and-elections thing, the more it feeds the thing in the reservoir, and property values have already started to fall. An acorn (Un-set) Commander deck with chaos kept deliberately LOW — almost-functional toxic-mutant Gruul thinning to a handful of chaos-5 fever-dreams. Color-identity and singleton rules are waived for acorn decks.",
+  "colorIdentity": [
+    "R",
+    "G"
+  ],
+  "commander": [
+    "Big Murph, Whatever Crawled Out of the Water Treatment Plant"
+  ],
+  "cards": [
+    {
+      "name": "Big Murph, Whatever Crawled Out of the Water Treatment Plant",
+      "role": "Commander"
+    },
+    {
+      "name": "Three-Eyed Catfish",
+      "role": "Synergy"
+    },
+    {
+      "name": "Runoff Raccoon",
+      "role": "Threat"
+    },
+    {
+      "name": "Toxic Sludge Ooze",
+      "role": "Payoff"
+    },
+    {
+      "name": "Hazmat Goblin",
+      "role": "Interaction"
+    },
+    {
+      "name": "Reservoir Drinker",
+      "role": "Ramp"
+    },
+    {
+      "name": "Feral Runoff",
+      "role": "Interaction"
+    },
+    {
+      "name": "Algae Bloom",
+      "role": "Ramp"
+    },
+    {
+      "name": "Sludge Stomp",
+      "role": "Synergy"
+    },
+    {
+      "name": "Three-Legged Heron",
+      "role": "Utility"
+    },
+    {
+      "name": "Property Value Collapse",
+      "role": "Interaction"
+    },
+    {
+      "name": "Mutant Bullfrog",
+      "role": "Threat"
+    },
+    {
+      "name": "Storm Drain Lurker",
+      "role": "Threat"
+    },
+    {
+      "name": "Expired Snack Cache",
+      "role": "Ramp"
+    },
+    {
+      "name": "Sewer Grate, Pried Open",
+      "role": "Interaction"
+    },
+    {
+      "name": "Town Evacuation Notice",
+      "role": "Interaction"
+    },
+    {
+      "name": "Bucket Brigade Ooze",
+      "role": "Payoff"
+    },
+    {
+      "name": "Ballot Devourer",
+      "role": "Payoff"
+    },
+    {
+      "name": "Three-Eyed Snapping Turtle",
+      "role": "Interaction"
+    },
+    {
+      "name": "Snack Cart Mutant",
+      "role": "Threat"
+    },
+    {
+      "name": "Dump Site Eruption",
+      "role": "Board Wipe"
+    },
+    {
+      "name": "Feed the Thing",
+      "role": "Synergy"
+    },
+    {
+      "name": "Incumbent Catfish",
+      "role": "Threat"
+    },
+    {
+      "name": "Runoff Into the Creek",
+      "role": "Ramp"
+    },
+    {
+      "name": "Redirect the Menace",
+      "role": "Protection"
+    },
+    {
+      "name": "Three-Headed Mallard",
+      "role": "Threat"
+    },
+    {
+      "name": "Hazmat Team Leader",
+      "role": "Synergy"
+    },
+    {
+      "name": "The Thing Stirs",
+      "role": "Synergy"
+    },
+    {
+      "name": "Mutant Snapping Vines",
+      "role": "Interaction"
+    },
+    {
+      "name": "Recount the Runoff",
+      "role": "Draw"
+    },
+    {
+      "name": "Three-Eyed Bass Fry",
+      "role": "Payoff"
+    },
+    {
+      "name": "The Mayor Blames the Water",
+      "role": "Interaction"
+    },
+    {
+      "name": "Galvanic Eel",
+      "role": "Payoff"
+    },
+    {
+      "name": "Overgrown Treatment Tank",
+      "role": "Synergy"
+    },
+    {
+      "name": "It Was the Water All Along",
+      "role": "Draw"
+    },
+    {
+      "name": "Raccoon Raiding Party",
+      "role": "Threat"
+    },
+    {
+      "name": "The Reservoir Leviathan",
+      "role": "Threat"
+    },
+    {
+      "name": "It Grows With Every Vote",
+      "role": "Payoff"
+    },
+    {
+      "name": "The Three-Eyed Catfish King",
+      "role": "Payoff"
+    },
+    {
+      "name": "The Toxic Tide Rises",
+      "role": "Interaction"
+    },
+    {
+      "name": "The Mayor Throws It a Snack",
+      "role": "Synergy"
+    },
+    {
+      "name": "Reservoir Kaiju, Juvenile",
+      "role": "Threat"
+    },
+    {
+      "name": "Everyone Feeds It Whether They Mean To",
+      "role": "Payoff"
+    },
+    {
+      "name": "Prophet of the Deep End",
+      "role": "Utility"
+    },
+    {
+      "name": "The Thing Eats the Ballot Box",
+      "role": "Interaction"
+    },
+    {
+      "name": "Sludge Surge",
+      "role": "Payoff"
+    },
+    {
+      "name": "Tentacle Through the Pipes",
+      "role": "Interaction"
+    },
+    {
+      "name": "Quarantine the District",
+      "role": "Board Wipe"
+    },
+    {
+      "name": "Mutagenic Spill",
+      "role": "Synergy"
+    },
+    {
+      "name": "Feeding Frenzy at the Marina",
+      "role": "Payoff"
+    },
+    {
+      "name": "Menaced by Its Own Garbage",
+      "role": "Payoff"
+    },
+    {
+      "name": "Half-Treated, Half Not",
+      "role": "Synergy"
+    },
+    {
+      "name": "It Is As Big As the Room Is Warm",
+      "role": "Threat"
+    },
+    {
+      "name": "The Loudest Player Summons It",
+      "role": "Payoff"
+    },
+    {
+      "name": "Count the Sludge Out Loud",
+      "role": "Payoff"
+    },
+    {
+      "name": "Whatever Crawled Out Next",
+      "role": "Threat"
+    },
+    {
+      "name": "The Reservoir Bill Comes Due",
+      "role": "Draw"
+    },
+    {
+      "name": "The Minus-Three Runoff Elemental",
+      "role": "Synergy"
+    },
+    {
+      "name": "Until the Water Recedes",
+      "role": "Protection"
+    },
+    {
+      "name": "The Thing Votes for Itself",
+      "role": "Payoff"
+    },
+    {
+      "name": "the water do be alive tho",
+      "role": "Threat"
+    },
+    {
+      "name": "Divide the Monster by Its Eyes",
+      "role": "Interaction"
+    },
+    {
+      "name": "Scry the Reservoir, It Scries Back",
+      "role": "Utility"
+    },
+    {
+      "name": "The Thing Is Also This Card And Also Behind You",
+      "role": "Threat"
+    },
+    {
+      "name": "The Reservoir Itself",
+      "role": "Land"
+    },
+    {
+      "name": "Abandoned Water Treatment Plant",
+      "role": "Land"
+    },
+    {
+      "name": "Toxic Runoff Creek",
+      "role": "Land"
+    },
+    {
+      "name": "The Old Landfill",
+      "role": "Land"
+    },
+    {
+      "name": "Spillway Overlook",
+      "role": "Land"
+    },
+    {
+      "name": "Three-Mile Marsh",
+      "role": "Land"
+    },
+    {
+      "name": "Mountain",
+      "role": "Land",
+      "count": 15
+    },
+    {
+      "name": "Forest",
+      "role": "Land",
+      "count": 15
+    }
+  ],
+  "plan": {
+    "size": 100
+  }
+}

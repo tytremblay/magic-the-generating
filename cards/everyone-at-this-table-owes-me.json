@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Everyone at This Table Owes Me",
+  "manaCost": "{3}{B}{B}",
+  "manaValue": 5,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Point slowly around the table, ending on yourself. Every player — yes, including the friend who just sat down to watch, and the dog — owes you a Favor now. Create a Favor token for each living thing in the room.\nThen sacrifice all of them: each opponent who owes you loses life equal to the number of times someone at the table has said the word \"favor\" this game. (You have been counting. Of course you have.)",
+  "keywords": [],
+  "rarity": "mythic",
+  "chaos": 4,
+  "flavorText": "The Don gestured at the room. The room understood it was the room's problem now.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H405",
+  "extras": { "token": "Favor (IOU)", "fourthWall": "everyone in the room", "impossibleMath": "count word usages" }
+}

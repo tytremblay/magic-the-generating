@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Rubber Stamp of Approval",
+  "manaCost": "{W}",
+  "manaValue": 1,
+  "colors": ["W"],
+  "colorIdentity": ["W"],
+  "type": "Artifact — Equipment",
+  "types": ["Artifact"],
+  "supertypes": [],
+  "subtypes": ["Equipment"],
+  "text": "Equipped creature gets +1/+1 and has \"APPROVED\" stamped firmly on its forehead.\nEquip {1}",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 1,
+  "flavorText": "Whatever it touches becomes official. Whatever it does not touch becomes a problem for next quarter.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B103"
+}

@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Ergonomically Approved Chair of Power",
+  "manaCost": "{3}{W}",
+  "manaValue": 4,
+  "colors": ["W"],
+  "colorIdentity": ["W"],
+  "type": "Legendary Artifact — Throne",
+  "types": ["Artifact"],
+  "supertypes": ["Legendary"],
+  "subtypes": ["Throne"],
+  "text": "The player currently seated lowest at the table (slouch, recline, or sit on the floor — the auditor judges) is the City Manager. Whenever the City Manager rolls a die or flips a coin, you draw a card.\nAt the beginning of your upkeep, if YOU are the City Manager, put a +1/+1 counter on each creature you control and gain 2 life. Lumbar support is power.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 4,
+  "flavorText": "Requisitioned in 1991. Still under warranty. The warranty is also permanent.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B407",
+  "extras": { "tableState": "lowest-seated player", "parasitic": "draw off City Manager's rolls/flips" }
+}

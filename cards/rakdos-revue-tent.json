@@ -1,0 +1,21 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Rakdos Revue Tent",
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["B", "R"],
+  "type": "Land",
+  "types": ["Land"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Rakdos Revue Tent enters the battlefield tapped unless you have two or more other lands.\n{T}: Add {B} or {R}.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 1,
+  "flavorText": "Admission is free. Leaving costs everything you came in with.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C602"
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Permit Counter",
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["W", "U"],
+  "type": "Land",
+  "types": ["Land"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "{T}: Add {W} or {U}.\n{W}{U}, {T}: Tap target creature. It needs a permit first. (Form available at this window during posted hours, which are not now.)",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 2,
+  "flavorText": "\"Take a number.\" \"There's no one else here.\" \"Take a number.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B603"
+}

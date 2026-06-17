@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Tattooed Man of Statistics",
+  "manaCost": "{2}{B}{R}",
+  "manaValue": 4,
+  "colors": ["B", "R"],
+  "colorIdentity": ["B", "R"],
+  "type": "Acorn Creature — Human Performer Statistician",
+  "types": ["Creature"],
+  "supertypes": [],
+  "subtypes": ["Human", "Performer", "Statistician"],
+  "text": "When The Tattooed Man of Statistics enters the battlefield, the table tallies every die rolled and coin flipped so far this game (best guess; do not actually keep a log, just argue about it for ten seconds). You draw a card for every fifth roll or flip in that total, rounded however the loudest player insists.",
+  "power": "3",
+  "toughness": "4",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "Every tattoo is a probability he survived. He is running out of skin.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C308",
+  "extras": {
+    "fourthWall": "estimate the game's total rolls/flips by table argument"
+  }
+}

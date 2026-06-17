@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Make Him an Offer",
+  "manaCost": "{3}{B}",
+  "manaValue": 4,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Choose target opponent and lean in close. Make them an offer they can't refuse: you say, out loud, in your best gravelly voice, \"give me the [permanent], or [consequence].\" Sacrifice a Favor token. That player gives you control of target permanent they control.\nIf you didn't do the voice, the offer stands anyway, but everyone agrees you missed an opportunity.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "He made an offer. It was, technically, refusable. He had simply never met anyone who tried.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H301",
+  "extras": { "token": "Favor (IOU)", "physicalAction": "do the voice", "fourthWall": "say it out loud" }
+}

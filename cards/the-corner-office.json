@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Corner Office",
+  "manaCost": "{2}{W}",
+  "manaValue": 3,
+  "colors": ["W"],
+  "colorIdentity": ["W"],
+  "type": "Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "At the beginning of your upkeep, convene a meeting: each opponent may pay {1}. For each opponent who doesn't, you draw a card and they are \"noted as absent.\"\nCreatures you control with a desk (a Bureaucrat, Clerk, Auditor, Notary, or Inspector) get +0/+2.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 3,
+  "flavorText": "It has a window. The window faces a wall. The wall is also hers.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B313"
+}

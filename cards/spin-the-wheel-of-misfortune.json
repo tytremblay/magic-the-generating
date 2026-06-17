@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Spin the Wheel of Misfortune",
+  "manaCost": "{2}{R}",
+  "manaValue": 3,
+  "colors": ["R"],
+  "colorIdentity": ["B", "R"],
+  "type": "Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Roll a six-sided die.\n1 — Spin the Wheel of Misfortune deals 1 damage to you. Womp womp.\n2 or 3 — it deals 3 damage to any target.\n4 or 5 — it deals 5 damage divided as you choose among any number of targets.\n6 — JACKPOT. It deals 6 damage to any target and you create three Treasure tokens.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "The wheel clicks past JACKPOT, past JACKPOT, and lands square on BANKRUPT. Every time.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C202"
+}

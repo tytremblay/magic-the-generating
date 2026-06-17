@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Penny Arcade Token",
+  "manaCost": "{1}",
+  "manaValue": 1,
+  "colors": [],
+  "colorIdentity": ["B", "R"],
+  "type": "Artifact",
+  "types": ["Artifact"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "{T}, Sacrifice Penny Arcade Token: Add {B} or {R}.\n{1}, {T}: Flip a coin. If you win the flip, draw a card. If you lose the flip, it was only a penny.",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 1,
+  "flavorText": "Not legal tender anywhere. Accepted everywhere on the midway.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C108"
+}

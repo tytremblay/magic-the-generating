@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Numbers Game",
+  "manaCost": "{2}{B}",
+  "manaValue": 3,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "When The Numbers Game enters the battlefield, each player rolls a six-sided die. Each opponent who rolled lower than you owes you a Favor (you create that many Favor tokens). The numbers always come up for the house.\nWhenever a player rolls a 1 on a die, you create a Favor token and they get nothing. Snake eyes belong to the syndicate.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 3,
+  "flavorText": "It's called the numbers game because the numbers are the game, and the game is rigged, and the rig is the point.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H315",
+  "extras": { "token": "Favor (IOU)", "interaction": "dice", "dice": "d6" }
+}

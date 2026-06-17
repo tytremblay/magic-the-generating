@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Honk If You Agree",
+  "manaCost": "{1}{G}",
+  "manaValue": 2,
+  "colors": ["G"],
+  "colorIdentity": ["G", "W"],
+  "type": "Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Creatures you control get +1/+1 until end of turn. Then, any player at the table may honk (make a car-horn noise out loud). For each player who honks, you gain 1 life.",
+  "power": "",
+  "toughness": "",
+  "keywords": [],
+  "rarity": "common",
+  "flavorText": "The intersection has not been quiet since Tuesday. The recall thanks you for your support and your eardrums.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 1,
+  "number": "D112",
+  "extras": {
+    "physicalAction": "players honk out loud"
+  }
+}

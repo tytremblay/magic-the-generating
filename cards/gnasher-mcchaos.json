@@ -10,7 +10,7 @@
   "types": ["Creature"],
   "supertypes": ["Legendary"],
   "subtypes": ["Goblin", "Mayor"],
-  "text": "When Gnasher McChaos enters the battlefield, each player rolls a six-sided die. The lowest roller is your Campaign Volunteer until your next turn and really ought to top off your drink.\nWhenever you roll one or more dice, Gnasher McChaos gets +1/+0 until end of turn, then flip a coin. If you win the flip, roll one of those dice again.\n{1}{R}, Roll a six-sided die: 1 — sacrifice Gnasher, it's been a long term. 2, 3, 4, or 5 — Gnasher McChaos deals that much damage to any target. 6 — take an extra turn after this one and say \"re-elected!\" out loud.",
+  "text": "When Gnasher McChaos enters, each player rolls a six-sided die; the lowest roller is your Campaign Volunteer until your next turn and really ought to top off your drink.\nWhenever you roll one or more dice, Gnasher gets +1/+0 until end of turn. Once each turn, you may then flip a coin; if you win, reroll one of those dice.\n{1}{R}, Roll a six-sided die. This ability costs {2} more for each term counter on Gnasher. 1 — sacrifice him, it's been a long term. 2–5 — Gnasher deals that much damage to any target. 6 — take an extra turn, put a term counter on Gnasher, and say \"re-elected!\"",
   "power": "4",
   "toughness": "4",
   "keywords": [],

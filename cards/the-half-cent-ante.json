@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Half-Cent Ante",
+  "manaCost": "{½}{B}",
+  "manaValue": 2,
+  "colors": ["B"],
+  "colorIdentity": ["B", "R"],
+  "type": "Acorn Enchantment — Wager",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": ["Wager"],
+  "text": "Ante up. At the beginning of each player's upkeep, that player antes: they put the top card of their library into an Ante pile in the center of the table, face down. Nobody is allowed to look at it. Everyone agrees it exists.\nWhenever a player rolls doubles (two dice, same number) at the table, that player wins the Ante pile and puts all those cards into their graveyard. You win ties because you printed the cards.\n{½}, Sacrifice The Half-Cent Ante: You win the Ante pile, even out of turn. Even out of spite.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 4,
+  "flavorText": "Half a cent a hand. The half-cents add up. The hands never stop.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C401",
+  "extras": {
+    "halfMana": "{½} in cost and ability",
+    "ante": "real ante-pile mechanic in the table center",
+    "dice": "doubles win the pot"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Permit Office, Window 3",
+  "manaCost": "{3}{W}{U}",
+  "manaValue": 5,
+  "colors": ["W", "U"],
+  "colorIdentity": ["W", "U"],
+  "type": "Artifact",
+  "types": ["Artifact"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Before any opponent rolls a die or flips a coin, they must first take a number and pay {1} for a permit. If they don't pay, the roll or flip doesn't happen and you may say \"Window's closed\" out loud.\n{2}, {T}: You issue yourself a permit. Roll a six-sided die. You may keep that result on file and apply it to your next die roll this game, ignoring whatever you actually roll then.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "Window 1 and Window 2 have been \"temporarily closed\" since the previous administration.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B301",
+  "extras": { "parasitic": "taxes/blocks opponents' dice and coins", "physicalAction": "say a phrase out loud" }
+}

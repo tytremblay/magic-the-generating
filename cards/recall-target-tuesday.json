@@ -1,0 +1,30 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Recall Target Tuesday (the rival took our Tuesday and we want it back)",
+  "manaCost": "{½}{∞}, and a covered dish",
+  "manaValue": "yes",
+  "colors": [],
+  "colorIdentity": [],
+  "type": "Instant — Calendar Recall",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": ["Calendar"],
+  "text": "Somewhere at this table, a rival exiled a Tuesday. Recall it. Hold a special election to reinstate Tuesday to its former office in the week.\nEvery day votes. Monday abstains, as is its custom. Wednesday filibusters. The Tuesday is reinstated, slightly haunted, and now owes the movement a favor.\nDraw a conclusion, then draw a card, then draw the card's art from memory and feel watched.",
+  "power": "",
+  "toughness": "",
+  "keywords": [],
+  "rarity": "weekly",
+  "flavorText": "You cannot have a recall without something to recall. The rival deck obligingly removed a day. We organized.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 5,
+  "number": "D502",
+  "extras": {
+    "surreal": "reinstate an exiled Tuesday",
+    "interaction": "directly answers the rival's Exile Target Tuesday",
+    "halfMana": "{½}",
+    "infinity": "{∞}"
+  }
+}

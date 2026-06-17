@@ -1,0 +1,20 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Underworld Counting House",
+  "type": "Acorn Land",
+  "types": ["Land"],
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["B"],
+  "text": "When Underworld Counting House enters the battlefield, you create a Favor token, then you lose 1 life. Setup costs.\n{T}: Add {B}.\n{4}, {T}: Draw a card, then you lose 1 life. The lamp burns all night. The numbers never sleep. Neither do the goblins who guard them.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "Beneath the town, beneath the sewers, beneath even that, a goblin licks his thumb and turns a page.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H605",
+  "extras": { "token": "Favor (IOU)" }
+}

@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Mandatory Public Comment Period",
+  "manaCost": "{3}{W}{U}",
+  "manaValue": 5,
+  "colors": ["W", "U"],
+  "colorIdentity": ["W", "U"],
+  "type": "Sorcery — Procedure",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": ["Procedure"],
+  "text": "The table now enters a public comment period. Going clockwise from you, each player may speak for as long as they keep talking without pausing. For each full sentence a player says, that player must either let you draw a card or lose 1 life — their choice.\nWhen everyone has run out of things to say (or the room goes silent for three seconds), the comment period closes. You take an extra turn after this one. Comment noted.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 4,
+  "flavorText": "\"Any further comments? No? The motion to do absolutely nothing carries.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B403",
+  "extras": { "tableState": "players talk; silence ends it", "timingGag": "for as long as you keep talking" }
+}

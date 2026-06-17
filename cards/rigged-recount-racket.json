@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Rigged Recount Racket",
+  "manaCost": "{1}{B}{B}",
+  "manaValue": 3,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Enchantment",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Whenever a player votes or a vote is held, you may sacrifice a Favor token. If you do, you cast that player's vote however you like, then quietly ask for a recount. The recount agrees with you.\nThe ballots all came back marked in the same goblin handwriting. Nobody mentioned it.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 2,
+  "flavorText": "Democracy is too important to leave to the voters.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H202",
+  "extras": { "token": "Favor (IOU)", "interaction": "votes/recounts" }
+}

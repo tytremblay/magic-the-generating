@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Rigged Claw Machine",
+  "manaCost": "{2}{B}",
+  "manaValue": 3,
+  "colors": ["B"],
+  "colorIdentity": ["B", "R"],
+  "type": "Acorn Artifact",
+  "types": ["Artifact"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "{2}, {T}: Choose a creature card in any graveyard. Roll a six-sided die. On a 5 or 6, the claw actually grips — return that card to the battlefield under your control. On a 1 through 4, the claw goes limp at the last second, as designed, and you create a Treasure as a consolation token.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "The claw's grip strength is calibrated by an accountant, not an engineer.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C311"
+}

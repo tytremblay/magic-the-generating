@@ -1,0 +1,20 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Pawn Shop That's a Front",
+  "type": "Acorn Land",
+  "types": ["Land"],
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["B"],
+  "text": "{T}: Add {B}.\n{T}, Sacrifice a Favor token: Add {B}{B}. The favor is fungible. Everything in here is fungible. None of it is for sale.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "The window display hasn't changed in eleven years. The accordion is not for sale. Nothing is.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H603",
+  "extras": { "token": "Favor (IOU)" }
+}

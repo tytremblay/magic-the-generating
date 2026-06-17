@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Feed the Thing",
+  "manaCost": "{1}{G}",
+  "manaValue": 2,
+  "colors": ["G"],
+  "colorIdentity": ["G"],
+  "type": "Acorn Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Choose one —\n• Roll a six-sided die. Put that many sludge counters distributed as you choose among creatures you control.\n• Put three sludge counters on target creature you control.\n(You are not supposed to feed it. You feed it anyway.)",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "The sign by the water says DO NOT FEED. Somebody crossed it out and wrote MORE.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G206",
+  "extras": { "dice": "d6", "newMechanic": "sludge counters" }
+}

@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Bullhorn of the People",
+  "manaCost": "{2}",
+  "manaValue": 2,
+  "colors": [],
+  "colorIdentity": ["G", "W"],
+  "type": "Artifact — Equipment",
+  "types": ["Artifact"],
+  "supertypes": [],
+  "subtypes": ["Equipment"],
+  "text": "Whenever the table votes, the equipped creature votes an additional time.\nEquipped creature gets +2/+0.\nEquip {2}",
+  "power": "",
+  "toughness": "",
+  "keywords": ["Equip"],
+  "rarity": "uncommon",
+  "flavorText": "WHAT DO WE WANT? (feedback squeal) WHEN DO WE WANT IT? (more squeal) The message is unclear but extremely loud.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 2,
+  "number": "D203",
+  "extras": {
+    "voting": "extra vote"
+  }
+}

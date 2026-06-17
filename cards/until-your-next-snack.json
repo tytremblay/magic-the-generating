@@ -1,0 +1,28 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Effective Until Your Next Snack",
+  "manaCost": "{1}{G}{W}",
+  "manaValue": 3,
+  "colors": ["G", "W"],
+  "colorIdentity": ["G", "W"],
+  "type": "Instant — Ordinance",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": ["Ordinance"],
+  "text": "Gain control of target creature the frontrunner controls until you next eat a snack. The moment you eat any snack — bite, lick, or principled nibble — control reverts and you create a 1/1 green and white Voter creature token, satisfied and slightly crumby.\nIf you never snack again, you have bigger problems than this card, and you keep the creature, and the frog is concerned for you.",
+  "power": "",
+  "toughness": "",
+  "keywords": [],
+  "rarity": "rare",
+  "flavorText": "Every ordinance in this town has a snack-based sunset clause. It's the only thing everyone agrees on.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 4,
+  "number": "D409",
+  "extras": {
+    "timingGag": "until you next eat a snack",
+    "frontrunnerPunish": "steals from the leader"
+  }
+}

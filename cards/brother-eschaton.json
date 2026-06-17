@@ -1,0 +1,29 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Brother Eschaton, Candidate for the End of Days",
+  "manaCost": "{2}{W}{B}",
+  "manaValue": 4,
+  "colors": ["W", "B"],
+  "colorIdentity": ["W", "B"],
+  "type": "Legendary Acorn Creature — Human Prophet Candidate",
+  "types": ["Creature"],
+  "supertypes": ["Legendary"],
+  "subtypes": ["Human", "Prophet", "Candidate"],
+  "text": "When Brother Eschaton enters the battlefield, he becomes the Doomsday Clock: put four doom counters on him. (If a Doomsday Clock already exists, move all its doom counters here instead and apologize for the merger.)\nThe Doomsday Clock — Once each turn, the first time a player rolls one or more dice or flips one or more coins, put a doom counter on Brother Eschaton. Whenever a Prophecy fails anywhere — his own included — put a doom counter on him.\nProphecy (As this resolves, predict heads or tails out loud and flip a coin.) At the beginning of your upkeep, Brother Eschaton makes a Prophecy. If you predicted correctly, draw a card and remove a doom counter from him. If you didn't, his clock ticks toward midnight (see above).\nWhen Brother Eschaton has twelve or more doom counters on him, it is midnight: each opponent loses life equal to the number of doom counters on him, you gain that much life, then remove all doom counters and say \"told you so\" out loud.",
+  "power": "3",
+  "toughness": "5",
+  "keywords": [],
+  "rarity": "mythic",
+  "chaos": 3,
+  "flavorText": "His campaign slogan was \"Vote Now, There Won't Be a Next Time.\" Turnout was, somehow, enormous.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "⏳100",
+  "extras": {
+    "newMechanic": "Prophecy + the Doomsday Clock",
+    "doomsdayClock": "hosts the shared doom counter; ticks up once per turn on table gambling and on failed prophecies; midnight at 12",
+    "interaction": "the whole Prophecy ecosystem already feeds the clock he hosts"
+  }
+}

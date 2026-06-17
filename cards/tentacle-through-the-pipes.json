@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Tentacle Through the Pipes",
+  "manaCost": "{2}{G}",
+  "manaValue": 3,
+  "colors": ["G"],
+  "colorIdentity": ["G"],
+  "type": "Acorn Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Target creature you control with a sludge counter on it gains reach and \"This creature can block any number of creatures\" until end of turn. Then it fights up to three target creatures you don't control. It reaches them through the plumbing. There is no plumbing it cannot reach.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "It came up through the kitchen drain. Then the bathroom drain. Then, somehow, the ceiling.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G311"
+}

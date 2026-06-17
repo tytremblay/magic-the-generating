@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Landslide of the People",
+  "manaCost": "{4}{G}{W}",
+  "manaValue": 6,
+  "colors": ["G", "W"],
+  "colorIdentity": ["G", "W"],
+  "type": "Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Creatures you control get +2/+2 and gain trample until end of turn. They must attack this turn if able, and must attack the player who controls the most permanents if able.\nThis is the part where the grassroots movement becomes an actual landslide. Bring boots.",
+  "power": "",
+  "toughness": "",
+  "keywords": [],
+  "rarity": "rare",
+  "flavorText": "The rival's deck has a \"Landslide Victory.\" Ours has a landslide. The difference is who's standing at the bottom of the hill.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 3,
+  "number": "D306",
+  "extras": {
+    "frontrunnerPunish": "alpha strike forced at the leader"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Roll Call of the Block",
+  "manaCost": "{2}{G}",
+  "manaValue": 3,
+  "colors": ["G"],
+  "colorIdentity": ["G", "W"],
+  "type": "Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Roll a six-sided die. (Yes, your rival mayor rolls these constantly. Two can play.) Create that many 1/1 green and white Voter creature tokens. If you control Petunia Pitchfork, roll two dice and use the higher result.",
+  "power": "",
+  "toughness": "",
+  "keywords": [],
+  "rarity": "rare",
+  "flavorText": "\"Present!\" \"Present!\" \"...present?\" \"Dale, you said present twice.\" \"I contain multitudes.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 3,
+  "number": "D307",
+  "extras": {
+    "dice": "d6, take higher with commander"
+  }
+}

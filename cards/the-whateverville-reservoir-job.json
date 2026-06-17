@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Whateverville Reservoir Job",
+  "manaCost": "{3}{B}",
+  "manaValue": 4,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Each opponent sacrifices a creature. For each creature sacrificed this way, you create a Treasure and a Favor token. They went down to the reservoir. They did not all come back up.\nWhatever's living in that reservoir owes the Don too, by the way. He has a marker on it. He has a marker on everything.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "The dredging crew found three cars, a piano, and a number of goblins who'd missed payments.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H312",
+  "extras": { "token": "Favor (IOU), Treasure", "interaction": "the reservoir" }
+}

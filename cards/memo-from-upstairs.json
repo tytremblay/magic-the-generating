@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Memo from Upstairs",
+  "manaCost": "{1}{U}",
+  "manaValue": 2,
+  "colors": ["U"],
+  "colorIdentity": ["U"],
+  "type": "Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Draw two cards. Per the attached memo, you must then forward one of them to a colleague (put a card from your hand on top of your library).",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 2,
+  "flavorText": "\"Re: Re: Re: FWD: Re: Per my last memo.\" Nobody knows who started the thread.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B214"
+}

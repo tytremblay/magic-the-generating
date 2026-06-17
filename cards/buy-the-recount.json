@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Buy the Recount",
+  "manaCost": "{1}{B}",
+  "manaValue": 2,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Demand a recount of the last vote, coin flip, or die roll this turn — yes, you can recount a coin flip, this is Whateverville. Sacrifice a Favor token. You may set that result to whatever you wanted it to be.\nIf there has been no vote, flip, or roll this turn, recount the votes from an election that happened years ago. The Don wins that one too, retroactively.",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 3,
+  "flavorText": "\"Count them again.\" \"We did, boss, three times.\" \"Count them until they're right.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H307",
+  "extras": { "token": "Favor (IOU)", "interaction": "recounts, votes, coins, dice" }
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Spillway Overlook",
+  "type": "Acorn Land",
+  "types": ["Land"],
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["R", "G"],
+  "text": "Spillway Overlook enters the battlefield tapped.\nWhen Spillway Overlook enters the battlefield, scry 1, then roll a six-sided die. On a 6, put a sludge counter on a creature you control — something rose to the surface while you were looking away.\n{T}: Add {R} or {G}.",
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "Best view in town. Worst thing to view.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G605",
+  "extras": { "dice": "d6" }
+}

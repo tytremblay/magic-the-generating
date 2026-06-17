@@ -1,0 +1,28 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Half a Signature",
+  "manaCost": "{½}{G}",
+  "manaValue": 2,
+  "colors": ["G"],
+  "colorIdentity": ["G", "W"],
+  "type": "Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Create one and a half 1/1 green and white Voter creature tokens. The half Voter has power and toughness 1/1 on the front and 0/0 on the back; flip the token over whenever someone at the table sighs. It counts as half a vote, which the rival mayor's recount clerk will absolutely contest.",
+  "power": "",
+  "toughness": "",
+  "keywords": [],
+  "rarity": "rare",
+  "flavorText": "Bartholomew started signing, got distracted by the casserole, and never finished. He is one of our most reliable volunteers.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 4,
+  "number": "D402",
+  "extras": {
+    "halfMana": "{½}",
+    "halfThings": "half a token, half a vote"
+  }
+}

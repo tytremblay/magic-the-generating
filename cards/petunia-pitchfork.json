@@ -1,0 +1,28 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Petunia Pitchfork, Recall Organizer",
+  "manaCost": "{2}{G}{W}",
+  "manaValue": 4,
+  "colors": ["G", "W"],
+  "colorIdentity": ["G", "W"],
+  "type": "Legendary Acorn Creature — Human Organizer",
+  "types": ["Creature"],
+  "supertypes": ["Legendary"],
+  "subtypes": ["Human", "Organizer"],
+  "text": "When Petunia Pitchfork enters the battlefield, hold a town hall: each player creates a 1/1 green and white Voter creature token. You create one extra, because you brought a clipboard.\nWhenever you cast a spell or one or more Voters enter under your control, put a signature counter on Petunia Pitchfork.\nGrassroots — Whenever the table votes, you may have each Voter you control cast an extra vote. (Yes, that's legal here. Petunia checked.)\n{2}{G}{W}, Remove three signature counters from among permanents you control: Recall the incumbent. Each opponent who controls more permanents than you sacrifices a permanent of your choice. It's not personal. It's democracy.",
+  "power": "2",
+  "toughness": "4",
+  "keywords": ["Grassroots"],
+  "rarity": "mythic",
+  "chaos": 3,
+  "flavorText": "\"We're not a mob. We're an organized mob. There's a sign-up sheet.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "📣100",
+  "extras": {
+    "voting": "Voters cast extra votes",
+    "frontrunnerPunish": "recall whoever has the most permanents"
+  }
+}

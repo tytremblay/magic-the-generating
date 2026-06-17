@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Thing Eats the Ballot Box",
+  "manaCost": "{2}{R}{G}",
+  "manaValue": 4,
+  "colors": ["R", "G"],
+  "colorIdentity": ["R", "G"],
+  "type": "Acorn Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Hold an emergency election: each player votes for a creature. The creature with the most votes is devoured — its owner sacrifices it, and you put a sludge counter on a creature you control for each vote cast in this election. If the vote ties, the thing eats both and you put twice as many counters. Democracy is delicious.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "Turnout was the highest in town history. It had to be. Skipping the vote was also a way to get eaten.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G309",
+  "extras": { "votes": "in-game election", "newMechanic": "Feed from votes" }
+}

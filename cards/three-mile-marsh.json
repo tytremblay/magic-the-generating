@@ -1,0 +1,18 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Three-Mile Marsh",
+  "type": "Acorn Land",
+  "types": ["Land"],
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["R", "G"],
+  "text": "{T}: Add {R} or {G}.\n{T}: Add one mana of any color. Spend this mana only to cast a Mutant, Sludge, or Horror spell.\nThe marsh used to be a parking lot, a strip mall, and a parking lot again. Now it's just marsh, and it's spreading.",
+  "rarity": "rare",
+  "chaos": 2,
+  "flavorText": "Real estate listings now describe it as 'reclaimed wetland habitat,' which is technically the kindest possible spin.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "G606"
+}

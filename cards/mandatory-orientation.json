@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Mandatory Orientation Seminar",
+  "manaCost": "{3}{W}",
+  "manaValue": 4,
+  "colors": ["W"],
+  "colorIdentity": ["W"],
+  "type": "Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "All creatures must attend the seminar. Tap all creatures and put a stun counter on each creature you don't control. (Attendance is mandatory. There will be a sign-in sheet. There will be a sign-out sheet. They will not match.)",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 3,
+  "flavorText": "Hour one: housekeeping. Hour two: housekeeping, continued. Hour three: a video from 1987.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B303"
+}

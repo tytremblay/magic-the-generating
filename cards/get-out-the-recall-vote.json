@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Get Out the Recall Vote",
+  "manaCost": "{2}{G}{W}",
+  "manaValue": 4,
+  "colors": ["G", "W"],
+  "colorIdentity": ["G", "W"],
+  "type": "Sorcery",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Create three 1/1 green and white Voter creature tokens.\nReferendum — If an opponent controls more creatures than you, instead create five 1/1 green and white Voter creature tokens. (Turnout surges when folks are mad at the frontrunner.)",
+  "power": "",
+  "toughness": "",
+  "keywords": ["Referendum"],
+  "rarity": "uncommon",
+  "flavorText": "The rival mayor's Voters are red and rowdy. Ours bring orange slices.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 2,
+  "number": "D212",
+  "extras": {
+    "frontrunnerPunish": "scales up against the leader"
+  }
+}

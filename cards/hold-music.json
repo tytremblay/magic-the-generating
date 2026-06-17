@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Indefinite Hold Music",
+  "manaCost": "{1}{U}",
+  "manaValue": 2,
+  "colors": ["U"],
+  "colorIdentity": ["U"],
+  "type": "Enchantment — Aura",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": ["Aura"],
+  "text": "Enchant creature\nEnchanted creature doesn't untap during its controller's untap step. (Your call is very important to us.)",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 1,
+  "flavorText": "The same eight bars of saxophone, forever, until you forget what you wanted.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B108"
+}

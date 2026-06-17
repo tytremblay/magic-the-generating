@@ -1,0 +1,28 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "the wheel keeps spinning and you are on it now",
+  "manaCost": "{∞}, then a coin you'll never get back",
+  "manaValue": "yes",
+  "colors": [],
+  "colorIdentity": ["B", "R"],
+  "type": "Acorn Enchantment — Forever",
+  "types": ["Enchantment"],
+  "supertypes": [],
+  "subtypes": ["Forever"],
+  "text": "you cannot stop spinning the wheel. roll a die. roll it again. there is no end to this step. repeat this step.\nthe wheel does not have numbers anymore. it has your name in every slot. it lands on you. it lands on you. it lands on you.\nwinner takes all. there is no winner. there is only all.\nthe snack is gone. it was always gone. you ate it in a dream and the dream charged you for it.",
+  "power": "spinning",
+  "toughness": "still spinning",
+  "keywords": [],
+  "rarity": "jackpot",
+  "chaos": 5,
+  "flavorText": "the carny stopped barking hours ago but you can still hear it",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C501",
+  "extras": {
+    "impossibleMath": "runaway loop with no end",
+    "surreal": "the wheel has your name in every slot"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Snack Cart Shakedown",
+  "manaCost": "{B}",
+  "manaValue": 1,
+  "colors": ["B"],
+  "colorIdentity": ["B"],
+  "type": "Acorn Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Take the table snack. The player who had it gains 2 life as an apology, and you create a Favor token. Real friendly. Real one-sided.\nIf an opponent already owes you a Favor, also draw a card.",
+  "keywords": [],
+  "rarity": "common",
+  "chaos": 2,
+  "flavorText": "\"That's a nice pretzel cart. Whateverville's got a lot of weather. Be a shame if it rained on a cart.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "H216",
+  "extras": { "token": "Favor (IOU)", "tableState": "the table snack" }
+}

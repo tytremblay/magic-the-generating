@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Form ½-B (Partial Filing)",
+  "manaCost": "{½}{W}",
+  "manaValue": 1,
+  "colors": ["W"],
+  "colorIdentity": ["W"],
+  "type": "Instant — Form",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": ["Form"],
+  "text": "Choose target spell, die roll, or coin flip. It is now only half-processed. Round its effect down to half, then argue with the table about which half.\nIf you cannot make change for {½}, the spell remains pending until someone at the table produces an actual coin.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 4,
+  "flavorText": "Box 4 was left blank. Everything that follows from Box 4 is therefore also blank.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B401",
+  "extras": { "halfMana": true, "tableState": "argue about which half", "physicalAction": "produce a real coin" }
+}

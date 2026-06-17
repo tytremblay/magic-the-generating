@@ -1,0 +1,27 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "We Demand a Recount",
+  "manaCost": "{1}{W}",
+  "manaValue": 2,
+  "colors": ["W"],
+  "colorIdentity": ["G", "W"],
+  "type": "Instant",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "If the table is currently voting, recount the votes: each player counts their votes again, out loud, slowly. You may have one Voter you control vote twice during this recount.\nOtherwise, draw a card and create a 1/1 green and white Voter creature token. (You demanded a recount of nothing. Procedure was followed.)",
+  "power": "",
+  "toughness": "",
+  "keywords": [],
+  "rarity": "uncommon",
+  "flavorText": "\"That can't be right.\" \"It's the same number.\" \"Count it AGAIN.\"",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "chaos": 2,
+  "number": "D208",
+  "extras": {
+    "voting": "recount, one Voter votes twice"
+  }
+}

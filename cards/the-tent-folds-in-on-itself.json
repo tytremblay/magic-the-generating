@@ -1,0 +1,25 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "The Tent Folds In on Itself",
+  "manaCost": "{4}{B}{R}",
+  "manaValue": 6,
+  "colors": ["B", "R"],
+  "colorIdentity": ["B", "R"],
+  "type": "Acorn Sorcery — Board Wipe",
+  "types": ["Sorcery"],
+  "supertypes": [],
+  "subtypes": ["Board Wipe"],
+  "text": "The big top collapses. Each player rolls a six-sided die for each creature they control. Each creature whose controller rolled a 3 or less is buried in canvas and destroyed. Creatures that survive 'help fold the tent' and get a -1/-1 counter from the heavy lifting. You then create a Treasure for each creature destroyed this way, scavenged from the wreckage. The carnival is, naturally, fully insured.",
+  "keywords": [],
+  "rarity": "rare",
+  "chaos": 4,
+  "flavorText": "It went up in four hours. It came down in four seconds and one lawsuit.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C409",
+  "extras": {
+    "dice": "roll-per-creature board wipe"
+  }
+}

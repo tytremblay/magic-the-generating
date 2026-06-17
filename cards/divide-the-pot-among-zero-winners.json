@@ -1,0 +1,26 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Divide the Pot Among Zero Winners",
+  "manaCost": "{0}{0}",
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": ["B", "R"],
+  "type": "Acorn Instant — Forbidden Arithmetic",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": ["Forbidden Arithmetic"],
+  "text": "Total up every Treasure, every coin, every snack, and every die on the table. This is the Pot.\nNow divide the Pot among the winners. There are zero winners. Division by zero is undefined, so the Pot is now simultaneously infinite and gone. Each player gains ∞ Treasures and loses ∞ Treasures and is exactly where they started, except worse, somehow.\nthe pot is left as an exercise for the reader. you are the reader. good luck.",
+  "keywords": [],
+  "rarity": "undefined",
+  "chaos": 5,
+  "flavorText": "the accountant from Whateverville reappeared just long enough to faint",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C504",
+  "extras": {
+    "impossibleMath": "divide the pot by zero winners",
+    "selfAware": "left as an exercise for the reader"
+  }
+}

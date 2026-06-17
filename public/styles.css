@@ -408,3 +408,40 @@ body {
   border-radius: 999px;
   padding: 2px 8px;
 }
+
+/* ---- Card zoom overlay ---- */
+.card.clickable { cursor: zoom-in; }
+
+.card-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(8, 9, 12, 0.82);
+  backdrop-filter: blur(4px);
+  cursor: zoom-out;
+}
+.card-overlay[hidden] { display: none; }
+
+/* The scaled card itself shouldn't read as "click to close". */
+.card-zoom {
+  cursor: default;
+  transform: scale(1);
+  transform-origin: center center;
+  transition: transform 0.12s ease-out;
+  filter: drop-shadow(0 18px 50px rgba(0, 0, 0, 0.6));
+}
+
+/* Lock background scroll while zoomed. */
+body.overlay-open { overflow: hidden; }
+
+/* Deck "sell" blurb under the theme line. */
+.deck-description {
+  margin: 8px 0 4px;
+  color: #aab0bb;
+  font-size: 13.5px;
+  line-height: 1.55;
+  max-width: 80ch;
+}

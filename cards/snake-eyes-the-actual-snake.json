@@ -1,0 +1,28 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Snake Eyes, the Actual Snake With Dice for Eyes",
+  "manaCost": "{🎲}{🎲}",
+  "manaValue": "2 (ish)",
+  "colors": [],
+  "colorIdentity": ["B", "R"],
+  "type": "Acorn Creature — Snake Omen",
+  "types": ["Creature"],
+  "supertypes": ["Legendary"],
+  "subtypes": ["Snake", "Omen"],
+  "text": "Snake Eyes' power is the left eye. Snake Eyes' toughness is the right eye. To see its stats you must look it in the eyes and it does not like that.\nwhenever it blinks (a player at the table blinks; someone always blinks), reroll both eyes. it is watching the dice. it is the dice. it has always been the dice.\nif both eyes show 1, that is snake eyes, and you lose. it knows. it has been waiting.",
+  "power": "left eye",
+  "toughness": "right eye",
+  "keywords": [],
+  "rarity": "ssssss",
+  "chaos": 5,
+  "flavorText": "do not roll snake eyes near Snake Eyes. it takes it personally.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "C502",
+  "extras": {
+    "surreal": "stats are its dice eyes; rerolled whenever anyone blinks",
+    "dice": "the creature is the dice"
+  }
+}

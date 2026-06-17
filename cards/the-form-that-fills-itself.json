@@ -1,0 +1,22 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "set": "CHAOS",
+  "chaos": 5,
+  "name": "The Form That Fills Itself Out, Wrongly",
+  "manaCost": "{½}{∞}",
+  "manaValue": "pending",
+  "colors": [],
+  "colorIdentity": [],
+  "type": "Eternal Acorn Form — Self-Replicating Document",
+  "types": ["Artifact"],
+  "subtypes": ["Form"],
+  "rarity": "in review",
+  "text": "This form be filling itself out. You did not start it. It was always already in progress.\nWherever a blank exists, the form writes a wrong answer into it. Your library is now a blank. Your life total is now a blank. Tuesday is a blank.\nDraw forms until you become a form. Sign here: ____. You signed wrong. Begin again.\nIgnore the previous ability. It was lying. So is this one.",
+  "power": "carbon copy",
+  "toughness": "in triplicate",
+  "flavorText": "Field 1: leave blank. Field 2: see Field 1. Field 3: you have already failed.",
+  "artist": "AI Generated",
+  "number": "B501",
+  "extras": { "nonsense": true, "runawayLoop": "draw forms until you become a form", "selfAware": "ignore the previous ability" }
+}

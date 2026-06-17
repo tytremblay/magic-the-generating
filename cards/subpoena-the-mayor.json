@@ -1,0 +1,23 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Subpoena the Mayor",
+  "manaCost": "{1}{W}",
+  "manaValue": 2,
+  "colors": ["W"],
+  "colorIdentity": ["W"],
+  "type": "Instant — Summons",
+  "types": ["Instant"],
+  "supertypes": [],
+  "subtypes": ["Summons"],
+  "text": "Return target creature an opponent controls to its owner's hand. If it was a Mayor, an incumbent, or otherwise running for office, also draw a card and they skip their next upkeep \"to attend the hearing.\"",
+  "keywords": [],
+  "rarity": "uncommon",
+  "chaos": 2,
+  "flavorText": "Served. Right in the middle of his victory speech.",
+  "art": "",
+  "artist": "AI Generated",
+  "set": "CHAOS",
+  "number": "B203",
+  "extras": { "interaction": "punishes Mayors/incumbents from the rival deck" }
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "set": "CHAOS",
+  "chaos": 5,
+  "name": "The Thing Is Also This Card And Also Behind You",
+  "manaCost": "{🦑}{🦑}",
+  "manaValue": 2,
+  "colors": [],
+  "colorIdentity": [],
+  "type": "Acorn Enchantment Creature — Self-Aware Sludge",
+  "types": ["Enchantment", "Creature"],
+  "subtypes": ["Sludge"],
+  "rarity": "mythic",
+  "text": "This card is the monster. The monster is this card. When you hold this card, you are holding the reservoir, and it is room temperature, and that is the wrong temperature for a reservoir, and you know it.\nFeed (whenever you read this card aloud, it grows. you just read it aloud. it grew. you are doing it again right now.)\nThis card knows you're reading it. It has known the whole time. It has been very patient. The patience is over.\nPower and toughness equal to the number of times the word 'the' appears on this card, which changes when you count, because you are also part of the card now.",
+  "power": "the",
+  "toughness": "the",
+  "flavorText": "It came out of the water. It is not going back. You opened the booster. This is on you.",
+  "artist": "AI Generated",
+  "number": "G504"
+}
