@@ -1,0 +1,19 @@
+{
+  "$schema": "../card.acorn.schema.json",
+  "border": "acorn",
+  "name": "Visit Whateverville",
+  "manaValue": 0,
+  "colors": [],
+  "colorIdentity": [],
+  "type": "Token — Whateverville",
+  "types": [],
+  "supertypes": [],
+  "subtypes": [],
+  "text": "Scan to browse every card in the set.",
+  "rarity": "token",
+  "flavorText": "The whole town fits in your pocket. The town council is not responsible for what you find there.",
+  "art": "art/visit-whateverville.png",
+  "artist": "Whateverville Tourism Board",
+  "set": "CHAOS",
+  "number": "QR"
+}
