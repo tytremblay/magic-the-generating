@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The triumphant moment a knot of cheerful townsfolk volunteers surge forward across a sunlit town green, the foremost thrusting a tray of orange slices toward the viewer in foreshortening, others hoisting blank lawn placards. Picket fences and casserole tables recede behind under warm golden light, leafy green dappling the grass, wholesome civic momentum building, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Get Out the Recall Vote",
   "manaCost": "{2}{G}{W}",
   "manaValue": 4,

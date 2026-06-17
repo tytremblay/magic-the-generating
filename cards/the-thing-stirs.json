@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A vast dark reservoir at dusk, its oily black surface breaking into slow concentric ripples as something colossal stirs unseen below; a single slick tendril of sludge curls above the waterline among rusted pilings and dead reeds, dread thick in the heavy air, a wide landscape composition emphasizing the depth beneath. Rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "The Thing Stirs",
   "manaCost": "{R}{G}",
   "manaValue": 2,

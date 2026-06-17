@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A goblin enchanted mid-filibuster, cheeks puffed and face flushing red, a glowing aura of ember-orange wash swelling around its straining body in the wide frame, sparks and confetti suspended in the held-breath stillness against night-black smoke. A bonfire flickers behind the feral square. A comic burst of doomed determination, rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Hold Your Breath for Democracy",
   "manaCost": "{R}",
   "manaValue": 1,

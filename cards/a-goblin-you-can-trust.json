@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A grinning goblin rogue in a too-large pinstripe coat, one clawed hand clapped warmly on an unseen shoulder, the other already slipping behind his back, beady eyes glinting with practiced sincerity. Cigar smoke curls through a single pool of amber lamplight that catches his teeth while the rain-slick back room dissolves into ink-black shadow. Rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "A Goblin You Can Trust",
   "manaCost": "{1}{B}",
   "manaValue": 2,

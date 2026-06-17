@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An uncanny self-aware sludge entity oozing directly out of the frame toward the viewer in extreme foreshortening, a glistening green tendril reaching past the picture plane, its eyeless face wet and room-temperature wrong. Rusted reservoir pipes and crumbling concrete dissolve behind under a bruised stormy sky, sickly bioluminescence pulsing through its translucent mass, intimate dread breaking the fourth wall, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "set": "CHAOS",
   "chaos": 5,
   "name": "The Thing Is Also This Card And Also Behind You",

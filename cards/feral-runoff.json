@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The violent surge of a tongue of glowing green sludge erupting from a rusted storm drain, lashing upward through the wide frame to strike at the viewer in a spray of toxic droplets and ember-red sparks. Crumbling concrete and litter ring the drain in the murk under a bruised sky. One sickly bioluminescent core lights the gushing runoff against deep shadow, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Feral Runoff",
   "manaCost": "{R}",
   "manaValue": 1,

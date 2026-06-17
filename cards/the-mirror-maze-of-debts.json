@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative scene inside a carnival mirror maze, a lone silhouette trapped at the center as dozens of warped reflections spiral away in vertiginous foreshortened corridors, each twin reaching back with grasping hands. Hot-gold and sickly-neon light fractures across the glass; smoky black seams divide the panes, scattered coins glint underfoot, claustrophobic and endless, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "The Mirror Maze of Debts",
   "manaCost": "{2}{B}{B}",
   "manaValue": 4,

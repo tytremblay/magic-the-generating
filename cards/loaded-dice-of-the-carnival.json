@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ornate hero shot of a pair of weighted carnival dice tumbling in extreme foreshortened close-up, blank pip-faces gleaming hot gold, an unnatural cyan-red shimmer warping inside them where the weight hides. Smoky black void cradles them while distant striped tents and neon glow blur behind; ember sparks orbit the dice mid-roll, sinister and gleaming, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Loaded Dice of the Carnival",
   "manaCost": "{2}",
   "manaValue": 2,

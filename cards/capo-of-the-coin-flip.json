@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A sly goblin rogue grinning upward, one hand flicking a spinning coin into the dim amber lamplight, a second coin palmed low in shadow at the bottom of the wide frame. Cigar smoke bleeds into ink-black behind, a worn card table edge dissolving into smoky brown. The whole pose a rigged certainty caught mid-toss. Intimate criminal menace, rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Capo of the Coin Flip",
   "manaCost": "{2}{B}",
   "manaValue": 3,

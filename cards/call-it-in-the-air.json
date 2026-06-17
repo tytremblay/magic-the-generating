@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A single coin spins glinting at the apex of its arc, frozen against a blood-dark apocalyptic sky, a vast looming clock tower behind it and ashen-robed congregants below stretching their candlelit hands upward in desperate hope. Cold gold halos catch the rim of the coin. Vertiginous low film-still angle following the toss into the heavens, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Call It in the Air",
   "manaCost": "{W}",
   "manaValue": 1,

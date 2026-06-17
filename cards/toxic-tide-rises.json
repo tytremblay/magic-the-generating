@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A dramatic moment as a swelling toxic tide engulfs a suburban shoreline, murky green water boiling with sickly bioluminescence as it swallows fences, lawns, and a half-submerged mailbox under a bruised stormy sky. Rusted pipes and crumbling concrete recede into churning haze. Sweeping wide film-still framing of inundation at epic scale, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "The Toxic Tide Rises",
   "manaCost": "{3}{R}",
   "manaValue": 4,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A dramatic moment as a searing bolt of flame-orange energy streaks across the feral town square and slams into a recoiling goblin, sparks and embers bursting from the impact in a shower against the night. Rioting silhouettes and overturned ballot boxes scatter in the firelight, torn blank bunting whipping overhead. Mono-red palette of flame orange, ember red, and black smoke, gleeful destructive mayhem, composed wide in a 4:3 landscape frame, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Attack Ad Blitz",
   "manaCost": "{1}{R}",
   "manaValue": 2,

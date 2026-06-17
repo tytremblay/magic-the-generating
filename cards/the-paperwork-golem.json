@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A towering humanoid golem assembled entirely from crumpled blank requisition slips, folded forms, and rubber stamps, its bulky body bound with twine and glowing faintly cyan at the seams, looming up through a beige corridor with shredded paper drifting around its feet. Load-bearing and absurd, it fills the wide frame from boots to crumpled paper head. Wide 4:3 landscape, cold municipal glow, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "The Paperwork Golem",
   "manaCost": "{4}{W}",
   "manaValue": 5,

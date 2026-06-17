@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative scene of sanctified loophole: a humble collection plate glows with a protective cold gold halo on an altar, blessed coins drifting up untaxed into the candlelit dark, ashen congregants bowing around it as a looming clock tower watches beyond. Ongoing arcane warmth radiates from the offering. Wide landscape, bone white and gold washes bleeding into blood-dark black. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Tax-Exempt Status",
   "manaCost": "{1}{W}",
   "manaValue": 2,

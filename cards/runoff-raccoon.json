@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A single oversized mutant raccoon caught mid-sprint atop a toppled garbage can in steep foreshortening, masked face snarling toward the viewer, paws flung wide, trash scattering in its wake. Rust-red and murky-green fur slick with reservoir runoff, crumbling pipes behind under a bruised stormy sky, sickly bioluminescent glint in its eyes, pure haste and motion, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Runoff Raccoon",
   "manaCost": "{R}",
   "manaValue": 1,

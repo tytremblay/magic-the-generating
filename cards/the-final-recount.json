@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A trembling hand re-flipping a tarnished gold coin under a candle's glow while ashen-robed onlookers lean in, the coin caught spinning in cold gold light, drifting ash and guttering flame, the clock tower edging toward midnight in blood-dark haze behind, the obsessive dread of an endless recount rendered with tender solemn stillness, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "The Final Recount",
   "manaCost": "{2}{W}{B}",
   "manaValue": 4,

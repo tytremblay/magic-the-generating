@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative enchantment scene of a battered revival snack cart bound shut with seven glowing wax seals stamped in cold gold, each radiating ominous light, parked in a smoky midnight square as ashen-robed figures circle it warily. The vast clock tower looms in the blood-dark sky. The sealed cart anchors the lower frame, sacred dread rising upward. Wide 4:3 landscape, bone white and deep black, solemn end-times mood, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Seven Seals of the Snack Cart",
   "manaCost": "{2}{B}",
   "manaValue": 3,

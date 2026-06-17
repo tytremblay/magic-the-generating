@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A determined human organizer woman portrait, sleeves rolled, gripping a wooden clipboard with one fist raised mid-rally, a pitchfork slung over her shoulder and petunias tucked in her collar, an out-of-focus crowd of townsfolk seething behind her in the gloom. One warm low sun catches her jaw and the curl of her hair, the rest dropping into brooding shadow. Rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Petunia Pitchfork, Recall Organizer",
   "manaCost": "{2}{G}{W}",
   "manaValue": 4,

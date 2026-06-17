@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The dramatic moment a magician's gloved hand fans a deck toward the viewer in steep foreshortening, one blank card already sliding free trailing hot-gold sparks, the trick inevitable. Behind, a tattered carnival tent and rigged wheel glow in smoky red and sickly neon, ember motes drifting, a single drop of blood-dark sacrifice at the trickster's cuff, seductive and rigged, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Pick a Card, Any Card",
   "manaCost": "{B}",
   "manaValue": 1,

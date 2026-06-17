@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A dramatic moment of a massive sludge-tentacle snaking out through burst plumbing, sickly green and dripping, splitting into reaching coils that lash through cracked rusted pipes toward three unseen foes, bioluminescent ooze spraying from every joint. There is no plumbing it cannot reach. The branching tentacle writhes up the wide landscape frame under a bruised stormy sky. Wide 4:3 landscape, Gruul murky green and rust red, toxic menace, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Tentacle Through the Pipes",
   "manaCost": "{2}{G}",
   "manaValue": 3,

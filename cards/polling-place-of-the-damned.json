@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A cursed polling station ablaze in the feral town square: a charred voting booth with a torn blank curtain spilling an overflowing ballot box, ghostly hands stuffing it again and again, dice and coins scattered on scorched ground. A single hellish bonfire light glares across the booth while the rioting night-black square seethes behind. No central figure. Rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Polling Place of the Damned",
   "type": "Acorn Land",
   "types": ["Land"],

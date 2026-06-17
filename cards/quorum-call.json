@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The conjuring moment: identical pale clerk figures in drab cardigans materialize one after another out of the gloom of a municipal meeting room, the nearest sharp in a single cold light, the rest receding into shadowed rows of folding chairs. Faint arcane glow pools around their feet as they manifest. The wide frame stacks the multiplying crowd upward, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Quorum Call",
   "manaCost": "{2}{W}",
   "manaValue": 3,

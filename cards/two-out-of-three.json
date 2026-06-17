@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "Two goblins squared off across a folding table in the firelit square, fists thrust forward mid-throw in furious rock-paper-scissors, mouths open in matching yells, onlookers blurring around them; bonfire glow washes flame-orange over their straining faces, sparks and confetti swirling through ember-red haze and night-black smoke, the showdown frozen in a dreamy, tender blur, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "Two Out of Three (Best Of)",
   "manaCost": "{X}{R}",
   "manaValue": "X+1",

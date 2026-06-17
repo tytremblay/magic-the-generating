@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A spectral inspection scene: a translucent hand fans out blank illegible cards floating above a beige desk, one card glowing cold cyan as it is plucked free, dust motes hanging in humming municipal light, towering cabinets receding into ivory haze, a faint arcane shimmer seeping from the paperwork, an unsettling stillness rendered tenderly, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "Internal Audit",
   "manaCost": "{2}{U}",
   "manaValue": 3,

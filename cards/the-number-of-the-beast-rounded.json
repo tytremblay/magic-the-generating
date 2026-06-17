@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A monstrous omen-beast looms upward out of the smoke, its many-horned silhouette swelling and shifting in scale as if it cannot decide how vast to be, three blazing gold eyes fixed on the viewer above a midnight revival crowd. A clock tower looms beyond. The gesture is hulking, uncertain menace. Wide landscape, bone white and cold gold washes bleeding into blood-dark black. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "The Number of the Beast, Rounded Emotionally",
   "manaCost": "{6}{B}",
   "manaValue": 7,

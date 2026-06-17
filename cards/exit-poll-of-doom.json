@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A dramatic election-night moment: a single oversized die hangs frozen in mid-air above a feral town square, ringed by goblins leaning in with held breath, flame-orange bonfire light flaring up the wide frame against night-black smoke. Confetti and sparks streak around the suspended cube. A doom-laden prediction caught the instant before the roll, rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Exit Poll of Doom",
   "manaCost": "{2}{R}",
   "manaValue": 3,

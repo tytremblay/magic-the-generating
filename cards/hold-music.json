@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A lone figure slumps in a beige waiting chair, an arcane cyan sound-wave halo of repeating saxophone notes coiling endlessly around their head like a glowing snare, their face slack and emptied of memory. Towering filing cabinets recede behind them into humming fluorescent haze. Intimate yet vast film-still composition with looming depth, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Indefinite Hold Music",
   "manaCost": "{1}{U}",
   "manaValue": 2,

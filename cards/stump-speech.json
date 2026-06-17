@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A dramatic moment as a red goblin orator bellows from atop an overturned ballot box in the feral town square, mouth wide and arms flung skyward, three eager goblin recruits springing up from the crowd around him in a burst of sparks and confetti. A bonfire roars behind, torn blank bunting whipping. Mono-red palette of flame orange, ember red, and black smoke, raucous demagogic energy, composed wide in a 4:3 landscape frame, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Stump Speech",
   "manaCost": "{3}{R}",
   "manaValue": 4,

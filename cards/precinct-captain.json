@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A capable middle-aged human organizer standing on a sunlit town green, clipboard tucked under one arm, gesturing warmly to gather her neighbors, golden afternoon light haloing her confident kind face, picket fences, folding snack tables and blank lawn placards hazing behind in leafy green and ivory, a crowd softly blurred around her, tender and steadfast, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "Precinct Captain",
   "manaCost": "{2}{W}",
   "manaValue": 3,

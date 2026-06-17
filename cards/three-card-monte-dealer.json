@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A quick-fingered croupier hunched over a folding card table, three blank-backed cards mid-shuffle blurring beneath his darting hands, a sly sidelong grin half-lit by sickly neon. Scattered coins and the loom of a striped tent fill the smoky black background. The wide frame angles down on the rigged game, one hot-gold firelight raking his hands, embers adrift, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Three-Card Monte Dealer",
   "manaCost": "{1}{B}{R}",
   "manaValue": 3,

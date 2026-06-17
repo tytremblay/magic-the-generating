@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A small creature half-swallowed into a towering wall of filing-cabinet drawers, one drawer sliding shut around it as it reaches a clawed hand toward the viewer, vanishing into the beige bureaucratic labyrinth. Endless drawers climb the wide frame into shadow above. A single cold light pins the disappearing figure, faint arcane glow leaking from the cracks, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Lost in the System",
   "manaCost": "{3}{U}",
   "manaValue": 4,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A hooded ashen-robed human cultist looming on a darkened porch, fist raised mid-knock in steep foreshortening toward the viewer's door, gold halo light flaring cold behind the deep cowl. Guttering candles line the path; the doomsday clock tower silhouettes against a blood-dark sky, smoke curling at his ankles. Menacing low-angle composition, sacred dread radiating, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Door-Knocking Cultist",
   "manaCost": "{2}{B}",
   "manaValue": 3,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A dramatic sorcery moment as decades of decay collapse all at once: the crumbling treatment plant buckles, rusted pipes bursting and spewing toxic green sludge in great arcs while bioluminescent runoff floods the cratered ground under a violently bruised stormy sky. The cascading failure climbs the wide landscape frame from flooded base to collapsing tanks above. Wide 4:3 landscape, Gruul murky green and rust red, sickly glow, toxic ecological menace, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "The Reservoir Bill Comes Due",
   "manaCost": "{4}{R}{G}",
   "manaValue": 6,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A stern human bureaucrat in a drab municipal suit looms behind an elevated zoning-board bench, one finger pressed to a cold cyan-lit map model of the town, his shadow falling across the petitioners below. Towering filing cabinets and blank pinned plans recede into fluorescent haze behind him. Imposing low film-still angle conveying petty almighty authority, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Zoning Board Chairman",
   "manaCost": "{2}{W}",
   "manaValue": 3,

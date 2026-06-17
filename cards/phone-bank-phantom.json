@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A translucent spirit volunteer drifts upward through the wide frame, headset ghosting at its ear, a coiled phone cord trailing into a wash that dissolves into golden light. Its lower body fades to vapor over a sketched folding table and clipboard, brush line confident at the face, bleeding to nothing below. A gentle, persistent haunting of civic duty, rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Phone Bank Phantom",
   "manaCost": "{2}{W}",
   "manaValue": 3,

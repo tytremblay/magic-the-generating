@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ornate hero shot of a battered ornamented roulette wheel glinting with chipped red and black paint, its hot-gold rim catching firelight as it spins to a blur, scattered coins and dice strewn on the felt below, tattered striped canvas and lurid bulbs hazing into smoky black behind, ember sparks drifting, the rigged wheel radiating tender doom, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "Lady Luckless's Personal Roulette Wheel",
   "manaCost": "{3}{R}",
   "manaValue": 4,

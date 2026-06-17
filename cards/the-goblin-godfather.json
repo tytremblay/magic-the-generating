@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A commanding portrait of an aged goblin boss in a velvet-collared coat seated in a high-backed chair, a small flowering sprig tucked in his lapel, one clawed hand resting on a cane while lesser goblins lean in deferentially from the shadows. A single amber lamp gilds his weathered, watchful face, cigar smoke drifting upward. Mono-black noir of ink shadow and smoky brown, dynastic criminal gravity, composed wide in a 4:3 landscape frame, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "The Goblin Godfather",
   "manaCost": "{4}{B}{B}",
   "manaValue": 6,

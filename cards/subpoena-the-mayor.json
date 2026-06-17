@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A blank folded summons strikes a portly mayor mid-gesture, his triumphant raised arm faltering as cold cyan light yanks him backward into a dissolving haze, his polished shoe lifting off a beige rotunda floor. Towering municipal pillars and filing stacks loom in deep perspective behind. Dramatic film-still moment of public humiliation at epic scale, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Subpoena the Mayor",
   "manaCost": "{1}{W}",
   "manaValue": 2,

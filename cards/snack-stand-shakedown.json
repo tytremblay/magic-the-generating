@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The violent instant a carnival snack-stand vendor lunges across his greasy counter, fist swinging, as a paper tray of food scatters into the air in a burst of hot-gold sparks and spilled drink. Strings of lurid bulbs and tattered striped awning loom in smoky black above. One firelit source carves the snarling shakedown from the dark, embers flying, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Snack Stand Shakedown",
   "manaCost": "{1}{R}",
   "manaValue": 2,

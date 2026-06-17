@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A bloated, slime-slick catfish hauled dripping from murky green water, its three milky eyes catching the dim light, whiskered barbels trailing muck, mottled scales with a toxic sheen, held upright against a shadowed reservoir backdrop in a tight landscape framing. Rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Three-Eyed Catfish",
   "manaCost": "{1}{G}",
   "manaValue": 2,

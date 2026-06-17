@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The dramatic moment a hand draws three blank documents from a towering cabinet drawer while a fourth, lifted into the cold beam, dissolves into heavy black redaction, its smudged surface swallowed by darkness. Pale arcane glow bleeds from the open drawer. The wide frame stacks paper into receding gloom, one harsh light source isolating the act, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Freedom of Information Request",
   "manaCost": "{2}{U}{U}",
   "manaValue": 4,

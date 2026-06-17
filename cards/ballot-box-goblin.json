@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A frenzied goblin bureaucrat in a riotous town square, cradling an overstuffed blank ballot box while cramming slips in with both clawed hands, sparks and confetti raining around him, bonfire glow flickering across his manic grin; overturned boxes and torn blank bunting blur into ember-red haze and night-black smoke, gleeful chaos softened with a wistful warmth, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "Ballot Box Goblin",
   "manaCost": "{1}{R}",
   "manaValue": 2,

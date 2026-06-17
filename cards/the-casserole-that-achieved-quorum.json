@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A towering sentient casserole risen to godhood on its warming tray, stacked layers of noodle and cheese ascending the wide frame into golden divine light, faint bureaucratic limbs of steam reaching for the floor. Its halo bleeds ivory and green, the warming tray glinting at the base, all rising gesture and reverent absurdity. A food deity holding court, rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "The Casserole That Achieved Quorum",
   "manaCost": "{🍲}{🍲}",
   "manaValue": "potluck",

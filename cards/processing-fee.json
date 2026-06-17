@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A skeletal coin-operated turnstile gate rises in the center of a cold beige corridor, a faintly glowing cyan toll-arm barring passage, a single blank receipt slip curling from a slot below. The mechanism feels endless, a tollbooth into nowhere. Landscape composition, washes bleeding ivory to teal, oppressive arcane hush surrounding empty space. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Standard Processing Fee",
   "manaCost": "{W}",
   "manaValue": 1,

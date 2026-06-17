@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A dramatic moment as a single spinning coin hangs at the apex of its toss high above the feral town square, glowing white-hot and trailing sparks, while below a grinning goblin braces both arms for the inevitable blast and a crackling bolt begins to gather around the coin. Bonfire light and confetti fill the night. Mono-red palette of flame orange, ember red, and black smoke, gambling-fueled violence, composed wide in a 4:3 landscape frame, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Heads I Win",
   "manaCost": "{R}",
   "manaValue": 1,

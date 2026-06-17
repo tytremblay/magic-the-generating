@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A widescreen film-still of a bombastic goblin politician roaring at full volume atop an overturned ballot box in a burning town square, chest puffed, arms thrown wide, never finishing a sentence, his bellow practically visible in the smoke; bonfire glow blasts him from below, embers and confetti raining, rioting silhouettes and torn blank bunting behind in flame orange against night-black haze, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "The Loudest Incumbent",
   "manaCost": "{2}{R}{R}",
   "manaValue": 4,

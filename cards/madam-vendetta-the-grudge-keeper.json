@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A severe goblin assassin standing tall, an enormous ledger clasped to her chest, one clawed finger marking a name, her eyes lit by a single sliver of amber lamp while her gown bleeds into ink-black at the base of the frame. Cigar smoke and rain coil around her, all menace held in stillness. A keeper of debts and grudges, rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Madam Vendetta, the Grudge-Keeper",
   "manaCost": "{2}{B}{B}",
   "manaValue": 4,

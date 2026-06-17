@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A widescreen noir film-still of a goblin figure dissolving into motes of shadow and amber light mid-step in a rain-slick alley, half his body already gone as he is spirited away, an empty trench coat collapsing where he stood; cigar haze drifts through the single lamp's pool, damp brick and ink-black darkness swallowing all trace, eerie criminal quiet, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Witness Relocation",
   "manaCost": "{1}{B}",
   "manaValue": 2,

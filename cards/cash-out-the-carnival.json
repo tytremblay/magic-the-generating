@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A dramatic dawn scene of a carnival vanishing overnight, half-collapsed striped tents being yanked into smoky black haze, scattered hot-gold coins and a single lost shoe glinting on flattened grass beneath strings of dead lurid lights. Faint ember sparks still drift over the abandoned midway. Wide cinematic film-still framing of larceny dissolving into morning, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Cash Out the Carnival",
   "manaCost": "{3}{B}{B}",
   "manaValue": 5,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A jaded human croupier stands behind a worn felt table, sweeping a fan of cards and scattered coins with one weary hand, a coin frozen mid-flip glinting above the other, his tired smirk lit by sickly neon. Tattered tents and a rigged wheel loom behind. The gesture is practiced, going-through-the-motions ennui. Wide landscape, carnival red and hot gold washes bleeding into smoky black. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Two-Bit Croupier",
   "manaCost": "{1}{B}",
   "manaValue": 2,

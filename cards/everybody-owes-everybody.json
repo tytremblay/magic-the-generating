@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A widescreen noir film-still of an endless ledger-chain scene: shadowed goblin figures in a smoke-filled back room linked by faint glowing strands of debt passing hand to hand, each shaking on a deal under a single hanging amber lamp, the strands tangling outward into ink-black depth; cigar haze and damp brick frame the ritual of obligation, intimate and inescapable, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Everybody Owes Everybody",
   "manaCost": "{2}{B}",
   "manaValue": 3,

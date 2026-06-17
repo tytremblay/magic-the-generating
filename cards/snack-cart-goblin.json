@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A cheery goblin peddler shoving a battered pretzel cart through the feral square, holding aloft a slightly charred soft pretzel, smoke wisping from his singed wares; bonfire light glints flame-orange off the cart's dented metal, sparks and confetti drifting through ember-red haze and night-black smoke, his hopeful grin caught in a warm, wistful blur, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "Snack Cart Goblin",
   "manaCost": "{R}",
   "manaValue": 1,

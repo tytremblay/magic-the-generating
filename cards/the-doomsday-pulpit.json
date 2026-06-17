@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A towering oak pulpit rises alone in the frame, six feet of carved dark wood lit from within by guttering gold candlelight, soundproofed and forbidding, its high lectern empty against a looming clock tower and blood-dark sky. No figure, only the imposing sacred furniture and drifting smoke. Wide landscape composition, bone white and cold gold washes bleeding into deep black. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "The Doomsday Pulpit",
   "type": "Acorn Land",
   "types": ["Land"],

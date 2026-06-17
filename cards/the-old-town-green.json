@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A wide sunlit common stretched into a wide landscape view: an open grassy green ringed by picket fences and tidy front yards, empty folding tables and a lone bullhorn resting in the golden afternoon, no figures present. Washes of leafy green and warm ivory bleed across the lawn, distant rooftops dissolving into light. A quiet civic stage between rallies, rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "The Old Town Green",
   "type": "Land",
   "types": ["Land"],

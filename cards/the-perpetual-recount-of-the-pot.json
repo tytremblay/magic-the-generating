@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The frozen instant of an endless count: two rival hands lunge over a heaped pile of glittering gold treasure on a felt table, each clawing coins into separate stacks that seem to multiply and blur, hot-gold sparks flying in the contested air. Smoky carnival tents loom black behind. One firelit source rakes the disputed hoard, embers drifting, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "The Perpetual Recount of the Pot",
   "manaCost": "{1}{B}{R}",
   "manaValue": 3,

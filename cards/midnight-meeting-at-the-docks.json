@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A cluster of shadowed goblin figures gathered on a fog-wrapped wharf after dark, each clutching a single card close, a lone lantern throwing a small pool of amber across wet planks and black water; the harbor dissolves into smoky brown mist, posture taut with unspoken outcomes, the tense rendezvous softened into a dreamy, melancholic hush, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "Midnight Meeting at the Docks",
   "manaCost": "{2}{B}",
   "manaValue": 3,

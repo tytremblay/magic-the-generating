@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A coiled carnival omen-snake rearing up amid scattered dice and coins, its two eyes replaced by glowing white six-sided dice that fix the viewer with an offended, baleful stare, scales banded in carnival red and smoky black under sickly neon. It takes everything personally. The serpent's lifted head dominates the upper wide frame, coils spiraling down to firelit ground. Wide 4:3 landscape, hot gold glints, sinister festivity, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Snake Eyes, the Actual Snake With Dice for Eyes",
   "manaCost": "{🎲}{🎲}",
   "manaValue": "2 (ish)",

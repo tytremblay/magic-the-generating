@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The tense moment of a rigged recount: a clawed goblin hand slamming a small token of folded paper onto a worn felt card table beside scattered coins and dice, a shadowed boss leaning in to demand the count be done again. A single low amber lamp burns over the table, cigar smoke hanging in the beam, the rest of the room drowned in noir black. Rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Buy the Recount",
   "manaCost": "{1}{B}",
   "manaValue": 2,

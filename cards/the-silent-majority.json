@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A vast quiet legion of pale spirit citizens rising in a tall column, faces calm and closed-mouthed, each clutching a covered dish, their lower forms merging into a single bleeding wash of green and ivory. Golden light filters between them like held breath, picket-fence hints softening at the base. An immense hush given gentle weight, rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "The Silent Majority",
   "manaCost": "{4}{G}{W}",
   "manaValue": 6,

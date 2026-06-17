@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The dramatic instant a proud legendary figure is struck down in the midnight square, cold gold judgment-light lancing from the clock tower and shattering them into ash and smoke as ashen-robed onlookers point in grim vindication. A flurry of blank illegible memo-pages scatters on the wind. The falling figure anchors the lower frame, tower looming above. Wide 4:3 landscape, bone white and deep black, solemn dread, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "The Mayor Was Warned",
   "manaCost": "{1}{W}{B}",
   "manaValue": 3,

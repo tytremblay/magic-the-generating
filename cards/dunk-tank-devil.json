@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A leering red devil-performer perched on the seat of a carnival dunk tank, claws gripping the rail, tail flicking, grinning down through the murky water as the trip-lever glints below him. Strings of lurid lights and ember sparks frame the tall tank against smoky black tents. One hot-gold firelight source rakes his sneering face from the dark, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Dunk Tank Devil",
   "manaCost": "{2}{R}",
   "manaValue": 3,

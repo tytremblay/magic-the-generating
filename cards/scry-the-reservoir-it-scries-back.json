@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The dread moment a figure leans over the lip of a bottomless toxic reservoir and sees a vast luminous eye opening in the green depths to stare back upward, sickly bioluminescence rising through the murk to light their stricken face. Rusted pipes and litter ring the black water in the wide frame under a bruised sky. One glow from below is the sole light, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "set": "CHAOS",
   "chaos": 5,
   "name": "Scry the Reservoir, It Scries Back",

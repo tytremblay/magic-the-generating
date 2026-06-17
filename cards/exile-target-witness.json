@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The eerie instant of erasure: a chair sits in a cone of amber lamplight where a figure once was, now only a dissolving silhouette of smoke and dust unraveling into the surrounding ink-black void, the empty seat foreshortened toward the viewer. A bare folder lies open and blank on the floor, cigar haze drifting through the light, profound noir absence. Rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Exile Target Witness",
   "manaCost": "{∞}{B}, and you saw nothing",
   "manaValue": "nothing, you saw nothing",

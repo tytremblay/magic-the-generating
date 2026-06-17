@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A vertical column of cold ivory light freezes a snarling creature mid-lunge, its body half-dissolving into a translucent cyan wash as it is lifted out of frame; a single oversized rubber stamp descends from above, its blank face pressing an empty smudged seal onto the air itself. Negative space yawns below into beige municipal corridor shadow. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Cease and Desist Order",
   "manaCost": "{2}{W}",
   "manaValue": 3,

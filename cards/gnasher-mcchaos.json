@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A triumphant goblin mayor astride an overturned ballot box, arms raised, mouth open in a roar amid election-night bedlam, ember-red and flame-orange washes flaring behind him, sparks and confetti bursting up the wide frame against night-black smoke. A bonfire silhouettes the rioting square below. All chaotic victory and gleeful misrule. Anarchic mayhem, rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Gnasher McChaos, Mayor of Whateverville",
   "manaCost": "{3}{R}{R}",
   "manaValue": 5,

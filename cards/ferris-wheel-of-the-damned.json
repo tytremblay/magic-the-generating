@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ornate hero shot of a colossal rusted Ferris wheel turning against a smoky black sky, its spokes strung with sickly neon and hot gold bulbs, swaying gondolas trailing ember sparks and faint dread, never stopping. Tattered striped tents huddle at its base. The towering wheel fills the wide landscape frame, glowing rim near the top. Wide 4:3 landscape, Rakdos carnival red and hot gold, seductive sinister festivity, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Ferris Wheel of the Damned",
   "manaCost": "{3}{R}",
   "manaValue": 4,

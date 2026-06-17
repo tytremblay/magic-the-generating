@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ornate hero shot of a humble folding card table crowned with a tin cash box overflowing with crumpled bills and coins, ringed by half-eaten casseroles and a few stray frosted treats, glowing in golden afternoon light on a sunlit town green. Picket fences and blank lawn placards blur softly behind. The laden table fills the lower wide frame, warm light pouring down. Wide 4:3 landscape, Selesnya leafy green and warm ivory, wholesome civic fervor, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Bake Sale Treasury",
   "manaCost": "{2}",
   "manaValue": 2,

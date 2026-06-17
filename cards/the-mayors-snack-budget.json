@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A teetering pyramid of glowing red snack-charms heaped on an overturned crate in the burning square, each little token catching firelight as fresh ones bloom into being above the pile; bonfires flicker flame-orange around the hoard, sparks and confetti drifting through ember-red haze and night-black smoke, the endless snack-bounty rendered warm and wistful, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "The Mayor's Snack Budget",
   "manaCost": "{2}{R}",
   "manaValue": 3,

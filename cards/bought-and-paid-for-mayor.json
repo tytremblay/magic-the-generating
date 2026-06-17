@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A plump goblin mayor in a too-large sash standing stiffly under a single pool of amber lamplight, scissors poised to cut an unseen ribbon, his grin fixed and uneasy as a shadowed gangster's hand rests on his shoulder from the dark; cigar smoke curls through smoky brown gloom, the back-room menace softened into hazy melancholy, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "Bought-and-Paid-For Mayor",
   "manaCost": "{2}{B}",
   "manaValue": 3,

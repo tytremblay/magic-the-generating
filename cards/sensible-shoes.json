@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A hero shot of a single pair of sturdy flat leather walking shoes set upright on a sunlit patch of clipped green lawn, laces crisp, soles worn smooth from a thousand doorsteps, a golden afternoon shaft raking across the leather to throw a long dramatic shadow shape behind them. Blades of grass foreshortened toward the viewer, a folding table leg and a tipped bullhorn blurred in the warm ivory background, every surface fully painted. Rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Sensible Shoes",
   "manaCost": "{W}",
   "manaValue": 1,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An imposing older woman in a gray government suit dominates the wide frame, one hand pinning a die to the desk, the other voiding a coin with a dismissive flick, her cold eyes lit by a single overhead fluorescent. Stacks of blank ledgers climb into shadow behind her. A faint arcane glimmer rises from the paperwork, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Senior Auditor of Outcomes",
   "manaCost": "{2}{U}",
   "manaValue": 3,

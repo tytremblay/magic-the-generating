@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A solemn dim funeral parlor where a hatted goblin don bows his head over a row of fading shadowed figures, half of them dissolving into ink-black at the lower frame, a single candle's warm lamplight pooling on his folded hands. Cigar smoke drifts upward into smoky brown. A staged moment of silence heavy with menace, rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "The Don Pays His Respects",
   "manaCost": "{4}{B}",
   "manaValue": 5,

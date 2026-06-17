@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A gaunt winged demon bureaucrat descends from a blood-dark sky on tattered black pinions, one taloned deathtouch hand extended palm-up demanding its due, hollow gold eyes patient and certain. A blank ledger dangles from its belt, a clock tower looms behind. The gesture is inevitable, predatory calm. Wide landscape, bone white and cold gold washes bleeding into black. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "The Tax Collector of Armageddon",
   "manaCost": "{3}{B}",
   "manaValue": 4,

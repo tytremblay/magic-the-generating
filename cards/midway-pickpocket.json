@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A sly green goblin rogue slinks low through a firelit carnival midway, one long-fingered hand slipping toward an unseen pocket, eyes flicking sideways with a wicked grin, body coiled in furtive motion. Strings of lurid lights and a juggler's blurred shapes glow behind. The gesture is all thieving stealth. Wide landscape, carnival red and hot gold washes bleeding into smoky black. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Midway Pickpocket",
   "manaCost": "{B}",
   "manaValue": 1,

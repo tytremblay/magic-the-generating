@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The dramatic moment of hastening doom: two clawed hands wrench the great blank face of a looming clock tower forward, gold gears spilling sparks as the hands lurch, ashen congregants below raising arms in feverish glee beneath a blood-dark sky. Smoke and motion blur the strain. Tall wide sweep, bone white and cold gold washes bleeding into deep black. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Winding the Clock Forward",
   "manaCost": "{B}",
   "manaValue": 1,

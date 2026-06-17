@@ -3,6 +3,9 @@ node_modules/
 .DS_Store
 *.log
 
+# local secrets (Gemini API key for art generation)
+.env
+
 # local agent config (skills are committed; local settings are not)
 .claude/settings.local.json
 

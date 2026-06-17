@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A deserted concrete parking structure after dark, a single flickering bulb casting a cone of sour amber light onto an oil-slick floor while a dripping pipe glints overhead, rows of pillars marching into ink-black shadow toward a vanishing point. Wet reflections streak the foreground, a faint plume of cigar smoke hangs near the light, no figures present, oppressive noir stillness. Rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Dimly Lit Parking Structure",
   "type": "Acorn Land",
   "types": ["Land"],

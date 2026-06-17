@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ornate hero shot of a strange recursive token-coin etched with an endless ouroboros loop of clasped hands, hovering above a worn card table in a beam of amber light, its surface reflecting smaller copies of itself spiraling inward, foreshortened and gleaming toward the viewer. Cigar smoke coils around it, a small frog-shaped shadow looms in the ink-black background, eerie criminal mystique. Rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "the favor that favors itself",
   "manaCost": "{IOU}",
   "manaValue": "owed",

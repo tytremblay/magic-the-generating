@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A long mutant eel surging out of murky green reservoir water, its slick body crackling with sickly bioluminescent electric arcs that hum across the toxic shoreline, jaws agape, charging fast. Rusted pipes and bubbling sludge frame the strike under a bruised stormy sky. The serpentine eel coils up the wide landscape frame, sparks crawling its length. Wide 4:3 landscape, Gruul murky green and rust red, toxic menace, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Galvanic Eel",
   "manaCost": "{1}{R}",
   "manaValue": 2,

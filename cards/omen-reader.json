@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A gaunt human prophet in bone-white robes peers into two glowing cards fanned in trembling hands, cold gold light flaring across milky eyes while a darker card slips unnoticed toward the ground behind, never to be spoken of. Guttering candles and the looming clock tower haze the blood-dark night behind. Intimate yet ominous film-still framing with deep apocalyptic backdrop, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Omen Reader",
   "manaCost": "{1}{B}",
   "manaValue": 2,

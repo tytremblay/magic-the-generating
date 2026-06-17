@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A tattered crimson-and-black striped revue tent looms at the carnival's dark heart, its entrance flap yawning into a hot gold glow, strings of lurid neon sagging overhead and drifting embers swirling, scattered coins and dice trampled in the mud out front. No central figure, only the seductive maw of the tent. The towering peaked canopy fills the wide frame, glowing mouth centered low. Wide 4:3 landscape, Rakdos red, smoky black, and hot gold, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Rakdos Revue Tent",
   "manaValue": 0,
   "colors": [],

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The dramatic moment of a rigged spin: a great wheel of fortune blurs in motion, its blank segments smeared into a hot-gold ring, a clawed hand frozen mid-flick at its rim as a single peg ticks toward doom, firelit faces leaning in from the smoky edges. Ember sparks scatter. Wide landscape, carnival red and hot gold washes bleeding into black. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Spin the Wheel of Misfortune",
   "manaCost": "{2}{R}",
   "manaValue": 3,

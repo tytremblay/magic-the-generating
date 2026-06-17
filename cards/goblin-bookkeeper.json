@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A characterful portrait of a hunched goblin advisor in green eyeshade and rolled sleeves, perched on a stool over a card table stacked with worn unmarked ledgers, licking a clawed finger to turn a blank page while sliding a second secret book beneath his elbow. A single amber lamp pools light on the columns, cigar smoke drifting. Mono-black noir of ink shadow and smoky brown, sly criminal bookkeeping, composed wide in a 4:3 landscape frame, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Goblin Bookkeeper",
   "manaCost": "{1}{B}",
   "manaValue": 2,

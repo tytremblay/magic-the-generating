@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The dramatic instant of an obsessive recount: a pair of disembodied hands hover over a tumbling six-sided die and spinning coin frozen mid-air, surrounded by ghostly duplicate dice stacked upward in a dizzying cyan spiral, each one being counted again and again. Beige filing cabinets blur behind. The endless tally climbs the wide frame. Wide 4:3 landscape, faint arcane glow, oppressive stillness, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Recount of the Recount",
   "manaCost": "{1}{U}",
   "manaValue": 2,

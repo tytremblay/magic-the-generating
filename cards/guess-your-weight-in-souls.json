@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative scene of a leering carny barker perched beside a rigged soul-scale, sweeping one arm toward the viewer mid-pitch as ghostly translucent soul-weights pile on the pan and tip it. Tattered striped tents and a wheel of fortune blaze in carnival red and hot gold behind, sickly neon and ember sparks drifting, a rigged bargain unfolding, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Guess Your Weight in Souls",
   "manaCost": "{2}{B}",
   "manaValue": 3,

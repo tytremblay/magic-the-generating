@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A tense midway moment: a glowing six-sided die tumbling through firelit air above an upturned card, a gambler's anxious hand frozen mid-bet, ember sparks drifting through carnival-red haze, rigged wheels and lurid neon dissolving into smoky black behind, the cruel all-or-nothing instant suspended in hot-gold light, tender beneath the menace, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "Double Down or Double Over",
   "manaCost": "{X}{B}{R}",
   "manaValue": 2,

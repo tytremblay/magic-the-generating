@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A colossal mutant catfish noble holds court at the reservoir's murky bottom, three glowing eyes set in a whiskered crowned head, finned bulk draped in trailing weeds and bioluminescent slime, lesser fish circling in deference through the green gloom. The gesture is regal, lurking menace. Wide landscape underwater composition, murky green and rust-red washes bleeding into sickly glow. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "The Three-Eyed Catfish King",
   "manaCost": "{3}{G}{G}",
   "manaValue": 5,

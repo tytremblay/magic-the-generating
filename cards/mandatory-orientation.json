@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A grim mid-century meeting room where rows of slumped, glassy-eyed attendees sit frozen at long beige tables, faint cyan stun-glow rings hovering over each head, while a flickering projector throws a blank pale rectangle of light onto the wall. Stacks of unmarked sign-in sheets sit untouched. The hypnotic rows recede upward into fluorescent haze. Wide 4:3 landscape, oppressive bureaucratic stillness, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Mandatory Orientation Seminar",
   "manaCost": "{3}{W}",
   "manaValue": 4,

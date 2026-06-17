@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A widescreen film-still of a sunlit town green where a vast crowd of ordinary townsfolk freeze mid-cheer, arms raised in eerie unison, every face turned skyward toward a single small green frog perched impossibly on an empty folding table at the composition's golden center; depth recedes through picket fences and blank lawn placards into hazy afternoon glare, the paradox hanging like dust in the light, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Everyone Wins, Therefore Nobody Wins, Therefore the Frog",
   "manaCost": "{∞}",
   "manaValue": "∞",

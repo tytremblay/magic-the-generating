@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A terrified figure stands small at the bottom of the wide frame, hands raised, as a colossal shadowed auditor looms above behind a desk stacked with towering blank documents, pointing one accusing finger down into a single harsh cone of light. Scattered dice and coins lie exposed on the desk. Oppressive arcane glow seeps from the files, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "The Audit from Hell",
   "manaCost": "{2}{U}{U}",
   "manaValue": 4,

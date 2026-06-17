@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A weary human cleric campaigner in soot-streaked ashen robes strides door to door down a dim revival street, a guttering candle in one hand and a stack of blank pamphlets in the other, an unnervingly serene smile on a face lit by cold gold halo light. The looming clock tower bleeds against a blood-dark sky behind. Full-figure film-still framing at epic depth, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Doomsday Canvasser",
   "manaCost": "{1}{W}",
   "manaValue": 2,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A widescreen film-still of a ramshackle municipal snack bar shack ablaze with greasy glory in a rioting town square at night, its open hatch glowing with bonfire-orange light, a chewed ceremonial ribbon dangling at the counter amid spilled dice and coins; embers, sparks, and confetti rain over overturned boxes and torn blank bunting, flame orange against night-black smoke, gleeful civic anarchy, no figures, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Mayor McChaos Municipal Snack Bar",
   "subtitle": "Now Serving: Whatever",
   "type": "Legendary Acorn Land",

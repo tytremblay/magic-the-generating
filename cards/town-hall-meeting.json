@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The dramatic moment a town vote erupts: a sea of ordinary townsfolk on folding chairs raise their hands in unison, the foreground figures foreshortened and shouting, a lone moderator silhouetted behind an empty lectern against a low golden beam slanting through high windows. Leafy green banners hang blank, warm ivory dust drifts, deep shadow shapes pool beneath the chairs. Rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Town Hall Meeting",
   "manaCost": "{2}{W}",
   "manaValue": 3,

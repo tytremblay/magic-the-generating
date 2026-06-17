@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A long folding table laden with casseroles, chip bowls, and a single lonely hard-boiled egg glows under golden afternoon light as a crowd of townsfolk surge around it on the town green, the steam and dust catching dramatic backlight; widescreen film-still framing pulls the eye down the table into hazy deep-focus picket fences and bullhorns, wholesome fervor crackling in the air, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Potluck Rally",
   "manaCost": "{3}{G}",
   "manaValue": 4,

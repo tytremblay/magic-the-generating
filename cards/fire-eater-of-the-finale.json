@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A lean red devil performer arches backward mid-act, a great plume of hot-gold fire bursting from its open jaws toward the top of the frame, scaly arms thrown wide in reckless flourish, scarred chest lit orange against tattered carnival tents. Ember sparks swirl upward. The gesture is explosive, doomed bravado. Wide landscape, carnival red and hot gold washes bleeding into smoky black. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Fire-Eater of the Finale",
   "manaCost": "{2}{R}{R}",
   "manaValue": 4,

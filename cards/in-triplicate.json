@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A magical moment of paperwork dividing itself: a single blank carbon-copy form splits into three drifting layered sheets — white, yellow, and a fading pink ghost-page dissolving into cyan motes — swirling up out of a clerk's outstretched hands toward humming overhead lights. Filing cabinets blur in the beige background. The triplet sheets stack vertically through the wide frame. Wide 4:3 landscape, faint arcane glow, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "In Triplicate",
   "manaCost": "{1}{U}",
   "manaValue": 2,

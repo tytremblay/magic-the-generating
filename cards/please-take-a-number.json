@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A red ticket dispenser on a beige counter, a single torn paper tab curling from its slot, an endless blank waiting bench receding into hazy ivory corridor beyond, cold cyan light flickering on empty seats, a faint arcane glow drifting from stacked smudged forms, the air thick with the melancholy of a number that will never be called, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "Please Take a Number",
   "manaCost": "{U}",
   "manaValue": 1,

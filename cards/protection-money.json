@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative scene of a huge fanged beast looming in a rain-slick alley, ominously turned toward an unseen target, while a small goblin gangster pats its flank with a proprietary smirk, cigar clamped in his teeth. A single amber lamp throws their long menacing shadow up a brick wall. Mono-black noir of ink shadow and smoky brown, the implied threat of a thing pointed at the wrong family, composed wide in a 4:3 landscape frame, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Protection Money",
   "manaCost": "{1}{B}",
   "manaValue": 2,

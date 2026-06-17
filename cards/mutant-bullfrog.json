@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A car-sized mutant bullfrog mid-lunge, gargantuan throat swelling and jaws yawning wide in extreme foreshortened close-up, sticky tongue lashing toward the viewer. Murky-green warty hide glistens with toxic slime; rusted pipes and overgrown concrete loom behind under a bruised stormy sky, sickly bioluminescence pulsing along its bulging gullet, a thunderous croak frozen mid-gulp, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Mutant Bullfrog",
   "manaCost": "{2}{G}",
   "manaValue": 3,

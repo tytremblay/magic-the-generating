@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative scene of a folding-chair meeting room where a long table is ringed by far too many empty chairs and only a sparse handful of seated townsfolk, an unseen rule hanging in the air as a soft golden glow tilts the whole room toward emptiness. Dust motes drift, a gavel rests beside a forgotten casserole, the absurd stalled vote made visible. Leafy green and ivory light, composed wide in a 4:3 landscape frame, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "The Quorum That Isn't",
   "manaCost": "{2}{W}",
   "manaValue": 3,

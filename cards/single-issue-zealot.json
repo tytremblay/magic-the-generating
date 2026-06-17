@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A red-faced human zealot bellows skyward atop an overturned crate, veins straining, a blank placard clutched overhead, his single furious conviction lit by cold gold halo glow as the looming clock tower and a blood-dark apocalyptic sky tower behind him. Ash drifts through the candlelit revival crowd at his feet. Dynamic low film-still angle of swelling rage, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Single-Issue Zealot",
   "manaCost": "{1}{B}",
   "manaValue": 2,

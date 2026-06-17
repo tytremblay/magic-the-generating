@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ornate hero shot of a gaudy festival parade wagon trundling forward, draped in blank green-and-ivory bunting and strung with garlands, its big wooden wheels kicking up dust as cheering townsfolk clamber aboard from every side. Streamers and confetti arc upward into the top of the frame, golden afternoon light gleaming off polished trim. The vehicle dominates the composition, joyful and slightly overloaded, composed tall for a 4:3 landscape frame, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "The Bandwagon",
   "manaCost": "{3}{G}",
   "manaValue": 4,

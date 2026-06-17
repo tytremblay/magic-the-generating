@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An earnest human petitioner striding across a sunlit town green, clipboard thrust forward and pen offered, a determined hopeful smile and a tote bag of blank illegible petition sheets at the hip, golden afternoon light glinting on tidy front yards and picket fences behind. Vigilant and tireless, ready for a long signature. The figure fills the central wide frame, blank lawn placards dotting the soft green backdrop. Wide 4:3 landscape, Selesnya leafy green and warm ivory, wholesome civic fervor, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Clipboard Canvasser",
   "manaCost": "{1}{W}",
   "manaValue": 2,

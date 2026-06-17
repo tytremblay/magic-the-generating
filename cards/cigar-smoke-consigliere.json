@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A widescreen noir film-still of an aged goblin advisor seated in a dim back room, leaning back into shadow with a smoldering cigar, half his lined face carved by a single pool of warm amber lamplight while curling smoke veils the rest; worn card table and bottle glint at the edge of frame, ink-black darkness pressing in, his knowing half-lidded eyes radiating quiet menace, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Cigar-Smoke Consigliere",
   "manaCost": "{2}{B}",
   "manaValue": 3,

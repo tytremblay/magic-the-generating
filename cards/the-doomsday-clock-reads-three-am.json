@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A dramatic sorcery moment dominated by the vast looming clock tower at deepest night, its enormous blank illegible face flooded with cold gold doom-light, hands frozen near the witching hour as ash and embers swirl and tiny ashen-robed figures crane upward in dread. Smoke coils against the blood-dark sky. The towering clock fills the wide landscape frame top to bottom. Wide 4:3 landscape, bone white and deep black, end-times fervor, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "The Doomsday Clock Reads 3 A.M.",
   "manaCost": "{X}{W}{B}",
   "manaValue": 2,

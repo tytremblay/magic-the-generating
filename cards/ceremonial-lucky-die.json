@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ornate hero shot of a single oversized six-sided die carved from ember-veined stone, hovering above an altar of overturned ballot boxes in the feral town square, sparks and embers swirling around its glowing pips as a bonfire roars behind. The die dominates the frame, gilded and ominous, flecks of confetti caught in the firelight. Mono-red palette of flame orange, ember red, and black smoke, talismanic chaos, composed wide in a 4:3 landscape frame, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Ceremonial Lucky Die",
   "manaCost": "{2}",
   "manaValue": 2,

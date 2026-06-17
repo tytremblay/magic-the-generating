@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A widescreen dramatic film-still of a portly mayoral figure recoiling on a sunlit town-green stage as a tight ring of grim townsfolk close in, one thrusting forward a clipboard and a rigidly extended handshake like a weapon, golden afternoon light slashing through dust and pollen; picket fences and blank placards recede into haze behind, the air thick with civic menace, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Recall the Mayor",
   "manaCost": "{1}{W}",
   "manaValue": 2,

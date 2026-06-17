@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The dramatic moment of a botched purification: a great rusted treatment pipe gushes water cleanly from one half and vomits bubbling green sludge from the other, the two streams meeting and warring in a churning pool below, bioluminescent froth bleeding between clean and foul. Mutant overgrowth creeps over concrete. Wide landscape, murky green and rust-red washes against a bruised sky. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Half-Treated, Half Not",
   "manaCost": "{½}{R}{G}",
   "manaValue": 3,

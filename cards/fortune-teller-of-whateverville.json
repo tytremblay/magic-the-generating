@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A human fortune teller leans over a glowing crystal orb inside a tattered red carnival tent, hot-gold firelight carving deep shadows across knowing eyes as scattered dice and coins glint on the velvet table before her. Strings of sickly neon haze the smoky black backdrop. Intimate, theatrical film-still framing with rich depth and sinister warmth, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Fortune Teller of Whateverville",
   "manaCost": "{1}{B}",
   "manaValue": 2,

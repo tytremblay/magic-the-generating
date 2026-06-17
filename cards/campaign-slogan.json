@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A goblin caught mid-shout atop an overturned crate, mouth flung wide, fists pumping, a burst of flame-orange wash and confetti erupting from the cry up the wide frame against night-black smoke. A bonfire roars behind in the feral square, sparks streaking. All explosive vocal gesture, the slogan implied by the force of the bellow. Gleeful anarchic mayhem, rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Shout a Campaign Slogan",
   "manaCost": "{R}",
   "manaValue": 1,

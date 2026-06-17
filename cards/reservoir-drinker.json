@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A hulking mutant beast crouches at the reservoir's edge, long sinewy neck bent low as it gulps the toxic water down, swollen flanks dripping bioluminescent ooze, one clawed limb braced on a rusted pipe. The receding waterline glistens around it under a bruised sky. The gesture is greedy, draining motion. Wide landscape, murky green and rust-red washes bleeding into sickly glow. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Reservoir Drinker",
   "manaCost": "{2}{G}",
   "manaValue": 3,

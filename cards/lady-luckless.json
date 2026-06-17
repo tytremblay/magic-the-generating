@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A flamboyant devil ringmaster spreads her arms in welcome at the mouth of the Last-Chance Carnival, a rigged wheel of fortune spinning behind her, hot-gold firelight glinting off curling horns and a wicked grin as dice tumble at her feet. Tattered striped tents and drifting embers recede into smoky black haze. Commanding low film-still angle of seductive showmanship, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Lady Luckless, Ringmaster of the Last-Chance Carnival",
   "manaCost": "{2}{B}{R}",
   "manaValue": 4,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative scene of a back room where stacks of glinting coins and tokens multiply endlessly across a card table, doubling and spilling onto the floor in mounting tides, while a wide-eyed goblin clutches a crumpled scrap and watches the pile devour the room. A single amber lamp glows above the swelling hoard, smoke curling. Mono-black noir of ink shadow and smoky brown, runaway compounding dread, composed wide in a 4:3 landscape frame, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "The Vig Compounds Forever",
   "manaCost": "{3}{B}{B}",
   "manaValue": 5,

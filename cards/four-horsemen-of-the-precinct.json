@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "Four gaunt spectral horsemen in tattered ashen robes rear their skeletal mounts up the height of the wide frame, charging down a smoke-choked precinct street beneath a blood-dark sky, one screaming horse foremost with bared teeth. Cold gold halos crown their hooded riders. A single lurid light source carves them from the deep black gloom, ash drifting around them, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Four Horsemen of the Precinct",
   "manaCost": "{3}{B}",
   "manaValue": 4,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative scene of a swelling mound of the town's own refuse rising sentient from the poisoned reservoir, plastic, rotted timber, and drifting litter binding into a looming silhouette fed by streams of murky green runoff from rusted overflow pipes. Sickly bioluminescence pulses through its mass under a bruised stormy sky. Epic, ominous film-still framing of self-made menace, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Menaced by Its Own Garbage",
   "manaCost": "{2}{R}{G}",
   "manaValue": 4,

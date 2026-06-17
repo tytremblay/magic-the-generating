@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A great rusted pipe disgorging glowing murky-green effluent into a once-clear creek, the water blooming sickly bioluminescent and thick, drifting litter swirling in the current, mutant reeds sprouting along the banks under a bruised stormy sky, rust-red stains bleeding down the concrete spillway, no figures, a tender mournful ruin, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "Runoff Into the Creek",
   "manaCost": "{1}{G}",
   "manaValue": 2,

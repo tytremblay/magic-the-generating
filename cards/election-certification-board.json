@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An empty council dais looms tall in the frame, a long bench of vacant chairs above a podium, while a slow arcane cyan glow seeps up from a stack of blank unmarked forms held in suspended review. Nothing is decided; everything waits. The composition climbs toward shadowed fluorescent ceiling, washes bleeding ivory into cool teal. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Election Certification Board",
   "manaCost": "{2}{W}{U}",
   "manaValue": 4,

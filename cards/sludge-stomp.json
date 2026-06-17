@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The dramatic moment of a crushing blow: a massive sludge-caked foot slams down from the top of the frame in a spray of green muck and bioluminescent droplets, flattening the ground as ripples blast outward across the poisoned ground, rusted pipes shuddering. Motion lines and splatter dominate. Wide landscape impact, murky green and rust-red washes bleeding into sickly glow under a bruised sky. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Sludge Stomp",
   "manaCost": "{1}{G}",
   "manaValue": 2,

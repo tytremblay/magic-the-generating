@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A boxy construct bureaucrat with a single glowing eye-lens, mechanical arms clutching tumbling dice and a blank illegible tally scroll, sparks spitting from its joints amid election-night chaos, flame-orange wash flaring up the wide frame against night-black smoke. A bonfire glints off its riveted plating. All clanking, indignant motion. Anarchic mayhem, rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "The Honorable Recount-Bot 5000",
   "manaCost": "{4}",
   "manaValue": 4,

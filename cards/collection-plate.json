@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ornate hero shot of a tarnished brass collection plate held aloft on bone-pale fingertips, brimming with coins and glinting under a cold gold halo of light, a thin curl of incense smoke rising behind it against a blood-dark revival sky. It comes around twice, the second time not optional. The gleaming plate sits high and central in the wide frame, candlelight below. Wide 4:3 landscape, Orzhov bone-and-black palette, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Collection Plate",
   "manaCost": "{1}",
   "manaValue": 1,

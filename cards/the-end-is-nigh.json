@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A doomed creature withers mid-step as a wave of cold gold apocalyptic light crashes over it, flesh sagging and shoulders buckling beneath the weight of a hastened end. Ashen congregants watch from the candlelit dark while the looming clock tower towers against a blood-dark sky. Dramatic film-still moment of personal apocalypse at epic depth, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "The End Is Nigh",
   "manaCost": "{B}",
   "manaValue": 1,

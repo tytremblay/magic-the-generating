@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The charged instant a deal seizes control: a portly goblin Don in a dim back room reaches a beringed hand into a slash of amber lamplight, fingers foreshortened toward the viewer, while a larger looming figure bows its head into his shadow as if puppeted. Cigar smoke curls in the warm light, ink-black shadow swallows the worn card table behind, intimate criminal menace. Rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Buy the Incumbent",
   "manaCost": "{2}{B}",
   "manaValue": 3,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The frozen instant of a coin suspended at the apex of its flip, splitting into two ghostly overlapping faces of itself, mid-air above an ashen prophet's upturned palm, neither landed, both glowing cold gold. A looming clock tower and guttering candles dissolve into the blood-dark gloom behind. One single light source halos the doubled coin, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Schrödinger's Prophecy",
   "manaCost": "{2}{W}{B}",
   "manaValue": 4,

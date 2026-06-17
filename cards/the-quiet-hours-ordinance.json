@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A hushed nocturnal City Hall rotunda bathed in cold cyan moonlight, a single raised finger of a stern silhouetted clerk pressed to lips in extreme foreshortened close-up, demanding silence. Behind, dim corridors of filing cabinets recede into oppressive stillness, a blank smudged notice pinned to a bulletin board, faint arcane glow muffled and dim, an enforced quiet you can feel, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "The Quiet Hours Ordinance",
   "manaCost": "{2}{U}",
   "manaValue": 3,

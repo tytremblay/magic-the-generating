@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ongoing scene of swelling corruption: a mutant mass of sludge-bloated vines pulses larger in the wide frame, fed by glowing green tendrils that snake outward toward scattered dice and coins littering the toxic ground, each pulse brightening its bioluminescent veins. Rusted pipes and a bruised stormy sky loom behind. One sickly light source throbs at its core, rust-red shadow around it, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "It Grows With Every Vote",
   "manaCost": "{2}{R}{G}",
   "manaValue": 4,

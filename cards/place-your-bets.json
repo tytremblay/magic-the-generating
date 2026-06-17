@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The breathless moment a coin spins in the air above a felt table while a single die tumbles below it, players' clenched fists hovering in the smoky gloom around the rigged layout, hot-gold light blazing from one carnival lamp. The wide frame stacks the suspended coin high over the scattered stakes, embers drifting through the dark, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Place Your Bets",
   "manaCost": "{1}{R}",
   "manaValue": 2,

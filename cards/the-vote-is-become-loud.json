@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A widescreen film-still of a towering humming elemental of pure sound coalescing above a town green, its translucent body made of vibrating air, dust, and concentric pressure rings rippling outward over a transfixed crowd below, golden afternoon light refracting through the shimmering distortion; picket fences and folding tables tremble in the haze beneath the relentless droning presence, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "the vote is become loud",
   "manaCost": "{🗳}{🗳}{🗳}",
   "manaValue": "quorum",

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A characterful portrait of a wiry goblin rogue darting through a rain-slick alley, a fistful of coins clutched to his chest, counting on his clawed fingers with a furrowed look of slow concentration, a cap pulled low. Amber lamplight catches falling raindrops and the glint of his cut. Shadowy figures gamble at a card table in the background. Mono-black noir of ink shadow and smoky brown, twitchy criminal hustle, composed wide in a 4:3 landscape frame, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Numbers Runner Goblin",
   "manaCost": "{1}{B}",
   "manaValue": 2,

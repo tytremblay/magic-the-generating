@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A widescreen noir film-still of a sweating debtor pinned in a rain-slick alley as two looming goblin enforcers flank him in silhouette, one extending an open expectant palm into a pool of warm amber lamplight, the other half-lost in cigar haze; drizzle streaks the brick, ink-black shadows closing in from all sides, the choice grimly reasonable, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Pay Up or Else",
   "manaCost": "{B}",
   "manaValue": 1,

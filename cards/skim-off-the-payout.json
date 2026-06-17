@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative back-room scene of skimming: a stream of glittering coins spills across a worn card table toward a winner in the amber light, while a shadowed goblin hand reaches up from below to pluck a fat stack into the dark, the coins foreshortened tumbling toward the viewer. Two faint bells hang in smoky brown gloom, cigar haze drifting, quiet larcenous menace. Rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Skim Off the Payout",
   "manaCost": "{B}",
   "manaValue": 1,

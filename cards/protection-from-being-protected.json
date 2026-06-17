@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative scene of a self-referential racket: a glowing legal aura wrapping a hapless permanent like coils of luminous chain made of blank illegible fine print that loops endlessly back on itself, a goblin enforcer's silhouette standing guard nearby. A single amber lamp catches the shimmering coils while the rain-slick room folds into ink-black noir shadow. Rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Protection from Being Protected",
   "manaCost": "{2}{B}",
   "manaValue": 3,

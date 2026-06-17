@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A vast sludge leviathan glides through the black depths of the poisoned reservoir, only its glistening ridged back and one luminous eye breaching the murky green surface as sickly bioluminescence trails through the water. Crumbling treatment towers and a bruised stormy sky loom over the still shoreline. Epic, dread-filled film-still framing of submerged colossal scale, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "The Reservoir Leviathan",
   "manaCost": "{4}{R}{G}",
   "manaValue": 6,

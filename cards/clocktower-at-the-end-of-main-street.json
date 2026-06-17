@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A colossal clock tower with a blank weathered face looms at the end of a deserted main street, rising the full height of the wide frame against a blood-dark sky. Guttering candles flicker at its base where ashen figures gather small in shadow. Cold gold light bleeds from its smoke-wreathed crown like a halo, the lower street swallowed in deep black, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Clocktower at the End of Main Street",
   "type": "Legendary Acorn Land",
   "types": ["Land"],

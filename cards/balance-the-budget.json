@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A wild goblin balancing a glowing slab on his head like a circus act amid election-night chaos, arms flung wide, one foot lifted, sparks and confetti showering up the wide frame against ember-red flame and night-black smoke. Overturned ballot boxes and flying coins blur into orange wash below. A daredevil feat of fiscal absurdity caught mid-wobble, rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Balance the Budget",
   "manaCost": "{2}{R}",
   "manaValue": 3,

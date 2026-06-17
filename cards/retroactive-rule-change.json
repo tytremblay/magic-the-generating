@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A vast ghostly hourglass tips backward as an auditor's gloved hand reaches into a swirling vortex of spent dice and coins, plucking one from history while the rest unwind into cyan-lit smoke. Reality folds in concentric ripples down a beige bureaucratic corridor toward a hazy vanishing point. Epic, dizzying film-still composition of time being rewritten, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Retroactive Rule Change, Effective Last Tuesday",
   "manaCost": "{2}{U}{U}",
   "manaValue": 4,

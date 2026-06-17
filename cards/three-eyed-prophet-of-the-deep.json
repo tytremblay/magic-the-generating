@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A gaunt three-eyed mutant cleric stands waist-deep in toxic reservoir shallows, arms raised mid-sermon, sickly bioluminescent light streaming from gilled flesh as murky green water ripples outward. Rusted pipes and a crumbling treatment plant haze under a bruised stormy sky behind. Heroic low film-still angle of fervent aquatic prophecy at epic depth, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Prophet of the Deep End",
   "manaCost": "{2}{G}",
   "manaValue": 3,

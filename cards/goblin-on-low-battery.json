@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A widescreen film-still of a wiry goblin sputtering and flickering like a dying bulb in a chaotic night-time town square, a faint sickly electric glow stuttering across his skin as he runs on spite alone, posture sagging mid-charge; sparks, embers, and confetti drift around him, overturned boxes and bonfire light in flame orange against night-black smoke, defiant exhaustion, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Goblin on Low Battery",
   "manaCost": "{1}{R}",
   "manaValue": 2,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A goblin wizard in a tattered campaign sash conjuring a curl of flame in one upraised palm, eyes glinting with reckless glee amid the burning town square; firelight washes his grinning face in flame-orange, bonfires and drifting sparks dissolving into ember-red haze and night-black smoke behind him, the spell caught mid-flicker with a tender, dreamy softness, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "Incumbent Pyromancer",
   "manaCost": "{2}{R}",
   "manaValue": 3,

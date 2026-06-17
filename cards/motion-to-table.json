@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ability dissolving into nothing: a fading cyan glyph sinks beneath the surface of a long beige committee table, swallowed and tabled forever, blank smudged folders scattered across the wood, towering cabinets blurred into ivory mist behind, cold humming light pooling on the empty chairs, a quiet melancholic sense of things permanently deferred, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "Motion to Table",
   "manaCost": "{U}",
   "manaValue": 1,

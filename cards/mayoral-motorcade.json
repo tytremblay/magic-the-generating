@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A goblin noble standing triumphant atop a rickety honking cart at the head of a clattering procession, arms thrown wide, a ragtag brass band trailing in a haze of dust and sparks; the carts barrel through the firelit square, overturned boxes and torn bunting smearing into ember-red and night-black smoke, the chaotic parade rendered with a dreamy, almost wistful swirl, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "Mayoral Motorcade",
   "manaCost": "{3}{R}",
   "manaValue": 4,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An uncanny artifact witness: a single enormous unblinking eye set in an ornate floating frame, staring straight out of the wide landscape, ember-orange light catching its glassy iris while the surrounding metal bleeds into night-black smoke. Sparks and confetti drift faintly at the margins from the feral square beyond. All arresting, watchful gaze. A thing that watches the watcher, rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "set": "CHAOS",
   "chaos": 5,
   "name": "Yes, This Card Knows You're Reading It",

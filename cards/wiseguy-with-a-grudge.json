@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A wiry goblin rogue slouched against a rain-slick alley wall in the wide frame, a deadly glint in his eye, one hand resting near a hidden blade, amber lamplight grazing his cheek while his coat bleeds into ink shadow below. Cigar smoke and three years of waiting hang in the smoky-brown haze. All coiled, patient menace. Intimate criminal mood, rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Wiseguy with a Grudge",
   "manaCost": "{2}{B}",
   "manaValue": 3,

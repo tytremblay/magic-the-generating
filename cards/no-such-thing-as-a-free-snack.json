@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The dramatic moment a syndicate platter is offered: a shadowed goblin hand sliding a steaming tray of catered hors d'oeuvres across a back-room table toward grateful unseen guests, a small folded favor token tucked discreetly beneath the dish. A single amber lamp warms the glistening food while cigar smoke and menacing dark fill the room. Rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "No Such Thing as a Free Snack",
   "manaCost": "{1}{B}",
   "manaValue": 2,

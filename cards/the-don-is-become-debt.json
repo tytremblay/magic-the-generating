@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A vast looming embodiment of debt itself: a towering shadowed Don-figure dissolving into the very architecture of a smoky back room, his pinstriped form becoming brown envelopes, doorframes and silence, a single colossal hand outstretched offering a deal to the unseen world. One distant amber lamp glints in the void where his eyes should be, all else swallowed by oppressive ink. Rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "the Don is become debt, collector of worlds",
   "manaCost": "{B}{B}{B}, plus what you already owe",
   "manaValue": "all of it",

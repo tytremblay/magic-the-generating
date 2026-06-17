@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A lone clerk's hand rises mid-gesture in a hushed beige chamber, an upraised palm halting a swirling cyan spell that freezes into drifting motes, faint arcane glow rippling off a stack of blank smudged papers, towering filing cabinets fading into hazy ivory shadow, the moment suspended in oppressive quiet, a tender melancholy in the diffuse light, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "File an Objection",
   "manaCost": "{1}{U}",
   "manaValue": 2,

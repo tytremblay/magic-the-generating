@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ongoing enchantment: a vast ominous gauge mounted on a clock tower, its single needle and blank dial pinned hard to one extreme, cold-gold light bleeding from the glass face into smoke against a blood-dark sky. Ashen figures gather small and upturned at its base among guttering candles. The wide frame towers the dread instrument, one harsh light source at its center, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "The Rapture Index",
   "manaCost": "{2}{W}{B}",
   "manaValue": 4,

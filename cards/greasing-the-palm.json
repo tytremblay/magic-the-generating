@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A tight close-up of two goblin hands clasping in a dim alley, something folded and glinting passing between them in the amber lamplight, the lower hand dissolving into ink shadow. Cigar smoke and rain-haze bleed across the smoky-brown background, the gesture intimate and conspiratorial. A bribe disguised as kindness caught mid-handshake, rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Greasing the Palm",
   "manaCost": "{B}",
   "manaValue": 1,

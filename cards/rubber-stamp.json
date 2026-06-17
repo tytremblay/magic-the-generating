@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ornate hero shot of a heavy wooden rubber stamp standing upright on a beige blotter, its brass handle catching cold cyan light, a wet ink pad beside it and a faint arcane glow pulsing from its blank illegible face, hazy ivory cabinets dissolving behind, dust drifting in the diffuse beam, the object rendered with reverent tender stillness, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "Rubber Stamp of Approval",
   "manaCost": "{W}",
   "manaValue": 1,

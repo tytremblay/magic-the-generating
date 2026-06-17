@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A grinning red imp hovers on ragged bat-wings above a rigged game booth, one clawed arm flung wide in a mid-shout flourish, the other palming a hidden trick, its toothy leer lit by sickly neon and drifting ember sparks. Tattered striped tent behind. The gesture is all huckster motion and glee. Wide landscape, carnival red and hot gold washes bleeding into smoky black. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Carnival Barker Imp",
   "manaCost": "{R}",
   "manaValue": 1,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ordinary human citizen stands on a tidy front lawn clutching a blank clipboard to their chest, brow furrowed with anxious civic worry, peering over a white picket fence at something offscreen in warm golden afternoon light. A crowd of restless townsfolk and a casserole table haze in the leafy-green background. Intimate, characterful film-still framing with deep small-town depth, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Concerned Neighbor",
   "manaCost": "{1}{G}",
   "manaValue": 2,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "Two nearly identical small goblin clerks face each other across a beige counter, one turning away with a regretful gesture, recusing itself, soft cyan light catching their hunched shoulders, a glowing illegible disclosure paper drifting between them, towering hazy cabinets behind dissolving into ivory mist, a tender melancholic standoff softened by chalky diffuse light, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "Declared Conflict of Interest",
   "manaCost": "{W}{U}",
   "manaValue": 2,

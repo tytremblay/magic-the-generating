@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A haggard human doomsayer trudging down a candlelit revival street, a blank weathered sandwich board hung over his shoulders, both sides smudged and wordless, lantern swinging from one raised fist. The doomsday clock tower looms behind through ashen smoke against a blood-dark sky, cold gold light rimming his stooped silhouette, weary end-times conviction, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Sandwich Board Doomsayer",
   "manaCost": "{W}",
   "manaValue": 1,

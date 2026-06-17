@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative scene of ongoing prophecy: a hooded ashen prophet stands beneath a vast looming clock tower, arms outstretched as cold-gold sigils of dice and coins spiral upward through the smoke around their silhouette into a blood-dark sky. Guttering candles ring their feet in the gloom. A single divine shaft of pale gold light pierces the dark, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Predict the Unpredictable",
   "manaCost": "{W}{B}",
   "manaValue": 2,

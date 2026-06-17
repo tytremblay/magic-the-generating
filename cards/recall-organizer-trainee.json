@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An eager young organizer in a rolled-sleeve shirt and lanyard stands proudly amid the town green, juggling a phone, a blank clipboard, and a casserole dish all at once, hair slightly askew with first-week enthusiasm. Behind them, a knot of approving townsfolk and blank placards catches the golden afternoon light. The figure stands tall and bright-eyed, framed by leafy green and warm ivory, composed for a landscape framing, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Recall Organizer Trainee",
   "manaCost": "{G}{W}",
   "manaValue": 2,

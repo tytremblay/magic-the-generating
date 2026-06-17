@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The frozen instant of a friendly correction: a determined townswoman thrusts a casserole dish forward like a shield, steam curling, as a flipped coin hangs mid-spin above her in a blade of golden light, her other hand raised in a polite but unstoppable gesture. Foreshortened arm jutting toward the viewer, picket fence and leafy green crowd dissolving into warm shadow behind, high-contrast and kinetic. Rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Swing the Vote",
   "manaCost": "{G}{W}",
   "manaValue": 2,

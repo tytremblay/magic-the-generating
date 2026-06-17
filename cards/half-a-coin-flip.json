@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The suspended instant of indecision: a silver coin balanced impossibly on its razor edge atop a goblin's outstretched claw, hovering between fates, faint flame-orange light shimmering around it. A single bonfire glow from below catches the coin's edge and the gambler's held breath, the feral town square behind dissolving into smoke-black shadow. Rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Half a Coin Flip",
   "manaCost": "{½}{R}",
   "manaValue": "1½",

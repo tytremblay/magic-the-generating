@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An airy town square bathed in unflinching noon brightness, dozens of soft-focus neighbors leaning over fences and shading their eyes, every gaze converging on a single small figure at the center who seems to shrink beneath the collective watching; sunlight pours like a glaze of accountability across ivory clapboard and leafy hedges, an ongoing hush of scrutiny made visible, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "Sunshine Ordinance",
   "manaCost": "{2}{W}",
   "manaValue": 3,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The chilling instant of a hit: a goblin enforcer's silhouette looming in a rain-slick alley over a fallen rival's hat rolling on wet cobbles, a single wilting flower laid beside it, two favor tokens dropped in the puddle. A lone amber streetlamp throws hard light across the slick stones and the enforcer's grin, the rest devoured by ink-black noir. Rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Whack-a-Rival",
   "manaCost": "{1}{B}{B}",
   "manaValue": 3,

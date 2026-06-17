@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A single gold coin balanced impossibly on its edge atop a worn altar rail, an ashen-robed hand poised to flick it, guttering candle flames haloing the moment, a vast clock tower looming in blood-dark haze behind, bone-white and cold-gold light trembling on the coin, the whole apocalypse hinging on this hush, tender and dreadful, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "Call the Coin of Fate",
   "manaCost": "{1}{W}{B}",
   "manaValue": 3,

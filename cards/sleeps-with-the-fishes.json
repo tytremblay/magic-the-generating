@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A dramatic moment at a rain-slick dock as two goblin gangsters heave a weighted bundle off the edge into the black reservoir, a glinting coin spilling from its pockets to catch the amber lamplight before it sinks, ripples spreading across the deep water. Mist coils, the night swallows the splash. Mono-black noir of ink shadow and smoky brown, hushed criminal finality, composed wide in a 4:3 landscape frame, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Sleeps with the Fishes",
   "manaCost": "{2}{B}",
   "manaValue": 3,

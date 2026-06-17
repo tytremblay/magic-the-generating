@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A widescreen film-still of an endless town-green pageant where a long receding line of identical mayoral figures is each escorted off a sunlit stage by clipboard-wielding citizens, one after another fading into golden haze toward the horizon, the position forever changing hands; empty folding chairs and blank placards litter the trampled lawn, dust hanging in the warm afternoon light, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "The Perpetual Recall",
   "manaCost": "{4}{G}{W}",
   "manaValue": 6,

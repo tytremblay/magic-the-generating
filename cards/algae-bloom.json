@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A dramatic sorcery moment as a stagnant reservoir erupts into thriving toxic life, vivid sickly-green algae swirling and frothing across the water's surface, bioluminescent tendrils creeping over a rusted pipe and swallowing a blank illegible warning placard whole. Bruised stormy sky above the crumbling treatment plant. The blooming green spreads up the wide frame from sludgy base. Wide 4:3 landscape, Gruul murky green and rust red, toxic menace, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Algae Bloom",
   "manaCost": "{1}{G}",
   "manaValue": 2,

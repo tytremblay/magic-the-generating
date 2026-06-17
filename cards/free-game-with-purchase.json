@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A sacrificial bargain at the midway: a small relic crumbling into hot-gold sparks above a barker's outstretched palm, a sign promising nothing rendered as a blank smudged placard, tattered striped tents and rigged wheels hazing into smoky black, ember sparks and sickly neon drifting through carnival-red gloom, a tender sinister transaction, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "Free Game with Purchase",
   "manaCost": "{1}{B}",
   "manaValue": 2,

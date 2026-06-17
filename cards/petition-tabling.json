@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A modest card table and folding chair planted on a sunlit town green, a battered thermos and a clipboard of blank petition pages stacked atop it, growing taller with phantom signatures as warm golden light streams across the grass. Picket fences and casserole tables blur behind in leafy ivory-green; long afternoon shadows stretch from the lone table, quiet civic persistence, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Petition Tabling",
   "manaCost": "{2}{G}",
   "manaValue": 3,

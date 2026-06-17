@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An absurdly elongated red creature stretching upward out of the frame, its body taffy-thin and impossibly tall, tiny startled head lost in the smoke high above a feral town square, only its lower half lit by the riot below. A single bonfire blast rakes ember light up its towering form, the rest vanishing into night-black sky. Rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "set": "CHAOS",
   "chaos": 5,
   "name": "The Creature Is Become Tall",

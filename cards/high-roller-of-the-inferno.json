@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A colossal winged demon gambler lounges upon a smoldering throne high in the wide frame, vast leathery wings spread, casting glowing dice from one clawed hand as embers rain around him over a carnival pit below. Hot-gold and carnival-red light pools at his feet; the rest of his bulk sinks into smoky black. One infernal light source carves his grin, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "High Roller of the Inferno",
   "manaCost": "{3}{B}{R}",
   "manaValue": 5,

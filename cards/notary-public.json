@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A severe elderly notary stands tall behind a counter, raising a heavy rubber stamp mid-strike over a blank illegible document, her wire spectacles flashing in one cold beam. Embossing seals and ticket dispensers crowd the shadowed foreground. The landscape composition towers her against receding beige corridors, faint arcane glow rising from the stamped paper, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Notary of the Public Trust",
   "manaCost": "{2}{W}",
   "manaValue": 3,

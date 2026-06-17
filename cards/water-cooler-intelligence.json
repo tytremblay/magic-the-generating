@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An enchantment scene set around a glowing office water cooler in a beige break room, cyan whispers and curling vapor-tendrils of gossip drifting upward from the bubbling jug toward huddled shadowy cubicle silhouettes. Scattered dice and a coin rest on a nearby counter. The rising whispers draw the eye up the wide frame. Wide 4:3 landscape, cold humming light, faint arcane glow, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Water-Cooler Intelligence",
   "manaCost": "{1}{U}",
   "manaValue": 2,

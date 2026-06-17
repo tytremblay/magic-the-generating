@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A widescreen film-still of a goblin shaman caught mid-coin-flip in a rioting town square at night, a spinning coin frozen in the air casting twin glints across his torn, wavering expression, his body half-bulging with power and half-shrinking in indecision; bonfire embers and confetti swirl around him, overturned boxes behind in flame orange against night-black smoke, eternal undecision, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Swing Precinct Shaman",
   "manaCost": "{2}{R}",
   "manaValue": 3,

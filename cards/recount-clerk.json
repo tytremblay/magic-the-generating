@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A widescreen film-still of a frantic goblin bureaucrat hunched over an overturned ballot box in a burning town square at night, fistfuls of blank slips spilling everywhere as he recounts with crazed devotion, a single oversized die clutched mid-shake in one hand; bonfire glow rims his frenzied features, embers and confetti swirling, flame orange against night-black smoke, obsessive mayhem, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Recount Clerk",
   "manaCost": "{1}{R}",
   "manaValue": 2,

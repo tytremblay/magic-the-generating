@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A frigid climate-controlled vault of humming server racks recedes into icy cyan haze, condensation breath fogging the cold air, tangled cables and blinking arcane glows lining the towering aisles. Frost rims the beige ducts overhead. A vast cathedral of municipal machinery, empty and shivering. Deep one-point-perspective film-still framing of monumental scale, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "The Server Room (Climate Controlled)",
   "manaValue": 0,
   "colors": [],

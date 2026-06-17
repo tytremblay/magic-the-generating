@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ornate hero shot of a single oversized salted pretzel resting on a wax-paper square in amber lamplight, its glossy crust hiding a thin wire and tiny lens glinting between the salt grains, foreshortened toward the viewer. A worn card table edge and a goblin's listening silhouette lurk in the smoky ink-black background, cigar haze drifting, sinister surveillance menace. Rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "The Snack That Was a Wire",
   "manaCost": "{1}{B}",
   "manaValue": 2,

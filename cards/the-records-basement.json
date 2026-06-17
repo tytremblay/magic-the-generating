@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A subterranean archive descends into the wide frame: a narrow iron stair plunges past flickering municipal bulbs into a flooded basement of warped filing cabinets, an out-of-order elevator cage rusting in the dark. A single guttering light reveals papers stirring on their own in the murk. Faint arcane glow rises from the depths below, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "The Records Basement",
   "manaValue": 0,
   "colors": [],

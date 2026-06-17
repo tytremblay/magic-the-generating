@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ongoing crooked enchantment over a felt gaming table: a pair of loaded dice frozen mid-air glowing faintly with sinister warmth, a goblin's clawed hand hovering to nudge their fate, a small treasure coin and a folded favor exchanged in the gloom below. A single amber lamp pools light on the dice while cigar smoke and ink-black shadow swallow the room. Rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Fix the Dice for a Price",
   "manaCost": "{1}{B}",
   "manaValue": 2,

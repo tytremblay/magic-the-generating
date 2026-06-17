@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A weathered timber tithe barn crammed floor to rafters with sacks and stockpiled provisions stands open at the edge of the revival town, cold gold candlelight spilling from its doorway into a smoky blood-dark dusk. The looming clock tower rises beyond, ash drifting across an empty yard. Wide, hushed film-still landscape with deep apocalyptic backdrop and no central figure, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Tithe Barn of the Faithful",
   "type": "Acorn Land",
   "types": ["Land"],

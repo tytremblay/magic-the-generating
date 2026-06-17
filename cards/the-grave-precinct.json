@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A sprawling moonlit graveyard precinct of leaning bone-white headstones and a sagging civic gazebo, rows of plots receding under a blood-dark sky toward a looming clock tower. Guttering candles flicker on the graves; cold gold mist clings low to the ground, drifting ash catching the light. No central figure, only the deathly stillness of the highest-turnout precinct, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "The Grave Precinct",
   "type": "Acorn Land",
   "types": ["Land"],

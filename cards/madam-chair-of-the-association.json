@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A stout, formidable human organizer dominates the wide frame, gavel raised, chin lifted, an unrolled scroll of ancient blank minutes cascading from her grip down the lower third. Warm ivory and leafy-green washes radiate from her like authority made visible, picket-fence suggestions softening into the margins. All commanding gesture, her posture the whole story. Wholesome small-town power, rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Madam Chair of the Neighborhood Association",
   "manaCost": "{3}{G}{W}",
   "manaValue": 5,

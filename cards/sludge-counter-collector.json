@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A swelling translucent ooze brimming inside dented buckets, murky green flesh glowing with sickly bioluminescence as it engulfs rusted pipe-ends, faint drifting litter suspended in its body, bubbling toxic runoff at its base under a bruised stormy sky, rust-red stains streaking the concrete behind, the slime grotesque yet rendered with tender melancholic light, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "Bucket Brigade Ooze",
   "manaCost": "{1}{G}",
   "manaValue": 2,

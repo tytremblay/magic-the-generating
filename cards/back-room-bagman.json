@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A hunched goblin rogue clutching a plain brown envelope to his chest in a rain-slick alley, eyes darting, amber lamplight pooling on wet cobbles below him in the wide frame. Cigar smoke curls into ink-shadow above, a shadowed handshake half-suggested at the margin. All furtive gesture, the envelope the only certainty. Intimate criminal menace, rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Back-Room Bagman",
   "manaCost": "{1}{B}",
   "manaValue": 2,

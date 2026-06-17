@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative scene of unseen croupier hands raking a glittering pile of gold treasure off a rigged carnival table toward a shadowed cashbox, coins cascading in foreshortened streaks toward the viewer. A wheel of fortune and tattered red tents blaze behind in hot gold and sickly neon, dice scattered, ember sparks rising, the inevitable skim of the house, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "The House Cut",
   "manaCost": "{1}{B}",
   "manaValue": 2,

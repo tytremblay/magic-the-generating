@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The tense instant a grimy carnival hand snatches a bag of chips across a rigged game counter in hard foreshortening, the snack thrust toward the viewer as collateral while a wheel of fortune blurs behind. Hot-gold firelight and sickly neon rake the smoky black tent; dice and coins scatter, ember sparks streak, a shakedown in motion, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Snack as Collateral",
   "manaCost": "{B}{R}",
   "manaValue": 2,

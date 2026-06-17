@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A folding banquet table on a sunlit town green crammed with steaming covered casserole dishes and humming warming trays, tangled extension cords snaking off across the grass toward picket fences. Golden afternoon light pours over leafy ivory-and-green surroundings, gentle steam rising in warm shafts, blank lawn placards staked behind. No central figure, just abundant civic comfort, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Casserole Warming Station",
   "type": "Land",
   "types": ["Land"],

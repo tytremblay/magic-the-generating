@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A tense widescreen film-still of townsfolk clustered around a folding table on a sunlit green, fists clenched and faces flushed mid-argument, one finger jabbing emphatically at a small pile of blank slips while others count on their fingers; golden afternoon light rakes across heated expressions and drifting dust, picket fences and a restless crowd dissolving into haze behind, civic fervor curdling, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "We Demand a Recount",
   "manaCost": "{1}{W}",
   "manaValue": 2,

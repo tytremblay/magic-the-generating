@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative scene of a gaunt seer enthroned beneath a colossal cold-gold halo, eyes blazing white, one hand raised over a swirling vortex of floating dice and coins frozen mid-spin, every face foreseen. Ashen congregants kneel in candlelit awe below; the doomsday clock tower looms through smoke against a blood-dark sky, omniscient burden pressing down, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Predict Everything, Forever",
   "manaCost": "{4}{W}{B}",
   "manaValue": 6,

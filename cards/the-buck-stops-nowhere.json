@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ornate hero shot of a gleaming brass potato-shaped charm hovering mid-air above outstretched goblin hands, its polished surface catching firelight as it seems forever in the act of being passed along; bonfire glow and drifting sparks frame it in flame-orange, the riotous square dissolving into ember-red haze and night-black smoke, the object restless and dreamlike, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "The Buck Stops Nowhere",
   "manaCost": "{2}{R}",
   "manaValue": 3,

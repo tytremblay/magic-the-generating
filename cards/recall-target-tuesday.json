@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A single calendar day torn from exile and dragged back into the week, a luminous square of golden afternoon light hauled upward by a rope of green wash, ivory negative space all around like missing days. Small townsfolk silhouettes pull from the lower edge in a tug-of-war of gesture. A dramatic civic reinstatement caught mid-pull, rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Recall Target Tuesday (the rival took our Tuesday and we want it back)",
   "manaCost": "{½}{∞}, and a covered dish",
   "manaValue": "yes",

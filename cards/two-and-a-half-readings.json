@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The magical moment a blank rolled bill splits into two glowing duplicates and a flickering half-formed third that fades into shadow mid-conjuring, pale arcane light arcing between them above a municipal lectern. The wide frame stacks the three copies in receding depth, one cold beam isolating the foremost. Dust and gloom press in around the effect, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Two and a Half Readings of the Bill",
   "manaCost": "{1}{½}{W}{U}",
   "manaValue": 3,

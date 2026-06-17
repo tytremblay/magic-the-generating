@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A dramatic sorcery moment of rapture at midnight: a cluster of figures lifted bodily skyward in a column of cold gold light, dissolving into bright motes as ashen-robed congregants below raise their arms in awe and envy. The vast clock tower and smoke fill the blood-dark sky. The ascending beam draws the eye straight up the wide frame, candlelit crowd at the base. Wide 4:3 landscape, bone white and deep black, sacred dread, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "The Rapture Takes the Loudest First",
   "manaCost": "{3}{W}{B}",
   "manaValue": 5,

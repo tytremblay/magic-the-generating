@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative scene of riotous generosity: a goblin flings fistfuls of glowing snacks into a churning crowd amid a feral town-square bonfire, the treats arcing in flame-orange streaks that double as falling embers, recipients foreshortened lunging toward the viewer. Sparks and confetti swirl against night-black smoke, torn blank bunting overhead, every face lit hungry and gleeful. Rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Free Snacks Policy",
   "manaCost": "{2}{R}",
   "manaValue": 3,

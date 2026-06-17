@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The dramatic instant a vast clock-tower mechanism lurches, its single great blank hand creeping halfway past midnight as cold gold sparks and ash rain down over kneeling ashen-robed figures far below. The blood-dark sky cracks with sickly light. The towering blank clock face dominates the upper wide frame, doom dripping downward. Wide 4:3 landscape, bone white, deep black, and cold gold, solemn end-times dread, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Half Past the Apocalypse",
   "manaCost": "{½}{W}",
   "manaValue": 2,

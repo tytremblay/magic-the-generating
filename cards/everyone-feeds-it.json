@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative scene of a town unwittingly fattening its monster: a poisoned reservoir bulges and ripples as faint hands from every edge of the frame let coins, dice, and slips drift into the murk, the water glowing sickly bioluminescent as a vast shape stirs beneath. Rusted pipes drip above under a bruised sky. Wide landscape, murky green and rust-red washes bleeding into deep teal. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Everyone Feeds It Whether They Mean To",
   "manaCost": "{1}{R}{G}",
   "manaValue": 3,

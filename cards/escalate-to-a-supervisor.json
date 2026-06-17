@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An impossible vertical stairwell of beige supervisor desks climbs into haze, each tier identical and slightly higher, a frightened petitioner at the bottom craning upward as cold cyan glow leaks down from an unreachable summit. The recursion never ends, supervisor above supervisor into the fog. Dramatic low-angle film-still framing emphasizing dizzying height and depth, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Escalate to a Supervisor",
   "manaCost": "{1}{W}{U}",
   "manaValue": 3,

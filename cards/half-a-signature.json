@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "Conjured from a casserole-distracted shrug, one and a half tiny green-and-white voter sprites bloom upward in a tall column, the half-formed one fading mid-figure into a wash that bleeds off at the torso, ink line trailing into nothing. Golden light spills behind a sketched folding table and a dropped clipboard, all gesture and suggestion. A wholesome civic flicker of incompletion, rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Half a Signature",
   "manaCost": "{½}{G}",
   "manaValue": 2,

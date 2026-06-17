@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An endless queue of slumped townsfolk silhouettes snaking through a velvet-rope maze toward a distant service window that never grows closer, the line vanishing into cyan-lit fluorescent haze. A wall ticket dispenser shows a blank smudged numeral; weary shadows pool long across the ivory floor. Steep receding perspective makes the front of the line impossibly far, oppressive and still, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "The Line That Never Moves",
   "manaCost": "{3}{U}{U}",
   "manaValue": 5,

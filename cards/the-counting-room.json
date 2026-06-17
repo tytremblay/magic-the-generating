@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A claustrophobic windowless back room behind the carnival, one shut door and a bare bulb throwing hot gold light over a battered table heaped with sorted coins and stacked bills, ink-stained ledgers and a faint haze of cigarette smoke. No figure, only the airless smell of ink, fear, and small coins. The cramped room recedes upward in the wide frame, money mounded at the base. Wide 4:3 landscape, Rakdos red and smoky black, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "The Counting Room",
   "manaValue": 0,
   "colors": [],

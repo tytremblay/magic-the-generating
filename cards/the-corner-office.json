@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative empty corner office radiating quiet menace: a heavy executive chair behind a vast tidy desk, a single small window opening onto a blank gray wall, faint cyan arcane glow seeping from neat stacks of unmarked forms. Rubber stamps and a coat rack stand sentinel. The room climbs the wide frame, window high, desk anchoring the base. Wide 4:3 landscape, oppressive bureaucratic stillness, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "The Corner Office",
   "manaCost": "{2}{W}",
   "manaValue": 3,

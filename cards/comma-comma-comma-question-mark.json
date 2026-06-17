@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A frenzied punctuation deity conjured from fire: a swirling vortex of glowing ember-orange commas and a single blazing question mark coiling into a panicked sentient knot above a feral town square, sparks and confetti caught in its endless self-counting spin. A single bonfire below casts hard light up into the smoke, the night-black square seething beneath. Rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "set": "CHAOS",
   "chaos": 5,
   "name": ",,, ?",

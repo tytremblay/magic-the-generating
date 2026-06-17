@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A frozen moment of triumph as a winning hand sweeps a glowing pile of dice and hot-gold treasure across a carnival table, snatching the prize while shadowy losers recoil into the smoky black. Lurid neon and ember sparks haze the tattered striped tent behind. Kinetic, theatrical film-still framing of a rigged victory at the midway, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Winner Takes the Snack",
   "manaCost": "{1}{R}",
   "manaValue": 2,

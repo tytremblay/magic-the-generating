@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A theatrical human fortune-teller leans across a velvet table, fingertips pressed to his temples in a grand show of clairvoyance, a single ghostly die hovering in the air before his half-lidded eyes, draped in gaudy scarves lit by sickly neon and candle glow. Tattered tent behind. The gesture is pure flimflam drama. Wide landscape, carnival red and hot gold washes bleeding into smoky black. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "The Great Zalmoxis, Mind-Reader (Allegedly)",
   "manaCost": "{2}{B}",
   "manaValue": 3,

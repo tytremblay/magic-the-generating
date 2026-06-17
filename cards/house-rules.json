@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The dramatic instant a carny's gloved hand slaps down over a rigged wheel of fortune, forcing a tumbling coin and die to be tossed twice as hot gold and red light flare and a sly grin glints in the shadows of a tattered tent. A blank illegible rules placard hangs crooked above. The cheating hand anchors the lower frame, the doubled toss rising upward. Wide 4:3 landscape, carnival red, smoky black, hot gold, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "House Rules",
   "manaCost": "{R}",
   "manaValue": 1,

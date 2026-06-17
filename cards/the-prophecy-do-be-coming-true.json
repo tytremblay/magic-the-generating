@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A vast winged omen-creature of bone-white smoke and cold gold light hurtling down from a blood-dark sky in extreme foreshortening, wings spread to fill the frame, talons outstretched and unstoppable. Ashen congregants scatter below among guttering candles as the doomsday clock tower looms through ash; the entity's faceless head trails prophetic radiance, pure kinetic inevitability, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "The Prophecy Do Be Coming True",
   "manaCost": "{W}{B}, and a bad feeling",
   "manaValue": "soon",

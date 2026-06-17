@@ -5,6 +5,7 @@
   "format": "commander",
   "theme": "Run a single-issue apocalypse campaign: make Prophecies on the table's coins and dice, and feed the shared Doomsday Clock until midnight strikes and Brother Eschaton drains the whole pod.",
   "description": "The end is nigh, and Brother Eschaton is running on it. He has a sandwich board, a tax-exempt status, and a single campaign promise: the world is ending — and he can prove it on a clock you all share. This Orzhov (WB) deck stacks two new layers onto Whateverville's dice and coins. Prophecy: call a coin flip or die result out loud as a card resolves — be right and reap the rewards, be wrong and hasten the apocalypse. The Doomsday Clock: a shared, table-wide doom counter, hosted on Eschaton, that ticks UP every time anyone gambles or a prophecy fails — and at the stroke of midnight (twelve counters) the whole pod pays, while the good Brother profits most. An acorn (Un-set) Commander deck with chaos kept deliberately LOW — almost-functional end-times Orzhov thinning to four colorless chaos-5 fever-dreams. Color-identity and singleton rules are waived for acorn decks.",
+  "artDirection": "Whateverville at the edge of midnight: an apocalyptic street revival of ashen-robed congregants, guttering candles, and a vast looming clock tower against a blood-dark sky. Orzhov palette of bone white, deep black, and cold gold halos. Mood: solemn end-times fervor, smoke and ash and sacred dread — small-town revivalism curdled into apocalypse.",
   "colorIdentity": [
     "W",
     "B"

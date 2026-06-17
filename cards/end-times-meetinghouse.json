@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A humble clapboard meetinghouse stands alone on a midnight rise, warm gold candlelight bleeding from its windows, a steep steeple pointing into a blood-dark sky where a vast clock tower looms beyond. No figures, only the lonely sacred building amid drifting ash and smoke. Wide landscape composition, bone white and cold gold washes against deep black. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "End-Times Meetinghouse",
   "type": "Acorn Land",
   "types": ["Land"],

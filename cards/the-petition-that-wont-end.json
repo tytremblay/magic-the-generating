@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An endless coil of blank smudged parchment scrolls down a town-green folding table and pools across the grass, looping into the foreground in a foreshortened spiral while weary townsfolk bend over it with pens, the front signatories long aged into stooped silhouettes against golden light. Picket fences and ivory casserole tables recede into warm shadow, dust motes hanging. Rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "The Petition That Won't End",
   "manaCost": "{3}{G}{W}",
   "manaValue": 5,

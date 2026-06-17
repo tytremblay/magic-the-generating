@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A characterful portrait of a small unimpressive dragon hovering on lazy wings above the feral town square, clutching a teetering hoard of round wall thermostats and dials instead of gold, its expression blandly indifferent as sparks and confetti swirl past. Bonfire glow lights its dull scales from below, embers drifting. Mono-red palette of flame orange, ember red, and black smoke, deadpan whimsy amid chaos, composed wide in a 4:3 landscape frame, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Room-Temperature Dragon",
   "subtitle": "Surprisingly Lukewarm",
   "manaCost": "{4}{R}{R}",

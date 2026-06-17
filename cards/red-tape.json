@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "Strands of luminous red ribbon coil and bind around an indistinct municipal object, looping upward in tangled gestural ropes that strangle the form and trail off into pale negative space. The red wash bleeds vivid against a cold ivory-and-cyan ground, a single warm intrusion in the drab corridor gloom. Tall constricting composition, motion in every loop. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Red Tape",
   "manaCost": "{1}{W}",
   "manaValue": 2,

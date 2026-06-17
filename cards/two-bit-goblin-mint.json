@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A ramshackle goblin coin-mint built into a town-square alcove, glowing forges spitting flame-orange sparks as a freshly struck coin flips spinning into the air, foreshortened bright toward the viewer, while a sleeping goblin slumps over the press and another winks from the shadows. Overturned ballot boxes and a bonfire flicker beyond in night-black smoke, gleeful shoddy industry, no central character. Rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Two-Bit Goblin Mint",
   "type": "Acorn Land",
   "types": ["Land"],

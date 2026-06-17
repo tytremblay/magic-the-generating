@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A single dread-filled manila folder hovering open above a creature's cowering silhouette, glowing cyan chains of arcane light pinning it down and feeding into an endless wall of filing cabinets behind. The folder's pages are blank and smudged, no statute, no escape; cold fluorescent glare carves the figure's anguished shadow long across the ivory floor, oppressive and inescapable, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "This Goes on Your Permanent Record",
   "manaCost": "{1}{W}",
   "manaValue": 2,

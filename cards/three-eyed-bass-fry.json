@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A clustered school of small three-eyed mutant bass fry hovering just beneath a toxic water surface, every milky third eye fixed slightly past the viewer in unsettling foreshortened close-up. Murky-green bodies catch sickly bioluminescent shafts filtering down past rusted submerged pipes; bruised stormy light wavers above the surface, eerie and watchful, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Three-Eyed Bass Fry",
   "manaCost": "{G}",
   "manaValue": 1,

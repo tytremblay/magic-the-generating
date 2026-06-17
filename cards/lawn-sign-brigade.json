@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A characterful portrait of a fierce red goblin citizen marching through the feral town square hoisting a bundle of blank placards on poles like spears, two smaller goblin minions scrambling at his heels clutching more signs. Sparks and confetti swirl, a bonfire blazes behind, overturned ballot boxes underfoot. Mono-red palette of flame orange, ember red, and black smoke, militant electioneering chaos, composed wide in a 4:3 landscape frame, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Lawn Sign Brigade",
   "manaCost": "{2}{R}",
   "manaValue": 3,

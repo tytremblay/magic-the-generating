@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A cheerful human organizer mid-motion behind a folding table, arms spread over casseroles and a covered dish, a faint green-and-white voter sprite rising from the steam at the table's edge. Golden light pools across the ivory cloth, picket fences and a bullhorn dissolving into washes behind. All warm gesture and bustle, suggestion over detail. Wholesome organizing energy, rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Snack Table Coordinator",
   "manaCost": "{1}{G}{W}",
   "manaValue": 3,

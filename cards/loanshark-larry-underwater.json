@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A characterful portrait of a sodden goblin spirit rising dripping from black reservoir water at the foot of a rain-slick dock, weeds tangled in his collar, a waterlogged clipboard clutched proudly in one clawed hand and a smug ghostly grin on his face. Amber dock lamplight ripples across the surface, mist coiling upward. Mono-black noir of ink shadow and smoky brown, eerie undrowned menace, composed wide in a 4:3 landscape frame, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Loanshark Larry, Last Seen Underwater",
   "manaCost": "{2}{B}{B}",
   "manaValue": 4,

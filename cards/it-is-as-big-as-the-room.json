@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A colossal sludge kaiju heaving its dripping bulk out of the poisoned reservoir, a glistening mountain of murky green ooze studded with mismatched eyes and bioluminescent veins, rusted pipes and crushed concrete sloughing off its flanks beneath a bruised stormy sky. The reservoir loves a warm day. The towering horror fills the wide landscape frame top to bottom, dwarfing the ruined plant. Wide 4:3 landscape, Gruul green and rust red, swelling toxic menace, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "It Is As Big As the Room Is Warm",
   "manaCost": "{3}{R}{G}",
   "manaValue": 5,

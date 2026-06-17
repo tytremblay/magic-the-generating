@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative scene of a hulking green sludge-mass looming over a crooked reservoir-side ballot box, extending a dripping pseudopod to stuff a blank illegible ballot inside, bioluminescent ooze trailing across rusted pipes beneath a bruised stormy sky. It votes for whatever feeds it most. The brooding ooze fills the wide frame, the lone ballot box small at its base. Wide 4:3 landscape, Gruul murky green and rust red, toxic menace, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "The Thing Votes for Itself",
   "manaCost": "{2}{R}{G}",
   "manaValue": 4,

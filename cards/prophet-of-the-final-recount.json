@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A wild-eyed ashen-robed human prophet stands mid-prophecy on an overturned crate, one arm flung skyward as a glowing six-sided die tumbles overhead haloed in cold gold, the other hand pressed to the heart in fervent conviction. The looming clock tower and smoke fill the blood-dark sky behind. The prophet rises through the wide frame, candlelit congregants below. Wide 4:3 landscape, bone white and deep black, end-times dread, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Prophet of the Final Recount",
   "manaCost": "{2}{W}",
   "manaValue": 3,

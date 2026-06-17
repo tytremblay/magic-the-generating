@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A widescreen film-still of a wild-eyed goblin saboteur sprinting through a chaotic town square at night, clutching a sparking, fuse-lit ballot box to his chest with a manic grin, embers and confetti trailing behind him; overturned boxes and bonfire glow rim his silhouette in flame orange against night-black smoke, torn blank bunting whipping overhead, gleeful anarchic mayhem, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Ballot Box Bomber",
   "manaCost": "{2}{R}",
   "manaValue": 3,

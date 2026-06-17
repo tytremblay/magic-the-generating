@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A goblin herald mid-bellow on a barrel, one hand cupped to his mouth, the other shaking a crumpled blank scroll, flame-orange wash and sparks bursting from his cry up the wide frame against night-black smoke. The feral square riots behind, confetti drifting. All animated proclamation and breathless gesture. Gleeful anarchic mayhem, rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Town Crier Goblin",
   "manaCost": "{R}",
   "manaValue": 1,

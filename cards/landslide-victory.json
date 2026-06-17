@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The chaotic instant of a snap election: a ring of hands slamming down on a long table all at once amid an election-night riot, goblins roaring around a triumphant figure raised on shoulders, coins and confetti flung into the ember air. A single bonfire blast lights the blur of pounding fists, the rioting square swallowed by night-black smoke. Rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Landslide Victory",
   "manaCost": "{3}{R}{R}",
   "manaValue": 5,

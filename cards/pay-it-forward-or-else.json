@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A scene of debt flowing both ways: dim chains of golden lamplight loop between shadowed goblin figures across a rain-slick alley, gifts and tokens passing hand to hand in a closed circle that bleeds into ink-black smoke. Cigar haze drifts upward through the wide frame, the ongoing economy rendered as endless tangled threads of obligation. A creeping criminal magic, rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Pay It Forward (Or Else)",
   "manaCost": "{2}{B}",
   "manaValue": 3,

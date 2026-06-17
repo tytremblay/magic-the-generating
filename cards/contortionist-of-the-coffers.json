@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A sinewy carnival contortionist folded impossibly into a small lacquered strongbox, limbs wrapped about herself, one venom-dark hand reaching out with a deathtouch gleam toward the viewer, her smile catching sickly neon. Tattered striped tent walls and drifting embers frame the tall composition in smoky black. A single lurid firelight source isolates her contorted form, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Contortionist of the Coffers",
   "manaCost": "{2}{B}",
   "manaValue": 3,

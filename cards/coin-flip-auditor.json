@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A stern woman in a drab municipal blazer fills the wide frame, clutching a clipboard with blank smudged pages to her chest, a tarnished coin frozen spinning above her upturned palm. One cold overhead light carves her face from the surrounding dark, glinting in narrowed eyes. Beige filing cabinets dissolve into shadow behind her. A faint uncanny glow seeps from the paper, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Coin-Flip Auditor",
   "manaCost": "{1}{U}",
   "manaValue": 2,

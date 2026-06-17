@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ongoing-magic scene of a municipal tax window where coins and tumbling dice pour from a glowing arcane chute into a cold cyan collection slot, siphoning faint life-mist upward toward a stern stamp pressing down. Beige cabinets and ticket dispensers frame the relentless levy. The flow of coins climbs the wide landscape frame. Wide 4:3 landscape, oppressive bureaucratic stillness, faint arcane glow, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "The Recreational Gambling Tax",
   "manaCost": "{1}{W}{U}",
   "manaValue": 3,

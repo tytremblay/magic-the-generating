@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A wild-eyed human prophet in tattered bone-white robes flung backward mid-rapture, arms spread, dissolving upward into cold gold light as ashen congregant silhouettes are dragged skyward with him in foreshortened streaks. The doomsday clock tower looms against a blood-dark sky, candles snuffing, smoke and embers spiraling around his ecstatic anguished face, kinetic ascension, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "False Prophet of Whateverville",
   "manaCost": "{1}{W}",
   "manaValue": 2,

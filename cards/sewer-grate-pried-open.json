@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The dramatic instant a heavy iron sewer grate is wrenched up and flung aside, sickly green light and bioluminescent steam venting from the black hole as a glistening sludge-limb erupts upward to join a brawl. Rusted pipes and toxic puddles ring the breach under a bruised stormy sky. The bursting limb and torn grate climb the wide landscape frame from a dark drain. Wide 4:3 landscape, Gruul murky green and rust red, toxic menace, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Sewer Grate, Pried Open",
   "manaCost": "{G}",
   "manaValue": 1,

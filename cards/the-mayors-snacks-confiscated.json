@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A triumphant moment on the town green as a stern townswoman sweeps an absurdly lavish spread of cookies, casseroles, and wrapped treats off a folding table straight into a giant canvas tote bag, crumbs and a tumbling pastry frozen mid-air. Onlookers gasp and grin, blank placards and picket fences behind. Golden afternoon light bathes the heist of refreshments, green and ivory tones, comic civic justice composed wide in a 4:3 landscape frame, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "The Mayor's Snacks, Confiscated",
   "manaCost": "{1}{G}{W}",
   "manaValue": 3,

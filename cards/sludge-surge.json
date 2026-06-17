@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A dramatic moment as a wall of toxic green sludge breaches a crumbling spillway and floods outward in every direction, sickly bioluminescent froth surging across drowned lawns and rusted pipes under a bruised stormy sky. Drifting litter rides the indiscriminate wave. Wide, kinetic film-still framing of an unaimable flood at epic scale, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Sludge Surge",
   "manaCost": "{1}{R}{G}",
   "manaValue": 3,

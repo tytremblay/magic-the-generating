@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A dramatic moment as a cluster of straining townsfolk haul on knotted ropes to wrench an entrenched municipal fixture clean out of the town green, dark tangled roots ripping free of the soil in a shower of dirt clods, the object tilting against a bright sky. Onlookers cheer, picket fences and casserole tables behind. Golden afternoon light, leafy green and ivory, gleeful uprooting energy composed wide in a 4:3 landscape frame, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Uproot the Incumbent",
   "manaCost": "{2}{G}",
   "manaValue": 3,

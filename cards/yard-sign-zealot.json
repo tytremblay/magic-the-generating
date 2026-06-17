@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A characterful portrait of a frenzied red goblin soldier charging across a torn-up lawn in the feral town square, a blank placard clutched like a battle standard and a mallet swinging, divots of grass flying behind his pounding feet. Sparks and confetti rain, a bonfire blazes, overturned ballot boxes scattered around. Mono-red palette of flame orange, ember red, and black smoke, zealous lawn-trashing fervor, composed wide in a 4:3 landscape frame, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Yard Sign Zealot",
   "manaCost": "{2}{R}",
   "manaValue": 3,

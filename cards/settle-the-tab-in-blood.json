@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A reckoning at the carnival counter: a heavy ledger lying open with blank smudged pages glistening dark red, a clawed accountant's hand resting upon it, hot-gold lamplight and ember sparks bleeding through carnival-red haze, tattered tents and rigged wheels fading into smoky black, the dreadful settling of accounts rendered with tender grim stillness, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "Settle the Tab in Blood",
   "manaCost": "{2}{B}{R}",
   "manaValue": 4,

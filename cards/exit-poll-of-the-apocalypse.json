@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A line of ashen-robed congregants murmuring predictions outside a candle-lit revival tent, a clipboard-bearing figure recording answers as a vast clock tower looms toward midnight in blood-dark haze, bone-white faces lit by cold gold candleglow and drifting ash, an air of doomed civic ritual, solemn and tender, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "Exit Poll of the Apocalypse",
   "manaCost": "{1}{W}{B}",
   "manaValue": 3,

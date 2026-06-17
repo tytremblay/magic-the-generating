@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A stooped human bureaucrat stands sentinel before a soaring wall of filing cabinets that vanishes into the upper darkness, one hand sliding a blank ghostly folder into a drawer that glows faint cyan from within. His gesture is patient, eternal, almost priestly; ink lines suggest a long coat and tired eyes more than render them. Wide sweep, cold ivory light. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Commissioner of Continuity",
   "manaCost": "{3}{W}",
   "manaValue": 4,

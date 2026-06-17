@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative scene of an ever-swelling jackpot: a great glass prize cylinder towers in the frame, brimming and overflowing with hot-gold treasure coins that spill endlessly down its sides, pulsing with greedy light amid tattered tents and lurid carnival glow. Ember sparks rise. The ongoing magic is bottomless temptation. Wide landscape, carnival red and hot gold washes bleeding into smoky black. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "The Pot Grows",
   "manaCost": "{2}{B}",
   "manaValue": 3,

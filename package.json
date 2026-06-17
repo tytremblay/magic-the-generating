@@ -7,7 +7,9 @@
   "scripts": {
     "validate": "node scripts/validate.mjs",
     "build": "node scripts/build-manifest.mjs",
-    "dev": "node scripts/build-manifest.mjs && node scripts/serve.mjs"
+    "dev": "node scripts/build-manifest.mjs && node scripts/serve.mjs",
+    "art": "node scripts/gen-art.mjs",
+    "art:all": "node scripts/gen-art-all.mjs"
   },
   "devDependencies": {
     "ajv": "^8.17.1"

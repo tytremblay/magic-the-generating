@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A lumbering mutant goblin fused with the rusted frame of a vending cart, murky-green flesh bulging through its dented panels glowing with sickly bioluminescence, a pleading hungry expression on its half-snack face, bubbling toxic runoff and drifting litter around its wheels under a bruised stormy sky, grotesque yet tender in the murky light, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "Snack Cart Mutant",
   "manaCost": "{1}{R}",
   "manaValue": 2,

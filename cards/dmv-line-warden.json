@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A weary human bureaucrat in drab municipal uniform plants himself like an immovable bollard behind a velvet rope at a service window, arms crossed, a blank illegible number dispenser glowing faintly beside him. Behind, an endless beige queue snakes back into fluorescent gloom. Bold readable silhouette dominates the lower frame while the corridor recedes upward. Wide 4:3 landscape, cold cyan glow, oppressive stillness, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "DMV Line Warden",
   "manaCost": "{1}{W}",
   "manaValue": 2,

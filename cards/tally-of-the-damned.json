@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative scene of a great open ledger floating in a smoky midnight chapel, its blank illegible pages glowing as ghostly coins and dice tumble in and ignite into cold gold tally-marks, while the looming clock tower gains a fresh doom-mark in the blood-dark sky. The self-writing book hovers high in the wide frame, ash drifting below. Wide 4:3 landscape, bone white and deep black, sacred dread, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Tally of the Damned",
   "manaCost": "{1}{B}",
   "manaValue": 2,

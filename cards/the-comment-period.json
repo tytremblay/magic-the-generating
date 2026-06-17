@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A lone figure stands at a microphone podium in an empty beige hearing chamber, mouth open in endless speech, breath rendered as a thin bleeding ribbon of cyan wash rising toward distant vacant seats above. Time pools and stalls; the negative space swallows their voice. Wide landscape composition, cold humming light, drab uncanny hush. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Mandatory Public Comment Period",
   "manaCost": "{3}{W}{U}",
   "manaValue": 5,

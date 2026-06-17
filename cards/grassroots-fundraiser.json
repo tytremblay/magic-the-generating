@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A living plant creature rooted directly into a suburban front lawn, its trunk a knot of grassy fibers sprouting clover-leaf hands and a face of mossy bark, golden coins of pollen drifting from its blossoms. A single warm shaft of late sun spotlights it against the brooding dark of a picket fence, dewdrops glinting like impasto flecks. Rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Grassroots Fundraiser",
   "manaCost": "{1}{G}",
   "manaValue": 2,

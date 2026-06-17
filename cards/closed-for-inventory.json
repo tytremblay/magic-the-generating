@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A locked frosted-glass office door looming in extreme foreshortened close-up, its blank smudged paper sign curling at one taped corner, an illegible taped clock face beside it casting a hard cyan glow. Beyond the rippled glass, towering filing-cabinet silhouettes vanish into humming fluorescent murk, while a faint arcane shimmer leaks under the threshold across a cold ivory floor, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Closed for Inventory",
   "manaCost": "{2}{U}",
   "manaValue": 3,

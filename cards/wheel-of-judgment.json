@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A dramatic moment of a great spinning wheel of judgment mounted before the clock tower at midnight, its blank unmarked segments blurring in cold gold light as a tumbling six-sided die hovers above it and ashen-robed figures kneel in dread below. Sparks and ash whirl off the wheel's rim. The wheel dominates the upper wide frame, doom raining down. Wide 4:3 landscape, bone white, deep black, and cold gold, end-times fervor, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Wheel of Judgment",
   "manaCost": "{2}{W}{B}",
   "manaValue": 4,

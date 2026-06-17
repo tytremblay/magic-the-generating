@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A human volunteer woman mid-shout, mouth wide and head thrown back, throat straining, no megaphone needed as visible ripples of sound bend the warm air around her and scatter dust. One fist clenches a blank rolled placard. A single low light blazes against her face and the cords of her neck, the agitated crowd dissolving into gloom behind. Rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "The Loudest Volunteer",
   "manaCost": "{1}{G}{W}",
   "manaValue": 3,

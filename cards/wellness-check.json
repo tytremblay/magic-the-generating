@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A floating clipboard hovers at eye level in a deserted beige City Hall corridor, a cold cyan arcane glow pulsing along its blank illegible page as an unseen verdict descends. Below it, a lone trembling silhouette of a worker is half-dissolved in light, judged. Receding fluorescent tubes stretch to a hazy vanishing point. Composed as a wide film-still with deep perspective, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Compliance Wellness Check",
   "manaCost": "{2}{W}",
   "manaValue": 3,

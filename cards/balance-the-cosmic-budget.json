@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The reckoning moment: ashen-robed congregants kneel in a ring as a vast cold-gold scale descends from a blood-dark sky, each pan stripped to a single bone-white relic while the rest crumbles to ash spiraling upward. Guttering candles ring the foreground; a looming clock tower silhouettes the smoke. One halo of cold gold light pierces the gloom, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Balance the Cosmic Budget",
   "manaCost": "{2}{W}",
   "manaValue": 3,

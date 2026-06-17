@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ongoing enchantment: a strange humming contraption of brass dials, wound clipboards, and a brassy bullhorn fused into one civic machine, glowing warm gold at its seams as ghostly threads of light connect it to neighbors gathered around a folding table on a sunlit town green. The wide frame towers the device, one golden afternoon light source isolating it against leafy shadow, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Civic Engagement Engine",
   "manaCost": "{3}{G}{W}",
   "manaValue": 5,

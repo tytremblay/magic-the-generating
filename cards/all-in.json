@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The reckless instant a gambler shoves an entire glittering stack of gold treasure and tokens toward the center of a felt table while a fistful of six-sided dice tumbles loose mid-throw, hot gold sparks scattering. Tattered carnival tent stripes loom in smoky black behind. The wide frame stacks the spilling hoard upward, one firelit source raking the chips, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "All In",
   "manaCost": "{2}{B}{R}",
   "manaValue": 4,

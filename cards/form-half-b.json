@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The dramatic moment a single municipal form tears clean down its middle, one ragged half dissolving into cyan light and drifting paper scraps, the surviving half still gripped by a disembodied bureaucrat's hand thrust toward the viewer in steep foreshortening. A rubber stamp falls away, its blank impression smudged and illegible, cold fluorescent glare raking across torn fibers, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Form ½-B (Partial Filing)",
   "manaCost": "{½}{W}",
   "manaValue": 1,

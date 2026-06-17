@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A dramatic moment as a single square day torn from existence is sucked upward into a swirling vortex of flame and smoke above the rioting town square, its blank face crumbling into glowing embers that scatter against the night, leaving a dark ragged hole in the air where it once was. Goblins below shield their eyes. Mono-red palette of flame orange, ember red, and black smoke, surreal calendrical erasure, composed wide in a 4:3 landscape frame, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "set": "CHAOS",
   "chaos": 5,
   "name": "Exile Target Tuesday",

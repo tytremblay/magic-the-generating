@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A hefty mutant snapping turtle hauling itself onto a slick of bioluminescent green sludge, three baleful eyes glinting above a hooked beak, its mossy rust-pitted shell crusted with toxic algae and clinging litter. It intends to outlive a fifth mayor. Rusted pipes and bubbling muck frame it under a bruised stormy sky. The vigilant turtle anchors the central wide frame, glow rising behind. Wide 4:3 landscape, Gruul murky green and rust red, toxic menace, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Three-Eyed Snapping Turtle",
   "manaCost": "{2}{G}",
   "manaValue": 3,

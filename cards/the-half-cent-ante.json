@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative scene of a worn carnival card table where a growing facedown ante pile glows faintly hot-gold at its center, shadowy hands sliding cards into the stack from every side under a single hanging bulb. Endless tattered tents and scattered coins recede into smoky black haze. Brooding overhead film-still framing of a wager that never ends, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "The Half-Cent Ante",
   "manaCost": "{½}{B}",
   "manaValue": 2,

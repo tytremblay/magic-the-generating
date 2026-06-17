@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A regal bearded human fortune teller leaning into a glowing crystal orb in foreshortened close-up, ringed fingers spread above it, her bearded face half-lit hot gold and half lost to smoky black. Tarot-like blank cards fan beside her on velvet; tattered striped tents and lurid neon glow behind through ember-flecked carnival haze, mysterious and commanding, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "The Bearded Lady, Soothsayer",
   "manaCost": "{2}{B}",
   "manaValue": 3,

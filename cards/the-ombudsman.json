@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A weary human bureaucrat half-rises from behind a service counter, caught mid-shrug, one hand lifted in reluctant greeting, the other still anchored to the desk as if longing to stay seated. Cold fluorescent light flattens his rumpled cardigan; a faint cyan glow leaks from blank forms beside him. Tall framing, gesture of obligation over fine detail. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "The Reluctant Ombudsman",
   "manaCost": "{1}{W}{U}",
   "manaValue": 3,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ornate hero shot of a grand bureaucratic cabinet of brass and dark wood, its many tiny council seats empty save for a single enormous coin spinning on a velvet pedestal at its heart, throwing flame-orange light and a sundial of long shadow spokes across the chamber. The coin foreshortened gleaming toward the viewer, embers and smoke drifting, sparks against night-black gloom, absurd ceremonial grandeur. Rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "The Coin-Flip Cabinet",
   "manaCost": "{2}{R}{R}",
   "manaValue": 4,

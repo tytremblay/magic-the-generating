@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A sunlit patchwork of raised garden beds stretches across a fenced town green, leafy tomato vines tangling with neat rows of seedlings and one wildly overgrown mystery plot, folding tables and a leaning trellis catching golden afternoon light. No central figure, only the cozy civic plots. Wide landscape composition, leafy green and warm ivory washes bleeding into golden glow. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Community Garden Plot",
   "type": "Land",
   "types": ["Land"],

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A weathered carnival performer flexing in a tattered vest, his skin a dense map of inked dice, coins, and probability symbols crowding every inch of bare arm and chest, striking a showman's pose under hot gold spotlight amid striped tents and ember sparks. Every tattoo a probability he survived, running out of skin. The figure dominates the central wide frame, firelight below. Wide 4:3 landscape, carnival red and smoky black, sinister festivity, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "The Tattooed Man of Statistics",
   "manaCost": "{2}{B}{R}",
   "manaValue": 4,

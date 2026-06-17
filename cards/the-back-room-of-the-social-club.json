@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A widescreen film-still of a cramped, smoke-hazed social-club back room after dark, a single low amber lamp casting a warm pool over a worn felt card table ringed by empty chairs, glasses and a chipped bottle catching the glow; ink-black shadows swallow the peeling walls, a heavy curtained doorway hinting at deeper secrets, no figures present, intimate criminal stillness, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "The Back Room of the Social Club",
   "type": "Acorn Land",
   "types": ["Land"],

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A surging wall of ordinary townsfolk charging downhill across a sunlit town green in foreshortened low-angle fury, blank lawn placards raised like spears, the front rank pounding toward the viewer with grim resolve. Golden afternoon light backlights the swelling crowd, leafy green and ivory dust kicked up underfoot, picket fences splintering ahead, an unstoppable civic stampede, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Landslide of the People",
   "manaCost": "{4}{G}{W}",
   "manaValue": 6,

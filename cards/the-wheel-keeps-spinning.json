@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative scene of a colossal rigged wheel of fortune filling the frame, its blank glyphless segments smeared into a spinning hot-gold blur that will never stop, a small silhouetted figure splayed and bound across its face mid-rotation in steep foreshortening. Smoky black carnival void surrounds it, ember sparks and scattered dice caught in the centrifugal whirl, inescapable motion, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "the wheel keeps spinning and you are on it now",
   "manaCost": "{∞}, then a coin you'll never get back",
   "manaValue": "yes",

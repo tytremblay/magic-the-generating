@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ornate hero shot of a rusted, dented snack-vending cabinet half-swallowed by mutant overgrowth at the reservoir's edge, its compartments bulging with bloated, furred, sickly-glowing packages of long-expired food, murky green ooze dripping from the seams. Bruised stormy sky and rusted pipes haze behind it. Reverent low film-still angle isolating the toxic relic, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Expired Snack Cache",
   "manaCost": "{1}{R}",
   "manaValue": 2,

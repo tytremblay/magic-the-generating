@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A meticulous goblin advisor in spectacles and pinstripes hunched over a back-room desk, sliding beads on an abacus while stacks of favor tokens and brown envelopes pile beside an open ledger, a thin satisfied smile as he finds one more hidden debt. A single amber lamp gilds his lenses and the coins, cigar smoke hazing the ink-black room behind. Rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "The Syndicate Accountant",
   "manaCost": "{2}{B}",
   "manaValue": 3,

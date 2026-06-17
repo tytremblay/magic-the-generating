@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A lean grinning red devil gambler mid-leap, one clawed hand flicking a glinting coin skyward in extreme foreshortening, the coin frozen tumbling at the very top of the frame. Carnival-red tents, rigged wheels of fortune and strings of lurid neon blaze behind through smoky black; ember sparks streak past his horns, hot-gold firelight carving his manic face, all-in kinetic menace, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Double-or-Nothing Devil",
   "manaCost": "{1}{B}{R}",
   "manaValue": 3,

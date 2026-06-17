@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A weathered middle-aged man in a cheap windbreaker stands sentinel on a suburban front lawn at golden hour, jaw set, gripping a battered flashlight whose beam cuts the dusty haze, picket fence and tidy yards stretching behind him in deep focus; shot from a heroic low film-still angle, his silhouette monumental against the warm ivory sky, civic paranoia in his squint, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Neighborhood Watch Captain",
   "manaCost": "{2}{W}",
   "manaValue": 3,

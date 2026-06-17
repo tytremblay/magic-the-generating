@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A juvenile sludge kaiju charges through the toxic reservoir shallows, lean and snarling, runoff and litter sheeting off its mutated hide as sickly bioluminescence flickers along its spine, already monstrous despite its youth. Crumbling pipes and a bruised stormy sky blur behind in motion. Dynamic low film-still angle of hasty, trampling menace, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Reservoir Kaiju, Juvenile",
   "manaCost": "{3}{R}{G}",
   "manaValue": 5,

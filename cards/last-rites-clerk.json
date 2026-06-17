@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A gaunt cleric in ashen robes bows over a dying ember of a candle, calmly closing a blank ledger with bone-white hands, a cold-gold halo glinting at his hooded crown. Guttering candles surround him in the dark; a looming clock tower fades into the blood-dark sky behind. One solemn light source isolates his downturned face, smoke curling upward, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Last Rites Clerk",
   "manaCost": "{2}{B}",
   "manaValue": 3,

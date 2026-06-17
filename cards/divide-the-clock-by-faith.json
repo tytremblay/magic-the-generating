@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The dramatic moment of a holy miscalculation: a great looming clock tower face, left blank, cracks open along jagged gold fault-lines as a column of cold light tears upward into a blood-dark sky, ashen congregants below recoiling from the heavens splitting like a thrown exception. Smoke and sacred dread spiral up. Bone white and gold washes bleeding into deep black. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Divide the Clock by Faith",
   "manaCost": "{0}",
   "manaValue": 0,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The sly instant of theft: a goblin's clawed fingers pinching a single warm coin from the top of an open cash drawer in a dim back room, a treasure stack glinting beside an open ledger, his other hand already pocketing the take. A lone amber lamp lights the coin and his sidelong grin, cigar smoke drifting through the surrounding ink-black gloom. Rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Skimming the Till",
   "manaCost": "{1}{B}",
   "manaValue": 2,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A persuasive human petitioner leaning in close to an unseen undecided voter, one hand gently turning a spinning silver coin in the warm air, the other offering a covered casserole dish, a knowing patient smile on his face. A single lamp gilds his cheek and the glinting coin while the rest of the porch sinks into deep brooding shadow. Rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Undecided-Voter Whisperer",
   "manaCost": "{2}{W}",
   "manaValue": 3,

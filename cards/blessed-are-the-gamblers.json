@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative midnight-revival scene of ashen-robed congregants kneeling around a guttering candle, hands raised in fervor as tumbling dice and a spinning coin hover above them wreathed in cold gold halo-light that pours down as healing radiance. A vast clock tower looms in the blood-dark sky. The worshippers anchor the base, the blessing rising up the wide frame. Wide 4:3 landscape, bone white and deep black, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Blessed Are the Gamblers",
   "manaCost": "{1}{W}",
   "manaValue": 2,

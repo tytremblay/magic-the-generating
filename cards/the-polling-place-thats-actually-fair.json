@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A modest, honest polling station at golden hour: a single slightly wobbling folding table draped in plain ivory cloth, an empty cardboard voting booth with a blank curtain, a tidy stack of unmarked papers, a leafy potted plant beside it. Warm low sun streams through a window onto the scene while the surrounding hall recedes into brooding shadow. No central figure. Rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "The Polling Place That's Actually Fair",
   "type": "Land",
   "types": ["Land"],

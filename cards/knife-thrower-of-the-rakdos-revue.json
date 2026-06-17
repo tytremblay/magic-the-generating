@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A wiry human knife-thrower twists mid-throw, face pointedly turned away, one arm whipped across the body releasing a glinting blade toward a spinning target wheel at the frame's edge, sickly neon catching the steel. Tattered striped tent and drifting embers behind. The gesture is cocky, dangerous motion. Wide landscape, carnival red and hot gold washes bleeding into smoky black. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Knife-Thrower of the Rakdos Revue",
   "manaCost": "{1}{R}",
   "manaValue": 2,

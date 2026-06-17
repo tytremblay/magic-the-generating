@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A heaving sludge horror rears up from a flooded gutter, a gaping mouth lined with jagged teeth opening within its dripping green mass as blank paper slips swirl down into it, glistening rivulets of bioluminescent ooze trailing off its bulk. Rusted pipes loom behind under a bruised sky. The gesture is gluttonous, swelling menace. Wide landscape, murky green and rust-red washes bleeding into sickly glow. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Ballot Devourer",
   "manaCost": "{2}{G}",
   "manaValue": 3,

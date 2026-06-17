@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A monstrous three-eyed mutant catfish surging up from a toxic reservoir in steep foreshortening, vast whiskered head and gaping maw thrust toward the viewer, slick scales glistening rust-red and murky green. Rusted pipes and crumbling concrete loom behind under a bruised stormy sky, sickly bioluminescence rippling off its bloated flanks, an unkillable bottom-dweller, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Incumbent Catfish",
   "manaCost": "{2}{R}{G}",
   "manaValue": 4,

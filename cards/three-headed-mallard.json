@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A bloated mutant mallard flaps up off the toxic water, three mismatched heads on craning necks pointing in three discordant directions, bioluminescent droplets flinging from its oily wings, webbed feet trailing green scum. Rusted pipes loom behind under a bruised sky. The gesture is ungainly, chaotic flight. Wide landscape, murky green and rust-red washes bleeding into sickly glow. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Three-Headed Mallard",
   "manaCost": "{1}{G}{G}",
   "manaValue": 3,

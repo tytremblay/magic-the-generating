@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "Twin identical office doorways flanking a vanishing corridor, each opening onto the same mirrored room of stacked carbon-copy forms, the duplication dizzying and recursive. A single rubber stamp hovers mid-strike, casting two overlapping shadows on a blank stapled page, cyan glow doubling along the receding cabinets. Steep one-point perspective rams the viewer down the hall, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Department of Redundancy Department",
   "manaCost": "{2}{U}",
   "manaValue": 3,

@@ -99,29 +99,42 @@ body {
   border-bottom: 1px solid #34373f;
 }
 
-/* ---- Card frame ---- */
+/* ---- Card frame (Whateverville set) ----
+   Every card shares one civic-paper treatment: a dark deckled border, a shared
+   parchment grain laid over the color tint, and crisp "holding lines" around
+   every element — so White through Black and the un-set cards all read as one
+   set. Only the --frame tint changes per color identity. */
 .card {
   width: var(--card-w);
   aspect-ratio: 63 / 88;
   border-radius: var(--card-r);
-  padding: 9px;
-  background: #060606;
-  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.5);
+  padding: 8px;
+  background: linear-gradient(160deg, #232017, #0c0b08 60%);
+  box-shadow:
+    0 6px 20px rgba(0, 0, 0, 0.5),
+    inset 0 0 0 1px rgba(180, 160, 110, 0.25);
   color: var(--ink);
   font-family: "Times New Roman", Georgia, serif;
   display: flex;
   flex-direction: column;
 }
 
-/* Inner frame, tinted by color identity */
+/* Inner frame, tinted by color identity but carrying a shared paper grain so the
+   whole set looks like it came off one municipal printing press. */
 .card-inner {
   flex: 1;
-  border-radius: 3px;
+  border-radius: 4px;
   padding: 7px;
   display: flex;
   flex-direction: column;
   gap: 6px;
-  background: var(--frame, linear-gradient(160deg, #d9d2c4, #b9b1a0));
+  background:
+    repeating-linear-gradient(0deg, rgba(0,0,0,0.035) 0 1px, transparent 1px 3px),
+    repeating-linear-gradient(90deg, rgba(255,255,255,0.04) 0 1px, transparent 1px 3px),
+    var(--frame, linear-gradient(160deg, #d9d2c4, #b9b1a0));
+  box-shadow:
+    inset 0 0 0 1px rgba(0, 0, 0, 0.28),
+    inset 0 0 0 2px rgba(255, 255, 255, 0.18);
 }
 
 .frame-W { --frame: linear-gradient(160deg, #fbf8ef, #e6ddc8); }
@@ -133,73 +146,41 @@ body {
 .frame-artifact { --frame: linear-gradient(160deg, #cdd4da, #9aa3ac); }
 .frame-colorless { --frame: linear-gradient(160deg, #d4d2cf, #aba8a3); }
 .frame-land { --frame: linear-gradient(160deg, #d8c4a6, #b69a73); }
-.frame-acorn {
-  --frame: linear-gradient(135deg, #f6d365, #fda085, #f9a8d4, #a78bfa, #67e8f9, #86efac, #fde047);
-  --ink: #14110c;
-}
-
-/* ---- Acorn (un-set) holographic treatment ---- */
-.card.acorn { box-shadow: 0 6px 26px rgba(120, 80, 200, 0.5); }
-.card.acorn .card-inner { position: relative; overflow: hidden; }
-.card.acorn .card-inner::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-  pointer-events: none;
-  background: linear-gradient(115deg, transparent 32%, rgba(255, 255, 255, 0.6) 48%, transparent 64%);
-  background-size: 250% 250%;
-  mix-blend-mode: screen;
-  animation: foil 5.5s linear infinite;
-}
-@keyframes foil {
-  0% { background-position: 130% 0; }
-  100% { background-position: -50% 0; }
-}
-.acorn-stamp {
-  position: absolute;
-  left: 10px;
-  bottom: 8px;
-  z-index: 2;
-  width: 42px;
-  height: 42px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: sans-serif;
-  font-weight: 800;
-  font-size: 9px;
-  letter-spacing: 1px;
-  text-transform: uppercase;
-  color: #5b21b6;
-  border: 2px solid #5b21b6;
-  border-radius: 50%;
-  transform: rotate(-18deg);
-  background: rgba(255, 255, 255, 0.4);
-  opacity: 0.75;
-}
 
 /* Long un-card names shrink to fit the title bar */
 .card-name.small { font-size: 12.5px; }
 .card-name.tiny { font-size: 10.5px; line-height: 1.08; }
 .card-subtitle { font-weight: 400; font-style: italic; font-size: 10px; opacity: 0.8; }
 
+/* Title / type bars share one engraved-nameplate look across the whole set. */
 .bar {
-  background: rgba(248, 246, 240, 0.86);
-  border: 1px solid rgba(0, 0, 0, 0.35);
-  border-radius: 7px / 50%;
+  background: linear-gradient(180deg, rgba(252, 250, 244, 0.94), rgba(236, 231, 218, 0.9));
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  border-radius: 4px;
   padding: 4px 10px;
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 8px;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.6), 0 1px 1px rgba(0, 0, 0, 0.12);
 }
 .card-name { font-weight: 700; font-size: 15px; line-height: 1.1; }
 .type-line { font-size: 12.5px; font-weight: 700; }
+.type-line .type-text { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+/* The Whateverville set emblem (town hall), tinted by rarity. */
+.set-symbol { width: 15px; height: 15px; flex-shrink: 0; filter: drop-shadow(0 1px 0 rgba(255, 255, 255, 0.55)); }
+.set-symbol path { stroke: rgba(0, 0, 0, 0.55); stroke-width: 0.4; stroke-linejoin: round; }
+.set-symbol.r-common path  { fill: #1b1712; }
+.set-symbol.r-uncommon path { fill: #8b95a0; }
+.set-symbol.r-rare path     { fill: #c7a020; }
+.set-symbol.r-mythic path   { fill: #d0531f; }
+.set-symbol.r-special path  { fill: #8a6cc0; }
 
 /* Art placeholder (image ignored for now) */
 .art {
   flex: 0 0 44%;
-  border: 1px solid rgba(0, 0, 0, 0.4);
+  border: 1px solid rgba(0, 0, 0, 0.55);
   border-radius: 2px;
   background:
     repeating-linear-gradient(45deg, rgba(0,0,0,0.04) 0 10px, rgba(0,0,0,0.07) 10px 20px),
@@ -211,6 +192,7 @@ body {
   font-family: sans-serif;
   font-size: 11px;
   letter-spacing: 0.5px;
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.22), 0 1px 2px rgba(0, 0, 0, 0.25);
 }
 .art.has-art {
   background: #000;
@@ -220,12 +202,13 @@ body {
 
 .text-box {
   flex: 1;
-  background: rgba(250, 248, 243, 0.9);
-  border: 1px solid rgba(0, 0, 0, 0.3);
+  background: linear-gradient(180deg, rgba(252, 250, 245, 0.93), rgba(244, 240, 231, 0.9));
+  border: 1px solid rgba(0, 0, 0, 0.45);
   border-radius: 3px;
   padding: 7px 9px;
   font-size: 12.5px;
   line-height: 1.32;
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.4);
   /* No scrollbars: app.js shrinks the font so text fits (print-faithful). */
   overflow: hidden;
 }
@@ -257,6 +240,24 @@ body {
   font-weight: 700;
   font-size: 14px;
 }
+
+/* Municipal-document collector line at the foot of every card. */
+.collector {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 8px;
+  margin-top: 1px;
+  padding: 0 2px;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 7px;
+  font-weight: 700;
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+  color: rgba(0, 0, 0, 0.62);
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.35);
+}
+.collector span:last-child { font-weight: 600; opacity: 0.85; text-align: right; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
 .empty { padding: 60px; text-align: center; color: #9aa0ab; }
 

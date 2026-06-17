@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A widescreen film-still peering through the rain-streaked window of a dingy pawn shop after dark, a dusty accordion and tarnished trinkets crowding a sun-faded display untouched by time, a single amber bulb glowing deep within behind a beaded curtain that hides a back room; ink-black night and wet brick frame the storefront, secrets behind the glass, no figures, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "The Pawn Shop That's a Front",
   "type": "Acorn Land",
   "types": ["Land"],

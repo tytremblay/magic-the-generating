@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A gaunt mutant heron with three spindly legs stands poised in the toxic reservoir shallows, a single extra limb tucked beneath sickly bioluminescent plumage, glaring out with cold judgment over rippling murky green water. Rusted pipes and crumbling concrete haze under a bruised stormy sky behind. Tall, elegant film-still framing of grotesque stillness at depth, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Three-Legged Heron",
   "manaCost": "{1}{G}",
   "manaValue": 2,

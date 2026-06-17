@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A boxy brass-and-cyan thopter inspector drone hovers menacingly at eye level, twin whirring blades above and a single glowing lens fixed on the viewer, a tiny mechanical arm extending a blank illegible citation slip. Beige corridors and filing cabinets recede below it. It found a violation; it will always find a violation. The drone floats high in the wide frame, casting a long shadow. Wide 4:3 landscape, cold municipal glow, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Parking Enforcement Drone",
   "manaCost": "{2}{U}",
   "manaValue": 3,

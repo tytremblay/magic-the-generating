@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A grim midnight reservoir under rain, a dredging crane silhouetted against ink-black sky, ropes hauling vague heavy shapes from black water lit by a single amber lamp on the dock, ripples bleeding outward in smoky-brown wash. The lower frame dissolves into oily darkness, the dredged secrets only suggested. A dark deed by the water, rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "The Whateverville Reservoir Job",
   "manaCost": "{3}{B}",
   "manaValue": 4,

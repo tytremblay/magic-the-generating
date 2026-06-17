@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The dramatic moment of a cursed bargain: a clawed hand presses a quill into a blank parchment that glows hot gold as a single drop of blood blooms across it, a leering clown shape and a many-toothed shadow looming witness in the firelit dark. Scattered coins glint below. Wide landscape, carnival red and hot gold washes bleeding into smoky black, ember sparks drifting. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Demonic I.O.U.",
   "manaCost": "{1}{B}",
   "manaValue": 2,

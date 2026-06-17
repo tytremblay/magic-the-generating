@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The dramatic instant a hulking sludge-caked figure hurls a torrent of glowing green toxic muck across the frame in steep foreshortening, the bilious wave rushing toward the viewer. Rusted pipes and mutant-overgrown concrete loom behind under a bruised stormy sky, sickly bioluminescent counters scattered in the runoff, kinetic eruption of poison, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Count the Sludge Out Loud",
   "manaCost": "{1}{R}{G}",
   "manaValue": 3,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A burly goblin warrior in a rumpled vest looms in a back-room doorway, cracking thick knuckles with a slow grin, one fist foreshortened huge toward the viewer while a single amber lamp rims his broad silhouette in warm light and drops the rest of him into ink shadow. Cigar smoke threads past his tusks, a worn card table glints behind, intimate menace. Rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Leg-Breaker Lou",
   "manaCost": "{2}{B}",
   "manaValue": 3,

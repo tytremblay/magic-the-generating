@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative scene of the midway itself bending to an unbreakable rule: dice and coins curving through the air toward a glowing hot-gold center as if pulled by gravity, rigged wheels tilting, ember sparks spiraling inward through carnival-red haze, tattered tents leaning under sickly neon and smoky black, an ongoing cosmic rigging rendered tender and ominous, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "The House Always Wins (It Is a Law of Physics Now)",
   "manaCost": "{½}{½}",
   "manaValue": 1,

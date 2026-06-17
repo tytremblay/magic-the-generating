@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The dramatic moment a stern investigator's gloved hands seize a sealed metal ballot box, thrust toward the viewer in hard foreshortening, an evidence tag dangling blank and torn. A pair of dice spill glowing from the slot, trailing arcane cyan sparks; behind, towering filing cabinets and cold municipal light cast slashing diagonal shadows across the ivory floor, kinetic and tense, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Seize the Ballot Box as Evidence",
   "manaCost": "{2}{W}{U}",
   "manaValue": 4,

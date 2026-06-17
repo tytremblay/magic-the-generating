@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A rigid human zealot in bone-white robes stands eternally alert at the edge of a candlelit revival square, arms crossed, cold gold halo light glinting off narrowed unblinking eyes that watch and judge. The looming clock tower and a blood-dark sky loom behind, smoke and ash drifting past. Imposing full-figure film-still framing of vigilant menace, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Zealous Poll Watcher",
   "manaCost": "{2}{W}",
   "manaValue": 3,

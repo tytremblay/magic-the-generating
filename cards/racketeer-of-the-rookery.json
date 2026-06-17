@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A widescreen noir film-still of a lean goblin rogue presiding over a cramped back room thick with cigar smoke, a tally of cronies crowding the shadows behind him as he tucks a small token into his coat with a cold smirk; a single amber lamp rims his sharp features, damp brick and a worn card table glinting at the edges, family business steeped in menace, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Racketeer of the Rookery",
   "manaCost": "{3}{B}",
   "manaValue": 4,

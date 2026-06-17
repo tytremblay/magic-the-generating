@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A widescreen film-still of a sly goblin rogue snatching a bowl of chips away from an outraged onlooker in a chaotic night-time town square, his triumphant smirk lit by leaping bonfire flame, the victim's hand grasping at empty air; embers, spilled snacks, and confetti scatter through the smoke, overturned boxes behind in flame orange against night-black haze, gleeful petty sabotage, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Snack Break Saboteur",
   "manaCost": "{1}{R}",
   "manaValue": 2,

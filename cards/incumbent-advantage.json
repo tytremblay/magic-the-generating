@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A widescreen film-still of an ominous ongoing spell over a rioting town square at night, ghostly goblin voters rising as glowing embers from the bonfire-lit chaos and re-forming endlessly above the crowd, fresh figures coalescing from sparks; overturned ballot boxes, drifting confetti, and torn blank bunting below, flame orange light against night-black smoke, an unkillable self-renewing tide, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Incumbent Advantage",
   "manaCost": "{2}{R}",
   "manaValue": 3,

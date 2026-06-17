@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A sweeping widescreen film-still looking down a town green as an immense column of ordinary neighbors marches shoulder to shoulder toward the viewer, the foreground figures sharp and resolute and the ranks dissolving into golden haze far behind, picket fences and folding tables swallowed by the swelling tide of people; epic scale, warm afternoon backlight rimming a thousand silhouettes, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Strength in Numbers",
   "manaCost": "{2}{G}{W}",
   "manaValue": 4,

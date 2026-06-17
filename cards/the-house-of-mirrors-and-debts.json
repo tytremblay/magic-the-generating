@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A carnival house of mirrors recedes vertically into infinite warped reflections, gilded frames and cracked silvered glass throwing back fractured hot-gold and sickly-neon light, false painted exits glinting in the smoky black depths. No figure, only the dizzying maze climbing the wide frame. A single lurid source flares deep within the corridor of glass, embers adrift, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "The House of Mirrors",
   "manaValue": 0,
   "colors": [],

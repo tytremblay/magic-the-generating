@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A hulking horror crouches just within the mouth of a rusted storm drain, two cold luminous eyes and a clawed dripping limb emerging from the black grate into the murk, sickly green bioluminescence outlining its bulk. The wide frame towers the concrete culvert over the slick puddled ground under a bruised sky. One faint glow from inside the drain is the only light, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Storm Drain Lurker",
   "manaCost": "{2}{R}",
   "manaValue": 3,

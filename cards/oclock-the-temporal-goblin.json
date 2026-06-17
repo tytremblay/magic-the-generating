@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A legendary goblin timekeeper mid-stride atop an overturned ballot box, draped in dangling gears and a blank smudged clockface like a breastplate, one hand sweeping a glowing minute-hand staff that trails flame-orange light, his smug grin lit from below. Foreshortened toward the viewer against a bonfire and night-black smoke, sparks and confetti frozen mid-swirl, kinetic anarchic flair. Rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "O'Clock, the Temporal Goblin",
   "subtitle": "Knows What Time It Is (Literally)",
   "manaCost": "{3}{R}",

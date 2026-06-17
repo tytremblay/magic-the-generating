@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The dramatic moment of ruin: a quaint lakeside cottage cracks and slumps toward a churning green reservoir, its foundation crumbling into sludge as a blank weathered for-sale stake leans abandoned in the toxic mud, a monstrous shadow rippling beneath the water beyond. Bruised storm sky above. Wide landscape collapse, murky green and rust-red washes bleeding into sickly glow. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Property Value Collapse",
   "manaCost": "{2}{R}",
   "manaValue": 3,

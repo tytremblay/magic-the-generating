@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ornate hero shot of a gaudy slot-machine relic crusted in hot gold filigree, three reels frozen on glowing cherry symbols and a heap of cherry tokens spilling from its tray, lit by carnival red and sickly neon amid drifting ember sparks. A blank illegible payout placard glints above. The towering machine fills the wide landscape frame, coins cascading at its base. Wide 4:3 landscape, smoky black and hot gold, sinister festivity, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "The Jackpot That Never Quite Pays",
   "manaCost": "{4}{B}{R}",
   "manaValue": 6,

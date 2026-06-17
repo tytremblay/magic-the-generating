@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ornate hero shot of a battered claw machine glowing hot-gold from within, its three-pronged steel claw dangling slack over a heap of grimy prizes and a single coiled skeleton, lurid neon reflecting off scratched glass. Tattered carnival tents and ember sparks haze the smoky black backdrop. Reverent low film-still angle isolating the rigged contraption, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "The Rigged Claw Machine",
   "manaCost": "{2}{B}",
   "manaValue": 3,

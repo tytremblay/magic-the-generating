@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A lean goblin rogue in a too-tight coat leans across a worn card table in amber lamplight, splaying a fan of glowing favor-tokens with one foreshortened clawed hand while the other rests open and expectant, his grin lit warm and his eyes cold in ink shadow. Cigar smoke curls, coins glint in the smoky brown gloom behind, compounding menace. Rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Vig Collector",
   "manaCost": "{2}{B}",
   "manaValue": 3,

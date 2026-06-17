@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A weary middle-aged human clerk in shirtsleeves and loosened tie, sleeves rolled, balanced on a wheeled ladder against a towering cliff of filing cabinets, one arm outstretched mid-reach for a blank folder. Cold cyan light rakes from below, casting his long dramatic shadow up the receding drawers; dust motes drift in the fluorescent haze. Low-angle foreshortening makes the cabinet wall loom enormous, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Junior Filing Clerk",
   "manaCost": "{W}",
   "manaValue": 1,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative scene of a grimy carnival payout booth glowing hot-gold at the end of a deserted midway, a heap of dice and coins spilling across its sill while a single endless line of shadowy gamblers snakes away from a brightly lit betting window opposite. Lurid neon and ember sparks haze the smoky black night. Deep film-still perspective contrasting the two windows, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Payout Window",
   "manaCost": "{3}{B}{R}",
   "manaValue": 5,

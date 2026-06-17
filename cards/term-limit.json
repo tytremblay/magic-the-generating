@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The dramatic instant a long-seated figure is swept away: an old robed officeholder dissolving into motes of golden light as he is exiled from a worn wooden council chair, hands grasping at empty air, the seat already glowing hollow behind him. A single hard shaft of light cuts across the dim chamber, deep shadow swallowing the empty rows. Rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Term Limit",
   "manaCost": "{3}{W}",
   "manaValue": 4,

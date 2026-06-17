@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A colossal sludge leviathan horror heaves up out of the bubbling reservoir, a glistening mountain of green muck, rusted pipe-shards, and drifting litter sloughing off its bulk as sickly bioluminescence glows from within. Crumbling treatment-plant towers and a bruised stormy sky loom behind. Towering low film-still angle of toxic menace at monumental scale, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Big Murph, Whatever Crawled Out of the Water Treatment Plant",
   "manaCost": "{3}{R}{G}",
   "manaValue": 5,

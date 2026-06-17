@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A loop of eleven tidy houses curled around one shared driveway, picket fences and blank lawn placards dotting trimmed front yards, a faint haze of late-afternoon gold pooling in the empty cul-de-sac; no figures, only the quiet tension of neighbors implied in drawn curtains and identical mailboxes, leafy greens melting into warm ivory pavement under dreamy light, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "The Cul-de-Sac Coalition",
   "type": "Land",
   "types": ["Land"],

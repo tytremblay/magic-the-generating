@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A characterful portrait of a bewildered red goblin illustrator squinting up at a large blank framed canvas held in its own clawed hands, gesturing confidently at the empty surface as if explaining a masterpiece, paint smeared across its cheeks. Sparks and confetti swirl, a bonfire glows behind in the feral town square. Mono-red palette of flame orange, ember red, and black smoke, self-referential comic confusion, composed wide in a 4:3 landscape frame, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "This Card Is Also the Art",
   "manaCost": "{1}{R}",
   "manaValue": 2,

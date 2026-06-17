@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A scrawny goblin rogue presses himself against a rain-slick alley wall, eyes huge and darting, sweat beading in the amber lamplight as he clutches his collar, his trembling form half-swallowed by towering ink-black shadow shapes that lean toward him like accusers. His upturned face foreshortened toward the viewer, cigar smoke curling past, twitchy criminal dread. Rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Nervous Snitch",
   "manaCost": "{B}",
   "manaValue": 1,

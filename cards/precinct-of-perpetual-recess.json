@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A shuttered city hall at the edge of a feral town square, its doors chained and weeds climbing the steps, lit by the ember-orange glow of distant bonfires, no figures present. Overturned ballot boxes and torn blank bunting litter the foreground, smoke bleeding into night-black up the wide frame. A long-abandoned civic seat amid mayhem, rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Precinct of Perpetual Recess",
   "manaValue": 0,
   "colors": [],

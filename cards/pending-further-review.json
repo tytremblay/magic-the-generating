@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A glowing spell-form, half-cast as a knot of crackling cyan energy, is sucked sideways into a wire in-tray and held there suspended in translucent amber stillness, a single ghostly die hovering above awaiting a verdict that never comes. Towering shadowed cabinets rise around it. Sweeping pull into bureaucratic limbo, ivory and teal washes bleeding. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Pending Further Review",
   "manaCost": "{1}{W}{U}",
   "manaValue": 3,

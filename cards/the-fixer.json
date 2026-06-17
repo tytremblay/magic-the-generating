@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A calm, unsettling goblin rogue already seated in someone's dim kitchen, hat on the table, sleeves neat, hands folded, a faint knowing smile as he waits in the gloom of a back room. A folded favor token rests under one claw. A single amber lamp lights only his patient face and clasped hands, the rest of the room dissolving into deep noir shadow. Rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "The Fixer",
   "manaCost": "{1}{B}{B}",
   "manaValue": 3,

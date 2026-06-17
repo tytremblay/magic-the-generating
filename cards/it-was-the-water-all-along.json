@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The dramatic reveal: a shaft of cold light falls on the poisoned reservoir as its surface rises into a looming watery face, the true culprit unmasked, sickly bioluminescent ripples spreading outward while rusted pipes and mutant overgrowth recoil. The whole scene tilts toward dreadful realization. Wide landscape, murky green and rust-red washes bleeding into a bruised teal sky. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "It Was the Water All Along",
   "manaCost": "{2}{G}",
   "manaValue": 3,

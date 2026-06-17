@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A widescreen noir film-still of a goblin don leaning intimately close to a cornered figure in a dim back room, one clawed hand resting on the man's shoulder, lips at his ear, the threat unspoken; a single amber lamp carves their two faces from ink-black shadow, cigar smoke hanging heavy, a worn card table and bottle in soft focus, suffocating quiet menace, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Make Him an Offer",
   "manaCost": "{3}{B}",
   "manaValue": 4,

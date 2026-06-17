@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A vast government ledger room rendered vertically: two towering brass balance scales hang in deep shadow, each pan piled with blank illegible documents, a single coin suspended mid-air between them catching one shaft of cold light. Dust motes drift through the gloom; a faint arcane glimmer leaks from the smudged forms below. The composition climbs upward into darkness, lit by one harsh fluorescent source, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Balance the Budget to the Half-Cent",
   "manaCost": "{2}{W}{U}",
   "manaValue": 4,

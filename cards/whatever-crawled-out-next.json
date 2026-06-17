@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A shapeless sludge horror drags itself from the bubbling reservoir, half-formed and shifting, its silhouette flickering toward something nameless and dreadful as sickly bioluminescent ooze sheets off its mass. Rusted pipes and crumbling towers loom under a bruised stormy sky behind. Ominous low film-still angle of an unknowable thing emerging at epic scale, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Whatever Crawled Out Next",
   "manaCost": "{X}{R}{G}",
   "manaValue": 2,

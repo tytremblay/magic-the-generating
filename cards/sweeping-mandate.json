@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A surge of hasty goblins charging forward in a wide landscape wave, weapons raised, ember-red and flame-orange washes streaming behind them like a tide of fire against night-black smoke. Confetti and sparks blur in their wake, overturned ballot boxes scattering underfoot. All forward motion and emboldened fury. The people's mandate as a stampede, rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Sweeping Mandate",
   "manaCost": "{3}{R}{R}",
   "manaValue": 5,

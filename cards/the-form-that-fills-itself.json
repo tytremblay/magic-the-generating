@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ornate hero shot of a single self-writing document hovering upright in a shaft of cold cyan light, its blank smudged fields rippling and rearranging on their own as faint arcane glyphs of pure illegible glow crawl across the page. A spectral pen orbits it. Surrounding beige filing towers fall away into hushed fluorescent haze. Reverent low film-still angle, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "set": "CHAOS",
   "chaos": 5,
   "name": "The Form That Fills Itself Out, Wrongly",

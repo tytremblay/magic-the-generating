@@ -8,6 +8,17 @@ import { dirname, join } from "node:path";
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const cardsDir = join(root, "cards");
 const decksDir = join(root, "decks");
+const artDir = join(root, "public", "art");
+
+// Auto-detect a generated illustration for a card by its slug (filename stem).
+// Prefer webp (small) over png/jpg. Returns a path relative to public/, or "".
+const ART_EXTS = ["webp", "png", "jpg"];
+function findArt(slug) {
+  for (const ext of ART_EXTS) {
+    if (existsSync(join(artDir, `${slug}.${ext}`))) return `art/${slug}.${ext}`;
+  }
+  return "";
+}
 
 // ---- Cards ----
 const cards = readdirSync(cardsDir)
@@ -15,6 +26,11 @@ const cards = readdirSync(cardsDir)
   .map((file) => {
     const card = JSON.parse(readFileSync(join(cardsDir, file), "utf8"));
     delete card.$schema;
+    const slug = file.replace(/\.json$/, "");
+    // A non-empty `art` field in the card wins (manual override); otherwise
+    // auto-wire whatever exists in public/art/<slug>.* so we never hand-edit
+    // hundreds of card files just to point at their generated illustration.
+    if (!card.art) card.art = findArt(slug);
     return { ...card, _file: file };
   })
   .sort((a, b) => a.name.localeCompare(b.name));

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A widescreen noir film-still of a goblin don seated at the head of a dim back-room table, one hand raised in a small commanding gesture while cowed goblin underlings around him all stiffly raise a single hand in obedient unison; a hanging amber lamp pools warm light over the ritual, cigar smoke coiling upward, ink-black shadows pressing in, coerced consensus, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "The Don Says Vote Yes",
   "manaCost": "{1}{B}",
   "manaValue": 2,

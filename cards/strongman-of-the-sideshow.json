@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A towering giant performer flexes beneath a sideshow tent, oiled muscles catching hot-gold firelight, gripping a massive striped mallet beside a bolted-down high-striker bell that will never ring. Lurid neon and drifting embers haze the smoky black carnival behind him. Heroic low film-still angle of brute carnival spectacle at epic scale, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Strongman of the Sideshow",
   "manaCost": "{2}{R}",
   "manaValue": 3,

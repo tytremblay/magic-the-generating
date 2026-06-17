@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The forbidden instant of arithmetic catastrophe: a panicked goblin stretches and shatters into impossible glowing fractals, his body foreshortened and elongating into a singularity of flame-orange light that tears a hole in reality above an overturned ballot box, dice frozen mid-spin around him. Ember sparks streak into night-black smoke, deep shadow shapes warping, gleeful cosmic mayhem. Rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Divide the Goblin by Zero",
   "manaCost": "{1}{R}",
   "manaValue": 2,

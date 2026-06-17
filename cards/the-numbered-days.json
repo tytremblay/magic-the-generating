@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative scene of a vast crumbling calendar-monolith of bone-white stone, its blank squares flaking away one by one into ash and drifting toward a blood-dark sky, cold gold halo light catching the dwindling few that remain. The looming clock tower and guttering candles haze behind. Solemn, monumental film-still framing of time running out, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "The Numbered Days",
   "manaCost": "{2}{W}",
   "manaValue": 3,

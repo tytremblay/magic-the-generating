@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A towering glowing heap of hot-gold coins, dice, and snacks rises like an altar at the center of a sinister carnival tent, only to begin folding impossibly into itself, splitting into nothing as a ghostly accountant figure faints backward into the smoky black shadows. Rigged wheels and lurid lights blur around it. Vertiginous film-still framing of forbidden arithmetic, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Divide the Pot Among Zero Winners",
   "manaCost": "{0}{0}",
   "manaValue": 0,

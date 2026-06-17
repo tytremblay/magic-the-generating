@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ornate hero shot of a massive rusted cylindrical treatment tank, its valves seized and seams weeping bioluminescent green sludge, choked in mutant vines and dripping ooze, a sickly glow leaking from a cracked porthole as if something inside still breathes. Bruised stormy sky behind the crumbling plant. The looming tank fills the wide landscape frame, overgrowth climbing its sides. Wide 4:3 landscape, Gruul murky green and rust red, toxic menace, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Overgrown Treatment Tank",
   "manaCost": "{2}{G}",
   "manaValue": 3,

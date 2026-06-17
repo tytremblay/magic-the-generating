@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative scene of superstitious magic: a knuckled goblin fist rapping hard on a scorched wooden tabletop sends a shockwave of warding flame-orange light that bats away an incoming bolt, the fist foreshortened enormous toward the viewer, grain of the wood glowing along the impact. A bonfire flickers behind in night-black smoke, sparks and dice scattering, lucky desperate energy. Rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Knock on Wood",
   "manaCost": "{1}{R}",
   "manaValue": 2,

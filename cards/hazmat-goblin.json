@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A small goblin in a torn, melting hazmat suit wades knee-deep through bubbling toxic runoff, visor cracked and fogged, a leaking canister clutched in scrawny hands as sickly bioluminescent vapor curls around it. Rusted pipes and crumbling concrete recede into a bruised stormy haze behind. Tense low film-still framing of doomed cleanup at the reservoir, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Hazmat Goblin",
   "manaCost": "{1}{R}",
   "manaValue": 2,

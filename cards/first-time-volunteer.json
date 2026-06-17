@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An eager young human volunteer clutching a clipboard on a sunlit town green, a smaller hopeful voter figure appearing at her side, golden afternoon light warming her uncertain hopeful smile, picket fences, folding tables and blank lawn placards hazing softly behind in leafy green and ivory, a crowd murmuring in the blur, tender and earnest, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "First-Time Volunteer",
   "manaCost": "{G}",
   "manaValue": 1,

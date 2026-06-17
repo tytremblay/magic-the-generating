@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An overeager goblin advisor in a crooked rosette and rolled-up sleeves leaping atop an overturned ballot box mid-election-night riot, one fist pumping the air, eyes wild with unpaid enthusiasm, a blank rolled placard clutched in the other hand. A nearby bonfire blasts ember-orange light across his grinning face, the rioting square dissolving into night-black smoke. Rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Campaign Volunteer",
   "manaCost": "{1}{R}",
   "manaValue": 2,

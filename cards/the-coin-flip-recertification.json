@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An enchanted hearing chamber where a single coin hovers mid-spin above a polished government bench, doubled into two glowing ghost-coins by an arcane cyan shimmer, while a faceless official's hand reaches up to pluck the chosen one. Rubber stamps and blank ledgers ring the scene in playful tilted shapes. The composition climbs the wide frame from desk to floating coins. Wide 4:3 landscape, oppressive ivory stillness, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Coin-Flip Recertification Hearing",
   "manaCost": "{1}{W}{U}",
   "manaValue": 3,

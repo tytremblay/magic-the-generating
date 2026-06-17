@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The cataclysmic instant a vast clock tower's blank face blazes cold gold as a shockwave of ash erupts outward, ashen-robed figures crumbling and scattering across a darkened main street beneath a blood-dark sky. Guttering candles snuff in the blast. The wide frame towers the tolling spire over the dissolving crowd, one searing light source at its heart, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Strike of Midnight",
   "manaCost": "{3}{W}{B}",
   "manaValue": 5,

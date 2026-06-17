@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The chaotic moment the poisoned marina water erupts as mutant fish and clawed shapes thrash up through churning green foam toward the viewer in extreme foreshortening, chum and froth flying. Rusted dock pilings and a crumbling treatment plant loom behind under a bruised stormy sky, sickly bioluminescence glowing beneath the surface, a violent feeding frenzy in full kinetic motion, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Feeding Frenzy at the Marina",
   "manaCost": "{3}{R}{G}",
   "manaValue": 5,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A vast winged demon politician hangs in a blood-dark sky above the revival town, leathery wings spread wide and cold gold halo light rimming a smug bureaucratic grin, one taloned hand extended downward as if accepting votes from the ash. The looming clock tower glows beneath it. Towering low-angle film-still framing of monstrous, sea-deep power, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Incumbent of the Abyss",
   "manaCost": "{2}{B}",
   "manaValue": 3,

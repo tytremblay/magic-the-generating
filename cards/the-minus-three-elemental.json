@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A gaunt fire elemental flickers into being half-formed, its flame-orange body riddled with three gaping voids that drink the surrounding light, shoulders slumped in cheerful denial as embers leak from the holes, foreshortened looming over a feral town square. Overturned ballot boxes and a bonfire glow behind in night-black smoke, sparks and dice scattering, comic existential decay. Rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "The Minus-Three Elemental",
   "manaCost": "{R}",
   "manaValue": 1,

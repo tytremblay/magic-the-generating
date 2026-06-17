@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A long carnival midway recedes into smoky darkness, flanked by tattered striped tents and a looming rigged wheel, strings of lurid lights swagging overhead and drifting ember sparks above scattered coins in the mud. No figures, only the seductive sinister fairway under sickly neon. Wide landscape perspective, carnival red and hot gold washes bleeding into deep black. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "The Last-Chance Midway",
   "manaValue": 0,
   "colors": [],

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A characterful portrait of a manic red goblin rogue mid-sprint across the feral town square, a flaming torch in one fist and a fistful of blank flyers streaming behind, sparks trailing from his heels and a wild grin splitting his face. A doorway behind him catches embers, bonfire light flaring. Mono-red palette of flame orange, ember red, and black smoke, kinetic arsonist energy, composed wide in a 4:3 landscape frame, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Precinct Firebrand",
   "manaCost": "{1}{R}",
   "manaValue": 2,

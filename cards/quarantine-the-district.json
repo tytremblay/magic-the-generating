@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A toxic neighborhood sealed off, sagging blank-striped hazard tape strung between rusted lamp-posts, withered husks of creatures slumped beyond it while one sludge-glowing mutant survives within, bubbling green runoff and drifting litter under a bruised stormy sky, mutant overgrowth swallowing the fences, a tender desolate containment, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "Quarantine the District",
   "manaCost": "{3}{R}",
   "manaValue": 4,

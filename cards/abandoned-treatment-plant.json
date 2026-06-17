@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A derelict water-treatment plant rises in the wide frame: rusted pipes and a cracked concrete clarifier tank brimming with bubbling green sludge, mutant vines strangling the catwalks, drifting litter caught in the murk under a bruised stormy sky. No figure, only decay. A single sickly bioluminescent glow festers in the tank below, one cold storm-light from above, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Abandoned Water Treatment Plant",
   "type": "Acorn Land",
   "types": ["Land"],

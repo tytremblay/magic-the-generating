@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A lean human acolyte in ashen ceremonial robes raises a single skeletal hand wreathed in faint deathly cold gold light, eyes burning with lifelong zealous purpose amid a candlelit congregation. The looming clock tower bleeds against a blood-dark sky behind, smoke and ash drifting past. Heroic full-figure film-still framing with epic apocalyptic depth, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Reckoning Day Acolyte",
   "manaCost": "{B}",
   "manaValue": 1,

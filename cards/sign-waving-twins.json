@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "Two nearly identical human citizens standing shoulder to shoulder on a street corner, one hoisting a blank rectangular placard overhead while the other waves cheerfully at their twin instead of the crowd, matching grins and rumpled sweaters. A single warm streetlamp picks out their faces from one side, casting long mirrored shadows into the brooding dusk behind them. Rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Sign-Waving Twins",
   "manaCost": "{2}{G}",
   "manaValue": 3,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A monstrous shark rogue in a rumpled suit looming half-out of dark lagoon water beside a flooded back-room dock, rows of teeth bared in a businesslike grin, one fin sliding a treasure coin across a soaked plank toward an unseen debtor. A single amber lamp glints off its wet hide and predatory eye, the rest sinking into oily black water. Rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Loan Shark of the Lagoon",
   "manaCost": "{1}{B}",
   "manaValue": 2,

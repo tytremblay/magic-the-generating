@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A widescreen noir film-still of a stocky goblin rogue in a rumpled overcoat clutching a sinister leather briefcase to his chest in a rain-slick alley after dark, an unnatural seam of light leaking from the case's edges across his greedy grin; a single amber lamp pools warm glow through cigar smoke and drizzle, ink-black shadows swallowing the brick behind him, intimate criminal menace, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Bagman with the Good Briefcase",
   "manaCost": "{1}{B}",
   "manaValue": 2,

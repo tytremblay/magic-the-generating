@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A widescreen noir film-still close on two goblin hands across a worn card table tearing a small token clean in half, the ragged paper edge catching a thin blade of amber lamplight, cigar smoke drifting between distrustful shadowed faces leaning in from the dark; damp brick and a single bottle glint at the frame's edge, debt reduced to a torn scrap, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Half a Favor",
   "manaCost": "{½}{B}",
   "manaValue": 1,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A single blank glowing memo descends on a shaft of cold cyan light from a distant unseen upper floor, hovering above an empty beige desk while a forest of identical pneumatic tubes and filing towers vanishes into haze around it. The paper pulses faintly arcane, authorless and eternal. Epic-scale film-still framing looking upward into the void, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Memo from Upstairs",
   "manaCost": "{1}{U}",
   "manaValue": 2,

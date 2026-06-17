@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A hero shot of a worn wooden clipboard held upright at the center of the frame, its thick sheaf of blank smudged pages curling at the corners, a stub of pencil tucked under the clip, a bit of frayed twine looped around it; warm golden light glazes the board's scuffed surface against a soft hazy green-and-ivory blur of town green beyond, tender and slightly melancholic, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "The Petition Clipboard",
   "manaCost": "{1}",
   "manaValue": 1,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A fervent ashen-robed human prophetess stands with both arms raised, casting twin overlapping prophecies as paired gold halo-rings spinning above her hooded head, eyes blazing with certainty. Guttering candles and a looming clock tower frame her against a blood-dark sky. Her gesture brims with confident excess. Wide landscape, bone white and cold gold washes bleeding into black. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "High Prophet of the Doomsday Caucus",
   "manaCost": "{3}{W}{B}",
   "manaValue": 5,

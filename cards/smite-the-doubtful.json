@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The cataclysmic instant a shaft of cold gold radiance lances down from a blood-dark sky to obliterate a kneeling tapped figure, its silhouette flung backward and disintegrating into ash and sparks in steep foreshortening. Guttering candles scatter from the impact; the doomsday clock tower looms behind through smoke, the divine bolt searing the frame top to bottom, kinetic and merciless, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Smite the Doubtful",
   "manaCost": "{1}{W}",
   "manaValue": 2,

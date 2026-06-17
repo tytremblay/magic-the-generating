@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The chaotic instant of a re-audited vote: rival goblins bellow and point at a single trembling creature hoisted on a tipped ballot box, one loud goblin's shout rendered as a foreshortened open maw blasting flame-orange light toward the viewer while a meeker figure shrinks in shadow. Coins and confetti spin overhead, bonfire glow against night-black smoke, gleeful electoral bedlam. Rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Recount the Recount",
   "subtitle": "Certified by the Whateverville Board of Maybe",
   "manaCost": "{½}{R}",

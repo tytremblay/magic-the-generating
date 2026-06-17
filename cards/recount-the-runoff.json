@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The eerie instant of an impossible tally: glowing green sludge-counters drift upward like luminous ballots from a brimming reservoir, multiplying as a hand reaches into the murk to count them, each orb pulsing sickly bioluminescence. Rusted pipes and litter frame the toxic water under a bruised sky. One cold storm-light pierces the dark over the rising count, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Recount the Runoff",
   "manaCost": "{1}{G}",
   "manaValue": 2,

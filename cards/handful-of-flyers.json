@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "Low-angle shot of a hopeful canvasser's outstretched hand releasing a small storm of blank paper flyers that scatter and tumble through warm afternoon light across a town green, one sheet drifting upward and catching golden backlight as if chosen by fate; behind, picket fences and a blurred crowd recede into atmospheric haze, the moment held like a frame of film, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Handful of Flyers",
   "manaCost": "{G}",
   "manaValue": 1,

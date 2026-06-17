@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A jagged Tuesday-shaped void tears open in the air above a candlelit revival square, swallowing the last shreds of forever into absolute black as a single thread of time is plucked from the cosmos and does not return. Ashen congregants recoil in the cold gold glow below the looming clock tower. Awe-struck film-still framing of an apocalyptic erasure at vast scale, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Exile Target Eternity",
   "manaCost": "{W}{B}, then wait forever",
   "manaValue": "∞",

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ornate hero shot of a sinister carnival calliope organ, its brass pipes and grinning painted scrollwork lit hot gold and carnival red, belching ribbons of dread-music and ember sparks into the smoky night air above tattered striped tents. It only knows one song, and the song is one of dread. The towering pipe-organ rises through the wide frame, neon glinting below. Wide 4:3 landscape, Rakdos red, smoky black, and hot gold, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Calliope of Doom",
   "manaCost": "{2}{R}",
   "manaValue": 3,

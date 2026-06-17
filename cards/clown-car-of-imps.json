@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A battered jalopy clown car bursting open in steep foreshortening, doors flung wide as a chaotic spray of grinning little red imps tumbles toward the viewer trailing greasepaint and ember sparks. Tattered striped carnival tents and rigged wheels glow behind under hot-gold firelight and sickly neon, scattered dice rolling across the dirt, kinetic carnival pandemonium, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Clown Car of Imps",
   "manaCost": "{2}{R}",
   "manaValue": 3,

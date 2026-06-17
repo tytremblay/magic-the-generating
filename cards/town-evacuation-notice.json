@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The frantic moment fleeing townsfolk silhouettes stream away from a sludge-flooded street in foreshortened panic while a single lone figure stands rooted facing the viewer, the monster's swelling green shadow rising at the far end. Rusted pipes and a crumbling plant loom under a bruised stormy sky, a blank smudged notice fluttering torn on a doorframe, kinetic exodus, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Town Evacuation Notice",
   "manaCost": "{1}{R}",
   "manaValue": 2,

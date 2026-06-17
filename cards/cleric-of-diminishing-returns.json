@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A gaunt ashen-robed human cleric mid-sermon, arms flung wide in foreshortened close-up beneath a cold gold halo, preaching to empty pews in a candle-guttering revival hall. A doomsday clock tower looms through smoke behind him against a blood-dark sky, bone-white face contorted with diminishing fervor, ash drifting through hard shafts of light, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Cleric of Diminishing Returns",
   "manaCost": "{W}{B}",
   "manaValue": 2,

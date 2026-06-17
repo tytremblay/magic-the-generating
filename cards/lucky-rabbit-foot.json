@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ornate hero shot of a severed rabbit's foot charm bound in tarnished gold chain, dangling against deep smoky black, its matted fur catching a single hot-gold firelight, a faint sickly aura pulsing around it. Scattered dice and a strung carnival bulb blur in the shadowed depths behind. The wide frame centers the talisman, embers drifting past, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Lucky Rabbit's Foot (Unlucky for the Rabbit)",
   "manaCost": "{1}",
   "manaValue": 1,

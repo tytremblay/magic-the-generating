@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The dramatic instant a giant six-sided die crashes onto cobblestones amid overturned ballot boxes, splitting open in a burst of flame-orange light from which fresh 1/1 goblins tumble out grinning, the die foreshortened huge toward the viewer. Coins and confetti scatter through the air, a bonfire glows behind in night-black smoke, ember sparks streaking, chaotic electoral mayhem. Rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Goblin Recount",
   "manaCost": "{1}{R}",
   "manaValue": 2,

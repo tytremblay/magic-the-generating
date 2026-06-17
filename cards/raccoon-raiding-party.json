@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A pack of oversized mutant raccoons charging together over a toppled dumpster in foreshortened low-angle fury, lead beast snarling with too-clever eyes, claws raised toward the viewer. Murky-green fur matted with toxic runoff, rusted pipes and crumbling plant walls looming behind under a bruised stormy sky, sickly bioluminescence in their eyes, a trampling kinetic raid, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Raccoon Raiding Party",
   "manaCost": "{1}{R}{G}",
   "manaValue": 3,

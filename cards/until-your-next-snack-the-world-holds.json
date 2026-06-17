@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative frozen-time scene of a doomsday clock tower's hand suspended a hair from midnight, held back by a single fragile thread of cold gold light. Below, ashen-robed figures stand utterly motionless in a candlelit street, ash hanging unmoving in the air, the blood-dark sky paused mid-collapse, a precarious held breath of a world, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Until Your Next Snack, the World Holds",
   "manaCost": "{1}{W}{B}",
   "manaValue": 3,

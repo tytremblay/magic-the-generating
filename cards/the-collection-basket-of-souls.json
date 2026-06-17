@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ornate hero shot of a long-handled wicker collection basket overflowing not with coins but with rattling translucent soul-orbs glowing cold gold, tilted toward the viewer in dramatic foreshortening. Candlelight gleams off the woven rim; ashen pews recede into smoky black behind, the doomsday clock tower a dim looming shape, sacred and sinister, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "The Collection Basket of Souls",
   "manaCost": "{2}{B}",
   "manaValue": 3,

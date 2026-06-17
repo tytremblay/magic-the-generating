@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A suburban cul-de-sac viewed from a low heroic angle, every tidy front yard bristling with rows upon rows of blank lawn placards multiplying like a planted forest, neighbors peeking over picket fences clutching yet more signs. The placards climb the slope toward the top of the frame in escalating density, golden light glinting off their blank faces, the absurd ongoing rivalry sprawling skyward. Leafy green and warm ivory, composed wide in a 4:3 landscape frame, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Lawn Sign War",
   "manaCost": "{1}{W}",
   "manaValue": 2,

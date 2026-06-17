@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A poisoned creek winds down through the wide frame, its slow water glowing faint sickly bioluminescence between rusted culverts and litter-choked banks, mutant overgrowth crowding the murky-green flow under a bruised stormy sky. No figure, only the luminous trickle. One cold storm-light catches the creek's eerie glow against deep shadow, rust-red mud at its edges, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Toxic Runoff Creek",
   "type": "Acorn Land",
   "types": ["Land"],

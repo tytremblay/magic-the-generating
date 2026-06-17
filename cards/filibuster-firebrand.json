@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A widescreen film-still of a goblin orator mid-tirade atop a wobbling crate in a chaotic town square at night, mouth wide open, arms flung outward, veins straining as he refuses to stop talking, his small frame haloed by an indestructible aura of bonfire glow; embers and confetti swirl, rioting silhouettes and overturned boxes behind in flame orange and night-black smoke, gleeful mayhem, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Filibuster Firebrand",
   "manaCost": "{2}{R}{R}",
   "manaValue": 4,

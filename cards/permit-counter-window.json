@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A solitary frosted-glass service window glows with cold cyan light at the end of an utterly empty beige corridor, a dusty ticket dispenser and a single worn stool standing before it. No clerk, no line, just humming fluorescent tubes vanishing toward a hazy point. Wide, lonely film-still composition emphasizing oppressive depth and stillness, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "The Permit Counter",
   "manaValue": 0,
   "colors": [],

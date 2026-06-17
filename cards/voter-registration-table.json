@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A hero shot of a humble folding registration table draped in an ivory cloth, a jar of pens chained to its edge, clipboards stacked with blank illegible forms, golden afternoon light pooling across the surface. The table floats in generous negative space, washes of leafy green grounding its legs. An ordinary civic object made quietly noble, rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Voter Registration Table",
   "manaCost": "{3}",
   "manaValue": 3,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A tightly packed crowd of ordinary townsfolk presses up the wide frame brandishing pitchforks and rakes yet standing in neat orderly rows, faces set in restrained fury, golden afternoon light raking across the foremost from one warm source. Picket fences and blank lawn placards line the sunlit green behind, fading into soft shadow. Leafy greens and warm ivory dominate, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Angry but Polite Mob",
   "manaCost": "{3}{G}",
   "manaValue": 4,

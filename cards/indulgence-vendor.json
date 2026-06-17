@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A robed human cleric behind a humble candle-lit stall offering a small cold-gold token of forgiveness, a kindly tired face haloed in soft light, guttering candles and drifting ash framing the booth, the apocalyptic clock tower hazy in the blood-dark distance, bone-white and deep-black robes, a tender mercantile melancholy, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "Indulgence Vendor",
   "manaCost": "{1}{W}",
   "manaValue": 2,

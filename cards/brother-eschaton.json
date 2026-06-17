@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A gaunt ashen-robed prophet stands mid-sermon atop overturned crates in a midnight street, arms flung skyward, four faint gold halo-rings of doom orbiting his head, a vast clock tower looming behind against a blood-dark sky. His gesture is feverish, electric, end-times rapture. Guttering candle smoke drifts upward. Bone white and cold gold washes bleeding into black. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Brother Eschaton, Candidate for the End of Days",
   "manaCost": "{2}{W}{B}",
   "manaValue": 4,

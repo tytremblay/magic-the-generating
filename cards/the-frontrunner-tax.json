@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative scene of civic resentment made magical: a glowing leafy tithe of green light siphons upward from a too-prosperous front yard, fence posts and a swollen pile of belongings shedding luminous motes that drift toward a gathering of ordinary townsfolk whose upturned faces catch warm ivory glow. Long dramatic shadows stripe the lawn, foreshortened from a low angle, golden afternoon haze. Rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "The Frontrunner Tax",
   "manaCost": "{2}{W}",
   "manaValue": 3,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A robed reckoner of bone and ash stands on a darkened porch, one skeletal hand raised mid-knock at a peeling door, its hooded face hidden in shadow against a blood-dark sky. A single cold-gold gleam from a hanging lantern rakes the doorframe; smoke curls at its feet. The landscape composition towers the figure over a small huddled house, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Door-to-Door Reckoning",
   "manaCost": "{2}{B}",
   "manaValue": 3,

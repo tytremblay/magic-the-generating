@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A stout upright badger in a neighborhood-watch vest stands vigilant on a tidy front lawn, arms crossed and chin lifted in territorial authority, a clipboard tucked under one paw, picket fence and blank lawn placards behind in warm afternoon light. The gesture is dutiful, bristling guardianship. Wide landscape, leafy green and ivory washes bleeding into golden light. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Block Captain Badger",
   "manaCost": "{2}{G}",
   "manaValue": 3,

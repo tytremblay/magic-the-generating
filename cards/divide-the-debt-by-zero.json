@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A surreal accounting crime made manifest: a shadowed Don figure at a back-room desk drawing a single chalk circle that splits into an impossible spiraling void, ledgers and IOU envelopes spiraling into the undefined dark, faint debt-light bleeding from terrified onlookers toward him. A lone amber lamp lights only his folded hands; everything else collapses into ink. Rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Divide the Debt by Zero",
   "manaCost": "{½}{½}",
   "manaValue": "undefined",

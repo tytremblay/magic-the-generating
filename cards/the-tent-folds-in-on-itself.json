@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The dramatic moment of collapse: a great striped big top buckles and crashes inward, billowing canvas swallowing tiny fleeing silhouettes, support poles snapping into a spray of ember sparks and tumbling coins under a smoky sky. Sickly neon flickers through the wreckage. The whole frame churns with downward motion. Wide landscape, carnival red and hot gold washes bleeding into deep black. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "The Tent Folds In on Itself",
   "manaCost": "{4}{B}{R}",
   "manaValue": 6,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A dramatic moment as four scrappy red goblin voters burst from a polling tent into the feral town square, brandishing skewered hot dogs like torches and whooping, sparks and confetti raining down around them. Overturned ballot boxes and a roaring bonfire frame the surge, torn blank bunting whipping overhead. Mono-red palette of flame orange, ember red, and black smoke, riotous civic enthusiasm, composed wide in a 4:3 landscape frame, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Get Out the Vote",
   "manaCost": "{3}{R}",
   "manaValue": 4,

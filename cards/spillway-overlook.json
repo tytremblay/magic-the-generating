@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A vertiginous overlook above a vast concrete spillway, churning green toxic water cascading down rusted channels into a bruised stormy distance, the crumbling treatment plant sprawling beyond. Mutant overgrowth claws over the railing in the foreground; sickly bioluminescence threads the foam below. No figure, only the dizzying drop and ecological menace welling up, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Spillway Overlook",
   "type": "Acorn Land",
   "types": ["Land"],

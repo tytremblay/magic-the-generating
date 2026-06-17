@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ashen-robed human cleric campaigner stands earnest and unblinking on a dim doorstep at midnight, one hand raised mid-knock, the other clutching a blank folded pamphlet, a cold gold halo flickering behind their head. The looming clock tower rises in the blood-dark sky beyond the porch. The figure fills the lower-center of the wide frame, candlelight pooling at their feet. Wide 4:3 landscape, bone white and deep black, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Doorstep Evangelist",
   "manaCost": "{1}{W}",
   "manaValue": 2,

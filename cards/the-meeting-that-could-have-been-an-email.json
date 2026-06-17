@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A long municipal conference table recedes vertically into gloom, ringed by slumped grey figures frozen in a meeting that never ends, a clock with a blank smudged face hanging above in shadow. One cold light pools at the table's center on a single empty chair. Faint arcane stillness hangs in the dust, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "set": "CHAOS",
   "chaos": 5,
   "name": "The Meeting That Could Have Been an Email",

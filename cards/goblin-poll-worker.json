@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A harried goblin bureaucrat perched at a rickety folding station in the burning town square, gesturing impatiently toward an unseen line, papers fluttering in the heat-shimmer; flames lick orange at the edges of the frame, sparks and confetti drifting through ember-red haze and night-black smoke, his weary shout caught in a soft dreamy blur, almost melancholic amid the mayhem, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "Goblin Poll Worker",
   "manaCost": "{R}",
   "manaValue": 1,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ongoing eerie scene: a tarnished collection plate drifts of its own accord through the air above a ring of seated ashen congregants, tilting expectantly, cold-gold coins glinting on its worn surface as candle smoke trails behind it. The wide frame sets the floating plate high in a single beam of pale light, the worshippers fading into deep black below, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "The Collection Plate Passes Itself Around the Table",
   "manaCost": "{2}{W}",
   "manaValue": 3,

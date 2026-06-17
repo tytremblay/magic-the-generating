@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A grinning human carny in a grimy striped jacket yanks a great spinning ride-lever, the tilt-a-whirl carts whirling in a hot gold blur behind him while he counts a fistful of glinting treasure coins, ember sparks streaking past under sickly neon. Arms not insured, he beams at the viewer. The carny anchors the lower frame, the spinning ride arcing up the wide landscape frame. Wide 4:3 landscape, Rakdos red and smoky black, sinister festivity, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Tilt-a-Whirl Tactician",
   "manaCost": "{1}{B}",
   "manaValue": 2,

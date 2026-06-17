@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The dramatic moment of a botched ascension: a cluster of ashen-robed congregants rise weightlessly into a column of cold gold light, limbs splayed in awkward floating gestures, while one lone figure remains stubbornly earthbound below, arms still reaching. Candle smoke spirals up toward a looming clock tower. Wide landscape lift, bone white and gold washes bleeding into blood-dark black. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Rapture Rehearsal",
   "manaCost": "{2}{W}",
   "manaValue": 3,

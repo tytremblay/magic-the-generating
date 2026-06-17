@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative scene of a curse drawn by noise: concentric ripples of sickly bioluminescent sound radiate across the poisoned reservoir toward a vast stirring shape beneath, jagged gestural lines erupting from a blurred shouting crowd silhouette at the water's edge, rusted pipes vibrating above under a bruised sky. The ongoing magic feels lured and hungry. Wide landscape, murky green and rust-red washes bleeding. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "The Loudest Player Summons It",
   "manaCost": "{2}{R}{G}",
   "manaValue": 4,

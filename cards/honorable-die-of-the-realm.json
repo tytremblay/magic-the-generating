@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ornate hero shot of a magnificent many-faceted die fused to a glowing ember-forged hilt, hovering reverently above the feral town square wreathed in sparks and curling smoke, its polished facets catching firelight as a bonfire blazes below. The equipment dominates the frame like a ceremonial weapon, embers and confetti drifting around it. Mono-red palette of flame orange, ember red, and black smoke, exalted ridiculous grandeur, composed wide in a 4:3 landscape frame, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "The Honorable Die of the Realm",
   "subtitle": "Roll With Dignity",
   "manaCost": "{3}{R}",

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A dramatic moment as a sweating mayor grips a podium at the reservoir's edge mid-press-conference, jabbing a finger at the bubbling green water behind him, a cluster of clipboard-clutching aides shrinking back as sickly bioluminescent mist rises. A blank backdrop banner and rusted pipes haze under a bruised stormy sky. Low film-still angle of defensive spectacle, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "The Mayor Blames the Water",
   "manaCost": "{1}{R}",
   "manaValue": 2,

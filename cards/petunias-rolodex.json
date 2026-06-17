@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ornate hero shot of a battered spinning index-card file standing on a casserole-laden folding table, its fanned blank cards rimmed in soft gold, bound with rubber bands and pierced by a worn pencil. Dramatic afternoon light haloes the humble object as if it were a sacred relic, a few cards drifting loose against a blurred backdrop of picket fences and leafy green. Centered and reverent, composed tall for a 4:3 landscape frame, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Petunia's Rolodex",
   "manaCost": "{2}{W}",
   "manaValue": 3,

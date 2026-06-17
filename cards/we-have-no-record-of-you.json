@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A human figure stands at a service window already dissolving from the feet up into translucent cyan vapor, their outline fading into the pale beige void as a clerk's blank gaze passes straight through them. The negative space devours them upward. A single empty folder lies open below. Wide landscape erasure, ivory bleeding into nothing. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "set": "CHAOS",
   "chaos": 5,
   "name": "We Have No Record of You",

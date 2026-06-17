@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A severe, ageless human bureaucrat woman stands sentinel at the head of a vanishing-point corridor of towering filing cabinets, raising an immense ancient brass seal in one hand as if to bring it down on the world. Cold cyan municipal light rakes across her ivory uniform and the smudged blank forms drifting around her ankles. Shot from a low film-still angle for oppressive scale and depth, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Chief of Stamps and Seals",
   "manaCost": "{2}{W}{U}",
   "manaValue": 4,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A vast still reservoir under a moonless sky, its black water glassy and unbroken, a lone amber dock lamp reflected as a single trembling smear; dark hills and a silent spillway dissolve into smoky brown haze along the far shore, no figures, only deep secretive water holding its silence, rendered with quiet melancholy, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "The Reservoir at Night",
   "type": "Acorn Land",
   "types": ["Land"],

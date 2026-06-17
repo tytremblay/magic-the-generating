@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ornate hero shot of a high-backed swivel office throne, its worn vinyl cushions and chrome levers rendered as regalia, bathed in a faint cyan arcane halo as if requisitioned by destiny. It sits dead-center, slightly low and imposing, in an empty fluorescent corridor of blank cabinets. Tall reverent framing, ivory highlights bleeding into cold shadow. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "The Ergonomically Approved Chair of Power",
   "manaCost": "{3}{W}",
   "manaValue": 4,

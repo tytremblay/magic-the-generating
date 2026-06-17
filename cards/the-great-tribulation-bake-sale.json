@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ongoing scene of grim charity: a folding table draped in white cloth bears tiered casseroles and pies under a looming clock tower, ashen-robed figures arranging the spread by guttering candlelight beneath a blood-dark sky. Cold-gold halos catch the steam rising from the dishes. One warm light source pools on the offered food, smoke and ash drifting at the edges, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "The Great Tribulation Bake Sale",
   "manaCost": "{1}{W}",
   "manaValue": 2,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A vast still reservoir stretches into the frame, its black surface glazed with sickly green bioluminescent scum, ringed by crumbling concrete and rusted pipes half-swallowed by mutant overgrowth, depths plunging unknowably dark below a bruised storm sky. No figures, only the brooding poisoned water. Wide landscape, murky green and rust-red washes bleeding into deep teal. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "The Reservoir Itself",
   "type": "Acorn Land",
   "types": ["Land"],

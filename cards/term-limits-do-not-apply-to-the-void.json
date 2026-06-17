@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative scene of a vast black void where an office once stood, a cold gold spectral coin hovering in judgment above a ring of ashen-robed faithful as the looming clock tower dissolves into nothingness behind. Smoke curls upward into a blood-dark sky and candle flames bend toward the abyss. Epic, reverent film-still framing of an eternal sealing magic, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Term Limits Do Not Apply to the Void",
   "manaCost": "{3}{W}{B}",
   "manaValue": 5,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A cavernous concrete parking deck plunging downward in steep perspective, identical pillars marching into cyan-tinged gloom, oil-stained floor reflecting a single humming fluorescent strip. Empty stalls and a lone curving ramp descend toward a shadow that swallows the light, ivory paint flaking from the low ceiling. No figures, just oppressive municipal vastness and the faint arcane shimmer pooling on wet concrete, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Municipal Parking Structure C",
   "manaValue": 0,
   "colors": [],

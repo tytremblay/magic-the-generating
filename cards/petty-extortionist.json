@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A scrappy goblin rogue cornering someone in a narrow alley, one hand outstretched palm-up demanding payment, a cocky sneer half-lit by a flickering amber bulb above; he clutches a small stolen sack, ink-black shadows and smoky brown haze swallowing the alley walls behind him, the small cruelty rendered intimate and almost wistful, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "Petty Extortionist",
   "manaCost": "{B}",
   "manaValue": 1,

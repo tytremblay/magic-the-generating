@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The charged moment of a town-green election as a crowd of townsfolk press toward a cluster of blank-fronted voting booths in foreshortened perspective, hands raised, a ballot dropped through a slot mid-fall. Golden afternoon light floods the leafy ivory-green commons, picket fences and casserole tables ringing the throng, blank lawn placards bristling, fervent civic crescendo, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Recall Election Day",
   "manaCost": "{4}{G}{W}",
   "manaValue": 6,

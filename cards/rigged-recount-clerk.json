@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A sharp-eyed human carny leans over a counting table, palming a weighted die beneath one cupped hand while sliding a stack of blank tally slips with the other, a knowing smirk lit by sickly neon. Tattered tents and a rigged wheel loom behind. The gesture is sly sleight-of-hand. Wide landscape, carnival red and hot gold washes bleeding into smoky black. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Rigged Recount Clerk",
   "manaCost": "{1}{B}",
   "manaValue": 2,

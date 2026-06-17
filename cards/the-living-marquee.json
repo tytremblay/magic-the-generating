@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A hulking construct of rusted iron and dead lightbulbs lurches upright over the carnival entrance, a face of cracked glass and tangled filament limbs, half its bulbs glowing sickly hot-gold while the others gape dark and broken. Tattered striped tents and ember sparks haze the smoky black night behind. Imposing low film-still angle of a creaking animate sign at epic scale, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "The Living Marquee",
   "manaCost": "{3}{R}",
   "manaValue": 4,

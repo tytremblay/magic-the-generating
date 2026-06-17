@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A jagged volcanic mountain gully whose contorted ridgelines twist into an absurd shape, glowing ember fissures snaking along borders that visibly shift and wander across the scorched land, dice scattered in the dust below. A single dramatic shaft of firelight rakes the warped peaks while smoke-black night pools in the ravines. No central figure. Rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Gerrymandered Gully",
   "type": "Acorn Land",
   "types": ["Land"],

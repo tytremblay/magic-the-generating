@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A capped landfill turned hilltop park rises in the wide frame: scrubby seeded grass over swollen mounds, a lone bent vent pipe exhaling faint sickly-green vapor, drifting litter snagged in dead weeds under a bruised stormy sky. No figure, only the humming ground. A single shaft of cold storm-light breaks the gloom, rust-red soil bleeding through below, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "The Old Landfill",
   "type": "Acorn Land",
   "types": ["Land"],

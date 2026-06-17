@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An explosive multiplying swirl of cheerful volunteers sprouting upward from the town green like a tangled vine, each figure reaching back to pull two more from the leafy ground, the chain spiraling toward the top of a wide frame until the crowd overflows past picket fences and casserole tables. Golden afternoon light, green and ivory tones, joyful chaos of waving arms and blank clipboards. A wholesome civic surge tipping into pleasant overwhelm, composed for a landscape framing, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Grassroots to the Power of Grassroots",
   "manaCost": "{3}{G}{G}",
   "manaValue": 5,

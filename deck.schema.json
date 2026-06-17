@@ -34,6 +34,10 @@
       "type": "string",
       "description": "Longer flavor or strategy notes."
     },
+    "artDirection": {
+      "type": "string",
+      "description": "Base art prompt establishing the deck's shared visual world (setting, palette, mood, motifs, era). Prepended to each card's artPrompt at image-generation time for set cohesion."
+    },
     "colorIdentity": {
       "type": "array",
       "items": { "type": "string", "enum": ["W", "U", "B", "R", "G"] },

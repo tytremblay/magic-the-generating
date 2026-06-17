@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A tall view of a back-room gaming table where a single six-sided die tumbles through a shaft of amber lamplight, shadowed goblin players ringed around it bleeding into ink-black, the dice glow the only certainty. Cigar smoke and smoky-brown washes swallow the edges, the rigged outcome implied in the loaded weight of the throw. An ongoing crooked enchantment, rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "The Numbers Game",
   "manaCost": "{2}{B}",
   "manaValue": 3,

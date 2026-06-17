@@ -5,6 +5,7 @@
   "format": "commander",
   "theme": "Run the town from the back room: gift opponents life, cards, Treasures, snacks, and votes to rack up Favor (IOU) tokens, then cash those debts in for sacrifices, stolen permanents, and offers nobody can refuse.",
   "description": "Nice goblin. Shame if something happened to him. Don Guttersnipe doesn't run for office — he runs the office, from a back room nobody can find, and he knows a guy for everything. This mono-black deck is built on a Favor/IOU debt economy: the syndicate does a rival a kindness — a little life, a card, a Treasure, a snack, a vote — and quietly mints a Favor token for the debt. Later those Favors get called in, cashed for forced sacrifices, seized permanents, rigged coin flips and dice and recounts, and offers nobody can refuse. It weaponizes the table's greed and the carnival's payouts right back at everyone, because in this town nothing is ever really free — and the witnesses have a way of relocating. An acorn (Un-set) Commander deck with chaos kept deliberately LOW, thinning to a handful of colorless chaos-5 fever-dreams. Color-identity and singleton rules are waived for acorn decks.",
+  "artDirection": "The hidden back rooms and rain-slick alleys of Whateverville after dark: dim amber lamplight, cigar smoke, worn card tables, and shadowed handshakes among goblin gangsters. Mono-black noir palette of ink shadow, smoky brown, and small pools of warm lamplight. Mood: intimate criminal menace, where every favor is a debt.",
   "colorIdentity": [
     "B"
   ],

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A wiry grinning goblin carny mid-dash across the midway, a flaming torch raised high, sparks streaming behind as tattered striped tents catch hot gold flame in the smoky night. Pockets stuffed with rigged trinkets, he is gleefully punctual about the blaze. The leaping goblin fills the lower-center wide frame, fire and embers climbing upward. Wide 4:3 landscape, carnival red and smoky black, sinister festivity, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Midway Arsonist",
   "manaCost": "{1}{R}{R}",
   "manaValue": 3,

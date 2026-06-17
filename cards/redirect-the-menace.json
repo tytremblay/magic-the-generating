@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The dramatic instant a hulking sludge-creature is wrenched mid-lunge onto a new path, a sweeping arc of sickly green bioluminescent light bending its trajectory toward a fresh target as rust-red runoff sprays from the reservoir. You can only point it, not stop it. Twisting rusted pipes frame the redirected charge under a bruised stormy sky. The curving motion sweeps up the wide frame. Wide 4:3 landscape, Gruul green and rust red, toxic menace, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Redirect the Menace",
   "manaCost": "{1}{R}",
   "manaValue": 2,

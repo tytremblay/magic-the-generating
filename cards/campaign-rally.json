@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The dramatic moment a goblin rally ignites: two scrappy goblins thrust handfuls of snacks and torches skyward beside a small controllable bonfire, sparks and confetti whirling up against night-black smoke, a foreshortened goblin fist punching toward the viewer in flame-orange glow. Torn blank bunting flaps overhead, ember light rims the cheering silhouettes, gleeful anarchic mayhem. Rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Campaign Rally",
   "manaCost": "{2}{R}",
   "manaValue": 3,

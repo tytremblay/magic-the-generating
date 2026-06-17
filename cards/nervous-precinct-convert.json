@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A jittery ashen-robed human acolyte clutches a guttering candle to their chest, shoulders hunched, eyes darting sideways with fresh existential dread, half-lit by cold gold flame in the midnight revival crowd. A clock tower looms blurred behind. The gesture is all anxious uncertainty. Wide landscape framing, bone white and gold washes bleeding into smoky black. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Nervous Precinct Convert",
   "manaCost": "{W}",
   "manaValue": 1,

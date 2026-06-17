@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A hero shot of a pair of ornate weighted dice resting on a charred ballot box, their pips glinting in flame-orange light, a faint chain of office looped around them, floating in night-black negative space with embers drifting up the wide frame. Sparks and confetti bleed at the edges. An object of crooked authority made resplendent, rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Loaded Dice of Office",
   "manaCost": "{2}",
   "manaValue": 2,

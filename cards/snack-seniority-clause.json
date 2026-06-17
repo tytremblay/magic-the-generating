@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative scene of petty governance magic: a crooked civic medallion of ongoing power hovering and glowing ember-orange over a half-eaten snack on a folding table amid an election-night riot, its light marking whoever last ate as favored. A single bonfire glow gilds the floating charm and the crumbs, the feral square sinking into smoke-black shadow. Rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Snack Seniority Clause",
   "subtitle": "Municipal Ordinance 7½",
   "manaCost": "{2}{R}",

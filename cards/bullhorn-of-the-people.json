@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ornate hero shot of a dented chrome bullhorn floating upright in golden afternoon light above a sunlit town green, faint ripples of distorted sound radiating from its flared mouth, leafy green and warm ivory tones glowing around it. Picket fences and folding tables haze softly in the background. Reverent low film-still angle isolating the populist relic, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Bullhorn of the People",
   "manaCost": "{2}",
   "manaValue": 2,

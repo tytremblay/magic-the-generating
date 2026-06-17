@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A widescreen film-still of a meeting erupting into open flame in a chaotic town square at night, an overturned table and scattered folding chairs bursting into a roaring fireball that hurls embers skyward, a goblin silhouette flung backward by the blast; confetti and sparks cyclone through the night-black smoke, rioting figures scattering in flame orange light, explosive civic mayhem, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Town Hall Tantrum",
   "manaCost": "{2}{R}",
   "manaValue": 3,

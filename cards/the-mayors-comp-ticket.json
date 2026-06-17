@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ornate hero shot of a creased complimentary midway ticket pinched between fingers, its surface a blank smudged void catching hot-gold firelight, soft scuffs from many resales, drifting ember sparks and a hazy lurid-neon carnival dissolving into smoky black behind, the small slip glowing with tender corrupt privilege, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "The Mayor's Comp Ticket",
   "manaCost": "{B}{R}",
   "manaValue": 2,

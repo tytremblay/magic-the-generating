@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A towering, sharply-suited demon bureaucrat with too many gleaming eyes scattered across his face, standing watchful at the carnival's center, every eye fixed on a different unseen game, hot gold and red light pooling around his immaculate frame amid tattered tents and drifting smoke. He always knows what time it is for you. The looming figure fills the wide frame, neon glinting low. Wide 4:3 landscape, Rakdos red and smoky black, sinister menace, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "The Pit Boss Who Sees All Tables at Once",
   "manaCost": "{3}{B}{R}",
   "manaValue": 5,

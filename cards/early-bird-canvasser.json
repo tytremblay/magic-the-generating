@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A cheerful woman in a quilted vest strides up a dewy front walk at sunrise, fist raised mid-knock at a picket-fence gate, a clipboard with a blank page tucked under one arm and a steaming travel mug clutched in the other hand. Long golden shadows stretch across tidy lawns dotted with blank placards. Dew sparkles, birds scatter from a hedge, her determined grin lit by warm dawn light, composed wide in a 4:3 landscape frame, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Early-Bird Canvasser",
   "manaCost": "{W}",
   "manaValue": 1,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A stern, impeccably tidy human bureaucrat woman stands tall in a beige municipal corridor, chin lifted, sliding a blank unmarked form across a desk with one outstretched gloved hand. Towering filing cabinets and a humming rubber stamp frame her in bold flat shapes. Three mayors have come and gone and she has not so much as cleaned out her desk, her posture immovable. Wide 4:3 landscape, faint cyan glow seeping from the paperwork, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Bureaucratrix Prim, the Permanent Undersecretary",
   "manaCost": "{2}{W}{U}",
   "manaValue": 4,

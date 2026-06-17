@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A low scrubby ridge above the burning town square, scattered with toppled blank ballot boxes and drifts of loose paper caught mid-flutter, faint bonfire glow climbing the slope from below; no central figure, only the weary hill holding its endlessly disputed count under ember-red haze and night-black smoke, melancholic and dreamlike, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "Recount Ridge",
   "type": "Acorn Land",
   "types": ["Land"],

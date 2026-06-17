@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A cramped subterranean vault buried far beneath the town, sagging shelves and stacked coin-trays lit by a single hanging amber bulb, a hunched goblin clerk's silhouette licking a thumb at a worn ledger; ink-black tunnels and smoky brown gloom swallow the low brick ceiling, the secret counting-house breathing a damp, melancholic hush, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "Underworld Counting House",
   "type": "Acorn Land",
   "types": ["Land"],

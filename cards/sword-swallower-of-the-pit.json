@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A weathered human performer mid-act, head tipped back beneath a tattered striped tent, a long blade gleaming hot-gold in firelight as it descends, sweat and ember sparks haloing his strained throat, lurid neon and smoky black swallowing the crowd behind, four decades of dread in his tender lined face, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "Sword Swallower of the Pit",
   "manaCost": "{2}{B}{R}",
   "manaValue": 4,

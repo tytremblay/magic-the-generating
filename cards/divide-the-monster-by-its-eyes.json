@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The unsettling instant a hulking sludge-monster looming in the wide frame is split by a glowing arithmetic seam of sickly bioluminescence, its three luminous eyes flaring as half of its bulk fragments into murky green motes drifting upward. Rusted pipes and bubbling muck frame the lower dark. One bruised storm-light rakes its dividing form, rust-red gleaming, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "set": "CHAOS",
   "chaos": 5,
   "name": "Divide the Monster by Its Eyes",

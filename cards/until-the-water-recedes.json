@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative scene of a swollen flood at its peak: the poisoned reservoir surges high over its concrete banks, sludge-water lapping at rusted pipes, mutant shapes gliding swift through the deep glowing current beneath a bruised storm sky, the whole frame brimming and tense as if about to drain. Bioluminescent crests bleed across the surface. Wide landscape, murky green and rust-red washes. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Until the Water Recedes",
   "manaCost": "{1}{R}{G}",
   "manaValue": 3,

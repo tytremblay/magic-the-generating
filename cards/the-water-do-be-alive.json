@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A vast living entity made entirely of murky reservoir water, a half-formed face rising from rippling sickly-green bioluminescent depths, rusted pipes and submerged litter dissolving within its translucent body, mist curling off its surface under a bruised stormy sky, the whole reservoir aware and stirring, eerie and tender, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "set": "CHAOS",
   "chaos": 5,
   "name": "the water do be alive tho",

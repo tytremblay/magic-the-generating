@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A dim back room where a smirking goblin gangster slides a small wrapped parcel and a gleaming coin across a worn card table toward an unseen recipient, his clawed hand lingering just a beat too long, cigar smoke curling through a single pool of amber lamplight. Shadows swallow the corners, a second goblin watches from the dark. Mono-black noir of ink shadow and smoky brown, the menace of a gift that is a debt, composed wide in a 4:3 landscape frame, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "An Offer of Good Faith",
   "manaCost": "{B}",
   "manaValue": 1,

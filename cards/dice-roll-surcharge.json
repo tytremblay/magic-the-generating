@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ongoing enchantment scene composed vertically: a pair of scattered dice glow faintly on a beige countertop while spectral tendrils of pale arcane light siphon upward from them into a towering stamped form looming above in shadow. Rubber stamps and a ticket dispenser flank the foreground. A single municipal light source rakes across the surface, the rest swallowed in gloom, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Dice-Roll Surcharge",
   "manaCost": "{U}",
   "manaValue": 1,

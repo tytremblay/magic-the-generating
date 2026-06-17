@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A dramatic moment in a smoky back room as a robed goblin Don sweeps both clawed hands across a card table piled with glinting tokens, scattering them outward like a reckoning while shadowed figures recoil in every doorway, debts coming due all at once. A single amber lamp burns above, cigar smoke hanging thick. Mono-black noir of ink shadow and warm lamplight, intimate criminal menace, composed wide in a 4:3 landscape frame, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Calling In All Favors",
   "manaCost": "{2}{B}{B}",
   "manaValue": 4,

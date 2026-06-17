@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A broad-shouldered goblin mercenary filling the wide frame, knuckles cracking, jaw set, a single pool of warm lamplight catching his scowl while everything below bleeds into ink shadow and smoky brown. Rain glistens faintly on his coat, his stance pure quiet threat. A creature who remembers every slight, rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Enforcer on Retainer",
   "manaCost": "{3}{B}",
   "manaValue": 4,

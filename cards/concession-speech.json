@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A widescreen film-still of a defeated goblin candidate standing alone atop an overturned crate in a riotous, burning town square at night, one fist half-raised in hollow gratitude toward a near-empty space, lit from below by leaping bonfire flame; confetti and embers drift through the smoke, an abandoned snack table glinting at the edge, flame orange against night-black haze, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Concession Speech",
   "manaCost": "{R}",
   "manaValue": 1,

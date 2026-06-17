@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The kinetic instant a determined canvasser's fist hammers a suburban front door in extreme foreshortening, knuckles thrust toward the viewer, a clipboard tucked under one arm, breath held mid-rap. Sunlit picket fences and tidy front yards with blank lawn placards recede behind under golden afternoon light, leafy green shadows slashing across the porch, breathless civic energy, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Door-Knock Marathon",
   "manaCost": "{2}{G}",
   "manaValue": 3,

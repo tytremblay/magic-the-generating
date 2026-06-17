@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative scene of an entire carnival game floor canted at a sly slant, dice and hot-gold coins all rolling inexorably toward a shadowed house counter, tattered tents and rigged wheels leaning with the tilt under lurid neon. Ember sparks drift through smoky black haze along the warped boards. Dramatic dutch-angle film-still framing emphasizing the crooked pull, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "The Tilted Table",
   "manaCost": "{2}{B}{R}",
   "manaValue": 4,

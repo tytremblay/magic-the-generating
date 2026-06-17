@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A grim sorcery moment at the stroke of midnight: ashen-robed figures dissolving into ash and smoke as a cold gold decree-light sweeps the revival square, the great clock tower towering above with its blank face glowing ominous. Candle flames gutter out one by one. The vanishing crowd anchors the base while the tower fills the wide frame. Wide 4:3 landscape, bone white and deep black, solemn end-times fervor, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Midnight Mandate",
   "manaCost": "{2}{B}",
   "manaValue": 3,

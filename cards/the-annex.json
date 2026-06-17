@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A grim mid-century municipal annex building seen across a rain-slicked street, its squat concrete facade and rows of dark windows looming under a bruised sky, a single cyan-lit doorway glowing far away. Puddles mirror the cold fluorescence; a bare directional arrow on a blank smudged plaque points uselessly off-frame. Wet pavement rushes toward the distant entrance in steep perspective, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "The Annex (See Other Building)",
   "manaValue": 0,
   "colors": [],

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A sly red devil-merchant leans forward from the gloom proffering a small corked tonic bottle that glows sickly gold, his other hand sweeping back a tattered carnival cape, a too-wide grin lit by lurid neon. Strings of bulbs and smoky black tents tower in the wide frame behind. One hot-gold firelight source carves his huckster's face, embers adrift, rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "The Snake-Oil Salesman",
   "manaCost": "{1}{B}{R}",
   "manaValue": 3,

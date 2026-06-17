@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A dramatic moment of a goblin snatching a pretzel from a tipped vendor cart in a rain-slick alley, the cart's awning dissolving into smoky-brown wash, a small apologetic token glinting in the amber lamplight below. Cigar smoke and rain streak the wide frame, the theft caught mid-grab, all gesture and one-sided friendliness. Intimate criminal menace, rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Snack Cart Shakedown",
   "manaCost": "{B}",
   "manaValue": 1,

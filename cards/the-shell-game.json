@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The dramatic moment a sly carny's hands sweep three battered walnut shells across a rigged table in motion-blurred foreshortening, a tiny glowing pea palmed in his cuff catching hot-gold light. Three creature-silhouette fates flicker beneath the shells; tattered red tents and neon blaze behind through smoky carnival haze, ember sparks streaking, sleight-of-hand kinetic deceit, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "The Shell Game",
   "manaCost": "{1}{B}{R}",
   "manaValue": 3,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The violent instant of a damage roll: a six-sided die tumbling glowing ember-hot through the air above a feral town square, trailing sparks toward an unseen target, a goblin's clawed hand flung open mid-throw. A single bonfire blast lights the spinning die and the grim grin behind it, the rioting square dissolving into night-black smoke. Rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Roll the Bones",
   "manaCost": "{1}{R}",
   "manaValue": 2,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A grinning goblin wizard hunches over a battered snack cart wreathed in flame, juggling a sizzling pretzel in one hand and a small fireball in the other, the fireball foreshortened blazing toward the viewer, steam and sparks rising into night-black smoke. Hot coals glow beneath the cart, ember light rims his pointed hat and tusks, a bonfire flickers behind, manic culinary pyromania. Rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Snack Cart Pyromancer",
   "manaCost": "{2}{R}",
   "manaValue": 3,

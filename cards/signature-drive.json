@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A wobbly card table on the sunlit town green swarmed by a happy crowd of neighbors lining up to scrawl on a long blank scroll that unspools and cascades down the front of the frame, a single trembling pen passed hand to hand. Volunteers wave more blank petition pages overhead, picket fences and casserole tables behind them. Golden afternoon light, leafy green and ivory, an earnest grassroots scramble composed wide in a 4:3 landscape frame, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Signature Drive",
   "manaCost": "{2}{G}",
   "manaValue": 3,

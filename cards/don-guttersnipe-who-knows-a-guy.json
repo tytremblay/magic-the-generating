@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A characterful portrait of a portly goblin crime boss in a pinstripe suit and too-wide hat, leaning back in a worn leather chair behind a card table, one clawed hand extended in a generous-but-dangerous gesture, a fat cigar glowing in the other. A single amber lamp carves his sly grin from the dark, smoke curling upward. Mono-black noir of ink shadow and smoky brown, intimate criminal charm, composed wide in a 4:3 landscape frame, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Don Guttersnipe, Who Knows a Guy",
   "manaCost": "{2}{B}{B}",
   "manaValue": 4,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A swelling amorphous sludge ooze rearing up from a flooded parking lot, its translucent murky-green body bulging with absorbed debris and glowing bioluminescent veins, sickly light pulsing as it grows on what the town spills. Rusted pipes and toxic runoff ring its base under a bruised stormy sky. The mounting ooze climbs the wide landscape frame, dripping tendrils reaching upward. Wide 4:3 landscape, Gruul murky green and rust red, toxic menace, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Toxic Sludge Ooze",
   "manaCost": "{2}{G}",
   "manaValue": 3,

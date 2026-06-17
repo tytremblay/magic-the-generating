@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A dramatic instant of a vast landfill belching a gout of fire and rust-red flame skyward, scorched trash and toxic smoke billowing as bioluminescent sludge spatters across the cratered dump under a bruised stormy sky. Rusted pipes twist around the eruption. The fiery burst climbs the wide landscape frame from a smoking sludge-pit base. Wide 4:3 landscape, Gruul murky green and rust red, sickly glow, toxic ecological menace, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Dump Site Eruption",
   "manaCost": "{2}{R}",
   "manaValue": 3,

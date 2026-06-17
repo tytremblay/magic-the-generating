@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ongoing dread scene of a vast clock tower face filling the frame, its hands frozen at midnight, the blank glyphless dial cracked and glowing cold gold against a blood-dark sky. Below, tiny ashen-robed silhouettes kneel in a guttering candlelit street as a wall of black void creeps in from the edges, smoke and ash suspended mid-fall, inevitable and silent, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "it is already too late",
   "manaCost": "{∞}, but quietly",
   "manaValue": "yes",

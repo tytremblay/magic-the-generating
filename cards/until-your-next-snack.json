@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A charged moment of suspended power: an upraised hand on the town green hovers over a borrowed townsperson, golden afternoon washes pooling around them, while at the lower edge a small green-and-white voter sprite pops into being, crumbs scattering like flecked ink. Loose washes suggest folding tables and casseroles behind, picket fences dissolving into negative space. Wholesome civic fervor caught mid-gesture, rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Effective Until Your Next Snack",
   "manaCost": "{1}{G}{W}",
   "manaValue": 3,

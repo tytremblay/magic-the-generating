@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An evocative scene of menacing custody: a small bewildered mayor figure stands flanked by two enormous broad-shouldered goblin bodyguards whose overlapping silhouettes form a shadowy wall, a single amber lamp rimming their shoulders while warm light pools protectively, possessively, around the mayor below. Cigar smoke drifts, the back room recedes into ink, an unspoken debt hangs heavy. Rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "Protection for the Mayor",
   "manaCost": "{2}{B}",
   "manaValue": 3,

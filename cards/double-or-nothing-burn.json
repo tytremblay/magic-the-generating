@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "The explosive moment of a gambler's spell: a searing bolt of ember-orange fire lancing toward an unseen target while a silver coin spins blazing at the apex of its flip, sparks raining over a feral town square. A single fierce light from the blast carves the smoke and the goblin gambler's exhilarated face from the surrounding night-black chaos. Rendered as a moody oil painting — old-master chiaroscuro, visible impasto brushwork, deep shadow, warm varnished tones.",
   "name": "Double or Nothing",
   "manaCost": "{R}",
   "manaValue": 1,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A cackling goblin wizard hurling a spinning coin skyward, fire crackling from his other hand, ember-red and flame-orange washes exploding up the wide frame against night-black smoke. Sparks and confetti spiral, a bonfire glow at his feet, the coin a bright blot of fate mid-air. All reckless gesture and fifty-fifty glee. Gleeful anarchic mayhem, rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Coin Toss Conjurer",
   "manaCost": "{1}{R}",
   "manaValue": 2,

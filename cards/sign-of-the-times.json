@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ornate hero shot of a battered hinged sandwich board worn like sacred armor, its two blank weathered panels strapped over invisible shoulders and trailing frayed cords, faintly haloed in cold gold light against a blood-dark sky and looming clock tower. The object stands proud and martyred, dead-center. Tall reverent framing, bone white washes bleeding into smoky black. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Sign of the Times",
   "manaCost": "{W}{B}",
   "manaValue": 2,

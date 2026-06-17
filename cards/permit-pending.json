@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A mid-stride creature is frozen rigid in cold cyan light, caught crossing a beige City Hall threshold, its motion arrested as a glowing blank rubber stamp hovers above its head mid-descent. Towering shelves of untouched forms recede into humming fluorescent haze behind it. Tense low film-still angle conveying suspended motion and deep perspective, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Permit Pending Review",
   "manaCost": "{W}",
   "manaValue": 1,

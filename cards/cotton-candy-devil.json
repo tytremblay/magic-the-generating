@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A puckish little devil made of spun sunburn-pink cotton candy, sticky horns and a wicked grin, capering on a cone-stick amid tattered carnival tents with hot gold sparks fizzing off its sugary body. Mostly air and regret, it leers at the viewer under strings of lurid lights. The impish creature fills the central wide frame, firelight glowing beneath. Wide 4:3 landscape, carnival red and smoky black, sinister festivity, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Cotton Candy Devil",
   "manaCost": "{1}{R}",
   "manaValue": 2,

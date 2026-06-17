@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "An ongoing arcane scene of an open ordinance binder whose pages spiral inward into an impossible recursive tunnel, each page reflecting the one before, glowing cyan footnote-arrows curving endlessly back on themselves into infinity. A single illegible smudged paragraph repeats down the receding throat of the spiral, paper edges curling in cold fluorescent light, vertiginous and hypnotic, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "set": "CHAOS",
   "chaos": 5,
   "name": "Pursuant to Subsection (c) of Subsection (c) of Subsection (c)",

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A towering murky-green sludge-creature swallowing a battered ballot box whole, blank illegible slips fluttering into its bioluminescent maw, rusted pipes and bubbling runoff below, drifting litter spiraling up under a bruised stormy sky, mutant overgrowth crowding the scene, democracy devoured with tender grotesque solemnity, rendered as soft pastel impressionism — hazy diffuse light, visible chalky texture, gentle gradients, dreamy muted color.",
   "name": "The Thing Eats the Ballot Box",
   "manaCost": "{2}{R}{G}",
   "manaValue": 4,

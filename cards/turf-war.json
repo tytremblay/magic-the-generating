@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A widescreen noir film-still of a brutal alley clash, two goblin crews colliding in silhouette amid swinging fists and falling bodies under a flickering amber lamp, a hunched goblin at the foreground edge calmly marking a clipboard while violence rages behind; rain-slick brick gleams, cigar haze and gunsmoke hang thick, ink-black shadows devouring the carnage, intimate menace and ledgers, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "Turf War",
   "manaCost": "{2}{B}",
   "manaValue": 3,

@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A brooding nighttime waterfront of looming cargo cranes and weathered docks slick with rain, black water lapping at barnacled pilings, a lone moored ship silhouetted against drifting harbor mist. Pools of amber lamplight spill across the wet planks where no figures stand, only long shadows and coiled mooring rope. Mono-black noir of ink shadow, smoky brown, and warm lamp glow, a hushed underworld harbor, composed wide in a 4:3 landscape frame, rendered as a vibrant gouache storybook illustration — saturated matte color, simplified flat-ish shapes, soft painterly edges, decorative.",
   "name": "Whateverville Waterfront",
   "type": "Acorn Land",
   "types": ["Land"],

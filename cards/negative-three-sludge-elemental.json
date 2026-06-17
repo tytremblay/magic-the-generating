@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A half-formed sludge elemental dissolving even as it rises from the toxic muck, its murky-green body sloughing apart in foreshortened streaks of dripping ooze, a hollow gaping hole where its core should be. Rusted pipes and overgrown concrete loom behind under a bruised stormy sky, sickly bioluminescence flickering and failing through its collapsing torso, a creature in deficit, rendered as a bold painted graphic-novel splash — strong silhouettes, heavy directional inking and dramatic shadow shapes, fully painted (not flat cel comic).",
   "name": "The Minus-Three Runoff Elemental",
   "manaCost": "{2}{G}",
   "manaValue": 3,

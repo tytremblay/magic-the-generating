@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A reverent wide hero shot of an enormous seven-layer casserole in a battered ceramic dish, steam curling upward through a shaft of golden afternoon light, its glistening strata of unknowable fillings rendered with mouthwatering realistic texture, set on a worn folding table with picket fences and a hazy town green dissolving behind; the dish framed like a sacred relic, monumental against soft ivory glow, rendered as gritty cinematic digital concept art — highly detailed, dramatic photoreal lighting, atmospheric haze, realistic textures.",
   "name": "The Coalition Casserole",
   "manaCost": "{2}{G}{W}",
   "manaValue": 4,

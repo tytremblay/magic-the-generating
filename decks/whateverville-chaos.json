@@ -5,6 +5,7 @@
   "format": "commander",
   "theme": "Govern the table by pure chance — roll dice, flip coins, rally goblin voters, and let Mayor Gnasher McChaos turn every turn into an election-night riot.",
   "description": "An acorn (Un-set) Commander deck. Chaos is deliberately skewed LOW so it stays fun: most cards are chaos 1–2 and roughly on-theme (goblins, dice, coins, elections), thinning out through chaos 3–4, with just a handful of chaos-5 fever-dream wildcards that ignore the theme entirely. Color-identity and singleton rules are waived for acorn decks.",
+  "artDirection": "Election night in Whateverville's town square gone feral: goblins rioting amid overturned ballot boxes, flying dice and coins, bonfires, sparks and confetti, and torn blank bunting. Mono-red palette of flame orange, ember red, and night-black smoke. Mood: gleeful anarchic mayhem, democracy as a bonfire.",
   "colorIdentity": [
     "R"
   ],

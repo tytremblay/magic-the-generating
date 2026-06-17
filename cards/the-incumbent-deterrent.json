@@ -1,6 +1,7 @@
 {
   "$schema": "../card.acorn.schema.json",
   "border": "acorn",
+  "artPrompt": "A statuesque legendary figure stands frozen at an orientation desk, faint cyan stun-glow rings crackling around their wrists like translucent shackles, head bowed under the weight of an unseen procedure. Towering blank ticket dispensers flank them in cold ivory shadow. The gesture reads as proud power humbled, suspended mid-step. Wide, oppressive stillness. Rendered as loose ink-and-watercolor — confident brush linework, bleeding translucent washes, a limited palette, generous negative space.",
   "name": "Incumbent Deterrence Statute",
   "manaCost": "{2}{U}",
   "manaValue": 3,
